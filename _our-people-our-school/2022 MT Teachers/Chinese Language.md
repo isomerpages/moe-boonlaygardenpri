@@ -108,3 +108,143 @@ sewa_duu_jong@moe.edu.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 3**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0">Teacher</th>
+    <th class="tg-0lax"><span style="font-weight:bold">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3CL1</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Hor- Yeap Lee ching</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">yeap_lee_ching@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3CL2</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Kuay Chau Ann</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">kuay_chau_ann_a@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3CL3 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yang Yu Qing</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> yang_yuqing@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">3CL4</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yeo Lay Peng</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> yeo_lay_peng@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Primary 4**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0">Teacher</th>
+    <th class="tg-0lax"><span style="font-weight:bold">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4CL1</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Lau Yi Yuan</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lau_yi_yuan@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4CL2 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Pok Yam Lee</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">pok_yam_lee@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4CL3 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Sewa Duu Jong</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">sewa_duu_jong@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4CL4 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Shu Xiao Mei </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">shu_xiaomei@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">4CL5</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Mei Tian Tian</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> mei_tian_tian@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Primary 5**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0"><span style="font-weight:700;font-style:normal">Teacher</span></th>
+    <th class="tg-0lax"><span style="font-weight:bold">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5CL1</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Loo Hui Wen</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">loo_hui_wen@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5CL2</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Tong Jin Sui </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">tong_jin_sui@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5CL3  </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Hor- Yeap Lee ching</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">yeap_lee_ching@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5CL4</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Lau Yi Yuan</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lau_yi_yuan@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">5FCL1 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Murphy Kho Chaw Seng</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">kho_chaw_seng@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
