@@ -2,8 +2,6 @@ collections:
   our-people-our-school:
     output: true
     order:
-      - Alumni.md
-      - School Advisory Committee.md
       - School Executive Committee.md
       - 2022 Form Teachers/.keep
       - 2022 Form Teachers/Primary 5 & 6.md
@@ -15,3 +13,5 @@ collections:
       - 2022 MT Teachers/Tamil Language.md
       - School Admin Team.md
       - Allied Educators.md
+      - School Advisory Committee.md
+      - Alumni.md
