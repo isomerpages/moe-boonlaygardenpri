@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - 2022 Form Teachers/.keep
       - School Executive Committee.md
