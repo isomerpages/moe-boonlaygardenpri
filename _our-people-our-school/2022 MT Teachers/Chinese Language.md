@@ -248,3 +248,57 @@ sewa_duu_jong@moe.edu.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0">Teacher</th>
+    <th class="tg-1wig">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6CL1</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Mei Tian Tian</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">mei_tian_tian@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6CL2</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Pok Yam Lee</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">pok_yam_lee@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6CL3 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Kuay Chau Ann</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">kuay_chau_ann_a@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6CL4 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Murphy Kho Chaw Seng</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">kho_chaw_seng@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6CL5</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Lin Mei Zhi</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lin_meizhi@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">6FCL1 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Lim Su Ru</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lim_su_ru@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
