@@ -2,7 +2,6 @@ collections:
   our-people-our-school:
     output: true
     order:
-      - Allied Educators.md
       - School Executive Committee.md
       - 2022 Form Teachers/.keep
       - 2022 Form Teachers/Primary 5 & 6.md
@@ -13,3 +12,4 @@ collections:
       - 2022 MT Teachers/Malay Language.md
       - 2022 MT Teachers/Tamil Language.md
       - School Admin Team.md
+      - Allied Educators.md
