@@ -80,3 +80,49 @@ third_nav_title: 2022 Form Teachers
   </tr>
 </tbody>
 </table>
+
+**Primary 6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Class</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Form Teachers</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">6 Resilience</span><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Mdm Grace Phang Xiu Zhen  </span><br><span style="color:#222;background-color:#F2F9FF">phang_xiu_zhen_grace@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF">Mdm Norazleen Binte Osman</span><br><span style="color:#000">norazleen_osman@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF">Miss Nandhini d/o Raman</span><br><span style="color:#222;background-color:#F2F9FF">nandhini_raman@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 6 Respect</span><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Mdm Toh Hui Lin</span><br><span style="color:#222;background-color:#F2F9FF"> toh_hui_lin@schools.gov.sg </span><br><br><span style="color:#222;background-color:#F2F9FF">Mr Murphy Kho Chaw Seng</span><br><span style="color:#222;background-color:#F2F9FF">kho_chaw_seng@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF">Mdm Nurashlyn Abdul Rashid</span><br><span style="color:#222;background-color:#F2F9FF">nurashlyn_abdul_rashid@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 6 Integrity</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Mr Kuay Chau Ann</span><br><span style="color:#222;background-color:#F2F9FF"> kuay_chau_ann_a@schools.gov.sg </span><br><br><span style="color:#222;background-color:#F2F9FF">Ms Lydia Lam</span><br><span style="color:#222;background-color:#F2F9FF">lam_lydia@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 6 Care B</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Mrs Kee (Evelyn Poon) </span><br><span style="color:#000">poon_ngee_keng_evelyn@schools.gov.sg</span><span style="color:#222;background-color:#F2F9FF"> </span><br><br><span style="color:#222;background-color:#F2F9FF">Mr Lim Jek Ming, Shaun</span><br><span style="color:#222;background-color:#F2F9FF">lim_jek_ming_shaun@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 6 Care  A</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Mr Edmund Choi Kin Mun</span><br><span style="color:#000">choi_kin_mun@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF"> Ms Irdawati Ahmad</span><br><span style="color:#222;background-color:#F2F9FF"> Irdawati_Ahmad@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 6 Harmony</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Mrs Anne Marie De Souza </span><br><span style="color:#222;background-color:#F2F9FF">anne_marie_rajendra@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF">Mdm Rita Salamoon</span><br><span style="color:#000">rita_salamoon@schools.gov.sg</span><br><br><span style="color:#222;background-color:#F2F9FF">Mrs Mathilda Wong (Ross Mathilda)</span><br><span style="color:#222;background-color:#F2F9FF">ross_mathilda@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
