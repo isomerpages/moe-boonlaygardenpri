@@ -43,5 +43,5 @@ Here’s how you can be part of the continual growth and progress of the school:
 </table>
 
 Join Us
-Click [here ](https://docs.google.com/forms/d/e/1FAIpQLSc3ITV3ucq_DE943VK36JcTELpJNs9ynz5WV0kjZiPT9tYMig/viewform) to be a part of BLGPS Alumni community.
+Click [here ](https://docs.google.com/forms/d/e/1FAIpQLSc3ITV3ucq_DE943VK36JcTELpJNs9ynz5WV0kjZiPT9tYMig/viewform) to be a part of BLGPS Alumni community.<br>
 Email to Mrs Ada Leong (leong_pui_ling@moe.edu.sg) to register your interest in any of the above programmes.
