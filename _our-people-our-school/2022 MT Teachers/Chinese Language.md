@@ -59,3 +59,52 @@ sewa_duu_jong@moe.edu.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 2**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0">Teacher</th>
+    <th class="tg-0lax"><span style="font-weight:bold">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2CL1</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Lim Su Ru</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lim_su_ru@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2CL2</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Shu Xiao Mei </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">shu_xiaomei@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2CL3 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yeo Lay Peng                </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">yeo_lay_peng@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2CL4</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Lin Mei Zhi</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">lin_meizhi@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2CL5</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Wong Shu Lee</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">wong_shu_lee@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
