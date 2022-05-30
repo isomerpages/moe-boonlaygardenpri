@@ -29,3 +29,22 @@ The Lifeskills Room which is fitted with a kitchenette, is designed to equip stu
 ![](/images/Lifeskills%20Room%20(1).jpg)
 <img src="/images/Lifeskills%20Room%20(2).jpg" 
      style="width:70%">
+		 
+		 
+**Student Edutainment Lounge** 
+
+The Student Edutainment Lounge (SEL) was set up with the objective of meeting the social-emotional needs of students. The SEL is a conducive environment for students to study, relax and play cognitive games with their schoolmates during recess or after school. 
+![](/images/Student%20Edutainment%20Longue.jpg)
+
+
+**Vertical Garden**
+
+The vertical garden serves as an organised outdoor classroom for the learning on how innovative technology helps overcome land constraint and reduce thermal temperature. Students are provided with authentic learning opportunities as they get to see the close up of the plants planted in the vertical garden, the structure that holds the plants vertically upright and the automated irrigation system. Students also learn how technology allowed the growth of plants on wall and how the water used to water the plants can be reused and recycled for the aquatic plants in the planter boxes.
+![](/images/Vertical%20Garden.png)
+
+
+**Indoor Sports Hall**
+
+
+The Indoor Sports Hall provides BLGians with more opportunities to participate in sports and games. The new building comprises of a fully equipped sports hall catering for many indoor sports such as basketball and badminton. The extensive indoor facility also includes a band room, a dance studio and wide open spaces for students to study in.
+![](/images/Indoor%20Sports%20Hall.jpeg)
