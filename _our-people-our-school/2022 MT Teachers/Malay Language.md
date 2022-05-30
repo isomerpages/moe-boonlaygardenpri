@@ -185,3 +185,80 @@ arshid_abdullah@schools.gov.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 5**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7sd">Class</th>
+    <th class="tg-g7sd">Teacher</th>
+    <th class="tg-fymr">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">5ML1</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Ms Nur Marina Somdi </span><br></td>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">            nur_marina_somdi@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">5ML2</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Mr Arshid Abdullah</span></td>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">             arshid_abdullah@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">5ML3 </span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Mdm Norlaily Ahmad  </span><br></td>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">            norlaily_ahmad@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Primary 6**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7sd">Class</th>
+    <th class="tg-g7sd">Teacher</th>
+    <th class="tg-fymr">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">6ML1</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Mdm Rita Salamoon   </span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">        rita_salamoon@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">6ML2</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Ms Irdawati Ahmad</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">        Irdawati_ahmad@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">6ML3</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Mdm Siti Nur </span><span style="color:inherit">Baeyah </span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">        siti_nur_baeyah_karim@schools.gov.sg </span></td>
+  </tr>
+</tbody>
+</table>
