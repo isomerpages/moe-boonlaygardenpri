@@ -144,3 +144,44 @@ arshid_abdullah@schools.gov.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 4**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7sd">Class</th>
+    <th class="tg-g7sd">Teacher</th>
+    <th class="tg-fymr">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent">4ML1</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent"> Mr Rosmani Ramin </span><br><br><span style="color:inherit;background-color:transparent"> Mdm Siti Nur Baeyah</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">rosmani_ramin@schools.gov.sg</span><br><br><span style="color:inherit;background-color:transparent">siti_nur_baeyah_karim@schools.gov.sg </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><span style="color:inherit;background-color:transparent"> 4ML2</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent"> Mdm Norlaily Ahmad</span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">norlaily_ahmad@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><span style="color:inherit;background-color:transparent"> 4ML3</span></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent"> Mr Mohamed Sahren </span><br></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">mohamed_sahren_mohd_salleh@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
