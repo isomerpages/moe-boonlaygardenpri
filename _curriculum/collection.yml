@@ -1,6 +1,4 @@
 collections:
   curriculum:
     output: true
-    order:
-      - Curriculum/Curriculum.md
-      - Curriculum/.keep
+    order: []
