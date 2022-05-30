@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /our-people/school-executive-committee
 description: ""
 ---
+# School Leaders
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -57,4 +58,80 @@ description: ""
 </tbody>
 </table>
 
+**Heads of Department and Year Heads**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-i38w">English Language</th>
+    <th class="tg-da8v">Mr. Nicholas Cai</th>
+    <th class="tg-da8v">cai_jinghao@schools.gov.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i38w">Mother Tongue  Languages</td>
+    <td class="tg-da8v">Ms. Sewa Duu Jong</td>
+    <td class="tg-da8v">sewa_duu_jong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Mathematics</td>
+    <td class="tg-da8v">Mr. Peter Yeo</td>
+    <td class="tg-da8v">yeo_yong_heng_peter@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Science</td>
+    <td class="tg-da8v">Mrs. Malvina Lie</td>
+    <td class="tg-da8v">ng_see_wei_malvina@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">PE &amp; Aesthetics</td>
+    <td class="tg-da8v">Mdm. Chua Huay Wen</td>
+    <td class="tg-da8v">chua_huay_wen@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">CCE</td>
+    <td class="tg-da8v">Mrs. Claudia Lim</td>
+    <td class="tg-da8v">wong_shi-lei@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Learning Needs</td>
+    <td class="tg-da8v">Mrs. Ng Jingyu</td>
+    <td class="tg-da8v">yang_jingyu@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Student Management</td>
+    <td class="tg-da8v">Mr. Mohamed Sahren</td>
+    <td class="tg-da8v">mohamed_sahren_mohd_salleh@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">ICT</td>
+    <td class="tg-da8v">Mr. Ng Ee Noch</td>
+    <td class="tg-da8v">ng_ee_noch@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">YH/ Lower Block</td>
+    <td class="tg-da8v">Mrs. Rosalind Wee</td>
+    <td class="tg-da8v">rosalind_wee@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">YH/ Middle Block</td>
+    <td class="tg-da8v">Mrs. Jasmine Ng</td>
+    <td class="tg-da8v">jasmine_susie_tan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">YH/ Upper Block</td>
+    <td class="tg-da8v">Mrs. Michelle Koh</td>
+    <td class="tg-da8v">lauw_sze_han@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
