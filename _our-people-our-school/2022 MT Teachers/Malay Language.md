@@ -62,3 +62,85 @@ arshid_abdullah@schools.gov.sg
   </tr>
 </tbody>
 </table>
+
+**Primary 2**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Class</th>
+    <th class="tg-yla0">Teacher</th>
+    <th class="tg-1wig">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2ML1           </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Muhammad Ariff</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">muhammad_ariff_mohd_noor@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2ML2</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Nurashlyn Abdul Rashid</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> nurashlyn_abdul_rashid@moe.edu.sg </span><br><span style="color:inherit;background-color:transparent"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">2ML3 </span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Irdawati Ahmad  </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Irdawati_Ahmad@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Primary 3**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7sd">Class</th>
+    <th class="tg-g7sd">Teacher</th>
+    <th class="tg-fymr">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">3ML1</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Ms Puteri Nor'Atika </span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">puteri_noratika_raja_ismail@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">3ML2</span></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">Ms Nur Marina Somdi </span><br></td>
+    <td class="tg-lboi"><span style="color:inherit;background-color:transparent">nur_marina_somdi@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">3ML3 </span></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">Mdm Norbi Mohd Salleh </span><br></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">norbi_mohd_salleh@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">3ML4</span></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent"> Mr Muhammad Ariff</span></td>
+    <td class="tg-0pky"><span style="color:inherit;background-color:transparent">muhammad_ariff_mohd_noor@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
