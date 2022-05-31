@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Building Strong Fundamentals/Physical & Health Education.md
       - Building Strong Fundamentals/.keep
       - Building Strong Fundamentals/English Language.md
       - Building Strong Fundamentals/Mother Tongue.md
