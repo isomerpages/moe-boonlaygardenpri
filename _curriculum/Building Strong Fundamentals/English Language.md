@@ -57,3 +57,78 @@ The English Language curriculum focuses on the progressive attainment of languag
   </tr>
 </tbody>
 </table>
+
+**OUR TEAM**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-u7p7{background-color:#E5E5E5;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Head of Department</th>
+    <th class="tg-cly1" colspan="2"> Mr Cai Jinghao Nicholas </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">Subject Head </td>
+    <td class="tg-faf8" colspan="2"> Ms Joy Amisha Keshyap</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-u7p7" colspan="3">Members</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ms Victoria Wong<br></td>
+    <td class="tg-cly1">Mrs Joyce Tian</td>
+    <td class="tg-cly1">Mdm Murni       </td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Mrs Anne Marie</td>
+    <td class="tg-faf8">Ms Lydia Lam<br></td>
+    <td class="tg-faf8">Mdm Norlita</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mr Dennis Loh</td>
+    <td class="tg-cly1">Mdm Shuhada<br></td>
+    <td class="tg-cly1">Mdm Norsela</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Ms Irene Lui<br></td>
+    <td class="tg-faf8">Mrs Leong Hwee Peng</td>
+    <td class="tg-faf8">Mdm Nurul</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ms Suhaila<br></td>
+    <td class="tg-cly1">Ms Steffi Marianna</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Ms Norshila</td>
+    <td class="tg-faf8">Ms Andrea Leong</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+**USEFUL LINKS**
+
+* https://www.moe.gov.sg/education/syllabuses/english-language-and-literature 
+* http://www.stellarliteracy.sg/ 
+* https://www.mconline.sg/LEAD/login/lms_login.aspx 
+* https://www.nlb.gov.sg/ 
+* https://schoolibrary.moe.edu.sg/boonlaygardenpri
