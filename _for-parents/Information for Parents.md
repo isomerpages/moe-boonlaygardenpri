@@ -171,4 +171,20 @@ In view of the limited parking space within the school premise, parents are advi
  Sale of canteen food to outsiders is not allowed.
 
  To help our students to develop a greater sense of responsibility and self-management skills, the school will not allow parents to enter the school to pass items or money to their children except in exceptional cases (e.g. medication for asthma, spectacles for lessons).
+ 
+ **DISMISSAL**<br>
+Parents are advised to wait outside the school gates during dismissal time.
+On rainy days at dismissal time, parents will be allowed to wait at designated place within the school premise.
 
+**PERMISSION TO LEAVE EARLY**
+
+* Students are not allowed to leave the school premises on their own during school hours.
+* If a student is sick and has to be taken home before dismissal, the parent/guardian is required to report to the General Office and record his/her particulars before leaving the school with his/her child.
+* Parents/Guardians who wish to take their children home early must first obtain permission from the Principal.
+
+**CONSULTATION WITH TEACHERS**<br>
+You may need to consult your child’s teachers regarding his/her class work and homework from time to time. 
+Please call the school or send an email to the teachers for an appointment.
+
+**LIGHTER SCHOOL BAG**<br>
+Please advise your child to bring only the necessary books for the day according to his/her class timetable.
