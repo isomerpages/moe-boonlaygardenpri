@@ -102,3 +102,21 @@ description: ""
 
 **SCHOOL CURRICULUM HOURS FOR 2022**
 ![](/images/new%20curri.png)
+
+**CO- CURRICULAR ACTIVITY (CCA)**
+
+CCA is a crucial platform in developing talents and shaping the characters of our students. To encourage all students to participate in CCA and to promote the interaction amongst students across the different levels, the school will continue to embark on a common CCA slot for P3 – P6 students.
+
+CCA will be conducted on Thursday from 1.30pm to 3.30pm. 
+
+**CCA POLICY**
+
+* To enable students to have an all-round education, all P3 – P6 students are expected to take part in at least one CCA from the 4 groups, namely Physical Sports, Uniformed Groups, Visual and Performing Arts, and Clubs and Societies.
+* Students are expected to achieve an attendance rate of at least 90%. Absences must be supported by medical certificates or excuse letters from parents.
+* To ensure continuity of students’ learning, students are not allowed to change CCA unless due to valid reasons, supported by medical certificates or letters from parents.
+* Request for change of CCA will be reviewed on a case-by-case basis. For matters pertaining to changing of CCA, students should approach their respective CCA teacher-in-charge. While the request is being processed, the student will have to remain in the CCA until further notice has been given.
+
+**CCA ATTIRE**
+
+* Students are expected to be dressed appropriately during all CCA sessions. Students are allowed to wear their CCA T-shirt for the whole day only on Thursday. On days with extra practice, students are allowed to be in their CCA attire only during CCA.
+* Students are allowed to wear their CCA shoes during CCA. They are expected to be in white shoes before and after their CCA.
