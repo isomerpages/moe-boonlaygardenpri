@@ -60,5 +60,14 @@ We believe that every child has their own needs and unique strengths. Each child
 3. Student Engagement Activities 
  
 4. Kids ExcelTM for P3-P4 
-- The programme emphasis is on holistic development of P3 and P4 students where sports is an avenue for healthy living and character development. KidsExcelTM is designed to enhance student’s academic performance through enrichment classes as well as develop a healthy body through its sports training. 
+- The programme emphasis is on holistic development of P3 and P4 students where sports is an avenue for healthy living and character development. KidsExcelTM is designed to enhance student’s academic performance through enrichment classes as well as develop a healthy body through its sports training.
 
+
+**DISCIPLINE**
+
+1. Overview of BLGPS’ Discipline Policy & Philosophy Discipline is an integral part of schooling. Good discipline facilitates teaching and learning. Our whole-school approach towards positive discipline develops a sense of safety where respectful and caring relationships are formed. It promotes positive student behaviours in support of learning and growth. 
+
+2. Safety Talks 
+
+3. I-STAR Clinic 
+A platform where students able to do their reflections to support students managing behaviours. Students will learn to take responsibility of their own actions and act accordingly to contribute to a safe, caring and conducive learning environment. 
