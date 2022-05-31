@@ -262,3 +262,12 @@ To equip students with the necessary communication skills as well as cultural kn
 * Smart phone Application (Google Play)
 * Pintar Kata
 * Pintar Peribahasa
+
+**TAMIL LANGUAGE**
+* www.noolagam.com
+
+* kidsone.in/tamil/
+
+* http://tamilcube.com/tamil.aspx
+
+* http://ccat.sas.upenn.edu/plc/tamilweb/
