@@ -150,3 +150,101 @@ To equip students with the necessary communication skills as well as cultural kn
 </tbody>
 </table>
 
+
+**OUR TEAM**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u7p7{background-color:#E5E5E5;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Head of Department </th>
+    <th class="tg-0lax">Ms Sewa Duu Jong</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1">Senior Teacher/ TL </td>
+    <td class="tg-9678">Mrs Maha (Ganesan Mahalatchimi) </td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Senior Teacher/ ML</td>
+    <td class="tg-0lax">Mdm Siti Nur Baeyah Karim </td>
+  </tr>
+  <tr>
+    <td class="tg-u7p7" colspan="2">Members        </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Shirley Teng</td>
+    <td class="tg-0lax">Mr Muhammad Ariff Bin Mohd Noor</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mr Murphy Kho</td>
+    <td class="tg-9678">Mr Mohamed Sahren </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Kuay Chau Ann </td>
+    <td class="tg-0lax">Mdm Norlaily Ahmad </td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mdm Wong Shu Lee   </td>
+    <td class="tg-9678">Ms Nur Marina Somdi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Lau Yi Yuan</td>
+    <td class="tg-0lax">Ms Puteri Nor'Atika Raja Ismail <br></td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Ms Loo Hui Wen</td>
+    <td class="tg-9678">Ms Rita Salamoon</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Pok Yam Lee</td>
+    <td class="tg-0lax">Mr Rosmani Ramin</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mdm Shu Xiao Mei</td>
+    <td class="tg-9678"><span style="background-color:#E5E5E5">Mdm Nurashlyn Abdul Rashid </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Yu Lu </td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Ms Nicole Yeap</td>
+    <td class="tg-faf8"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Lim Su Ru </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mr Ong Leong Kee </td>
+    <td class="tg-9678"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Yeo Lay Peng </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Ms Tong Jin Sui</td>
+    <td class="tg-9678"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Mei Tian Tian</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+</tbody>
+</table>
