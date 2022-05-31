@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Building Strong Fundamentals/Character & Citizenship Education.md
       - Building Strong Fundamentals/.keep
       - Building Strong Fundamentals/English Language.md
       - Building Strong Fundamentals/Mother Tongue.md
@@ -10,4 +9,5 @@ collections:
       - Building Strong Fundamentals/Science.md
       - Building Strong Fundamentals/Physical & Health Education.md
       - Building Strong Fundamentals/Aesthetics.md
+      - Building Strong Fundamentals/Character & Citizenship Education.md
       - Curriculum.md
