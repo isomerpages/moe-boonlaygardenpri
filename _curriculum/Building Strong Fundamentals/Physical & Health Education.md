@@ -83,3 +83,7 @@ The followings are some of programmes at each level to enable our students to ac
   </tr>
 </tbody>
 </table>
+
+**BLGians Move It (BMI)** - BMI aims to send a strong message that regular exercise and healthy eating habits are essential for not only physical but mental health as well. On this day, pupils and staff will participate in a fun mass workout routine. They will then proceed to consume fruit as a class in the canteen. With the exception of pupils with medical conditions and those unwell on the day of activity, the programme enjoys 100% participation rate and is well received by both pupils and staff.
+
+![](/images/BMI.png)
