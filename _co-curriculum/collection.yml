@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - APPLIED LEARNING PROGRAMME (ALP).md
       - LEARNING FOR LIFE PROGRAMME (LLP).md
       - Co Curriculum.md
       - CCA/.keep
