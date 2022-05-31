@@ -29,3 +29,25 @@ Teachers-In-Charge
 * Mdm Norbi Mohd Salleh
 * Mdm Nurashlyn Abdul Rashid
 * Ms Nur Marina Somdi 
+
+**Tamil Dance**
+![](/images/Indian%20Dance%202.jpg)
+Indian Dance exposes our students to different forms of Indian Dance – both classical and modern. They will learn to work together as a team and also acquire better co-ordination. Students can look forward to performing during special school concerts like Deepavali and School Annual Prize-Giving ceremony. Identified students will also have the opportunity to participate in the Singapore Youth Festival (SYF).
+
+Teachers-In-Charge
+
+* Ms Yeo Lay Peng (I/C)
+* Ms Nandhini (Co I/C)
+* Ms Vesha
+
+**Choir**
+![](/images/Choir.jpg)
+The BLGPS Choir aims to identify and develop potential singing talents. Students will undergo a series of musicianship lessons and choral training under a choir conductor. Through the weekly practices, they will be exposed to a wide repertoire of songs in different international languages. Their learning will be further enhanced through platforms such as attending musical performances and concerts as well as participating in local choir exchanges. Core values such discipline, commitment, teamwork and responsibility will be instilled through internal/external performances and competitions. Students will be selected based on their passion for music and ability to sing.
+
+Teachers-In-Charge
+
+* Mrs Rachel Por (I/C)
+* Ms Cindy Chua (Co I/C)
+* Ms Siti Atikah Binte Mohd Ziham
+* Mrs Serena Ong
+* Mdm Shu Xiao Mei
