@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home Based Learning/.keep
-      - Home Based Learning.md
       - Parenting Support Programme.md
       - Information for Parents.md
       - Booklist.md
