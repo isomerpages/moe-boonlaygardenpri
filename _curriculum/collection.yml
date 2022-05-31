@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Ready For the Future/Future of Us 2020.md
       - Ready For the Future/.keep
       - Ready For the Future/Talent & Citizenry.md
       - Ready For the Future/Programme for Active Learning (PAL).md
