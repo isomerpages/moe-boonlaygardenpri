@@ -28,3 +28,5 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 *  Science 
 *   Form Teacher Guidance Period (FTGP)
 *  Character and Citizenship Education (CCE)
+
+*Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package*
