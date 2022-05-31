@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Ready For the Future/.keep
       - Curriculum.md
       - Building Strong Fundamentals/.keep
       - Building Strong Fundamentals/English Language.md
