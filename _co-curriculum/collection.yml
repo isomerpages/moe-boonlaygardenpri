@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA/Performing Arts.md
-      - CCA/Uniform Groups.md
       - CCA/.keep
+      - CCA/Uniform Groups.md
+      - CCA/Performing Arts.md
       - Co Curriculum.md
