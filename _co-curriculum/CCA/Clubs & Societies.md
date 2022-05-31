@@ -42,4 +42,15 @@ Teachers-In-Charge
 * Ms Lim Pei Yiing
 * Mrs Kee (Evelyn Poon)
 * Mr Shuan Lim
-		 
+
+**STEM (SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS) CLUB**
+![](/images/stemclub_1.jpg)
+Introduced in 2015, the STEM Club aims to develop students’ critical and innovative thinking. Students also acquire 21st century skills such as problem solving, decision making, leadership and teamwork through meaningful application of concepts and activities such as aero modelling. The STEM club participates in various competitions such as the National Coding competition and The Singapore Amazing Flying Machine competition in which the school is awarded the Special Recognition Award for her consistent achievements over the years.
+
+Teachers-In-Charge
+
+* Ms Rufihaza Ramlee (I/C)
+* Mr Leong Zhi Wei (Co I/C)
+* Mrs Hor- Nicole Yeap
+* Mrs. Liu Ying Hui
+* Mrs. Sherrie Chang
