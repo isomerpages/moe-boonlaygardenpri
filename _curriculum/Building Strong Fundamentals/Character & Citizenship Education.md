@@ -27,3 +27,38 @@ We believe that every child has their own needs and unique strengths. Each child
 
 4. STAR Pupil 
 - The STAR Pupil Award is a recognition given to students who role model the CARES values by exemplifying observable character traits in their daily school lives. Form teachers / co-form teachers will use a selection criteria to nominate the STAR pupil for their class at the end of every month.
+
+**VALUES IN ACTION/ NATIONAL EDUCATION / SOCIAL STUDIES**
+
+1. NE Commemorative Events: 
+ - Total Defence Day (TDD) – The school commemorated TDD, focusing on the importance of the five aspects of Total Defence; the Military Defence, Civil Defence, Economic Defence, Social Defence and Psychological Defence. Lessons were also planned for our students to have a deeper understanding on the commemoration of Total Defence Day. 
+
+- International Friendship Day (IFD) - IFD is a day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond. It aims to sensitise our children towards the geo-political realities inherent in Singapore, as well as nurture in our students the spirit of friendship and collaboration among different people. During the day, our students are able to welcome their international peers to the school, understand more of their cultures and forge strong bonds of friendship. 
+
+- Racial Harmony Day (RHD) - Schools commemorate RHD to give our students a platform to reflect on and celebrate Singapore success as a harmonious nation and society built on a rich diversity of cultures and heritages. Students should learn to make friends with people of other races and religions and not make fun of people who are different. 
+
+- National Day - The theme for this year’s National Day Parade (NDP) is “Building our Singapore of Tomorrow". “Building” implies that nation-building is a continuous endeavour and that the journey towards our future can be realised with hard work. “Our Singapore” invokes in Singaporeans a sense of belonging and rootedness to the country and our future. “Tomorrow” is forward looking and connotes the start of the next chapter post SG50. Taken together, the theme is a call to action for Singaporeans to build our future together. 
+
+- NE Show - The National Education (NE) Show has been organised to instil a sense of patriotism in students and to bring across the significance of our National Day. This year, the NDP full dress rehearsal, which will be held at The National Stadium, provides an opportunity for organisers to inculcate NE values in our students. 
+
+2. International Student Programme 
+- The programme provides platforms for students from all walks of life and nationalities learn to relate to one another. Activities will be planned between local buddies and our International Students to promote integration. 
+
+3. Values-In-Action (VIA) 
+- VIA is a learning experience that enhances students’ development as socially responsible citizens through ownership of their contribution to the community, through the learning and application of values, knowledge and skills. The school has provided multiple platforms for students’ VIA activities such as Happy Classroom, Use Your Hand Campaign and visits to old folks homes. 
+ 
+4. Social Studies (SS) 
+- At the heart of the SS curriculum is the preparation of our students to be citizens of tomorrow by helping them to better understand the interconnectedness in Singapore and the world they live in.
+
+**STUDENT DEVELOPMENT** 
+
+1. Student Leadership Trainings 
+- Opportunities are created for students to put into practice their leadership skills and role-model CARES values through organizing school and classroom events. Through the development and honing of their leadership skills, students can contribute as Prefects, Class Representative Leaders and CCA Captains for the betterment of self, their peers and the community. 
+
+2. Student Well-being Talks. 
+
+3. Student Engagement Activities 
+ 
+4. Kids ExcelTM for P3-P4 
+- The programme emphasis is on holistic development of P3 and P4 students where sports is an avenue for healthy living and character development. KidsExcelTM is designed to enhance student’s academic performance through enrichment classes as well as develop a healthy body through its sports training. 
+
