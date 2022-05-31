@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Sexuality Education.md
+      - Information for Parents.md
+      - Booklist.md
       - Achievement Band and Grading System.md
       - P1 2022 Parents.md
       - Parents Gateway.md
-      - Booklist.md
-      - Information for Parents.md
+      - Sexuality Education.md
