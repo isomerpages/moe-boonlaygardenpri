@@ -17,3 +17,12 @@ During PAL lessons, our P1 and P2 BLGians enjoy learning experiences that are ac
 *	 Outdoor Education
 *	 Performing Arts (Music / Dance)
 *	 Visual Arts
+
+**Sports and Games**
+![](/images/Sports%20&%20Games.png)
+
+**Outdoor Education**
+![](/images/Outdoor%20Education.png)
+
+**Performing Arts**
+![](/images/Performing%20Arts.png)
