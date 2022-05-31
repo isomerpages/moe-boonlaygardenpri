@@ -84,6 +84,3 @@ This year, our PSG EXCO members tried their hand at canvas painting during their
 ![](/images/PSG%20Recognition%20award%20during%20Effloresco.jpeg)
 ![](/images/P4%20swim%20safer%20programme%20in%20term%201%20and%20term%202%20-%20Copy.jpeg)
 ![](/images/P5%20learning%20journey.jpeg)
-
-
-
