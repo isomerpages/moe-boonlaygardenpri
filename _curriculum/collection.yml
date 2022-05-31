@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Building Strong Fundamentals/Mother Tongue.md
-      - Building Strong Fundamentals/English Language.md
       - Building Strong Fundamentals/.keep
+      - Building Strong Fundamentals/English Language.md
+      - Building Strong Fundamentals/Mother Tongue.md
       - Curriculum.md
