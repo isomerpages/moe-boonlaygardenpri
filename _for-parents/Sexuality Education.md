@@ -104,3 +104,69 @@ At Boon Lay Garden Primary School, the following lessons from the Growing Years 
   </tr>
 </tbody>
 </table>
+
+**Primary 6**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">UNIT</th>
+    <th class="tg-dgl5">LESSONS / DURATION</th>
+    <th class="tg-dgl5">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-dgl5">TIME PERIOD<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi" rowspan="5">Are We More Than Friends?</td>
+    <td class="tg-ktyi">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-7yig">·           identify the qualities of a healthy  friendship<br>·           recognise the importance of making    wise choices in friendship</td>
+    <td class="tg-ktyi">Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-7yig">·           identify the qualities that they have  as a friend<br>·           recognise the importance of  developing in oneself the qualities of  a good friend</td>
+    <td class="tg-ktyi">Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">What is Love?<br>(30 min)</td>
+    <td class="tg-7yig">·           identify the characteristics of love  and infatuation<br>·           distinguish between the  characteristics of love versus  infatuation<br>·           identify strong feelings arising from    infatuation</td>
+    <td class="tg-ktyi">Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Am I Falling In Love?<br>(30 min)</td>
+    <td class="tg-7yig">·           manage strong feelings arising from  infatuation<br>·           identify ways to manage and cope    with teasing from peers</td>
+    <td class="tg-ktyi">Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Main Task<br> (30 min)</td>
+    <td class="tg-7yig">Description of the Main Task:<br> <br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td class="tg-ktyi">Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Friends or Foes?</td>
+    <td class="tg-ktyi">Are You Really My Friend?<br>(30 min)</td>
+    <td class="tg-7yig">·           identify the pros and cons of forming  relationships through social  networking websites<br>·           know ways to keep themselves safe    when using social networking  websites</td>
+    <td class="tg-ktyi">Term 4 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-7yig">·           know that some information (like  pornography) received through the  Internet may be harmful<br>·           know ways to keep themselves safe  when using social networking  websites or the Internet </td>
+    <td class="tg-ktyi">Term 4 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Main Task<br> (30 min)</td>
+    <td class="tg-7yig">Description of the Main Task:<br> <br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br> </td>
+    <td class="tg-ktyi">Term 4 Week 5</td>
+  </tr>
+</tbody>
+</table>
