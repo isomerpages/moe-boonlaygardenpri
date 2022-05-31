@@ -70,4 +70,12 @@ We believe that every child has their own needs and unique strengths. Each child
 2. Safety Talks 
 
 3. I-STAR Clinic 
-A platform where students able to do their reflections to support students managing behaviours. Students will learn to take responsibility of their own actions and act accordingly to contribute to a safe, caring and conducive learning environment. 
+A platform where students able to do their reflections to support students managing behaviours. Students will learn to take responsibility of their own actions and act accordingly to contribute to a safe, caring and conducive learning environment.
+
+**PASTORAL CARE & GUIDANCE** 
+
+**Sexuality Education** <br>
+Educational and Career Guidance (ECG) ECG is infused during FTGP, pre-assembly sharings and some school events activities eg Learning Buffet. Students will be facilitated with the necessary knowledge, skills and values to instil awareness of interests, abilities and career aspirations to them. This is to facilitate our students to make informed decisions for successful transition to secondary school, further education or career plans. 
+
+**Counselling** <br>
+Counselling is a collaborative process in which the counsellor facilitates the expansion of the student’s view of life, expands their social and emotional skills and coping resources. School counsellors use their specialised knowledge and skills in counselling to facilitate student’s personal/social growth and development, with positive impact on their academic performance. 
