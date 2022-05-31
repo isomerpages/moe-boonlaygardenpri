@@ -40,4 +40,17 @@ Teachers-in-Charge
 * Mr Nasser (Co I/C)
 * Ms Chan Yien Qing
 * Ms Norshila
-* Mrs Anne Marie De Souza 
+* Mrs Anne Marie De Souza
+
+**Floorball**
+![](/images/Floorball%20(2).jpg)
+Floorball is a relatively new sport that has been making waves in the local sports scene. The sport has seen great development ever since it was introduced to Singapore and it has steadily gained popularity among the students in schools.
+The fast-paced indoor sport that blends elements of ice hockey with other team sports, such as football and basketball, is good for heart health as the sport is a high intensity physical activity. The sport also helps to build muscles, endurance and stamina. Players develop explosive power, cardiovascular and muscular endurance, as well as improve their agility, as the game requires them to change direction quickly.
+Although being a relatively new CCA, the students has exceeded the expectation of the teachers by reaching the 2nd round of the Junior and Senior Floorball Championship for the past 2 years in a row.
+
+Teachers-In-Charge 
+
+* Mr Shazwan (I/C)
+* Ms Rita (Co I/C)
+* Mdm Lye Chiew Min
+* Mr Loh Wai Yong
