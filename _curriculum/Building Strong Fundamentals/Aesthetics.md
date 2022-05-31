@@ -118,3 +118,12 @@ At Boon Lay Garden Primary School, we believe that all children are musical, and
 </tbody>
 </table>
 
+
+**Aesthetics Assembly (P1-P6)**<br>
+To make arts accessible to all and to build a community who appreciates and supports the arts, the Aesthetics department organises the Aesthetics Assembly once a term.  This is another platform for students and staff to experience a variety of arts forms. External visual and performing arts groups are invited to give talks or perform at the Aesthetics Assemblies.
+
+**Aesthetics Week (P1-P6)**<br>
+In Term 3 Week 9, the Aesthetics department organises the Aesthetics Week to celebrate the arts. During the week-long event, students and staff attend arts assembly programmes and participate in hands-on arts activities during the recesses. There are also open call performances and an art exhibition showcasing students’ musical and artistic talents. 
+
+**Bringing Art to Our Community**<br>
+Students also bring their art to the community. Their artworks are exhibited at the Boon Lay Community Art Gallery (Block 221 Boon Lay Place). The colourful display celebrates our students’ artistic accomplishments, it also provides them with the opportunity to contribute to creating a vibrant arts culture in our neighbourhood! In addition, our Art Club students also participated actively in the Passion Arts projects organised by the Boon Lay CC. 
