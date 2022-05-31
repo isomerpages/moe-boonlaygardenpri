@@ -17,7 +17,7 @@ Teachers-In Charge
 * Ms Loo Hui Wen
 * Mrs Selina Cai
 
-**SCOUTS**
+**Scouts**
 ![](/images/scout.jpg)
 ![](/images/scouts_2.jpeg)
  The Cub Scouts co-curriculum provides a fun and educational experience for all. Besides providing a positive environment where students can enjoy safe, wholesome activities, Cub Scouts focuses on building character, physical fitness, lifeskills, and developing a spirit of community service.
