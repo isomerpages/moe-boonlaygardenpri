@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - CCA & OTHER ACHIEVEMENTS.md
       - Scholastic Achivements.md
