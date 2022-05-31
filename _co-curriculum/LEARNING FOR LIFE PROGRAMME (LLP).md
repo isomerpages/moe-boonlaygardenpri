@@ -58,3 +58,16 @@ The annual BLGPS Green Week was conducted in Term 2 Week 5 to raise pupils’ aw
 A kedongdong tree was symbolically planted in our school by the P6 graduating cohort on 20th May 2016 as part of Green Wave 2016. We see the need for us to take a keen interest in environmental protection and implement this ideal in action by planting a young tree annually and taking care of the existing ones. We have specifically chosen the Kedongdong tree as the fruits are commonly used as a food source in South East Asia. 
 
 **PROGRAMMES (FOR ACE CLUB MEMBERS AND CLASS ENVIRONMENT AMBASSADORS)**
+![](/images/Programme.png)
+The Panasonic-NEA Environment Champions (Schools) Industry Module [ECIM] is a platform for students to gain first-hand knowledge of environmental measures adopted by industries, such as energy conservation, resource conservation and pollution control, with coaching from Panasonic staff.  A group of our trained environment champions attended the workshop during the March holidays and they even get to construct their own solar powered lamps! 
+
+**JUNIOR ENVIRONMENT AMBASSADORS**
+![](/images/Junior.png)
+The JEA Training Camp, which is a part of the Green Schools @ South West 2016 programme, serves as a platform to impart environmental knowledge and skills to train and empower student leaders. A group of P3 – P4 Junior Environment Ambassadors attended the workshop on 14 March 2016. The pupils subsequently did a sharing session with their peers on the environmental knowledge that they learnt during the camp.
+
+**UPCOMING PROGRAMMES**
+* Community Outreach Programme @ Boon Lay Estate Community Garden 
+* Kayaking and River Clean Up Programme (Teachers and non-teaching staff)
+* Community Clean Up (in collaboration with uniformed groups)
+* Mozzie Outreach (ACE Club pupils)
+* Siliso Beach Resort Wormery Tour (ACE Club pupils)
