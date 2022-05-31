@@ -54,3 +54,16 @@ Teachers-In-Charge
 * Ms Rita (Co I/C)
 * Mdm Lye Chiew Min
 * Mr Loh Wai Yong
+
+**Bowling**
+![](/images/bowling.jpg)
+Tenpin Bowling aims to develop our selected athletes physically and mentally by emphasizing on concentration and body control in a fun learning environment. Students will be taught fundamental skills and techniques by experienced coaches whilst developing their passion for the game and excellence in the sport. Students will need to undergo a selection process by the school for consideration.
+
+Teachers-In-Charge
+
+* Mrs Khan-Nur Zakiah Ahmad(I/C)
+* Mr Dennis Loh
+* Ms Suhaila
+* Mr Hairil
+* Mdm Norazleen Binte Osman
+* Ms Joy Amisha Keshyap 
