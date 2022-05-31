@@ -2,8 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA/Clubs & Societies.md
       - CCA/.keep
       - CCA/Uniform Groups.md
       - CCA/Performing Arts.md
+      - CCA/Clubs & Societies.md
       - Co Curriculum.md
