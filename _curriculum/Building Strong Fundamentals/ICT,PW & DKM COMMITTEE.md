@@ -54,3 +54,58 @@ Implementation Strategies:
 2.	Chromebooks for High Progress Learners
 3.	LBIS (Jakarta) Collaboration
 4.	Singapore – Canada Math Collaboration
+
+
+**Our Team**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0"><span style="font-weight:700">Head of Department</span></th>
+    <th class="tg-yla0"><span style="font-weight:700">Mr Ng Ee Noch</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-faf8">Subject Head ICT (PW)<br>Subject Head Data and Knowledge Management<br></td>
+    <td class="tg-faf8">Mdm Norazleen <br>Mr Kho Murphy</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Members</td>
+    <td class="tg-nrix"></td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mr Muhammad Ariff</td>
+    <td class="tg-faf8">Mdm Pok Yam Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mr Rosmani</td>
+    <td class="tg-cly1">Mr Jeff Thong</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mr Edmund Choi</td>
+    <td class="tg-faf8">Mr Peter Yeo</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Selina Cai<br></td>
+    <td class="tg-0lax">Mdm Lim Su Ru</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Mr Pua Chia Siong, Steven</td>
+    <td class="tg-9678">Ms Yeo Lay Peng</td>
+  </tr>
+</tbody>
+</table>
