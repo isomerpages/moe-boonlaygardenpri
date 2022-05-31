@@ -42,3 +42,8 @@ Special mention goes to the following students who took part in the Singapore an
   </tr>
 </tbody>
 </table>
+
+![](/images/sch%20web.jpg)
+**BLGPS SCORES AT RIVER VALLEY HIGH SCHOOL MATHEMATICS CHALLENGE 2018**
+
+Luo Xiang, Paing Htun Khant and Xu Ruihan of class P6 did the school proud by coming in 10th in the River Valley High School Mathematics Challenge. The team worked together to overcome stiff competition. Well done, BLGians!
