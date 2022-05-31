@@ -163,3 +163,12 @@ The school opening hours are as follows:
   </tr>
 </tbody>
 </table>
+
+In view of the limited parking space within the school premise, parents are advised not to drive into the school premise as parking is not allowed.
+
+ If you are walking your child to school, please cross the road at the designated pedestrian crossings.
+
+ Sale of canteen food to outsiders is not allowed.
+
+ To help our students to develop a greater sense of responsibility and self-management skills, the school will not allow parents to enter the school to pass items or money to their children except in exceptional cases (e.g. medication for asthma, spectacles for lessons).
+
