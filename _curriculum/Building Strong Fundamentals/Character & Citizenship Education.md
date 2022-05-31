@@ -78,4 +78,86 @@ A platform where students able to do their reflections to support students manag
 Educational and Career Guidance (ECG) ECG is infused during FTGP, pre-assembly sharings and some school events activities eg Learning Buffet. Students will be facilitated with the necessary knowledge, skills and values to instil awareness of interests, abilities and career aspirations to them. This is to facilitate our students to make informed decisions for successful transition to secondary school, further education or career plans. 
 
 **Counselling** <br>
-Counselling is a collaborative process in which the counsellor facilitates the expansion of the student’s view of life, expands their social and emotional skills and coping resources. School counsellors use their specialised knowledge and skills in counselling to facilitate student’s personal/social growth and development, with positive impact on their academic performance. 
+Counselling is a collaborative process in which the counsellor facilitates the expansion of the student’s view of life, expands their social and emotional skills and coping resources. School counsellors use their specialised knowledge and skills in counselling to facilitate student’s personal/social growth and development, with positive impact on their academic performance.
+
+**Our Team*
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-6wmi{background-color:#E5E5E5;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mdf1">Head of Department                            </th>
+    <th class="tg-9678">Ms Claudia Wong</th>
+    <th class="tg-9678"> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Subject Head Values in Action/ NE &amp; SS</td>
+    <td class="tg-0lax">Mr Shaun Lim </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">Subject Head/ ECG (Talent Development &amp; Education Career Guidance) </td>
+    <td class="tg-faf8">Ms Serena Tan Jia Yi<br></td>
+    <td class="tg-9678"> </td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Subject Head/VIA</td>
+    <td class="tg-0lax">Ms Loo Hui Wen </td>
+    <td class="tg-nrix"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-6wmi" colspan="3">Members</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Serena Tan</td>
+    <td class="tg-0lax">Ms Loo Hui Wen  </td>
+    <td class="tg-0lax">Ms Nurul</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Ms Rosalind</td>
+    <td class="tg-9678">Mr Mohamed Nasser  </td>
+    <td class="tg-faf8">Mrs Lum Shui Farn<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Rufihaza</td>
+    <td class="tg-0lax">Ms Selina Ng<br></td>
+    <td class="tg-0lax">Mrs Kee  (Evelyn Poon)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-9678">Mrs Rosalind Wee</td>
+    <td class="tg-9678">Mr Sahren</td>
+    <td class="tg-faf8">Mr Leong Zhi Wei</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Koh (Michelle Lauw Sze Han)<br></td>
+    <td class="tg-cly1">Mrs Sharon Siow</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+**USEFUL LINKS**
+
+https://www.schoolbag.sg/<br>
+http://kindness.sg/
