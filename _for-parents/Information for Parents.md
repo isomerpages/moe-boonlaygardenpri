@@ -99,3 +99,6 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**SCHOOL CURRICULUM HOURS FOR 2022**
+![](/images/new%20curri.png)
