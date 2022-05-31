@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Ready For the Future/Programme for Active Learning (PAL).md
-      - Ready For the Future/Talent & Citizenry.md
       - Ready For the Future/.keep
+      - Ready For the Future/Talent & Citizenry.md
+      - Ready For the Future/Programme for Active Learning (PAL).md
       - Curriculum.md
       - Building Strong Fundamentals/.keep
       - Building Strong Fundamentals/English Language.md
