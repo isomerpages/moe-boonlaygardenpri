@@ -69,3 +69,52 @@ At Boon Lay Garden Primary School, we believe that all children are musical, and
   </tr>
 </tbody>
 </table>
+
+**Music**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Programmes</th>
+    <th class="tg-9hzb">Level</th>
+    <th class="tg-9hzb">Objectives</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">LTP Singing</td>
+    <td class="tg-7yig">P1</td>
+    <td class="tg-7yig" rowspan="6">Students learn to play a range of classroom music instruments in the “Learn-To-Play (LTP)” programme. Through this programme, students are equipped with the musical capacities to express themselves musically; they are also exposed to an array of music repertoire to expand their musical experiences.<br><br>Students are also given the opportunities to showcase their musical talents at the pre-Assembly sessions and during the Aesthetics Week.<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">LTP Percussion</td>
+    <td class="tg-7yig">P2</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">LTP Recorder, Digital Drums</td>
+    <td class="tg-7yig">P3</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">LTP Keyboard, Digital Music (Garage Band on iPad)</td>
+    <td class="tg-7yig">P4</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">LTP Ukulele</td>
+    <td class="tg-7yig">P5</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Ensemble Playing</td>
+    <td class="tg-7yig">P6</td>
+  </tr>
+</tbody>
+</table>
+
