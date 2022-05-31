@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Level Letters and Information.md
       - Booklist.md
       - Information for Parents.md
