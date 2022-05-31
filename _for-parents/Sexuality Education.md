@@ -16,3 +16,5 @@ description: ""
 * Build positive relationships based on love and respect (which are the foundation for strong families);
 * Make responsible decisions for yourself, your family and society; and
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
