@@ -87,3 +87,25 @@ The followings are some of programmes at each level to enable our students to ac
 **BLGians Move It (BMI)** - BMI aims to send a strong message that regular exercise and healthy eating habits are essential for not only physical but mental health as well. On this day, pupils and staff will participate in a fun mass workout routine. They will then proceed to consume fruit as a class in the canteen. With the exception of pupils with medical conditions and those unwell on the day of activity, the programme enjoys 100% participation rate and is well received by both pupils and staff.
 
 ![](/images/BMI.png)
+
+**Lower Primary Sports** – A day when the little ones pit their sporting skills with one another. Pupils participate in Inter-Class competitive races where they display skills learned during their PE lessons. The event ensures that every pupil takes part in at least one race. Parents of these pupils are invited and encouraged to take part in selected activities as well.
+
+**Inter-Class Games** – This mass participative games is a hit among the P5 and P6 pupils. The sport, Dodgeball, where the participants have to strategize and work together is hotly contested by all classes. Respective classes will get to practice the sport during PE lessons prior to the competition so as even those who are less skilful are trained and prepared for the competition. 
+
+![](/images/Inter%20Class%20Games.png)
+
+**Sports Education Programme (SEP)** - SEP aims to make sports a lifelong passion among pupils by introducing a new sport to them. Apart from creating interest and curiosity, it helps to build pupils’ fundamental movement skills by developing agility, speed and coordination which are necessary for the development of sports skills. 
+
+![](/images/SEP%201.png)
+
+**Swimsafer** – It is a national water safety programme introduced to develop swimming and water safety skills among our pupils. Pupils will learn basic swimming strokes and floatation techniques in a fun and safe way. As a transition to align with the PE syllabus, both P3 and P4 pupils undergo the same programme this year.
+
+![](/images/swim.png)
+
+**Nature Trail** -Outdoor Education equips pupils with the knowledge, skills and attitudes to explore the natural and urban environments safely and responsibly. The learning experiences are set in the authentic contexts of a day trip to a neighbouring park. The nature trail provides opportunities for theoretical concepts such as risk management to be enacted in authentic outdoor settings. Pupils learn how to prepare for these contexts, move through the respective environments with others confidently and safely, and ensure their basic needs are met.
+![](/images/Nature.png)
+
+**Adventure Camp** – Named as ‘Camp Hi-5’, pupils participate in rugged activities that instils values and attributes. It helps build courage and resilience which are necessary for pupils to face future’s uncertainties and to become more adventurous. Through the various activities, the school’s Hi-5 Learning Experiences are incorporated in this adventure camp. Pupils will have lots of fun learning the experiential way, which is out of the classroom and beyond textbook.
+
+![](/images/Camp.png)
+![](/images/pe_advcamp3.jpg)
