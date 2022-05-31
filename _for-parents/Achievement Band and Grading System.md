@@ -98,3 +98,40 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Grading System for P5 & P6 (Foundation)** 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5hx2{background-color:#DD2928;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-5hx2"><span style="color:#FFF;background-color:#DD2928">Achievement Level (AL)</span></th>
+    <th class="tg-5hx2"><span style="color:#FFF;background-color:#DD2928">Raw Mark Range</span></th>
+    <th class="tg-5hx2"><span style="color:#FFF;background-color:#DD2928">Equivalent Standard Level AL</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw"><span style="background-color:#FFF">A</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">75-100</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"><span style="background-color:#FFF"> B</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF"> 30-74</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF"> 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"><span style="background-color:#FFF">  C </span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF"> &lt;30</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF"> 8</span></td>
+  </tr>
+</tbody>
+</table>
