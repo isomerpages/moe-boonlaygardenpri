@@ -109,3 +109,50 @@ The followings are some of programmes at each level to enable our students to ac
 
 ![](/images/Camp.png)
 ![](/images/pe_advcamp3.jpg)
+
+**Our Members**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-ylci{background-color:#E5E5E5;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i5i7{background-color:#E5E5E5;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Head Of Department</th>
+    <th class="tg-fymr">Mdm Chua Huay Wen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ylci"> Senior Teacher (PE/PAL)</td>
+    <td class="tg-ylci">Mr Roslan </td>
+  </tr>
+  <tr>
+    <td class="tg-fymr"> Physical &amp; Health Education Coordinator</td>
+    <td class="tg-fymr"> Mr Nasser</td>
+  </tr>
+  <tr>
+    <td class="tg-ylci"> Music Coordinator</td>
+    <td class="tg-i5i7"><span style="font-weight:bold"> Mrs Rachel Por</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8" colspan="2">Members</td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">Ms Chan Yien Qing   <br>Mr Henry Ong               <br><span style="font-weight:400;font-style:normal">Mr Loh Wai Yong</span>              </td>
+    <td class="tg-i5i7">Mr Chui Tuck Keong<br><span style="font-weight:400;font-style:normal">Mr Shazwan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
