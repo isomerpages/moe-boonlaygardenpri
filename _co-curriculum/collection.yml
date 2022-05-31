@@ -2,8 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - APPLIED LEARNING PROGRAMME (ALP).md
-      - LEARNING FOR LIFE PROGRAMME (LLP).md
       - Co Curriculum.md
       - CCA/.keep
       - CCA/Sports.md
@@ -11,3 +9,5 @@ collections:
       - CCA/Performing Arts.md
       - CCA/Clubs & Societies.md
       - CCA/ECCA.md
+      - APPLIED LEARNING PROGRAMME (ALP).md
+      - LEARNING FOR LIFE PROGRAMME (LLP).md
