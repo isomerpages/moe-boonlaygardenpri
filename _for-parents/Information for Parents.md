@@ -120,3 +120,46 @@ CCA will be conducted on Thursday from 1.30pm to 3.30pm.
 
 * Students are expected to be dressed appropriately during all CCA sessions. Students are allowed to wear their CCA T-shirt for the whole day only on Thursday. On days with extra practice, students are allowed to be in their CCA attire only during CCA.
 * Students are allowed to wear their CCA shoes during CCA. They are expected to be in white shoes before and after their CCA.
+
+**SCHOOL SAFETY & SECURITY**
+
+**Visit to the school**<br>
+In the interests of safety and security, all visitors must register their presence at the Security Guard Post before entering the school premise.  Visitors are allowed access to the Bookshop and General Office only.  If you require access to any other part of the school premise, please proceed to the General Office for assistance.
+
+The school opening hours are as follows:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k"></th>
+    <th class="tg-0lax">Main entrance</th>
+    <th class="tg-0lax">General Office</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Monday to Friday: </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6.00 am – 7.00 pm</span></td>
+    <td class="tg-0lax">7.30am - 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Saturday:</td>
+    <td class="tg-ii8k">7.30 am to 1.00 pm</td>
+    <td class="tg-0lax">Closed</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">School Holidays:</td>
+    <td class="tg-ii8k">6.30 am – 7.00 pm</td>
+    <td class="tg-0lax">7.30am - 5.00pm</td>
+  </tr>
+</tbody>
+</table>
