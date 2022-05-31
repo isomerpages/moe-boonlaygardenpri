@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Achievement Band and Grading System.md
       - P1 2022 Parents.md
       - Parents Gateway.md
       - Booklist.md
