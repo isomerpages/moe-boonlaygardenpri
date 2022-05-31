@@ -10,3 +10,4 @@ Thinking Curriculum through HOM@BLGPS is the school's Applied Learning Programme
 ![](/images/IMG_0463.jpeg)
 ![](/images/IMG_0466.jpeg)
 ![](/images/IMG_0467.jpeg)
+![](/images/Screenshot.png)
