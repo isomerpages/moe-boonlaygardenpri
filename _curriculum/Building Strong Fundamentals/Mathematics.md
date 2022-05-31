@@ -21,3 +21,11 @@ MAke Things Happen
 * Learning Experiences to develop Mathematical processes and skills
 * Love for Mathematics through games and a variety of activities
 * Problem Solving skills using Polya’s problem solving approach
+
+**PROGRAMMES**
+
+**Key department programmes**
+* Primary 2 Mathematics Enrichment Programme for high progress learners
+* Primary 3 to Primary 6 Mathematics Olympiad Training Programme
+*	Learning Support for Mathematics
+*	RoPE Mendaki Programme
