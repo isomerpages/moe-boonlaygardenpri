@@ -18,3 +18,5 @@ third_nav_title: Home Based Learning
 * [P5/3](https://docs.google.com/document/d/1_Tqg_nKU35oJtZ3XOaPTUfgiGAJDm-C5lVeiy-z9HJM/edit)
 * [P5/4](https://docs.google.com/document/d/128Otexd9sW-l3LM8xTTJwR_LRDcs6ctpFFuNEV6ntmE/edit)
 * [P5/5](https://docs.google.com/document/d/1nM1OYX9Q26VHqlUdBxbXgBlZcKVB3dpni-20PwS1D80/edit)
+
+**SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE  AND CCE SUBJECTS.**
