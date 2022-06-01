@@ -2,11 +2,11 @@ collections:
   highlights:
     output: true
     order:
-      - CCA & Other Achievements/2021.md
+      - CCA & Other Achievements/.keep
+      - CCA & Other Achievements/2018.md
+      - CCA & Other Achievements/2019.md
       - CCA & Other Achievements/Intergenerational Learning Programme 2019
         (ILP).md
-      - CCA & Other Achievements/2019.md
-      - CCA & Other Achievements/2018.md
-      - CCA & Other Achievements/.keep
+      - CCA & Other Achievements/2021.md
       - NEWSWAY.md
       - Scholastic Achivements.md
