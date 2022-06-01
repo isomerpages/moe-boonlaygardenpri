@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - CCA & Other Achievements/2019.md
       - CCA & Other Achievements/2018.md
       - CCA & Other Achievements/.keep
       - NEWSWAY.md
