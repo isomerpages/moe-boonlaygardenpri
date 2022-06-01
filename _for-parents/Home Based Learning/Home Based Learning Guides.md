@@ -36,3 +36,7 @@ You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, 
 **RESOURCES FOR STUDENTS**
 1. [Important information for Students on Full HBL  ](https://docs.google.com/presentation/d/1JflvWBxe0xunMRRgFCdqiO2byCHwQj5lK_W5cDhgUu4/edit#slide=id.p2)
 2. [Video on how to navigate the School Website to know what to do everyday for HBL](https://www.youtube.com/watch?v=vnRGGbCWyyo)
+
+
+**RESOURCES FOR STUDENTS ON USING ZOOM**
+1. [Step-by-step Guide to Video Conferencing with Teachers using Zoom](https://drive.google.com/file/d/1KUgormPD31MseRQ5uK9jRRAMVXZlXPgu/view)
