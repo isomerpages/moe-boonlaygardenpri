@@ -13,3 +13,11 @@ links:
         url: /our-school/our-identity
       - title: Our Spaces
         url: /our-school/our-spaces
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Highlights
+    collection: highlights
+  - title: For Parents
+    collection: for-parents
