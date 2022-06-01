@@ -28,3 +28,7 @@ If you require support with SLS, you may email the following school staff/ teach
 
 You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, from 8 a.m. - 3 p.m.
 
+**RESOURCES FOR PARENTS**
+1. [Frequently Asked Questions (SLS)](https://drive.google.com/file/d/11vm0rWED2kYtVsnZ8slXliHeylugFjLK/view)
+2. [SLS Password Reset Guide](https://drive.google.com/file/d/1yFNJsPBQ_sQ65Fo84-VEFYwoPKtEny-c/view)
+3. [HBL Resource Kit from MOE](https://drive.google.com/file/d/1qJmB6sg7Vfmuwu0m-AMj4RUER54Ql5ze/view)
