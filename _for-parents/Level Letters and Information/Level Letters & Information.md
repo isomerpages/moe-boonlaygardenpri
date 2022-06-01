@@ -16,3 +16,4 @@ Please refer to the respective levels on the right for the relevant information
 	* [Primary 4](/files/Level%20Letter%20P4%20Term%202%202022.pdf)
 	* [Primary 5](/files/Level%20Letter%20P5%20Term%202%202022.pdf)
 	* [Primary 6](/files/Level%20Letter%20P6%20Term%202%202022.pdf)
+* [2022 Term 1 Principal's Letter](/files/2022%20Term%201%20Principals%20Letter.pdf)
