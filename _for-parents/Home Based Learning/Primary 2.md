@@ -18,3 +18,8 @@ third_nav_title: Home Based Learning
 * [P2/5](https://docs.google.com/document/d/1-Pi9xF59ua8QgHJ8U-ht6_sqVQgtOl-p1n_Fb0_8R8E/edit)
 * [P2/6](https://docs.google.com/document/d/1yFCJdMHaCTbaD7hxTyLG1rm_EPGOK4Vwfjfk_uWZibw/edit)
 * [P2/7](https://docs.google.com/document/d/1STONskeF-1pwKbRtz7JXOhtkw9Nl9ySt_HuJXeiZCQg/edit)
+
+**SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE AND CCE SUBJECTS.**
+
+* [P2 CL1 (Mdm Wong SL)](https://docs.google.com/document/d/1gxUvFbYSrLKNHWYjM6N2ijPexz5dbMm2lh_ySATGDCE/edit)
+* [P2 CL2 (Ms Sewa DJ)](https://docs.google.com/document/d/1KiPzh6-sYVoGpKDhE8M9D2LyeCbZFSGQHBgbTsl8U30/edit)
