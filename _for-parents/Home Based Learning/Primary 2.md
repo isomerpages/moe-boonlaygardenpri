@@ -16,3 +16,5 @@ third_nav_title: Home Based Learning
 * [P2/3](https://docs.google.com/document/d/1WT3lsoCcTZZyht6a8XVhSTlUdSlblc9J9HInmnZstp8/edit)
 * [P2/4](https://docs.google.com/document/d/19fXy_IE1mOioR52tUNVGq5e4gfPAB3yVH-vYTDNI8tk/edit)
 * [P2/5](https://docs.google.com/document/d/1-Pi9xF59ua8QgHJ8U-ht6_sqVQgtOl-p1n_Fb0_8R8E/edit)
+* [P2/6](https://docs.google.com/document/d/1yFCJdMHaCTbaD7hxTyLG1rm_EPGOK4Vwfjfk_uWZibw/edit)
+* [P2/7](https://docs.google.com/document/d/1STONskeF-1pwKbRtz7JXOhtkw9Nl9ySt_HuJXeiZCQg/edit)
