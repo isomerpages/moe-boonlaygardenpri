@@ -22,3 +22,5 @@ third_nav_title: Home Based Learning
 **SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE AND CCE SUBJECTS.**
 
 * [P1 CL1 (Mdm Lim SR)](https://docs.google.com/document/d/1FdifmJJCcMB8tO5vUkFXDLq6tN6EzIbahIfnnFcnoJ8/edit)
+* [P1 CL2 (Mdm Shu XM)](https://docs.google.com/document/d/1hV43GH5PeZ8SaLNBB37LVD-TFrF3sBvC0_gmFoDeDqA/edit)
+* [P1 CL3 (Ms Yeo LP)](https://docs.google.com/document/d/1B2D62m-kUXrNu0oHgxd9xeLXecswLOpRyvY2oGgYtd8/edit)
