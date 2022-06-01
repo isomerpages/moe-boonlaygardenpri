@@ -40,3 +40,32 @@ You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, 
 
 **RESOURCES FOR STUDENTS ON USING ZOOM**
 1. [Step-by-step Guide to Video Conferencing with Teachers using Zoom](https://drive.google.com/file/d/1KUgormPD31MseRQ5uK9jRRAMVXZlXPgu/view)
+2. [Video guide to Video Conferencing with Teachers using Zoom](https://drive.google.com/file/d/1aXjvS7RyduUJa5dXjw3HnwB5dFQCoF12/view)
+
+**ADDITIONAL SUPPORT**<br>
+For SLS (https://vle.learning.moe.edu.sg)
+
+**SLS Helpdesk**
+
+Email: helpdesk@sls.ufinity.com
+
+Operating hours:
+
+Monday - Friday: 4.00pm - 9.00pm
+
+Saturdays: 9.00am - 3.00pm
+
+*Closed on Sundays and Public Holidays
+
+
+**For iMTL (log in via SLS)**
+
+Phone: 68488900
+
+Email: helpdesk@mail-imtl.moe.edu.sg
+
+Operating hours:
+
+Monday - Friday: 7.00am - 7.00pm
+
+Saturdays: 7.00am - 2.00pm
