@@ -32,3 +32,7 @@ You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, 
 1. [Frequently Asked Questions (SLS)](https://drive.google.com/file/d/11vm0rWED2kYtVsnZ8slXliHeylugFjLK/view)
 2. [SLS Password Reset Guide](https://drive.google.com/file/d/1yFNJsPBQ_sQ65Fo84-VEFYwoPKtEny-c/view)
 3. [HBL Resource Kit from MOE](https://drive.google.com/file/d/1qJmB6sg7Vfmuwu0m-AMj4RUER54Ql5ze/view)
+
+**RESOURCES FOR STUDENTS**
+1. [Important information for Students on Full HBL  ](https://docs.google.com/presentation/d/1JflvWBxe0xunMRRgFCdqiO2byCHwQj5lK_W5cDhgUu4/edit#slide=id.p2)
+2. [Video on how to navigate the School Website to know what to do everyday for HBL](https://www.youtube.com/watch?v=vnRGGbCWyyo)
