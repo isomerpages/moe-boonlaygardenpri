@@ -18,3 +18,9 @@ third_nav_title: Home Based Learning
 * [P3/4](https://docs.google.com/document/d/1l80fvLKRzu1OX8hSAAprEf1i2Z_9qugcqMlTKcoAzbg/edit)
 * [P3/5](https://docs.google.com/document/d/1YP1xC7JdNFxKCG_8iAPdsnmtU2OofNhs_H6_b_cGkS4/edit)
 * [P3/6](https://docs.google.com/document/d/1BvTKHp4X7XSqIJAkwejEosU0ptaea1799VmWa8yHMDs/edit)
+
+**SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE AND CCE SUBJECTS.**
+
+* [P3 CL1 (Ms Lau YY)](https://docs.google.com/document/d/12QhXzhTkMZlrvDK-JS8w3Ur7KM0x_BBfeeY8GQoe-xw/edit)
+* [P3 CL2 (Mdm Pok YL)](https://docs.google.com/document/d/106gGs2AEAPRBEj0f0KD-GIkiit0Z752hezD3m9kkwhU/edit)
+* [P3 CL3 (Ms Yang YQ)](https://docs.google.com/document/d/176nks0XBaKhJbT58d0Etsa1ZxUYpgqWRI3V3U7zol0E/edit)
