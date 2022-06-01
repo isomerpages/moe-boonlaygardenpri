@@ -15,3 +15,4 @@ Please refer to the respective levels on the right for the relevant information
 	* [Primary 3](/files/Level%20Letter%20P3%20Term%202%202022.pdf)
 	* [Primary 4](/files/Level%20Letter%20P4%20Term%202%202022.pdf)
 	* [Primary 5](/files/Level%20Letter%20P5%20Term%202%202022.pdf)
+	* [Primary 6](/files/Level%20Letter%20P6%20Term%202%202022.pdf)
