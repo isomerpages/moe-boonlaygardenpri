@@ -2,6 +2,13 @@ collections:
   highlights:
     output: true
     order:
+      - Scholastic Achivements.md
+      - CCA & Other Achievements/.keep
+      - CCA & Other Achievements/2018.md
+      - CCA & Other Achievements/2019.md
+      - CCA & Other Achievements/Intergenerational Learning Programme 2019
+        (ILP).md
+      - CCA & Other Achievements/2021.md
       - BLGPS Excites !/.keep
       - BLGPS Excites !/Happy Classroom Music Video.md
       - BLGPS Excites !/Total Defence Day.md
@@ -17,11 +24,4 @@ collections:
       - BLGPS Excites !/Hip Hop and Percussion Learning Circle.md
       - BLGPS Excites !/BLGPS Art Exhibition at Jurong West Public Library.md
       - BLGPS Excites !/BLGPS Community Art Projects over the years.md
-      - CCA & Other Achievements/.keep
-      - CCA & Other Achievements/2018.md
-      - CCA & Other Achievements/2019.md
-      - CCA & Other Achievements/Intergenerational Learning Programme 2019
-        (ILP).md
-      - CCA & Other Achievements/2021.md
       - NEWSWAY.md
-      - Scholastic Achivements.md
