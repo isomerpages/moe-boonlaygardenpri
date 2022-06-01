@@ -9,7 +9,7 @@ third_nav_title: Home Based Learning
 
 Dear BLGians, please click on the level you are in to go to the Home-Based Learning instructions for your class. 
 
-[Primary 1](/for-parents/Home-Based-Learning/primary-1)
+[Primary 1]()
 [Primary 2]()
 [Primary 3]()
 [Primary 4]()
