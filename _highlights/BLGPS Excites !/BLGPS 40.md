@@ -16,3 +16,7 @@ Apart from the musical, the audience were also presented with an exhibition show
 **Performances**
 ![](/images/performance%201.png)
 ![](/images/performance%202.png)
+
+**Behind the scene**
+![](/images/bts%201.png)
+![](/images/bts%202.png)
