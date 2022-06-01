@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Level Letters and Information/Primary 1.md
+      - Level Letters and Information/Primary 1 Matters.md
       - Level Letters and Information/Level Letters & Information.md
       - Level Letters and Information/.keep
       - Information for Parents.md
