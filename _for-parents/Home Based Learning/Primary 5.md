@@ -24,3 +24,8 @@ third_nav_title: Home Based Learning
 * [P5 CL1 (Mdm Mei TT)](https://docs.google.com/document/d/1mus4Nm5Wm5NBxTEJsjqoSu0eryiA1-J1MXR9Ejuont0/edit)
 * [P5 CL2 (Mdm Pok YL)](https://docs.google.com/document/d/1ym3fl4TacVQIUlo7kiUG8Z7IigAYBkBkrr8YDPqegvo/edit)
 * [P5 CL3 (Mr Kuay CA)](https://docs.google.com/document/d/1N0jt51IV6L1d0smvG23HiKck1SShULDFR7ityb27Q8o/edit)
+* [P5 CL4 (Mr Murphy Kho)](https://docs.google.com/document/d/1gEDO41Tu5D5TAg3_d36Ot2oAMs5mwvAcM7xE1Nj_bQg/edit)
+* [ P5 ML1 (Mdm Rita)](https://docs.google.com/document/d/1hj-7cBbIX0LsPH6Fz9uD6r5xgRvoUsmRIgoMs5nHODg/edit)
+* [P5 ML2 (Ms Irda)](https://docs.google.com/document/d/1P9NDCBhJZ-2eUtFkzHq24i5h0sLxegsM-GCIary_gmk/edit)
+* [P5 TL1  (Ms Nandhini)](https://docs.google.com/document/d/1d6rD_tEv66VTur2PzPOba3a3mHe-33JWV5Yn6KzOov4/edit)
+* [ P5 FCL (Mdm Lim SR)](https://docs.google.com/document/d/1fd5WlvvDSt0_aFFXpsVpWPVjqxrqk99NnF31xzPSvOk/edit)
