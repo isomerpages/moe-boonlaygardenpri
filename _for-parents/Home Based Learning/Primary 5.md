@@ -20,3 +20,7 @@ third_nav_title: Home Based Learning
 * [P5/5](https://docs.google.com/document/d/1nM1OYX9Q26VHqlUdBxbXgBlZcKVB3dpni-20PwS1D80/edit)
 
 **SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE  AND CCE SUBJECTS.**
+
+* [P5 CL1 (Mdm Mei TT)](https://docs.google.com/document/d/1mus4Nm5Wm5NBxTEJsjqoSu0eryiA1-J1MXR9Ejuont0/edit)
+* [P5 CL2 (Mdm Pok YL)](https://docs.google.com/document/d/1ym3fl4TacVQIUlo7kiUG8Z7IigAYBkBkrr8YDPqegvo/edit)
+* [P5 CL3 (Mr Kuay CA)](https://docs.google.com/document/d/1N0jt51IV6L1d0smvG23HiKck1SShULDFR7ityb27Q8o/edit)
