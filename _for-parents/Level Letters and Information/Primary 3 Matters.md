@@ -5,3 +5,4 @@ description: ""
 third_nav_title: Level Letters and Information
 ---
 # P3 Matters
+[ TERM 2 LEVEL LETTER](/files/2020_Term_2_Level_Letter__Primary_3%20.pdf)
