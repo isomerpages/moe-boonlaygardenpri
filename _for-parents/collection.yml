@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents.md
+      - Booklist.md
       - Home Based Learning/.keep
       - Home Based Learning/Home Based Learning.md
       - Home Based Learning/Home Based Learning Guides.md
@@ -11,10 +13,8 @@ collections:
       - Home Based Learning/Primary 4.md
       - Home Based Learning/Primary 5.md
       - Home Based Learning/Primary 6.md
-      - Parenting Support Programme.md
-      - Information for Parents.md
-      - Booklist.md
-      - Achievement Band and Grading System.md
-      - P1 2022 Parents.md
       - Parents Gateway.md
+      - P1 2022 Parents.md
+      - Parenting Support Programme.md
+      - Achievement Band and Grading System.md
       - Sexuality Education.md
