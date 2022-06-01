@@ -4,8 +4,9 @@ permalink: /co-curriculum
 description: ""
 ---
 # Co Curriculum
-![](/images/cca.jpg)
 
+<img src="/images/cca.jpg" 
+     style="width:50%">
 **CCA**
 
 In BLGPS, we strongly encourage every child to be actively involved in a CCA as it gives him/her the opportunities to discover his/her interests and talents while developing values and competencies. Through CCA, we aim to provide a more holistic education for every child. 
@@ -22,4 +23,3 @@ The school provides a wide range of CCAs that are categorized into:
 
 
 visit our ECCA portal [HERE](https://sites.google.com/moe.edu.sg/blgpsccaportal/explore-cca)
-
