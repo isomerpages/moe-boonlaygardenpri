@@ -2,15 +2,15 @@ collections:
   for-parents:
     output: true
     order:
-      - Home Based Learning/Home Based Learning Guides.md
-      - Home Based Learning/Primary 6.md
-      - Home Based Learning/Primary 5.md
-      - Home Based Learning/Primary 4.md
-      - Home Based Learning/Primary 3.md
-      - Home Based Learning/Primary 2.md
-      - Home Based Learning/Primary 1.md
-      - Home Based Learning/Home Based Learning.md
       - Home Based Learning/.keep
+      - Home Based Learning/Home Based Learning.md
+      - Home Based Learning/Home Based Learning Guides.md
+      - Home Based Learning/Primary 1.md
+      - Home Based Learning/Primary 2.md
+      - Home Based Learning/Primary 3.md
+      - Home Based Learning/Primary 4.md
+      - Home Based Learning/Primary 5.md
+      - Home Based Learning/Primary 6.md
       - Parenting Support Programme.md
       - Information for Parents.md
       - Booklist.md
