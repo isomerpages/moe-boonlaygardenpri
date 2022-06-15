@@ -128,35 +128,33 @@ If I understand mathematics, I will be less likely to have math anxiety …”*
 </tbody>
 </table>
 
-**USEFUL LINKS**
+# USEFUL LINKS
 
 **MATHEMATICS SYLLABUS**
-* P1 to P4
-https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics-syllabus-(primary-1-to-4).pdf
-
-* P5 to P6
-https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/2007-mathematics-(primary)-syllabus.pdf
+* P1 to P4<br>
+[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics-syllabus-(primary-1-to-4).pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics-syllabus-(primary-1-to-4).pdf)
+* P5 to P6<br>
+[https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/2007-mathematics-(primary)-syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/2007-mathematics-(primary)-syllabus.pdf)
 
 **MATH COMPETITIONS**
 
 * Singapore Math Kangaroo Contest (SMKC)
 
-http://mathkangaroo.sg/contest
+[http://mathkangaroo.sg/contest](http://mathkangaroo.sg/contest)
 
 * Singapore and Asian Schools Math Olympiad (SASMO)
 
-https://sasmo.sg/registration/
+[https://sasmo.sg/registration/](https://sasmo.sg/registration/)
 
 * National Mathematical Olympiad of Singapore (NMOS)
 
-http://www.nushigh.edu.sg/admission-n-outreach/outreach/national-mathematical-olympiad-of-singapore/introduction
+[http://www.nushigh.edu.sg/admission-n-outreach/outreach/national-mathematical-olympiad-of-singapore/introduction](http://www.nushigh.edu.sg/admission-n-outreach/outreach/national-mathematical-olympiad-of-singapore/introduction)
 
 * Angle-Chinese School Annual Mathlympics
 
-http://www.acsindep.moe.edu.sg/
+[http://www.acsindep.moe.edu.sg/](http://www.acsindep.moe.edu.sg/)
 
 
 * Raffles Institution Primary Mathematics World Contest (RIPMWC)
 
-http://contests.heymath.com/admin/RI19
-
+[http://contests.heymath.com/admin/RI19](http://contests.heymath.com/admin/RI19)
