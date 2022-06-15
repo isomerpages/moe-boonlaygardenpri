@@ -80,7 +80,7 @@ Educational and Career Guidance (ECG) ECG is infused during FTGP, pre-assembly s
 **Counselling** <br>
 Counselling is a collaborative process in which the counsellor facilitates the expansion of the student’s view of life, expands their social and emotional skills and coping resources. School counsellors use their specialised knowledge and skills in counselling to facilitate student’s personal/social growth and development, with positive impact on their academic performance.
 
-**Our Team*
+**Our Team**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -159,5 +159,5 @@ Counselling is a collaborative process in which the counsellor facilitates the e
 
 **USEFUL LINKS**
 
-https://www.schoolbag.sg/<br>
-http://kindness.sg/
+[https://www.schoolbag.sg/](https://www.schoolbag.sg/)<br>
+[http://kindness.sg/](http://kindness.sg/)
