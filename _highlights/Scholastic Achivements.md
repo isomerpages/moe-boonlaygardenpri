@@ -5,7 +5,7 @@ description: ""
 ---
 # Scholastic Achivements
 
-**2018**
+## 2018
 EFFORT PAID OFF AT MATHS OLYMPIAD COMPETITION
 Our BLGians took part in various Maths Olympiad Competitions in Term 2 and won several awards. Great job, BLGians!
 
@@ -47,3 +47,4 @@ Special mention goes to the following students who took part in the Singapore an
 **BLGPS SCORES AT RIVER VALLEY HIGH SCHOOL MATHEMATICS CHALLENGE 2018**
 
 Luo Xiang, Paing Htun Khant and Xu Ruihan of class P6 did the school proud by coming in 10th in the River Valley High School Mathematics Challenge. The team worked together to overcome stiff competition. Well done, BLGians!
+
