@@ -34,7 +34,7 @@ Our programme is designed based on the following approaches
 ![](/images/Earth%20Hour.png)
 Earth Hour was first started in 2007 to raise global awareness on energy conservation and climate change. Through energy conservation, we can reduce carbon emission and thus reduces the impact of global warming such as strange weather phenomenon, raising temperature and melting of sea ice. BLGPS played our part in the Earth hour campaign by switching off the fans in our school compound for an hour on 24 March 2016 from 7.30am to 8.30am. On top of that, an assembly talk on global warming and deforestation was conducted to raise awareness about the urgent need to conserve the environment. At the end of the assembly talk, we also got everyone to stand up and do a tree pose balance in support of WWF in breaking a world record of forming the world's largest tree pose balance! 
 
-**AUTHOR TALK ON GLOBAL WARMING WITH OTTO FONG**
+**AUTHOR TALK ON GLOBAL WARMING WITH OTTO FONG**<br>
 Our pupils were meaningfully engaged in the sharing on global warming by Otto Fong. Through the sharing session, Mr Fong shared with the pupils how pollution and climate change may eventually lead to mass extinction of species; and how we can do our part in stopping global warming. 
 
 **INTERCLASS RECYCLING COMPETITION**
