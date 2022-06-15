@@ -29,7 +29,7 @@ The Lifeskills Room which is fitted with a kitchenette, is designed to equip stu
 
 ![](/images/Lifeskills%20Room%20(1).jpg)
 <img src="/images/Lifeskills%20Room%20(2).jpg" 
-     style="width:70%">
+     style="width:50%">
 		 
 		 
 **Student Edutainment Lounge** 
