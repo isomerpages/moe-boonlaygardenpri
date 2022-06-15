@@ -127,8 +127,8 @@ The English Language curriculum focuses on the progressive attainment of languag
 
 **USEFUL LINKS**
 
-* https://www.moe.gov.sg/education/syllabuses/english-language-and-literature 
-* http://www.stellarliteracy.sg/ 
-* https://www.mconline.sg/LEAD/login/lms_login.aspx 
-* https://www.nlb.gov.sg/ 
-* https://schoolibrary.moe.edu.sg/boonlaygardenpri
+* [https://www.moe.gov.sg/education/syllabuses/english-language-and-literature ](https://www.moe.gov.sg/education/syllabuses/english-language-and-literature )
+* [ http://www.stellarliteracy.sg/ ]( http://www.stellarliteracy.sg/ )
+* [ https://www.mconline.sg/LEAD/login/lms_login.aspx ]( https://www.mconline.sg/LEAD/login/lms_login.aspx )
+* [https://www.nlb.gov.sg/ ](https://www.nlb.gov.sg/ )
+* [https://schoolibrary.moe.edu.sg/boonlaygardenpri](https://schoolibrary.moe.edu.sg/boonlaygardenpri)
