@@ -186,8 +186,8 @@ There are 3 levels of opportunities for differentiated groups of students.
 
 **Useful Links**<br>
 - STEM Education:
-	- http://engineeringforkids.com/article/02-02-2016_importanceofstem
-	-  http://www.straitstimes.com/singapore/education/science-technology-engineering-math-skills-crucial-to-singapore-for-next-50
-- Destination Imagination: http://www.di-sg.org/
-- Innovation Programme:  https://www.moe.gov.sg/education/programmes/gifted-education-programme/special-programmes/innovation-programme
-- KidZania:                     https://www.kidzania.com.sg/
+	- [http://engineeringforkids.com/article/02-02-2016_importanceofstem](http://engineeringforkids.com/article/02-02-2016_importanceofstem)
+	-  [http://www.straitstimes.com/singapore/education/science-technology-engineering-math-skills-crucial-to-singapore-for-next-50](http://www.straitstimes.com/singapore/education/science-technology-engineering-math-skills-crucial-to-singapore-for-next-50)
+- Destination Imagination: [http://www.di-sg.org/](http://www.di-sg.org/)
+- Innovation Programme:  [https://www.moe.gov.sg/education/programmes/gifted-education-programme/special-programmes/innovation-programme](https://www.moe.gov.sg/education/programmes/gifted-education-programme/special-programmes/innovation-programme)
+- KidZania:                     [https://www.kidzania.com.sg/](https://www.kidzania.com.sg/)
