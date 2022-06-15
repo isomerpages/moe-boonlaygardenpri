@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Information for Parents.md
+      - Booklist.md
       - Level Letters and Information/.keep
       - Level Letters and Information/P1 School Parent Meeting.md
       - Level Letters and Information/Primary 6 Matters.md
@@ -12,7 +13,6 @@ collections:
       - Level Letters and Information/Primary 2 Matters.md
       - Level Letters and Information/Primary 1 Matters.md
       - Level Letters and Information/Level Letters & Information.md
-      - Booklist.md
       - Home Based Learning/.keep
       - Home Based Learning/Home Based Learning.md
       - Home Based Learning/Home Based Learning Guides.md
