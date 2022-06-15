@@ -252,22 +252,22 @@ To equip students with the necessary communication skills as well as cultural kn
 # Useful Link
 
 **CHINESE LANGUAGE**<br>
-* 书袋 http://www.schoolbag.sg/
+* 书袋 [http://www.schoolbag.sg/](http://www.schoolbag.sg/)
 此网站为教育部的线上杂志，专为家长提供最新的教育资讯和新闻。较早前在《联合早报》 上连载三个月的专栏《华文新路向》在翻译成英文后于八月份上载，内容每隔两周更新一次。
-* https://www.ezhishi.net/Contents/
+* [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 培养学生看报习惯的理想资源。适合小学三年级到六年级的学生阅读。内容配合学生语文程 度和阅读趣味，印刷版包括缩写的新闻、活泼的漫画和可在网上配对阅读的故事和练习。
 
 **MALAY LANGUAGE**
-* Tinta.moe.edu.sg
+* [Tinta.moe.edu.sg](Tinta.moe.edu.sg)
 * Smart phone Application (Google Play)
 * Pintar Kata
 * Pintar Peribahasa
 
 **TAMIL LANGUAGE**
-* www.noolagam.com
+* [www.noolagam.com](www.noolagam.com)
 
-* kidsone.in/tamil/
+* [kidsone.in/tamil/](kidsone.in/tamil/)
 
-* http://tamilcube.com/tamil.aspx
+* [http://tamilcube.com/tamil.aspx](http://tamilcube.com/tamil.aspx)
 
-* http://ccat.sas.upenn.edu/plc/tamilweb/
+* [http://ccat.sas.upenn.edu/plc/tamilweb/](http://ccat.sas.upenn.edu/plc/tamilweb/)
