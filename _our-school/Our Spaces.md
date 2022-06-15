@@ -12,7 +12,8 @@ The Secret Garden has been a popular hangout for students in BLGPS. The facade o
 Click [here](https://schoolibrary.moe.edu.sg/boonlaygardenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access our school library OPAC (Online Public Access Catalogue)
 
 ![](/images/Secret%20Garden%20(1).jpg)
-![](/images/Secret%20Garden%20(2).jpg)
+<img src="/images/Secret%20Garden%20(2).jpg" 
+     style="width:50%">
 
 
 **Tinker Space**
