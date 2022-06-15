@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents.md
+      - Level Letters and Information/.keep
       - Level Letters and Information/P1 School Parent Meeting.md
       - Level Letters and Information/Primary 6 Matters.md
       - Level Letters and Information/Primary 5 Matters.md
@@ -10,8 +12,6 @@ collections:
       - Level Letters and Information/Primary 2 Matters.md
       - Level Letters and Information/Primary 1 Matters.md
       - Level Letters and Information/Level Letters & Information.md
-      - Level Letters and Information/.keep
-      - Information for Parents.md
       - Booklist.md
       - Home Based Learning/.keep
       - Home Based Learning/Home Based Learning.md
