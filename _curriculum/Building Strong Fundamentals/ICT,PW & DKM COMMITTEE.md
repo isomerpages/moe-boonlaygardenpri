@@ -111,5 +111,5 @@ Implementation Strategies:
 </table>
 
 **USEFUL LINKS**<br>
-Learning Management System (LMS) – mconline.sg
-Flipped Learning website – flippingblgps.weebly.com
+Learning Management System (LMS) – [mconline.sg](mconline.sg)<br>
+Flipped Learning website – [flippingblgps.weebly.com](flippingblgps.weebly.com)
