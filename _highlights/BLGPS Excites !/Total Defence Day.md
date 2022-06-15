@@ -15,4 +15,5 @@ During the week, pre-assembly talks were conducted to allow students to know mor
 
 ![](/images/Total%20Defence%20Drawing%201.png)
 ![](/images/Total%20Defence%20Drawing%202.png)
-![](/images/TDD%20Drawing%20Competition_5.jpg)
+<img src="/images/TDD%20Drawing%20Competition_5.jpg" 
+     style="width:50%">
