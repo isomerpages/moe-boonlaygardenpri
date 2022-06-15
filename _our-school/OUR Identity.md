@@ -9,7 +9,7 @@ description: ""
 
 
 <img src="/images/crest.gif" 
-     style="width:50%">
+     style="width:40%">
 
 The school colours are brown and white. These are the principal colours in the crest. The segments coloured half brown and half white symbolise a balance between the academic and the aesthetic programmes offered within the school curriculum.
 
