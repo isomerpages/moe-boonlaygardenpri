@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/cca.jpg" 
      style="width:50%">
-**CCA**
+# CCA
 
 In BLGPS, we strongly encourage every child to be actively involved in a CCA as it gives him/her the opportunities to discover his/her interests and talents while developing values and competencies. Through CCA, we aim to provide a more holistic education for every child. 
 
