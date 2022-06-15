@@ -13,7 +13,7 @@ Information coming soon.
 
 **PROGRAMMES**
 
-**CHINESE LANGUAGE**
+# CHINESE LANGUAGE
 
 To equip students with the necessary communication skills as well as cultural knowledge to enable students to be active learners and proficient users of the Chinese Language, the Chinese Language department has embarked on the following key programmes:
 
@@ -69,7 +69,7 @@ To equip students with the necessary communication skills as well as cultural kn
 </table>
 
 
-**MALAY LANGUAGE**
+# MALAY LANGUAGE
 
 To equip students with the necessary communication skills as well as cultural knowledge to enable students to be active learners and proficient users of the Malay Language, the Malay Language department has embarked on the following key programmes:
 
@@ -110,7 +110,7 @@ To equip students with the necessary communication skills as well as cultural kn
 </table>
 
 
-**TAMIL LANGUAGE**
+# TAMIL LANGUAGE
 
 To equip students with the necessary communication skills as well as cultural knowledge and to enable students to be active learners in using Tamil Language proficiently, the Tamil Language department has embarked on the following key programmes:
 
@@ -249,7 +249,7 @@ To equip students with the necessary communication skills as well as cultural kn
 </tbody>
 </table>
 
-**Useful Link**
+# Useful Link
 
 **CHINESE LANGUAGE**<br>
 * 书袋 http://www.schoolbag.sg/
