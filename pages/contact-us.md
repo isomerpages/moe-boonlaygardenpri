@@ -8,13 +8,7 @@ locations:
       - "20"
       - "Boon Lay Drive "
       - Singapore 649930
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: General Office
 contacts:
