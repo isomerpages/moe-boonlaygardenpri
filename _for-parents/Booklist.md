@@ -1,6 +1,6 @@
 ---
 title: Booklist
-permalink: /for-parents/booklist
+permalink: /for-parents/booklist/
 description: ""
 ---
 # Booklists

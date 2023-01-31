@@ -1,6 +1,6 @@
 ---
 title: Our Identity
-permalink: /our-school/our-identity
+permalink: /our-school/our-identity/
 description: ""
 ---
 

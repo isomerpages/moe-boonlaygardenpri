@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /our-people-our-school/parents-support-group
+permalink: /our-people-our-school/parents-support-group/
 description: ""
 ---
 # PARENTS SUPPORT GROUP

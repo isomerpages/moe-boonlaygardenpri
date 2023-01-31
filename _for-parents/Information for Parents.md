@@ -1,6 +1,6 @@
 ---
 title: Information for Parents
-permalink: /for-parents/information-for-parents
+permalink: /for-parents/information-for-parents/
 description: ""
 ---
 # INFORMATION FOR PARENTS

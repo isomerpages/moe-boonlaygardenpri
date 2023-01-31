@@ -1,6 +1,6 @@
 ---
 title: Our Vision, Mission & Motto
-permalink: /our-school/our-vision-mission-and-motto
+permalink: /our-school/our-vision-mission-and-motto/
 description: ""
 ---
 # OUR VISION, MISSION AND MOTTO

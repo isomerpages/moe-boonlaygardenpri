@@ -1,6 +1,6 @@
 ---
 title: School Executive Committee
-permalink: /our-people/school-executive-committee
+permalink: /our-people/school-executive-committee/
 description: ""
 ---
 # School Leaders
