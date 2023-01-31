@@ -1,6 +1,6 @@
 ---
 title: Co Curriculum
-permalink: /co-curriculum
+permalink: /co-curriculum/
 description: ""
 ---
 # Co Curriculum

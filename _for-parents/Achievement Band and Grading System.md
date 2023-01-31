@@ -1,6 +1,6 @@
 ---
 title: Achievement Band and Grading System
-permalink: /for-parents/achievement-band-and-grading-system
+permalink: /for-parents/achievement-band-and-grading-system/
 description: ""
 ---
 # ACHIEVEMENT BAND AND GRADING SYSTEM

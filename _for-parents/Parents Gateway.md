@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /for-parents/permalink
+permalink: /for-parents/permalink/
 description: ""
 ---
 # Parents Gateway

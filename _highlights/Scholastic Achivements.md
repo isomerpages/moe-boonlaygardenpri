@@ -1,6 +1,6 @@
 ---
 title: Scholastic Achivements
-permalink: /highlights/scholastic-achievements
+permalink: /highlights/scholastic-achievements/
 description: ""
 ---
 # Scholastic Achivements

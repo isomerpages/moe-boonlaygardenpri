@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /for-parents/sexuality-education
+permalink: /for-parents/sexuality-education/
 description: ""
 ---
 # SEXUALITY EDUCATION

@@ -1,6 +1,6 @@
 ---
 title: LEARNING FOR LIFE PROGRAMME (LLP)
-permalink: /co-curriculum/learning-for-life-programme-llp
+permalink: /co-curriculum/learning-for-life-programme-llp/
 description: ""
 ---
 # LEARNING FOR LIFE PROGRAMME (LLP) - ENVIRONMENT EDUCATION

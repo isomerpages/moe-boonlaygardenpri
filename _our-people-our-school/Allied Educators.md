@@ -1,6 +1,6 @@
 ---
 title: Allied Educators
-permalink: /our-people-our-school/allied-educators
+permalink: /our-people-our-school/allied-educators/
 description: ""
 ---
 # ALLIED EDUCATORS

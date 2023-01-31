@@ -1,6 +1,6 @@
 ---
 title: Parenting Support Programme
-permalink: /for-parents/parenting-support-programme
+permalink: /for-parents/parenting-support-programme/
 description: ""
 ---
 # PARENTING SUPPORT PROGRAMME

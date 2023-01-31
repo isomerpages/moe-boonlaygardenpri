@@ -1,5 +1,5 @@
 ---
 title: NEWSWAY
-permalink: /highlights/newsway
+permalink: /highlights/newsway/
 description: ""
 ---

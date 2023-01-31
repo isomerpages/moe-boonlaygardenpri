@@ -1,6 +1,6 @@
 ---
 title: Our Spaces
-permalink: /our-school/our-spaces
+permalink: /our-school/our-spaces/
 description: ""
 ---
 # OUR SPACES

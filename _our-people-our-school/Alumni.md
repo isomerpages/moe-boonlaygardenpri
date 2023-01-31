@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /our-people-our-school/alumni
+permalink: /our-people-our-school/alumni/
 description: ""
 ---
 # ALUMNI
