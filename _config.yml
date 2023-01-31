@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-boonlaygardenpri-staging.netlify.app
-prod: https://moe-boonlaygardenpri-prod.netlify.app
+staging: https://staging.d3on84acc39ut4.amplifyapp.com/
+prod: https://master.d3on84acc39ut4.amplifyapp.com/
 shareicon: /images/schoolLogo.png
 is_government: false
 facebook-pixel: ""
