@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Our Staff/Form Teachers.md
       - Our Staff/.keep
       - Our Key Personnel.md
