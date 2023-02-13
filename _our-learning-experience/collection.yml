@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Talent Development/.keep
-      - Talent Development.md
       - Environment Education.md
       - Thinking Dispositions.md
