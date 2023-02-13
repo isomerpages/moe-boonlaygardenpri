@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - Our Achievements/2021.md
-      - Our Achievements/2022.md
       - Our Achievements/.keep
+      - Our Achievements/2022.md
+      - Our Achievements/2021.md
       - Our Vision, Mission & Motto.md
       - Our History.md
       - Our Identity.md
