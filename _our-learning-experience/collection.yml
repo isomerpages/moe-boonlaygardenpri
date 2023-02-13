@@ -2,4 +2,5 @@ collections:
   our-learning-experience:
     output: true
     order:
+      - Environment Education.md
       - Thinking Dispositions.md
