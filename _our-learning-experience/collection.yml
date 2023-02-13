@@ -1,4 +1,5 @@
 collections:
   our-learning-experience:
     output: true
-    order: []
+    order:
+      - Thinking Dispositions.md
