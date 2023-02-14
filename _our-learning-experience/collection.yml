@@ -2,6 +2,7 @@ collections:
   our-learning-experience:
     output: true
     order:
+      - Home–Based Learning (HBL)/Home–Based Learning Guides.md
       - Home–Based Learning (HBL)/Primary 6.md
       - Home–Based Learning (HBL)/Primary 5.md
       - Home–Based Learning (HBL)/Primary 4.md
