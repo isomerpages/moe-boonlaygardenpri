@@ -30,3 +30,13 @@ Our annual Learning Buffet takes P4-6 students on learning journeys for a taste 
   
 
 For example, our P5 students explored careers in the Investigative and Technological industry related to Green Jobs. In collaboration with NTU, they explored Environmental Engineering careers with NTU undergraduates in the Environmental Engineering faculty. They were given opportunities beyond the conventional classroom environment to work in the NTU laboratory on purifying water.
+
+<img src="/images/Annotation%202022-11-04%20082500.jpg" 
+     style="width:40%">
+<center><i>Students trying to purify water in the laboratory.</i></center>
+<img src="/images/Annotation%202022-11-04%20082701.jpg" 
+     style="width:40%">
+<center><i>Students trying out a simulation exercise in the helicopter.</i></center>		 
+<img src="/images/Annotation%202022-11-04%20082841.jpg" 
+     style="width:40%">
+<center><i>Students watching a live radio broadcast at the studio.</i></center>
