@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Character and Citizenry Education.md
       - Project Work.md
       - Physical Education.md
       - Mother Tongue.md
