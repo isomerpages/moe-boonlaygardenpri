@@ -1,4 +1,5 @@
 collections:
   our-parents-hub:
     output: true
-    order: []
+    order:
+      - Useful Information.md
