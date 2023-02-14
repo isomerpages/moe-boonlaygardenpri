@@ -40,3 +40,16 @@ For example, our P5 students explored careers in the Investigative and Technolog
 <img src="/images/Annotation%202022-11-04%20082841.jpg" 
      style="width:40%">
 <center><i>Students watching a live radio broadcast at the studio.</i></center>
+
+**FUTURE OF US**
+
+The Future of Us carnival is a digital platform where students explore a rich depository of information related to professions that they are interested in. Encouraging self-directed learning, students are free to watch the video interviews with industry experts and complete mini challenges that were crafted by the professionals.
+
+<img src="/images/Annotation%202022-11-04%20083234.jpg" 
+     style="width:40%">
+<center><i>The career-related learning process integrated within the carnival site involves four main stages: Explore & Learn, Create Something, Reflect and Upload.</i></center>
+
+<img src="/images/Annotation%202022-11-04%20083257.jpg" 
+     style="width:40%">
+<center><i>Mini-challenge for cooking.</i></center>
+
