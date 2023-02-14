@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home–Based Learning (HBL)/.keep
-      - Home–Based Learning (HBL).md
       - Active Blended Learning.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
