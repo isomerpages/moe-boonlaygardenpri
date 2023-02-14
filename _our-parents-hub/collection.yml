@@ -2,6 +2,7 @@ collections:
   our-parents-hub:
     output: true
     order:
+      - Service Providers.md
       - Big Heart Student Care.md
       - Book lists & Uniform.md
       - Parents' Resources/.keep
