@@ -2,10 +2,10 @@ collections:
   our-learning-experience:
     output: true
     order:
-      - Talent Development/Student Leadership.md
-      - Talent Development/ECG.md
-      - Talent Development/3E & Vanda.md
-      - Talent Development/Talent Development.md
       - Talent Development/.keep
+      - Talent Development/Talent Development.md
+      - Talent Development/3E & Vanda.md
+      - Talent Development/ECG.md
+      - Talent Development/Student Leadership.md
       - Environment Education.md
       - Thinking Dispositions.md
