@@ -2,5 +2,6 @@ collections:
   our-parents-hub:
     output: true
     order:
+      - Parents' Resources/Parents' Resources.md
       - Parents' Resources/.keep
       - Useful Information.md
