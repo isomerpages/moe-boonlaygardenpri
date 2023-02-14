@@ -2,7 +2,7 @@ collections:
   our-parents-hub:
     output: true
     order:
-      - Parents' Resources/MOE Sexuality Education.md
-      - Parents' Resources/Parents' Resources.md
       - Parents' Resources/.keep
+      - Parents' Resources/Parents' Resources.md
+      - Parents' Resources/MOE Sexuality Education.md
       - Useful Information.md
