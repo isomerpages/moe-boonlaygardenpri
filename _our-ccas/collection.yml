@@ -2,5 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
+      - Performing Arts/Chlir.md
       - Performing Arts/.keep
       - Our CCAs.md
