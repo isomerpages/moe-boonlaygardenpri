@@ -16,4 +16,10 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
+  - infobar:
+      title: HIGHLIGHTS
+      description: Check out our school's Facebook or Instagram page to find out more
+        about the exciting activities that takes place in the school!
+      button: Read More
+      url: https://www.facebook.com/BoonlaygardenPS
 ---
