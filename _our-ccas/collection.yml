@@ -2,9 +2,9 @@ collections:
   our-ccas:
     output: true
     order:
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Red Cross.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/STEM Club.md
