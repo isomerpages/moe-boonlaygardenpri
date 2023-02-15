@@ -3,9 +3,9 @@ links:
   - title: Our School
     url: /our-school/our-history
     sublinks:
-      - title: "Our History "
-        url: /our-school/our-history
       - title: Our Vision, Mission & Motto
+        url: /our-school/our-history
+      - title: "Our History "
         url: /our-school/our-history
       - title: Our People
         url: /our-people/2022-Form-Teachers/primary-1-n-2
