@@ -9,5 +9,11 @@ sections:
   - hero:
       background: /images/boonlay garden banner.gif
       title: Boon Lay Garden Primary School
+      key_highlights:
+        - title: Parents Gateway
+          description: ""
+          url: https://pg.moe.edu.sg/
+        - title: SLS Login
+          description: ""
+          url: https://vle.learning.moe.edu.sg/login
 ---
-
