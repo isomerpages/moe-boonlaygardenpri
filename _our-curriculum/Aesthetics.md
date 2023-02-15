@@ -48,4 +48,8 @@ For music, students learn to play a range of musical instruments. They are equip
 
 Similar to the Art development, the school has in place level-wide programmes to develop students’ musical talents across different areas such as Music & Movement, Percussion, Digital Drums, Recorders, Keyboard, Digital Music, Ukulele and Ensemble Playing.
 
+<img src="/images/aesthetics-5.jpg" style="width:40%">
+<img src="/images/aesthetics-6.jpg" style="width:60%">
+<img src="/images/aesthetics-7.jpg" style="width:40%">
+<center><i>Students having a variety of musical experiences as playing keyboards, percussion and digital drums during music lessons.<br>Simply music to our ears!</i></center>
 
