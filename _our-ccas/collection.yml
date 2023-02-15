@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Sports & Games/.keep
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Dance.md
