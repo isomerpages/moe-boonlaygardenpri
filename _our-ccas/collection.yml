@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Sports & Games/.keep
       - Sports & Games/Bowling.md
       - Sports & Games/Floorball.md
