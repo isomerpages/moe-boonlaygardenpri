@@ -23,15 +23,15 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/bowling.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/floorball.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/indian-dance/"><img src="/images/taekwondo.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/malay-dance/"><img src="/images/track%20and%20field.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/bowling/"><img src="/images/bowling.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/floorball/"><img src="/images/floorball.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/taekwondo/"><img src="/images/taekwondo.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/track-and-field/"><img src="/images/track%20and%20field.png"  style="width:100%"></a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="/our-ccas/Performing-Arts/malay-dance/"><img src="/images/wushu.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/wushu/"><img src="/images/wushu.png"  style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
