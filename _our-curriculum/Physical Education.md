@@ -59,4 +59,3 @@ The outdoors was used as a natural classroom, for our P5 students to develop rug
 <img src="/images/pe6.jpg" style="width:50%">
 <img src="/images/pe7.jpg" style="width:80%">
 <center><i>Working well with teammates during stream exploration and camp teambuilding activities.</i></center>
-
