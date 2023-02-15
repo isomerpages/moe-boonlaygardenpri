@@ -5,8 +5,6 @@ description: ""
 ---
 ### Our Goals
 
-![](/images/math6.jpg)
-
 To foster students’ interest in Mathematics and develop them to be Confident and Eager Problem-Solvers.  
   
 The Primary Mathematics Syllabus aims to enable all students to:  
