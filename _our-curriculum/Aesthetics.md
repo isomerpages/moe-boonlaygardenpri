@@ -53,3 +53,12 @@ Similar to the Art development, the school has in place level-wide programmes to
 <img src="/images/aesthetics-7.jpg" style="width:40%">
 <center><i>Students having a variety of musical experiences as playing keyboards, percussion and digital drums during music lessons.<br>Simply music to our ears!</i></center>
 
+**AESTHETICS WEEK**  
+
+During Aesthetics Week, we come together to celebrate student successes and talents in the aesthetics. Students and staff are treated to a myriad of arts performances, arts assembly, and hands-on arts activities. There are also open call performances and an art exhibition showcasing students’ musical and artistic talents, particularly in the popular ‘BLGPS Got Talent’ competition.
+
+<img src="/images/aesthetics-8.jpg" style="width:70%">
+<center><i>Exhibition around the school showcasing the students’ artworks done in class.</i></center>
+
+<img src="/images/aesthetics-9.jpg" style="width:70%">
+<center><i>Performers from our hot favourite event ‘BLGPS Got Talent’ performing to their peers and sharing their passion for music during the level recesses at the annual Aesthetics Week.</i></center>
