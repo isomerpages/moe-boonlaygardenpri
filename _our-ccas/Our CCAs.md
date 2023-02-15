@@ -48,3 +48,16 @@ description: ""
   </tr>
 </thead>
 </table>
+
+<h3>Uniformed Groups</h3>
+
+<table>
+<thead>
+  <tr>
+    <td><a href="/our-ccas/Clubs-and-Societies/art-club//"><img src="/images/art%20club.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Clubs-and-Societies/stem-club/"><img src="/images/STEM.png"  style="width:100%"></a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</thead>
+</table>
