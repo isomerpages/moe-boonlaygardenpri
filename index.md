@@ -16,6 +16,9 @@ sections:
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
+        - title: Announcements
+          description: Click here for announcements
+          url: /announcements
   - infobar:
       title: HIGHLIGHTS
       description: Check out our school's Facebook or Instagram page to find out more
