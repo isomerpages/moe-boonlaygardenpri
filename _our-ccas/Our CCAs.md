@@ -31,7 +31,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a href="/our-ccas/Sports-and-Games/wushu/"><img src="/images/wushu.png"  style="width:93%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/wushu/"><img src="/images/wushu.png"  style="width:90%"></a></td>
   </tr>
 </tbody>
 </table>
@@ -59,3 +59,5 @@ description: ""
   </tr>
 </thead>
 </table>
+
+11122
