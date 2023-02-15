@@ -2,11 +2,11 @@ collections:
   our-ccas:
     output: true
     order:
-      - Clubs & Societies/Environmental Club.md
-      - Clubs & Societies/AV & Media Club.md
-      - Clubs & Societies/STEM Club.md
-      - Clubs & Societies/Art Club.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/STEM Club.md
+      - Clubs & Societies/AV & Media Club.md
+      - Clubs & Societies/Environmental Club.md
       - Sports & Games/.keep
       - Sports & Games/Bowling.md
       - Sports & Games/Floorball.md
