@@ -36,4 +36,3 @@ Cultural stories, songs, proverbs and practices hold a wealth of knowledge for t
 **CCE - PROGRAMME FOR ACTIVE LEARNING (PAL)**  
 
 PAL is offered at the Primary 1 and 2 levels and it focuses on experiential and hands-on learning through the domains of Visual and Performing Arts, Outdoor Education, and Sports and Games. There are great opportunities for students to experiment, explore and interact with their peers, and in doing so, students develop positive dispositions such as being curious about the world, and belief in personal ability to overcome challenges.
-
