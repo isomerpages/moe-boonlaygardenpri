@@ -11,9 +11,9 @@ description: ""
 <thead>
   <tr>
     <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/choir1.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/chinese%20dance.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/indian-dance/"><img src="/images/indian%20dance1.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/malay-dance/"><img src="/images/malay%20dance.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/chinese%20dance.png"  style="width:97%"></a></td>
+    <td><a href="/our-ccas/Performing-Arts/indian-dance/"><img src="/images/indian%20dance1.png"  style="width:97%"></a></td>
+    <td><a href="/our-ccas/Performing-Arts/malay-dance/"><img src="/images/malay%20dance.png"  style="width:95%"></a></td>
   </tr>
 </thead>
 </table>
@@ -23,7 +23,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><a href="/our-ccas/Sports-and-Games/bowling/"><img src="/images/bowling.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Sports-and-Games/bowling/"><img src="/images/bowling1.png"  style="width:82%"></a></td>
     <td><a href="/our-ccas/Sports-and-Games/floorball/"><img src="/images/floorball.png"  style="width:100%"></a></td>
     <td><a href="/our-ccas/Sports-and-Games/taekwondo/"><img src="/images/taekwondo.png"  style="width:100%"></a></td>
     <td><a href="/our-ccas/Sports-and-Games/track-and-field/"><img src="/images/track%20and%20field.png"  style="width:100%"></a></td>
