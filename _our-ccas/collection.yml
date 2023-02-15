@@ -2,9 +2,9 @@ collections:
   our-ccas:
     output: true
     order:
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Indian Dance.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Choir.md
-      - Performing Arts/.keep
       - Our CCAs.md
