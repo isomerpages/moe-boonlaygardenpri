@@ -41,10 +41,10 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/art%20club.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/choir/"><img src="/images/STEM.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/indian-dance/"><img src="/images/AV%20&%20Media%20Club.png"  style="width:100%"></a></td>
-    <td><a href="/our-ccas/Performing-Arts/malay-dance/"><img src="/images/environmental%20club.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Clubs-and-Societies/art-club//"><img src="/images/art%20club.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Clubs-and-Societies/stem-club/"><img src="/images/STEM.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Clubs-and-Societies/av-n-media-club/"><img src="/images/AV%20&%20Media%20Club.png"  style="width:100%"></a></td>
+    <td><a href="/our-ccas/Clubs-and-Societies/environmental-club/"><img src="/images/environmental%20club.png"  style="width:100%"></a></td>
   </tr>
 </thead>
 </table>
