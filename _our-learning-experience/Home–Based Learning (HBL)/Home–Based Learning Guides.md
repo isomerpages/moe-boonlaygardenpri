@@ -38,6 +38,8 @@ You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, 
 
 1.  [Step-by-step Guide to Video Conferencing with Teachers using Zoom](https://drive.google.com/file/d/1KUgormPD31MseRQ5uK9jRRAMVXZlXPgu/view?usp=sharing)
 
+
+
 2.  [Video guide to Video Conferencing with Teachers using Zoom](https://drive.google.com/file/d/1aXjvS7RyduUJa5dXjw3HnwB5dFQCoF12/view)
 
 ### ADDITIONAL SUPPORT
