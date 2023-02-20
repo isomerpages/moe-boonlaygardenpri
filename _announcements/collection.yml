@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Home–Based Learning (HBL).md
       - Effloresco 2023.md
