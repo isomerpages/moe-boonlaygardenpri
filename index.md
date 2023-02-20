@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/boonlay garden banner.gif
+      background: /images/BLGSHerobanner.gif
       title: Boon Lay Garden Primary School
       key_highlights:
         - title: Parents Gateway
