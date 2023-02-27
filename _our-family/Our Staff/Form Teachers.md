@@ -12,11 +12,11 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
