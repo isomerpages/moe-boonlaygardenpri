@@ -10,41 +10,40 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv">Designation</th>
-    <th class="tg-a4yv">Personnel</th>
-    <th class="tg-a4yv">Email</th>
+    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
+    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Principal</td>
-    <td class="tg-zr06">Mrs Christine Low</td>
-    <td class="tg-zr06">christine_lim@schools.gov.sg</td>
+    <td class="tg-baqh">Principal</td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">Mrs Christine Low</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">christine_lim@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Vice Principal </td>
-    <td class="tg-zr06">Mdm Ng Boon In </td>
-    <td class="tg-zr06">ng_boon_in@schools.gov.sg</td>
+    <td class="tg-baqh">Vice-Principal</td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">Mdm Ng Boon In</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">ng_boon_in@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Vice Principal (Administration)</td>
-    <td class="tg-zr06">Ms Tan Hui Yah</td>
-    <td class="tg-zr06">tan_hui_yah@schools.gov.sg</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Vice-Principal (A</span>dministration)</td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">Ms Tan Hui Yah</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">tan_hui_yah@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Master Teacher (Malay Language)</td>
-    <td class="tg-zr06">Mr Arshid Bin Abdullah</td>
-    <td class="tg-zr06">arshid_abdullah@schools.gov.sg</td>
+    <td class="tg-baqh">Master Teacher (Malay Language)</td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">Mr Arshid Bin Abdullah</span></td>
+    <td class="tg-f4yw"><span style="background-color:#FFF">arshid_abdullah@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
-
 ### Heads of Department and Year Heads
 
 <style type="text/css">
