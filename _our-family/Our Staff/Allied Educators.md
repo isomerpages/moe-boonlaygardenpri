@@ -10,53 +10,53 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-8rui{background-color:#FFF;color:#484848;text-align:left;vertical-align:middle}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Email</span></th>
+    <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Personnel</span></th>
+    <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Senior Student Welfare</td>
-    <td class="tg-zr06">Mdm Yan Yee Mun</td>
-    <td class="tg-zr06">yan_yee_mun@schools.gov.sg<br></td>
+    <td class="tg-06je"><span style="background-color:#FFF">Senior Student Welfare</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Yan Yee Mun</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">yan_yee_mun@schools.gov.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">School Counsellor</td>
-    <td class="tg-zr06">Mdm Eunice Wong</td>
-    <td class="tg-zr06">wong_xu_yun_eunice@schools.gov.sg </td>
+    <td class="tg-06je"><span style="background-color:#FFF">School Counsellor</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Eunice Wong</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">wong_xu_yun_eunice@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">School Counsellor</td>
-    <td class="tg-zr06">Ms G Maya Devi</td>
-    <td class="tg-zr06">g_maya_devi@schools.gov.sg </td>
+    <td class="tg-06je"><span style="background-color:#FFF">School Counsellor</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Ms G Maya Devi</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">g_maya_devi@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SEN Officer</td>
-    <td class="tg-zr06">Mdm Nurhayati</td>
-    <td class="tg-zr06">nurhayati_salim@schools.gov.sg </td>
+    <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Nurhayati</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">nurhayati_salim@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SEN Officer</td>
-    <td class="tg-zr06">Mdm Noor Laily</td>
-    <td class="tg-zr06">noor_laily_sukanda@schools.gov.sg </td>
+    <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Noor Laily</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">noor_laily_sukanda@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">SEN Officer</td>
-    <td class="tg-zr06">Ms Noraini</td>
-    <td class="tg-zr06">noraini_abbas@schools.gov.sg </td>
+    <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Ms Noraini</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">noraini_abbas@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">AEL (T&amp;L)</td>
-    <td class="tg-zr06">Mdm Norshila Abdul Rahman </td>
-    <td class="tg-zr06">norshila_abdul_rahman@schools.gov.sg</td>
+    <td class="tg-06je"><span style="background-color:#FFF">AEL (T&amp;L)</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Norshila Abdul Rahman</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">norshila_abdul_rahman@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
