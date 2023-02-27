@@ -60,9 +60,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Personnel</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
   </tr>
 </thead>
 <tbody>
@@ -119,7 +119,7 @@ description: ""
   <tr>
     <td class="tg-0lax">HOD Student Management</td>
     <td class="tg-cly1">Mr Mohamed Sahren</td>
-    <td class="tg-cly1">mohamed_sahren_mohd_salleh@<br>schools.gov.sg</td>
+    <td class="tg-cly1">mohamed_sahren_mohd_salleh@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Year Head Lower Block</td>
