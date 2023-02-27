@@ -10,51 +10,8 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-a4yv"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">Principal</td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Mrs Christine Low</span></td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">christine_lim@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Vice-Principal</td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Mdm Ng Boon In</span></td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">ng_boon_in@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Vice-Principal (A</span>dministration)</td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Ms Tan Hui Yah</span></td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">tan_hui_yah@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Master Teacher (Malay Language)</td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Mr Arshid Bin Abdullah</span></td>
-    <td class="tg-f4yw"><span style="background-color:#FFF">arshid_abdullah@schools.gov.sg</span></td>
-  </tr>
-</tbody>
-</table>
-### Heads of Department and Year Heads
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -66,74 +23,118 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1wig">School Staff Developer</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad Sah</td>
-    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
+    <td class="tg-amwm">Principal</td>
+    <td class="tg-nrix">Mrs Christine Low</td>
+    <td class="tg-nrix">christine_lim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD English Language</td>
-    <td class="tg-cly1">Mr Nicholas Cai<br></td>
-    <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
+    <td class="tg-amwm">Vice Principal </td>
+    <td class="tg-nrix">Mdm Ng Boon In </td>
+    <td class="tg-nrix">ng_boon_in@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Mother Tongue Languages</td>
-    <td class="tg-cly1">Ms Sewa Duu Jong<br></td>
-    <td class="tg-cly1">sewa_duu_jong@schools.gov.sg</td>
+    <td class="tg-amwm">Vice Principal (Administration)</td>
+    <td class="tg-nrix">Ms Tan Hui Yah</td>
+    <td class="tg-nrix">tan_hui_yah@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Mathematics</td>
-    <td class="tg-cly1">Mr Lim Yan Kian Jonathan</td>
-    <td class="tg-cly1">jonathan_lim@schools.gov.sg<br></td>
+    <td class="tg-amwm">Master Teacher (Malay Language)</td>
+    <td class="tg-nrix">Mr Arshid Bin Abdullah</td>
+    <td class="tg-nrix">arshid_abdullah@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+### Heads of Department and Year Heads
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Designation</th>
+    <th class="tg-a4yv">Personnel</th>
+    <th class="tg-a4yv">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-amwm">School Staff Developer</td>
+    <td class="tg-nrix">Mdm Norlita Muhamad Sah</td>
+    <td class="tg-nrix">norlita_muhamad_sah@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Science</td>
-    <td class="tg-cly1">Mrs Malvina Lie</td>
-    <td class="tg-cly1">ng_see_wei_malvina@schools.gov.sg</td>
+    <td class="tg-amwm">HOD English Language</td>
+    <td class="tg-nrix">Mr Nicholas Cai</td>
+    <td class="tg-nrix">cai_jinghao@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD PE &amp; Aesthetics</td>
-    <td class="tg-cly1">Mdm Chua Huay Wen</td>
-    <td class="tg-cly1">chua_huay_wen@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Mother Tongue Languages</td>
+    <td class="tg-nrix">Ms Sewa Duu Jong</td>
+    <td class="tg-nrix">sewa_duu_jong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Claudia Wong</td>
-    <td class="tg-cly1">wong_shi-lei@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Mathematics</td>
+    <td class="tg-nrix">Mr Lim Yan Kian Jonathan</td>
+    <td class="tg-nrix">jonathan_lim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Information Communications Technology</td>
-    <td class="tg-cly1">Mr Ng Ee Noch</td>
-    <td class="tg-cly1">ng_ee_noch@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Science</td>
+    <td class="tg-nrix">Mrs Malvina Lie</td>
+    <td class="tg-nrix">ng_see_wei_malvina@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Learning Needs</td>
-    <td class="tg-cly1">Mrs Annabelle Woo - Tay Cai Fang</td>
-    <td class="tg-cly1">annabelle_tay@schools.gov.sg<br></td>
+    <td class="tg-amwm">HOD PE &amp; Aesthetics</td>
+    <td class="tg-nrix">Mdm Chua Huay Wen</td>
+    <td class="tg-nrix">chua_huay_wen@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Special Educational Needs</td>
-    <td class="tg-cly1"> Mdm Nurashlyn Abdul Rashid</td>
-    <td class="tg-cly1">nurashlyn_abdul_rashid@schools.gov.sg </td>
+    <td class="tg-amwm">HOD Character &amp; Citizenship Education</td>
+    <td class="tg-nrix">Ms Claudia Wong</td>
+    <td class="tg-nrix">wong_shi-lei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">HOD Student Management</td>
-    <td class="tg-cly1">Mr Mohamed Sahren</td>
-    <td class="tg-cly1">mohamed_sahren_mohd_salleh@<br>schools.gov.sg</td>
+    <td class="tg-amwm">HOD Information Communications Technology</td>
+    <td class="tg-nrix">Mr Ng Ee Noch</td>
+    <td class="tg-nrix">ng_ee_noch@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Year Head Lower Block</td>
-    <td class="tg-cly1">Mrs Jasmine Ng</td>
-    <td class="tg-cly1">jasmine_susie_tan@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Learning Needs</td>
+    <td class="tg-nrix">Mrs Annabelle Woo - Tay Cai Fang</td>
+    <td class="tg-nrix">annabelle_tay@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Year Head Middle Block</td>
-    <td class="tg-cly1">Ms Chan Shi Ya Grace </td>
-    <td class="tg-cly1">grace_chan@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Special Educational Needs</td>
+    <td class="tg-nrix"> Mdm Nurashlyn Abdul Rashid</td>
+    <td class="tg-nrix">nurashlyn_abdul_rashid@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">Year Head Upper Block</td>
-    <td class="tg-cly1">Mr Peter Yeo Yong Heng</td>
-    <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
+    <td class="tg-amwm">HOD Student Management</td>
+    <td class="tg-nrix">Mr Mohamed Sahren</td>
+    <td class="tg-nrix">mohamed_sahren_mohd_salleh@<br>schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Year Head Lower Block</td>
+    <td class="tg-nrix">Mrs Jasmine Ng</td>
+    <td class="tg-nrix">jasmine_susie_tan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Year Head Middle Block</td>
+    <td class="tg-nrix">Ms Chan Shi Ya Grace </td>
+    <td class="tg-nrix">grace_chan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Year Head Upper Block</td>
+    <td class="tg-nrix">Mr Peter Yeo Yong Heng</td>
+    <td class="tg-nrix">yeo_yong_heng_peter@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
