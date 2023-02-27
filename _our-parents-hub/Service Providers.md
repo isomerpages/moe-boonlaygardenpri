@@ -17,8 +17,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">School Bookshop</th>
-    <th class="tg-ktyi">Eng Seng Book Store<br>25 Bukit Batok Crescent #02-04 Singapore 658066<br>Tel: <a href="tel:65655183"><span style="text-decoration:none;color:#155A43">6565 5183</span></a></th>
+    <td class="tg-9hzb">School Bookshop</td>
+    <td class="tg-ktyi">Eng Seng Book Store<br>25 Bukit Batok Crescent #02-04 Singapore 658066<br>Tel: <a href="tel:65655183"><span style="text-decoration:none;color:#155A43">6565 5183</span></a></td>
   </tr>
 </thead>
 <tbody>
