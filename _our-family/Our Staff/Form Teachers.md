@@ -12,64 +12,61 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Class</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Form Teachers</span></th>
-    <th class="tg-a4yv"> Email</th>
+    <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Form Teachers</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">1 Responsibility<br></td>
-    <td class="tg-7yig">Miss Tan Yan Ting<br><span style="background-color:initial">Mr Roslan Abu</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">tan_yan_ting@schools.gov.sg</span><br><span style="background-color:initial">roslan_b_abu@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Responsibility</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Miss Tan Yan Ting</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mr Roslan Abu</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">tan_yan_ting@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">roslan_b_abu@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Resilience</td>
-    <td class="tg-7yig"><span style="background-color:initial">Miss Victoria Wong Zi Qing</span><br><span style="background-color:initial">Mdm Rita Salamoon</span></td>
-    <td class="tg-7yig">victoria_wong_zi_qing@schools.gov.sg<br><span style="background-color:initial">rita_salamoon@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Resilience</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Miss Victoria Wong Zi Qing</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Rita Salamoon</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">victoria_wong_zi_qing@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">rita_salamoon@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Respect</td>
-    <td class="tg-7yig">Mrs Khan-Nur Zakiah Ahmad<br>Mdm Chua Huay Wen</td>
-    <td class="tg-7yig"><span style="background-color:initial">nur_zakiah_ahmad@schools.gov.sg</span><br>chua_huay_wen<span style="background-color:initial">@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Respect</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Khan-Nur Zakiah Ahmad</span><br><span style="background-color:#FFF">Mdm Chua Huay Wen</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">nur_zakiah_ahmad@schools.gov.sg</span><br><span style="background-color:#FFF">chua_huay_wen</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Integrity</td>
-    <td class="tg-7yig">Mdm Shuhada Baharum<br>Mr Kuay Chau Ann</td>
-    <td class="tg-7yig">shuhada_baharum@schools.gov.sg<br>kuay_chau_ann@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Integrity</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Shuhada Baharum</span><br><span style="background-color:#FFF">Mr Kuay Chau Ann</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">shuhada_baharum@schools.gov.sg</span><br><span style="background-color:#FFF">kuay_chau_ann@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Cooperation</td>
-    <td class="tg-7yig">Mdm Murni Mohd Sani<br>Mdm Shu Xiao Mei</td>
-    <td class="tg-7yig">murni_mohamed_sani@schools.gov.sg<br>shu_xiaomei@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Cooperation</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Murni Mohd Sani</span><br><span style="background-color:#FFF">Mdm Shu Xiao Mei</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">murni_mohamed_sani@schools.gov.sg</span><br><span style="background-color:#FFF">shu_xiaomei@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Care</td>
-    <td class="tg-7yig">Mrs Ong - Lye Chiew Min<br>Mr Muhammad Ariff Bin Mohd Noor</td>
-    <td class="tg-7yig">lye_chiew_min@schools.gov.sg<br><span style="background-color:initial">muhammad_Ariff_Mohd_Noor@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Care</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Ong - Lye Chiew Min</span><br><span style="background-color:#FFF">Mr Muhammad Ariff Bin Mohd Noor</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">lye_chiew_min@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">muhammad_Ariff_Mohd_Noor@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Harmony</td>
-    <td class="tg-f4yw">Mdm Nur Liyana Bte Mohd. Zulkiflee<br>Mrs Leong Hwee Peng<br>Miss Lynnette Loh Si Hui</td>
-    <td class="tg-7yig">nur_liyana_mohammad_zulkiflee<span style="background-color:initial">@schools.gov.sg</span><br>tan_hwee_peng@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Harmony</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nur Liyana Bte Mohd. Zulkiflee</span><br><span style="background-color:#FFF">Mrs Leong Hwee Peng</span><br><span style="background-color:#FFF">Miss Lynnette Loh Si Hui</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">nur_liyana_mohammad_zulkiflee</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">@schools.gov.sg</span><br><span style="background-color:#FFF">tan_hwee_peng@schools.gov.sg</span><br><span style="background-color:#FFF">lynnette_loh_si_hui@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06">1 Joy<br></td>
-    <td class="tg-f4yw">Ms Nerissa Tiong<br>Mdm P Veshallini</td>
-    <td class="tg-7yig">tiong_wei_wen_nerissa@schools.gov.sg<br>p_veshallini@schools.gov.sg</td>
+    <td class="tg-zr06"><span style="background-color:#FFF">1 Joy</span><br></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Nerissa Tiong</span><br><span style="background-color:#FFF">Mdm P Veshallini</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">tiong_wei_wen_nerissa@schools.gov.sg</span><br><span style="background-color:#FFF">p_veshallini@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
-
 ### Primary 2
 
 <style type="text/css">
