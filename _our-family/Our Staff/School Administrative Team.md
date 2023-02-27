@@ -10,8 +10,8 @@ third_nav_title: Our Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:normal;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:normal;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
