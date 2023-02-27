@@ -147,9 +147,9 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -161,59 +161,59 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1wig">LH English Language </td>
-    <td class="tg-cly1">Ms Joy Amisha Keshyap </td>
-    <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg </td>
+    <td class="tg-amwm">LH English Language </td>
+    <td class="tg-nrix">Ms Joy Amisha Keshyap </td>
+    <td class="tg-nrix">joy_amisha_keshyap@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">LH Mathematics<br></td>
-    <td class="tg-cly1">Mdm Brenda Zhou<br></td>
-    <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg<br></td>
+    <td class="tg-amwm">LH Mathematics</td>
+    <td class="tg-nrix">Mdm Brenda Zhou</td>
+    <td class="tg-nrix">zhou_huifang_brenda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">LH Science<br></td>
-    <td class="tg-cly1">Mrs Liu Ying Hui<br></td>
-    <td class="tg-cly1">tan_ying_hui@schools.gov.sg<br></td>
+    <td class="tg-amwm">LH Science</td>
+    <td class="tg-nrix">Mrs Liu Ying Hui</td>
+    <td class="tg-nrix">tan_ying_hui@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Talent Development &amp;<span style="background-color:initial">Education Career Guidance</span> </td>
-    <td class="tg-cly1">Mrs Serena Ong</td>
-    <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg </td>
+    <td class="tg-amwm">SH Talent Development &amp;<span style="background-color:initial">Education Career Guidance</span> </td>
+    <td class="tg-nrix">Mrs Serena Ong</td>
+    <td class="tg-nrix">tan_jia_yi_serena@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH National Education &amp; Social Studies<br></td>
-    <td class="tg-cly1">Mr Shaun Lim<br></td>
-    <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg<br></td>
+    <td class="tg-amwm">SH National Education &amp; Social Studies</td>
+    <td class="tg-nrix">Mr Shaun Lim</td>
+    <td class="tg-nrix">lim_jek_ming_shaun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Values in Action<br></td>
-    <td class="tg-cly1">Ms Loo Hui Wen<br></td>
-    <td class="tg-cly1">loo_hui_wen@schools.gov.sg<br></td>
+    <td class="tg-amwm">SH Values in Action</td>
+    <td class="tg-nrix">Ms Loo Hui Wen</td>
+    <td class="tg-nrix">loo_hui_wen@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Student Well Being<br></td>
-    <td class="tg-cly1">Mrs Alfie - Nurul <br></td>
-    <td class="tg-cly1">nurul_shalwa_rohim@schools.gov.sg<br></td>
+    <td class="tg-amwm">SH Student Well Being</td>
+    <td class="tg-nrix">Mrs Alfie - Nurul </td>
+    <td class="tg-nrix">nurul_shalwa_rohim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Data &amp; KnowledgeManagement</td>
-    <td class="tg-cly1">Mr Kho Murphy<br></td>
-    <td class="tg-cly1">kho_chaw_seng@schools.gov.sg<br></td>
+    <td class="tg-amwm">SH Data &amp; Knowledge Management</td>
+    <td class="tg-nrix">Mr Kho Murphy</td>
+    <td class="tg-nrix">kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Innovation<br></td>
-    <td class="tg-cly1">Mrs Sherrie Chang<br></td>
-    <td class="tg-cly1">sherrie_tan@schools.gov.sg<br></td>
+    <td class="tg-amwm">SH Innovation</td>
+    <td class="tg-nrix">Mrs Sherrie Chang</td>
+    <td class="tg-nrix">sherrie_tan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">SH Partnership &amp; Publicity </td>
-    <td class="tg-cly1">Ms Lydia Lam</td>
-    <td class="tg-cly1">lam_lydia@schools.gov.sg </td>
+    <td class="tg-amwm">SH Partnership &amp; Publicity </td>
+    <td class="tg-nrix">Ms Lydia Lam</td>
+    <td class="tg-nrix">lam_lydia@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-1wig">Assistant Year Head Middle Block<br></td>
-    <td class="tg-cly1">Ms Ainah Saaban<br></td>
-    <td class="tg-cly1">ainah_saaban@schools.gov.sg<br></td>
+    <td class="tg-amwm">Assistant Year Head Middle Block</td>
+    <td class="tg-nrix">Ms Ainah Saaban</td>
+    <td class="tg-nrix">ainah_saaban@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
