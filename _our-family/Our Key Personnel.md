@@ -9,38 +9,38 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv">Designation</th>
-    <th class="tg-a4yv">Personnel</th>
-    <th class="tg-a4yv">Email</th>
+    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-amwm">Principal</td>
-    <td class="tg-nrix">Mrs Christine Low</td>
-    <td class="tg-nrix">christine_lim@schools.gov.sg</td>
+    <td class="tg-0lax">Principal</td>
+    <td class="tg-cly1">Mrs Christine Low</td>
+    <td class="tg-cly1">christine_lim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-amwm">Vice Principal </td>
-    <td class="tg-nrix">Mdm Ng Boon In </td>
-    <td class="tg-nrix">ng_boon_in@schools.gov.sg</td>
+    <td class="tg-0lax">Vice Principal</td>
+    <td class="tg-cly1">Mdm Ng Boon In</td>
+    <td class="tg-cly1">ng_boon_in@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-amwm">Vice Principal (Administration)</td>
-    <td class="tg-nrix">Ms Tan Hui Yah</td>
-    <td class="tg-nrix">tan_hui_yah@schools.gov.sg</td>
+    <td class="tg-0lax">Vice Principal (Administration)</td>
+    <td class="tg-cly1">Ms Tan Hui Yah</td>
+    <td class="tg-cly1">tan_hui_yah@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-amwm">Master Teacher (Malay Language)</td>
-    <td class="tg-nrix">Mr Arshid Bin Abdullah</td>
-    <td class="tg-nrix">arshid_abdullah@schools.gov.sg</td>
+    <td class="tg-0lax">Master Teacher (Malay Language)</td>
+    <td class="tg-cly1">Mr Arshid Bin Abdullah</td>
+    <td class="tg-cly1">arshid_abdullah@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
