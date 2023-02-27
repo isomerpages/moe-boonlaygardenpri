@@ -227,9 +227,9 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -241,39 +241,39 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5"><span style="background-color:initial">ST Learning Needs</span>(Educational Support)</td>
-    <td class="tg-zr06">Mrs Ross Mathilda Wong</td>
-    <td class="tg-zr06">ross_mathilda@schools.gov.sg</td>
+    <td class="tg-amwm"><span style="background-color:initial">ST Learning Needs</span>(Educational Support)</td>
+    <td class="tg-nrix">Mrs Ross Mathilda Wong</td>
+    <td class="tg-nrix">ross_mathilda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5"><span style="background-color:initial">ST Learning Needs</span>(Educational Support)</td>
-    <td class="tg-zr06">Mrs Leong Hwee Peng</td>
-    <td class="tg-zr06">tan_hwee_peng@schools.gov.sg</td>
+    <td class="tg-amwm"><span style="background-color:initial">ST Learning Needs</span>(Educational Support)</td>
+    <td class="tg-nrix">Mrs Leong Hwee Peng</td>
+    <td class="tg-nrix">tan_hwee_peng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ST Learning Needs<br>(High Ability Learners) </td>
-    <td class="tg-zr06">Ms Grace Phang Xiu Zhen </td>
-    <td class="tg-zr06">phang_xiu_zhen_grace@schools.gov.sg </td>
+    <td class="tg-amwm">ST Learning Needs<br>(High Ability Learners) </td>
+    <td class="tg-nrix">Ms Grace Phang Xiu Zhen </td>
+    <td class="tg-nrix">phang_xiu_zhen_grace@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ST Mathematics<br></td>
-    <td class="tg-zr06">Ms Karen Tan Lian Nah </td>
-    <td class="tg-zr06">karen_Ln_tan@schools.gov.sg  </td>
+    <td class="tg-amwm">ST Mathematics</td>
+    <td class="tg-nrix">Ms Karen Tan Lian Nah </td>
+    <td class="tg-nrix">karen_Ln_tan@schools.gov.sg  </td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ST Tamil Language</td>
-    <td class="tg-zr06">Mrs Maha-Ganesan Mahalatchimi</td>
-    <td class="tg-ktyi">ganesan_mahalatchimi@schools.gov.sg </td>
+    <td class="tg-amwm">ST Tamil Language</td>
+    <td class="tg-nrix">Mrs Maha-Ganesan Mahalatchimi</td>
+    <td class="tg-baqh">ganesan_mahalatchimi@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ST Malay Language<br></td>
-    <td class="tg-zr06">Mdm Siti Nur Baeyah<br></td>
-    <td class="tg-zr06">siti_nur_baeyah_karim@schools.gov.sg<br></td>
+    <td class="tg-amwm">ST Malay Language</td>
+    <td class="tg-nrix">Mdm Siti Nur Baeyah</td>
+    <td class="tg-nrix">siti_nur_baeyah_karim@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ST PE &amp; PAL<br></td>
-    <td class="tg-zr06">Mr Roslan Abu<br></td>
-    <td class="tg-zr06">roslan_b_abu@schools.gov.sg</td>
+    <td class="tg-amwm">ST PE &amp; PAL</td>
+    <td class="tg-nrix">Mr Roslan Abu</td>
+    <td class="tg-nrix">roslan_b_abu@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
