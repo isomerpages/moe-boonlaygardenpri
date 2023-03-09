@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BLGSHerobanner.gif
+      background: /images/Banner GIF.gif
       key_highlights:
         - title: Parents Gateway
           description: ""
