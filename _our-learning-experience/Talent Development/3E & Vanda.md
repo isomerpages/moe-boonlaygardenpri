@@ -23,15 +23,13 @@ To do this, the school intentionally plans and implements programmes according t
 VANDA refers to the reflective journey taken by students as they progress through their strength discovery and development stages under 3E. This includes guided reflections on Student Learning Space, teacher-student conversations and the VANDA recognition awards (Seed, Bloom and Blossom) to affirm students’ efforts in growing their strengths. The Blossom award in particular, recognizes students’ strengths development and their efforts in contributing to the school or the community. This is done through Student-initiated Projects where students are mentored by teachers in implementing an initiative to improve or benefit the school and the community.
 
 <img src="/images/Picture1.png" 
-     style="width:60%">
+     style="width:100%">
 		 
 #### Key Programmes
 
 **LEARNING BUFFET: A DISCOVERY OF STRENGTHS THROUGH CAREER-RELATED LEARNING**
 
 Our annual Learning Buffet takes P4-6 students on learning journeys for a taste of on-the-job training. Students are presented with a wide range of industries and professions and have the autonomy to attend a workshop that best suits their interests and aspirational preference. Through career-related learning opportunities, students hear from industry experts on their roles and responsibilities and get to have hands-on practice at certain skillsets.
-
-  
 
 For example, our P5 students explored careers in the Investigative and Technological industry related to Green Jobs. In collaboration with NTU, they explored Environmental Engineering careers with NTU undergraduates in the Environmental Engineering faculty. They were given opportunities beyond the conventional classroom environment to work in the NTU laboratory on purifying water.
 
