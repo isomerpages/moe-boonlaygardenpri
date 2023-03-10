@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <img src="/images/stjohn.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
 ### Goals
 
