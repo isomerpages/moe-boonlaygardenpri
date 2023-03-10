@@ -240,12 +240,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span>(Educational Support)</td>
+    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span><br>(Educational Support)</td>
     <td class="tg-0kax">Mrs Mathilda Wong</td>
     <td class="tg-0kax">ross_mathilda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span>(Educational Support)</td>
+    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span><br>(Educational Support)</td>
     <td class="tg-0kax">Mrs Leong Hwee Peng</td>
     <td class="tg-0kax">tan_hwee_peng@schools.gov.sg</td>
   </tr>
