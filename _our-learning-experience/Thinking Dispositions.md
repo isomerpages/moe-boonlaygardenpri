@@ -12,23 +12,23 @@ Our school’s Applied Learning Programme (ALP) aims to develop students as thin
 Our students’ thinking dispositions are developed through using Habits of Mind. This is a well-researched set of 16 Habits that guide students in solving problems, especially when the solutions are not immediately known or direct. In the face of increasing uncertainties and complexities in our world, students become successful problem-solvers when they can elicit contextual clues and skilfully employ these thinking dispositions.
 
 <img src="/images/1%20.png" 
-     style="width:40%">
+     style="width:100%">
 <img src="/images/2%20.png" 
-     style="width:40%">
+     style="width:100%">
 <center><i>The 16 Habits of Mind students learn.</i></center>
 
 ### Key Programmes
 
 <img src="/images/Two%20Pronged%20Approach.jpg" 
-     style="width:60%">
+     style="width:100%">
 
 **BUILDING FOUNDATIONS**  
 
 Primary 1 and 2 students are introduced and explicitly taught the suite of 16 Habits. This helps students understand the Habits and how these can be applied in daily lives. An interactive hands-on approach is used alongside instructional videos.
 
 <img src="/images/3%20.png" 
-     style="width:70%">
-<center><i>Students thinking interdependently and listening to others with empathy and understanding, by using Lego bricks to solve the challenges set together.</i></center>
+     style="width:100%">
+<caption><center><i>Students thinking interdependently and listening to others with empathy and understanding, by using Lego bricks to solve the challenges set together.</i></caption></center>
 
 **STRENGTHENING THE CORE**
 
