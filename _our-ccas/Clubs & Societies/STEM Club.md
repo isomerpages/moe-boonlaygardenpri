@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <img src="/images/STEM-Club.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
-### Goals
+### Our Goals
 
 BLGPS STEM Club aims to develop students' critical and innovative thinking through meaningful application of STEM concepts and activities that encourage 21st century skills such as problem solving and decision making.
 
   
 
-### Approach
+### Our Approach
 
 To enhance students' learning, students participate in various competitions such as the National Coding competition and The Singapore Amazing Flying Machine competition.
 
@@ -21,8 +21,11 @@ To enhance students' learning, students participate in various competitions such
 
 ### Teachers-In-Charge
 
-Ms Rufihaza Ramlee (I/C) <br>
-Mr Leong Zhi Wei (Co I/C) <br>
-Mrs Hor-Nicole Yeap <br>
-Mrs Liu Ying Hui <br>
-Mrs Sherrie Chang
+Mrs Kee - Evelyn Poon (I/C)  <br>
+Mrs Hor-Nicole Yeap (Co I/C)  <br>
+Mrs Liu Ying Hui<br>
+Mrs Sherrie Chang<br>
+Mrs Brenda Choon<br>
+Ms Grace Phang Xiu Zhen  <br>
+Miss Klara Chua Mei Chin<br>
+Ms Liow Jia Zhen
