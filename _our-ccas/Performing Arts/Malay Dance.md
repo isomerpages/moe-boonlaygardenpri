@@ -19,6 +19,5 @@ In weekly sessions, students are guided to appreciate the beauty of dance and to
 
 Mdm Norlaily (I/C)<br>
 Mdm Irdawati (Co I/C)<br>
-Ms Nur Marina Somdi<br>
-Mdm Siti Nur Baeyah Karim<br>
-
+Mdm Nur Marina <br>
+Mdm Siti Nur Baeyah<br>
