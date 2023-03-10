@@ -27,5 +27,5 @@ Mrs Liu Ying Hui<br>
 Mrs Sherrie Chang<br>
 Mrs Brenda Choon<br>
 Ms Grace Phang Xiu Zhen  <br>
-Miss Klara Chua Mei Chin<br>
+Ms Klara Chua Mei Chin<br>
 Ms Liow Jia Zhen
