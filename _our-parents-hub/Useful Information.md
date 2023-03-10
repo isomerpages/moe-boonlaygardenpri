@@ -65,7 +65,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">Mon to Fri</td>
+    <td class="tg-nrix">Monday to Friday</td>
     <td class="tg-nrix">6.00am to 7.00pm</td>
     <td class="tg-nrix">7.30am to 5.30pm</td>
   </tr>
