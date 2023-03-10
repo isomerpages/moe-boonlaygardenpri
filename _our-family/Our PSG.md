@@ -50,6 +50,4 @@ Apart from termly meetings and workshops, our PSG parents engage and empower the
 If you would like to be part of the PSG family, please scan the following QR code to fill in a form and send an email to Ms Lydia at [lam_lydia@schools.gov.sg](mailto:lam_lydia@schools.gov.sg) upon completing the form. Thank you!
 
 <img src="/images/PSG012.png" 
-     style="width:50%">
-
-
+     style="width:20%">
