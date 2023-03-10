@@ -26,5 +26,3 @@ Mr Steven Pua (Co I/C)<br>
 Mrs Anne Marie De Souza  <br>
 Mrs Fahmy
 
-<img src="/images/scouts_2.jpeg" 
-     style="width:100%">
