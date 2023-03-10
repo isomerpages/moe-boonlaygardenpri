@@ -4,7 +4,6 @@ permalink: /our-school/our-vision-mission-and-motto/
 description: ""
 ---
 ### OUR VISION, MISSION AND MOTTO
-![](/images/Our%20Mission%20(1).png)
 
 School Vision: **The Garden Where Diversity Blossoms**
 
