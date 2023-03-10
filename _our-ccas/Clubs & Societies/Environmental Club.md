@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <img src="/images/Environment-Club.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
 ### Goals  
 
