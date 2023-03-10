@@ -22,7 +22,8 @@ In weekly training, students are guided in techniques such as holding the ball, 
 ### Teachers-In-Charge
 
 Mrs Khan-Nur Zakiah Ahmad(I/C) <br>
-Mr Dennis Loh (2nd IC) <br>
-Ms Suhaila <br>
-Mr Hairil <br>
-Mdm Norazleen Binte Osman
+Mr Hairil (Co- I/C) <br>
+Mdm Lim Su Ru<br>
+Ms Michelle Chow<br>
+
+
