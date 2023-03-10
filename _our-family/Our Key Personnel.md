@@ -83,7 +83,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax">HOD Mathematics</td>
-    <td class="tg-cly1">Mr Lim Yan Kian Jonathan</td>
+    <td class="tg-cly1">Mr Jonathan Lim</td>
     <td class="tg-cly1">jonathan_lim@schools.gov.sg</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax">HOD Special Educational Needs</td>
-    <td class="tg-cly1">Mdm Nurashlyn Abdul Rashid</td>
+    <td class="tg-cly1">Mdm Nurashlyn</td>
     <td class="tg-cly1">nurashlyn_abdul_rashid@schools.gov.sg</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax">Year Head Upper Block</td>
-    <td class="tg-cly1">Mr Peter Yeo Yong Heng</td>
+    <td class="tg-cly1">Mr Peter Yeo</td>
     <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
   </tr>
 </tbody>
@@ -162,7 +162,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax">LH English Language</td>
-    <td class="tg-cly1">Ms Joy Amisha Keshyap</td>
+    <td class="tg-cly1">Ms Joy Amisha </td>
     <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg</td>
   </tr>
   <tr>
