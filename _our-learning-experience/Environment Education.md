@@ -9,7 +9,7 @@ To empower every student to be a confident advocate and steward for the environm
 
 ### Our Approach
 
-Through a structured 6 year programme, with a Head, Heart and Hands approach, students are equipped with knowledge on environmental issues and challenges, and relevant skills to mitigate these challenges to become advocates to promote environment sustainability in the community.
+Our Learn for Life Programme is a 6 year programme, with a Head, Heart and Hands approach, students are equipped with knowledge on environmental issues and challenges, and relevant skills to mitigate these challenges to become advocates to promote environment sustainability in the community.
 
 It is a journey where students develop the empathy and heart to take care of their environment and blossom into eco-stewards who advocate with their mastery of KSA.
 
