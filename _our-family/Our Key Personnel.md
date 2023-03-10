@@ -176,7 +176,7 @@ description: ""
     <td class="tg-cly1">tan_ying_hui@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Talent Development & amp;<span style="font-style:inherit;background-color:initial">Education Career Guidance</span></td>
+    <td class="tg-0lax">SH Talent Development &amp;<span style="font-style:inherit;background-color:initial"> Education Career Guidance</span></td>
     <td class="tg-cly1">Mrs Serena Ong</td>
     <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg</td>
   </tr>
