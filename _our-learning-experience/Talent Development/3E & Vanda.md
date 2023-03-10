@@ -4,6 +4,10 @@ permalink: /our-learning-experience/Talent-Development/3e-vanda/
 description: ""
 third_nav_title: Talent Development
 ---
+### Our Goals
+
+We believe that every child is different and has unique strengths. We strive to guide every student in exploring their interests and discovering their strengths, grow their dreams and achieve their aspirations.
+
 ### Our Approach
 
 Through a strengths-based approach, the school guides students to discover their unique natural talents, apply effort and energy to develop their skills, and grow their knowledge so that these natural abilities blossom into strengths.  
@@ -52,4 +56,3 @@ The Future of Us carnival is a digital platform where students explore a rich de
 <img src="/images/Annotation%202022-11-04%20083257.jpg" 
      style="width:40%">
 <center><i>Mini-challenge for cooking.</i></center>
-
