@@ -10,10 +10,10 @@ To facilitate active learning in a blended learning environment to strengthen st
 ### Our Approach
 
 <img src="/images/ALP1.png" 
-     style="width:50%">
+     style="width:90%">
 		 
 <img src="/images/ALP2.png" 
-     style="width:50%">
+     style="width:90%">
 		 
 ### Key Programmes
 
