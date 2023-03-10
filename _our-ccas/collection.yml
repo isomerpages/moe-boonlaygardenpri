@@ -2,7 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - test.md
       - Our CCAs.md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
