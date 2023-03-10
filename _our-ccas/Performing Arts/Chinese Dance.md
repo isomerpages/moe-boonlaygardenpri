@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <img src="/images/chinese%20dance.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
 ### Our Goals
 
@@ -21,7 +21,8 @@ In weekly practices, students are taught specific stretching exercises and dance
 
 ### Teachers-In-Charge
 
-Ms Jacinda Ng (I/C) <br>
-Mrs Koh- Chua Jie Min (Co I/C) <br>
-Ms Lye Cheng Wai, Lilian <br>
-Ms Tong Jin Sui
+Ms Tong Jin Sui (I/C)<br>
+Mrs Koh- Chua Jie Min (Co I/C)<br>
+Ms Lye Cheng Wai, Lilian<br>
+Ms Jacinda Ng<br>
+Ms Lim Mei Zhi
