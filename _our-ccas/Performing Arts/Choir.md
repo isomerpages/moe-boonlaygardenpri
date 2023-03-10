@@ -20,4 +20,6 @@ Mrs Rachel Por (I/C) <br>
 Ms Cindy Chua (Co I/C) <br>
 Ms Siti Atikah Binte Mohd Ziham <br>
 Mrs Serena Ong <br>
-Mdm Shu Xiao Mei
+Mr Rosmani <br>
+Ms Lee Wan Er <br>
+
