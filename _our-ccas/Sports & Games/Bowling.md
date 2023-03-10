@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <img src="/images/Bowling.jpg" 
-     style="width:70%">
+     style="width:100%">
 		 
 ### Goals  
 
@@ -25,5 +25,3 @@ Mrs Khan-Nur Zakiah Ahmad(I/C) <br>
 Mr Hairil (Co- I/C) <br>
 Mdm Lim Su Ru<br>
 Ms Michelle Chow<br>
-
-
