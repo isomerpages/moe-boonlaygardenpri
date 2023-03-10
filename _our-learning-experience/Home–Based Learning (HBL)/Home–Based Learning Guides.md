@@ -13,10 +13,7 @@ Student Learning Space (SLS) can be accessed using : [learning.moe.edu.sg](http
 If you require support with SLS, you may email the following school staff/ teachers:  
 
 1.  [nursharminee_jumari@moe.edu.sg](mailto:nursharminee_jumari@moe.edu.sg) or
-2.  [norazleen_osman@moe.edu.sg](mailto:norazleen_osman@moe.edu.sg) (for P3 and P4 students) or
-3.  [ng_ee_noch@moe.edu.sg](mailto:ng_ee_noch@moe.edu.sg) (for P5 and P6 students)
-
-  
+2.  [ng_ee_noch@moe.edu.sg](mailto:ng_ee_noch@moe.edu.sg)
 
 You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, from 8 a.m. - 3 p.m.
 
