@@ -6,13 +6,13 @@ third_nav_title: Home–Based Learning (HBL)
 ---
 ### Important Announcement
 
-### BLGPS HBL CHECK-IN
+#### BLGPS HBL CHECK-IN
 
 **LOG INTO SLS TO COMPLETE YOUR DAILY CHECK-IN BY 8 A.M.**
 
-### SELECT YOUR FORM CLASS FOR ENGLISH, MATH AND SCIENCE SUBJECTS
+#### SELECT YOUR FORM CLASS FOR ENGLISH, MATH AND SCIENCE SUBJECTS
 
-<h3><center>Form Class</center></h3>
+<h5><center>Form Class</center></h5>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,7 +39,7 @@ third_nav_title: Home–Based Learning (HBL)
 </tbody>
 </table>
 
-<h3><center>MATH GROUPS</center></h3>
+<h5><center>Math Groups</center></h5>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,10 +72,9 @@ third_nav_title: Home–Based Learning (HBL)
 </tbody>
 </table>
 
-### SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE  AND CCE SUBJECTS.
+#### SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE  AND CCE SUBJECTS.
 
-
-<h3><center>Mother Tongue Class</center></h3>
+<h5><center>Mother Tongue Class</center></h5>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
