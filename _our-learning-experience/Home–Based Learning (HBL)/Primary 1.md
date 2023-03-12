@@ -6,11 +6,11 @@ third_nav_title: Home–Based Learning (HBL)
 ---
 ### Important Announcement
 
-### BLGPS HBL CHECK-IN
+#### BLGPS HBL CHECK-IN
 
 **LOG INTO SLS TO COMPLETE YOUR DAILY CHECK-IN BY 8 A.M.**
 
-### SELECT YOUR FORM CLASS FOR ENGLISH AND MATH SUBJECTS 
+#### SELECT YOUR FORM CLASS FOR ENGLISH AND MATH SUBJECTS 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
