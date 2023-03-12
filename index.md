@@ -13,8 +13,8 @@ sections:
           description: Click here for Newsway!
           url: /our-school/our-stories/
         - title: Highlights
-          description: Click here for our Facebook.
-          url: ""
+          description: Click for our Facebook page!
+          url: https://www.facebook.com/BoonlaygardenPS
         - title: Announcements
           description: Click here for announcements
           url: /announcements/home-based-learning-hbl
