@@ -18,13 +18,12 @@ It is a journey where students develop the empathy and heart to take care of the
 		 
 ### Key Programmes
 
-**EE-INFUSED PROJECT WORK**  
-
+#### EE-INFUSED PROJECT WORK
 Anchored on environmental themes under the Singapore Green Plan 2030, and differentiated at each level, the school’s signature EEPW enable students to develop an understanding on environmental challenges, acquire knowledge on the value of environmental responsibility and attain skills to meet the social and environmental challenges of the future.
 
 Students are engaged in authentic learning processes to understand the environmental related ecological / sociological issues such as waste management (P3), food scarcity (P4), and water scarcity (P5). Students are guided to analyse the various issues and develop innovative solutions to mitigate the issues. Students are also trained in presentation skills so as to help them in their advocacy effort on environmental issues among their peers. Some programme highlights include:
 
-**1. P4 Urban Farming**
+##### P4 Urban Farming
 
 An urban farm made up of 20 vertical grow towers was installed in school as part of the P4 level programme carried out during Project Work to allow students to understand the importance of food security and the technologies behind urban farming.
 
@@ -36,7 +35,7 @@ An urban farm made up of 20 vertical grow towers was installed in school as part
      style="width:100%">
 <center><i>An urban farm right here in BLGPS!</i></center>
 
-**2. P5 Hydroponics Programme**
+##### P5 Hydroponics Programme
 
 Closing of international borders has heightened our awareness of the need to enhance food security and sustainability. The P5 Hydroponics programme infused into Project Work is designed to expose students to the knowledge on food security, agriculture and high-tech sustainable farming technology. In the programme, students will be engaged in a series of training sessions that consists of theory lessons and practical hands-on experiences on modern high-tech sustainable farming technology. With the rich harvest from the urban farms going to the community fridge situated in the Boon Lay community, students will also learn about the importance of giving back.
 
@@ -44,7 +43,7 @@ Closing of international borders has heightened our awareness of the need to enh
      style="width:100%">
 <center><i>Students harvesting the vegetables from our school's urban farm and getting a glimpse of what the urban farmers do in real life!</i></center>
 
-**P6 GIVES BACK PROGRAMME**  
+##### P6 GIVES BACK PROGRAMME
 
 The P6 Gives back programme allows P6 students to better understand the importance of energy sustainability and how we can lower our carbon footprint. In collaboration with Boon Lay Community Club, selected groups of P6 students will be given the opportunity to advocate to residents on using energy efficient appliances and tips to save energy in their homes.
 
