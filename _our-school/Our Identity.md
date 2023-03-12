@@ -21,12 +21,9 @@ Honour to our school <br>
 Respect for our teachers <br>
 Show care for everyone
 
-  
-
 When at play or study we will do our best! <br>
 Be kind and caring always give a helping hand
 
-  
 Strive for perfection in all we do <br>
 Strive for perfection in all we do <br>
 Strive for perfection in all we do <br>
