@@ -12,7 +12,7 @@ As the garden where diversity blossoms, the school values each child’s potenti
 The CCE curriculum in school is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
   
 <img src="/images/CCE.png" 
-     style="width:75%">
+     style="width:100%">
 
 *   The six CCE core values of Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection to and internalisation of these values, classes are named after the CCE and CARES values. In addition, we added the value Joy and coined the phrase “R3IC2H in joy” to express our wish for students to derive great joy in learning.!		 
 		 
@@ -25,14 +25,14 @@ To further strengthen CCE learning across multiple platforms, the school places 
 
 ### Key Programmes
 
-**CCE - FORM TEACHER GUIDANCE PERIOD (FTGP)**  
+#### CCE - FORM TEACHER GUIDANCE PERIOD (FTGP) 
 
 In CCE (FTGP) lessons, students learn fundamental social-emotional skills and discuss how they are related to values and citizenship dispositions. A variety of topics is explored, and time is also set aside for learning about personal strengths and interests, commemoration of the four NE days, and class bonding activities.  
   
-**CCE - MOTHER TONGUE LANGUAGE (MTL)**  
+#### CCE - MOTHER TONGUE LANGUAGE (MTL) 
 
 Cultural stories, songs, proverbs and practices hold a wealth of knowledge for teaching moral values and are rich in examples of how we can live a life of purpose. Through CCE (MTL) lessons, students have additional exposure to their mother tongue languages and gain a deeper understanding of moral values which are closely intertwined with language and culture.  
   
-**CCE - PROGRAMME FOR ACTIVE LEARNING (PAL)**  
+#### CCE - PROGRAMME FOR ACTIVE LEARNING (PAL) 
 
 PAL is offered at the Primary 1 and 2 levels and it focuses on experiential and hands-on learning through the domains of Visual and Performing Arts, Outdoor Education, and Sports and Games. There are great opportunities for students to experiment, explore and interact with their peers, and in doing so, students develop positive dispositions such as being curious about the world, and belief in personal ability to overcome challenges.
