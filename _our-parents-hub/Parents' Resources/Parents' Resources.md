@@ -22,13 +22,13 @@ Download the PDF to learn more about ways to strengthen home-school partnership 
 Click [here](https://www.schoolbag.edu.sg/) to check out the education news site and learn from different perspectives on what it takes to raise a child in Singapore. This is suitable for children to read and get inspired too!
 
 <img src="/images/Annotation%202022-11-03%20232258.jpg" 
-     style="width:60%">
+     style="width:100%">
 		 
 ### Supporting Your Child Through P1!
 For our P1 parents who are looking to get some ideas and tips on how to support your children through the transition from kindergarten to P1!
 
 <img src="/images/parents%20resources.png" 
-     style="width:60%">
+     style="width:100%">
 		 
 ### Parents Gateway FAQ
 
@@ -46,4 +46,4 @@ The following information about the PSLE examination can be found on this websit
 [https://www.seab.gov.sg/home/examinations/psle](https://www.seab.gov.sg/home/examinations/psle)
 
 <img src="/images/Annotation%202022-11-03%20232634.jpg" 
-     style="width:60%">
+     style="width:100%">
