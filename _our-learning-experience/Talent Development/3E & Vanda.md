@@ -24,7 +24,7 @@ VANDA refers to the reflective journey taken by students as they progress throug
 <img src="/images/Picture1.png" 
      style="width:100%">
 		 
-#### Key Programmes
+### Key Programmes
 
 #### LEARNING BUFFET: A DISCOVERY OF STRENGTHS THROUGH CAREER-RELATED LEARNING
 
@@ -33,23 +33,23 @@ Our annual Learning Buffet takes P4-6 students on learning journeys for a taste 
 For example, our P5 students explored careers in the Investigative and Technological industry related to Green Jobs. In collaboration with NTU, they explored Environmental Engineering careers with NTU undergraduates in the Environmental Engineering faculty. They were given opportunities beyond the conventional classroom environment to work in the NTU laboratory on purifying water.
 
 <img src="/images/Annotation%202022-11-04%20082500.jpg" 
-     style="width:40%">
+     style="width:80%">
 <center><i>Students trying to purify water in the laboratory.</i></center>
 <img src="/images/Annotation%202022-11-04%20082701.jpg" 
-     style="width:40%">
+     style="width:100%">
 <center><i>Students trying out a simulation exercise in the helicopter.</i></center>		 
 <img src="/images/Annotation%202022-11-04%20082841.jpg" 
-     style="width:40%">
+     style="width:100%">
 <center><i>Students watching a live radio broadcast at the studio.</i></center>
 
-**FUTURE OF US**
+#### FUTURE OF US
 
 The Future of Us carnival is a digital platform where students explore a rich depository of information related to professions that they are interested in. Encouraging self-directed learning, students are free to watch the video interviews with industry experts and complete mini challenges that were crafted by the professionals.
 
 <img src="/images/Annotation%202022-11-04%20083234.jpg" 
-     style="width:40%">
+     style="width:80%">
 <center><i>The career-related learning process integrated within the carnival site involves four main stages: Explore & Learn, Create Something, Reflect and Upload.</i></center>
 
 <img src="/images/Annotation%202022-11-04%20083257.jpg" 
-     style="width:40%">
+     style="width:100%">
 <center><i>Mini-challenge for cooking.</i></center>
