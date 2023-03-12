@@ -46,12 +46,15 @@ To stretch our students’ interest in the subject, each level has specific enri
 1. EXCELLENCE 2000 SCIENCE (E2K SCIENCE) <br>
 To further develop the potential of students in Science, selected P4 and P5^ students who demonstrate high interest and ability in Science are selected to join in the E2K Science programme. The programme that was launched in 2022 aims to foster independence and confidence in scientific inquiry; and provides opportunities for students to develop science process skills and 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
 ^E2K Science for P5 students will start in 2023  
-  
+
+
 2. P5 ABBOTT YOUNG SCIENTIST <br>
 Selected students who are on financial assistance or from disadvantaged background are awarded the Abbott Young Scientist bursary that provides opportunities for students to undergo a customised mentorship programme to work on a project of their choice. The programme is organised by Science Centre Singapore and Abbott Laboratories, supported by the Ministry of Education. This programme is valuable in providing an opportunity for students to develop an interest in science and be exposed to content useful to them in school.  
-  
+
+
 3. P5 DA VINCI NOBEL WINTER WORKSHOP  <br>
 Selected students are invited to participate in the Da Vinci Nobel Winter Workshop organised by NUS High School. The workshops aim to imbue in students a sense of wonder and a pioneering spirit, and show how their passion in science can benefit the world and improve the quality of lives around them.  
-  
+
+
 4. SCIENCE REMEDIAL PROGRAMMES  <br>
 To provide support for our learners, selected students are invited to join in the remedial programmes. Time and space are provided to help students bridge their learning gaps.
