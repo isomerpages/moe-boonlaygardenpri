@@ -26,7 +26,7 @@ The SEP aims to turn sports into a lifelong passion for students by introducing 
 
 <img src="/images/pe2.png" style="width:100%">
 <img src="/images/pe3.jpg" style="width:100%">
-<center><i>Students in action during a variety of SEP experiences</i><center>
+<center><i>Students in action during a variety of SEP experiences</i></center>
 
 #### LOWER PRIMARY SPORTS AND GAMES
 
