@@ -10,12 +10,12 @@ sections:
       background: /images/Banner GIF.gif
       key_highlights:
         - title: Our stories
-          description: Click here for Newsway!
+          description: Click here for Newsway.
           url: /our-school/our-stories/
         - title: Highlights
-          description: Click for our Facebook page!
+          description: Click for our Facebook page.
           url: https://www.facebook.com/BoonlaygardenPS
         - title: Announcements
-          description: Click here for announcements
-          url: /announcements/home-based-learning-hbl
+          description: Click here to find out more.
+          url: /announcements/permalink
 ---
