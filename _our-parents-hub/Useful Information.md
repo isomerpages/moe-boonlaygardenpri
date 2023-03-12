@@ -5,77 +5,22 @@ description: ""
 ---
 ### School Contact Numbers
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-dkks{color:#155A43;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">School Address</th>
-    <th class="tg-0lax">20 Boon Lay Drive Singapore 649930<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1wig">Email</td>
-    <td class="tg-0lax"> <a href="mailto:blgps@moe.edu.sg"><span style="text-decoration:none;color:#155A43">blgps@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">School Website</td>
-    <td class="tg-dkks"><a href="http://www.boonlaygardenpri.moe.edu.sg/"><span style="text-decoration:none;color:#155A43">http://www.boonlaygardenpri.moe.edu.sg/</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">General Office</td>
-    <td class="tg-0lax"> <a href="tel:6316 0998"><span style="text-decoration:none;color:#155A43">6316 0998</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">School Fax</td>
-    <td class="tg-0lax"> <a href="tel:6316 0209"><span style="text-decoration:none;color:#155A43">6316 0209</span></a></td>
-  </tr>
-</tbody>
-</table>
+
+| Contact | Information |
+| -------- | -------- |
+| School Address | 20 Boon Lay Drive Singapore 649930 |
+| Email | blgps@moe.edu.sg |
+| School Website | http://www.boonlaygardenpri.moe.edu.sg/|
+| General Office | 6316 0998 |
+| School Fax | 6316 0209 |
 
 ### School Operating Hours
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s0hm{background-color:#dddddd;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv"></th>
-    <th class="tg-feqv">Main Entrance</th>
-    <th class="tg-s0hm"><span style="font-weight:bold;color:#666">General Office</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nrix">Monday to Friday</td>
-    <td class="tg-nrix">6.00am to 7.00pm</td>
-    <td class="tg-nrix">7.30am to 5.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> School Holiday</td>
-    <td class="tg-nrix">6.30am to 7.00pm </td>
-    <td class="tg-nrix">7.30am to 5.00pm </td>
-  </tr>
-</tbody>
-</table>
+
+| Day | Main Entrance | General Office |
+| -------- | -------- | -------- |
+| Monday to Friday | 6am to 7pm | 7.30am to 5.30pm |
+| School Holiday | 6.30am to 7pm | 7.30am to 5pm |
 
 ### Visit to the School
 
