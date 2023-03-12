@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our stories
           description: Click here for Newsway!
-          url: ""
+          url: /our-school/our-stories/
         - title: Highlights
           description: Click here for our Facebook.
           url: ""
