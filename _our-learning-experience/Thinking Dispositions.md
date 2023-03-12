@@ -22,7 +22,7 @@ Our students’ thinking dispositions are developed through using Habits of Mind
 <img src="/images/Two%20Pronged%20Approach.jpg" 
      style="width:100%">
 
-**BUILDING FOUNDATIONS**  
+#### BUILDING FOUNDATIONS
 
 Primary 1 and 2 students are introduced and explicitly taught the suite of 16 Habits. This helps students understand the Habits and how these can be applied in daily lives. An interactive hands-on approach is used alongside instructional videos.
 
@@ -30,10 +30,10 @@ Primary 1 and 2 students are introduced and explicitly taught the suite of 16 Ha
      style="width:100%">
 <caption><center><i>Students thinking interdependently and listening to others with empathy and understanding, by using Lego bricks to solve the challenges set together.</i></caption></center>
 
-**STRENGTHENING THE CORE**
+#### STRENGTHENING THE CORE
 
 For P3-6 students, Habits of Mind are integrated into different subjects to grow their application and use of thinking dispositions. Students are encouraged to apply the habits into a variety of settings such as in collaborative teamwork, approaching new knowledge and mastering new skills.
 
 <img src="/images/4%20.png" 
-     style="width:70%">
+     style="width:100%">
 <center><i>Students learning how to persist and think flexibly during Digital Music Programme.</i></center>
