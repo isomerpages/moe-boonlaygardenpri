@@ -18,18 +18,18 @@ Based on our belief that every child can be an inquirer, the school is committed
 
 ### Key Programmes
 
-**LEVEL-BASED LEARNING JOURNEYS**  
+#### LEVEL-BASED LEARNING JOURNEYS  
 
 Students learn best when they can apply their knowledge to real-world contexts. The learning journeys enable them to see the concepts that they learn in class come to life!  
   
-**CLASS BASED HANDS ON EXPERIMENTATION LESSONS**  
+#### CLASS BASED HANDS ON EXPERIMENTATION LESSONS  
 
 Concepts are better learned when the students can see it happening for themselves, rather than reading about it from the textbook. This allows them to become young Scientists, discovering the concepts through experimentation and discovery.
 
-<img src="/images/S1.jpg" style="width:50%">
+<img src="/images/S1.jpg" style="width:80%">
 <center><i>BLGians analysing how the position of the light source affects the shadow.</i></center>
 
-**LEVEL BASED ENRICHMENT** 
+#### LEVEL BASED ENRICHMENT 
 
 To stretch our students’ interest in the subject, each level has specific enrichment programmes catered to suit the curriculum and learning interests of the students. As the students progress to the upper primary, they will also contribute their knowledge and concepts to the school’s environmental education efforts.  
 
@@ -38,10 +38,10 @@ To stretch our students’ interest in the subject, each level has specific enri
 *   P5 (Hydroponics Workshop)
 *   P6 (Community in Nature, NParks / Biodiversity Week)
 
-<img src="/images/S2.jpg" style="width:50%">
+<img src="/images/S2.jpg" style="width:100%">
 <center><i>P4 BLGians discussing about the functionality of their self-made ice box in the Ice Box Challenge.</i></center>
 
-**DIFFERENTIATED SUPPORT FOR EVERY CHILD**  
+#### DIFFERENTIATED SUPPORT FOR EVERY CHILD  
 
 1. EXCELLENCE 2000 SCIENCE (E2K SCIENCE) <br>
 To further develop the potential of students in Science, selected P4 and P5^ students who demonstrate high interest and ability in Science are selected to join in the E2K Science programme. The programme that was launched in 2022 aims to foster independence and confidence in scientific inquiry; and provides opportunities for students to develop science process skills and 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
