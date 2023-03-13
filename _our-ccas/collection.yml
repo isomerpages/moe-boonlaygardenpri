@@ -1,0 +1,24 @@
+collections:
+  our-ccas:
+    output: true
+    order:
+      - Our CCAs.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Indian Dance.md
+      - Sports & Games/.keep
+      - Sports & Games/Bowling.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Taekwondo.md
+      - Sports & Games/Track and Field.md
+      - Sports & Games/Wushu.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/STEM Club.md
+      - Clubs & Societies/AV & Media Club.md
+      - Clubs & Societies/Environmental Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md

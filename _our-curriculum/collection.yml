@@ -1,0 +1,12 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Aesthetics.md
+      - Project Work.md
+      - Character and Citizenry Education.md
