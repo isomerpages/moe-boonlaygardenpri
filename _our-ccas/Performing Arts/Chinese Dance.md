@@ -4,8 +4,7 @@ permalink: /our-ccas/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-<img src="/images/chinese%20dance.jpg" 
-     style="width:100%">
+![](/images/chinesedancefinal.jpg)
 		 
 ### Our Goals
 
