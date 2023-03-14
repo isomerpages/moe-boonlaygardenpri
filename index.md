@@ -20,5 +20,5 @@ sections:
           url: https://instagram.com/boonlaygardenprisch?igshid=YmMyMTA2M2Y=
         - title: Announcements
           description: Click here to find out more.
-          url: /announcements/permalink
+          url: /announcements/announcements
 ---
