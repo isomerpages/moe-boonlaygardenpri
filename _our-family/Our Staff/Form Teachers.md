@@ -160,8 +160,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mr Rosmani Ramin</span><br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span style="background-color:#FFF">rosmani_ramin@schools.gov.sg</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mr Rosmani Ramin</span><br>
+<span style="background-color:#FFF">Mdm Nurin Sharina</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span style="background-color:#FFF">rosmani_ramin@schools.gov.sg</span><br><span style="background-color:#FFF">        </span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Respect A</span></td>
