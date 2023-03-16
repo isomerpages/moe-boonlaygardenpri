@@ -303,7 +303,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Harmony</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Ng Jingyu - Yang Jingyu</span><br><span style="background-color:#FFF">Mdm Lim Su Ru</span><br><span style="background-color:#FFF">Mrs Hor - Nicole Yeap</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Ng Jingyu</span><br><span style="background-color:#FFF">Mdm Lim Su Ru</span><br><span style="background-color:#FFF">Mrs Hor - Nicole Yeap</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">yang_jingyu@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">lim_su_ru@schools.gov.sg</span><br><span style="background-color:#FFF">yeap_lee_ching@schools.gov.sg</span></td>
   </tr>
 </tbody>
