@@ -217,7 +217,7 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">4 Responsibility</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Ms Grace Phang Xiu Zhen</span><br><span style="background-color:#FFF">Mdm Nur Marina Somdi</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Ms Grace Phang</span><br><span style="background-color:#FFF">Mdm Nur Marina Somdi</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">phang_xiu_zhen_grace@schools.gov.sg</span><br><span style="background-color:#FFF">nur_marina_somdi@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -283,7 +283,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Respect A</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Michelle Chow Wai Yee</span><br><span style="background-color:#FFF">Ms Karen Tan Lian Nah</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Michelle Chow Wai Yee</span><br><span style="background-color:#FFF">Ms Karen Tan</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">michelle_chow_wai_yee@schools.gov.sg</span><br><span style="background-color:#FFF">karen_Ln_tan@schools.gov.sg</span></td>
   </tr>
   <tr>
