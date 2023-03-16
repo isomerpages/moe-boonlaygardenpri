@@ -34,11 +34,6 @@ third_nav_title: Our Staff
     <td class="tg-zr06"><span style="background-color:#FFF">tan_hui_liong_a@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Operations Manager</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mr Ronny Bong</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">ronny_bong@schools.gov.sg</span><br></td>
-  </tr>
-  <tr>
     <td class="tg-ktyi"><span style="background-color:#FFF">ICT Manager</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nursharminee</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">nursharminee_jumari@schools.gov.sg</span><br></td>
