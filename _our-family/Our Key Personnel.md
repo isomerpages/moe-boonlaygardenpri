@@ -256,12 +256,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-x4dz">ST Learning Needs<br>(High Ability Learners)</td>
-    <td class="tg-0kax">Ms Grace Phang Xiu Zhen</td>
+    <td class="tg-0kax">Ms Grace Phang</td>
     <td class="tg-0kax">phang_xiu_zhen_grace@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-x4dz">ST Mathematics</td>
-    <td class="tg-0kax">Ms Karen Tan Lian Nah</td>
+    <td class="tg-0kax">Ms Karen Tan</td>
     <td class="tg-0kax">karen_Ln_tan@schools.gov.sg</td>
   </tr>
   <tr>
