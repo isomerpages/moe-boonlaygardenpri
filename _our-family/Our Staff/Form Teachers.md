@@ -186,7 +186,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Harmony</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mr Cai Jinghao Nicholas</span><br><span style="background-color:#FFF">Ms Celine Wong Sze Ling</span><br>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mr Cai Jinghao Nicholas</span><br><span style="background-color:#FFF">Ms Celine Wong</span><br>
 <span style="background-color:#FFF">Mr Mohammad Aashiq</span></td>
 		<td class="tg-ktyi"><span style="background-color:#FFF">cai_jinghao@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_sze_ling@schools.gov.sg</span><br>
 		<span style="font-weight:inherit;font-style:inherit;background-color:initial">    </span></td>
@@ -293,7 +293,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Integrity</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Sherrie Chang - Tan Ying Mei</span><br><span style="background-color:#FFF">Mr Loh Wai Yong</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Sherrie Chang</span><br><span style="background-color:#FFF">Mr Loh Wai Yong</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">sherrie_tan@schools.gov.sg</span><br><span style="background-color:#FFF">loh_wai_yong@schools.gov.sg</span></td>
   </tr>
   <tr>
