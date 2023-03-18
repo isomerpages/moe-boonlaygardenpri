@@ -43,7 +43,7 @@ Scan  the QR code below to be a part of BLGPS Alumni community today!
 Please email Ms Lydia Lam at [lam_lydia@schools.gov.sg](mailto:lam_lydia@schools.gov.sg) upon submitting the form so that we can reach out to you as soon as possible.
 
 <img src="/images/SCAN.jpg" 
-     style="width:50%">
+     style="width:30%">
 		 
 ### Alumni in Action
 

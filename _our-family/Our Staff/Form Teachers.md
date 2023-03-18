@@ -101,17 +101,17 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Respect</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Iris Ng Peng Peng</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Chow Yuh Lan, Stacy</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Iris Ng </span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Chow Yuh Lan, Stacy</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">ng_peng_peng@schools.gov.sg</span><br><span style="background-color:#FFF">chow_yuh_lan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Integrity</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Ms Siti Atikah Binte Mohd Ziham</span><br><span style="background-color:#FFF">Ms Cindy Chua Tsin Li</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Ms Siti Atikah Binte Mohd Ziham</span><br><span style="background-color:#FFF">Ms Cindy Chua</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">siti_atikah_mohd_ziham@schools.gov.sg</span><br><span style="background-color:#FFF">cindy_chua_tsin_li@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Cooperation</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mr Lim Jek Ming, Shaun</span><br><span style="background-color:#FFF">Mrs Rachel Por - Tham Chin Xin</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mr Lim Jek Ming, Shaun</span><br><span style="background-color:#FFF">Mrs Rachel Por </span></td>
     <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">lim_jek_ming_shaun@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">tham_chin_xin@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -171,17 +171,17 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Respect B</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mr Tang Chee Weng</span><br><span style="background-color:#FFF">Mdm Audrey Yap Wenyun</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mr Tang Chee Weng</span><br><span style="background-color:#FFF">Mdm Audrey Yap</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">tang_chee_weng@schools.gov.sg</span><br><span style="background-color:#FFF">yap_wenyun@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Integrity</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Pok Yam Lee</span><br><span style="background-color:#FFF">Ms Klara Chua Mei Chin</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Pok Yam Lee</span><br><span style="background-color:#FFF">Ms Klara Chua</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">pok_yam_lee@schools.gov.sg</span><br><span style="background-color:#FFF">klara_chua_mei_chin</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Care</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Valerine Loh - Chen Aizhen</span><br><span style="background-color:#FFF">Ms Lin Meizhi</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Valerine Loh</span><br><span style="background-color:#FFF">Ms Lin Meizhi</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">chen_aizhen@schools.gov.sg</span><br><span style="background-color:#FFF">lin_meizhi@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">4 Respect</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Serena Ong - Tan Jia Yi</span><br><span style="background-color:#FFF">Mdm Mei Tiantian</span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Serena Ong</span><br><span style="background-color:#FFF">Mdm Mei Tiantian</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">tan_jia_yi_serena@schools.gov.sg</span><br><span style="background-color:#FFF">mei_tiantian@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -283,7 +283,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Respect A</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Michelle Chow Wai Yee</span><br><span style="background-color:#FFF">Ms Karen Tan</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Michelle Chow</span><br><span style="background-color:#FFF">Ms Karen Tan</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">michelle_chow_wai_yee@schools.gov.sg</span><br><span style="background-color:#FFF">karen_Ln_tan@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -348,7 +348,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
-    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui - Tan Ying Hui</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui</span></td>
     <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br><span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span></td>
   </tr>
   <tr>
