@@ -287,7 +287,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Respect B</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Annabelle Woo -Tay Cai Fang</span><br><span style="background-color:#FFF">Mr Edmund Choi Kin Mun</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Annabelle Woo</span><br><span style="background-color:#FFF">Mr Edmund Choi Kin Mun</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">annabelle_tay@schools.gov.sg</span><br><span style="background-color:#FFF">choi_kin_mun@schools.gov.sg</span></td>
   </tr>
   <tr>
