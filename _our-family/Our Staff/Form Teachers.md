@@ -32,7 +32,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Resilience</span></td>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Ms Victoria Wong Zi Qing</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Rita Salamoon</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Ms Victoria Wong</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Rita Salamoon</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">victoria_wong_zi_qing@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">rita_salamoon@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Harmony</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nur Liyana Bte Mohd. Zulkiflee</span><br><span style="background-color:#FFF">Mrs Leong Hwee Peng</span><br><span style="background-color:#FFF">Ms Lynnette Loh Si Hui</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nur Liyana Bte Mohd. Zulkiflee</span><br><span style="background-color:#FFF">Mrs Leong Hwee Peng</span><br><span style="background-color:#FFF">Ms Lynnette Loh</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">nur_liyana_mohammad_zulkiflee</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">@schools.gov.sg</span><br><span style="background-color:#FFF">tan_hwee_peng@schools.gov.sg</span><br><span style="background-color:#FFF">lynnette_loh_si_hui@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -160,9 +160,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mr Rosmani Ramin</span><br>
-<span style="background-color:#FFF">Mdm Nurin Sharina</span><br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span style="background-color:#FFF">rosmani_ramin@schools.gov.sg</span><br><span style="background-color:#FFF">        </span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mdm Nurin Sharina</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span span="" style="background-color:#FFF"><br><span style="background-color:#FFF">        </span></span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Respect A</span></td>
