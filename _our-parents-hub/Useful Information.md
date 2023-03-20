@@ -3,7 +3,7 @@ title: Useful Information
 permalink: /our-parents-hub/useful-information/
 description: ""
 ---
-### School Contact Numbers
+### School Contact Details
 
 
 | Contact | Information |
