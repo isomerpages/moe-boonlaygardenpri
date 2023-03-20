@@ -15,9 +15,6 @@ sections:
         - title: Check us out on facebook!
           description: Click for our Facebook page.
           url: https://www.facebook.com/BoonlaygardenPS
-        - title: Check us out on Instagram!
-          description: Click for our Instagram page.
-          url: https://instagram.com/boonlaygardenprisch?igshid=YmMyMTA2M2Y=
         - title: Announcements
           description: Click here to find out more.
           url: /announcements/announcements
