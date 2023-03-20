@@ -347,8 +347,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
-    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui</span></td>
-    <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br><span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui</span><br><span style="background-color:#FFF">Ms Odelia Cheong</span></td>
+    <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br><span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span><br><span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg   </span></td>
   </tr>
   <tr>
     <td class="tg-8rui"><span style="background-color:#FFF">6 Care</span></td>
