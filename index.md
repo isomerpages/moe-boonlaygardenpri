@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner GIF.gif
+      background: /images/Banner GIF.png
       key_highlights:
         - title: Our stories
           description: Click here for Newsway.
@@ -15,9 +15,6 @@ sections:
         - title: Check us out on facebook!
           description: Click for our Facebook page.
           url: https://www.facebook.com/BoonlaygardenPS
-        - title: Check us out on Instagram!
-          description: Click for our Instagram page.
-          url: https://instagram.com/boonlaygardenprisch?igshid=YmMyMTA2M2Y=
         - title: Announcements
           description: Click here to find out more.
           url: /announcements/announcements

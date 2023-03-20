@@ -32,7 +32,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Resilience</span></td>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Ms Victoria Wong Zi Qing</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Rita Salamoon</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Ms Victoria Wong</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mdm Rita Salamoon</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">victoria_wong_zi_qing@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">rita_salamoon@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Harmony</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nur Liyana Bte Mohd. Zulkiflee</span><br><span style="background-color:#FFF">Mrs Leong Hwee Peng</span><br><span style="background-color:#FFF">Ms Lynnette Loh Si Hui</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Nur Liyana Bte Mohd. Zulkiflee</span><br><span style="background-color:#FFF">Mrs Leong Hwee Peng</span><br><span style="background-color:#FFF">Ms Lynnette Loh</span></td>
     <td class="tg-ktyi"><span style="background-color:#FFF">nur_liyana_mohammad_zulkiflee</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">@schools.gov.sg</span><br><span style="background-color:#FFF">tan_hwee_peng@schools.gov.sg</span><br><span style="background-color:#FFF">lynnette_loh_si_hui@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -96,8 +96,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Resilience</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mr Thong Fong Yang, Jeff</span><br><span style="background-color:#FFF">Mdm Wong Shu Lee</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">thong_fong_yang@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_shu_lee@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mr Thong Fong Yang, Jeff</span><br><span style="background-color:#FFF">Mdm Wong Shu Lee</span><br><span style="background-color:#FFF">Ms Lee Wan Er </span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">thong_fong_yang@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_shu_lee@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">
+lee_wan_er@schools.gov.sg
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Respect</span></td>
@@ -155,14 +156,14 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Responsibility</span></td>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mrs Kee - Evelyn Poon</span><br><span style="background-color:#FFF">Mdm Norlaily Ahmad</span><br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br><span style="background-color:#FFF">norlaily_ahmad@schools.gov.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mrs Kee - Evelyn Poon</span><br><span style="background-color:#FFF">Mdm Norlaily Ahmad</span><br><span style="background-color:#FFF">Ms Liow Jia Zhen</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br><span style="background-color:#FFF">norlaily_ahmad@schools.gov.sg</span><br><span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg
+</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mr Rosmani Ramin</span><br>
-<span style="background-color:#FFF">Mdm Nurin Sharina</span><br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span style="background-color:#FFF">rosmani_ramin@schools.gov.sg</span><br><span style="background-color:#FFF">        </span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">Mdm Fazila Banu</span><br><span style="background-color:#FFF">Mdm Nurin Sharina</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">fazila_banu_mohamed_rabiullah@schools.gov.sg</span><br><span span="" style="background-color:#FFF"><br><span style="background-color:#FFF">        </span></span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Respect A</span></td>
@@ -189,7 +190,7 @@ third_nav_title: Our Staff
     <td class="tg-ktyi"><span style="background-color:#FFF">Mr Cai Jinghao Nicholas</span><br><span style="background-color:#FFF">Ms Celine Wong</span><br>
 <span style="background-color:#FFF">Mr Mohammad Aashiq</span></td>
 		<td class="tg-ktyi"><span style="background-color:#FFF">cai_jinghao@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_sze_ling@schools.gov.sg</span><br>
-		<span style="font-weight:inherit;font-style:inherit;background-color:initial">    </span></td>
+		<span style="font-weight:inherit;font-style:inherit;background-color:initial"> mohammad_aashiq_anshad@schools.gov.sg   </span></td>
   </tr>
 </tbody>
 </table>
@@ -276,9 +277,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Resilience</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br><span style="background-color:#FFF">Ms Lim Pei Yiing</span><br>
-<span style="background-color:#FFF">Ms Odelia Cheong</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br><span style="background-color:#FFF">Ms Lim Pei Yiing</span><br><span style="background-color:#FFF">Mr Adli Faiz Anwar</span><br>
+<span style="background-color:#FFF"></span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br><span style="background-color:#FFF">adli_faiz_anwar@schools.gov.sg</span><br>
 <span style="background-color:#FFF">     </span></td>
   </tr>
   <tr>
@@ -288,7 +289,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Respect B</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Annabelle Woo -Tay Cai Fang</span><br><span style="background-color:#FFF">Mr Edmund Choi Kin Mun</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mrs Annabelle Woo</span><br><span style="background-color:#FFF">Mr Edmund Choi Kin Mun</span></td>
     <td class="tg-zr06"><span style="background-color:#FFF">annabelle_tay@schools.gov.sg</span><br><span style="background-color:#FFF">choi_kin_mun@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -348,8 +349,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
-    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui</span></td>
-    <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br><span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span></td>
+    <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br><span style="background-color:#FFF">Mrs Liu Ying Hui</span><br><span style="background-color:#FFF">Ms Odelia Cheong</span></td>
+    <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br><span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span><br><span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg   </span></td>
   </tr>
   <tr>
     <td class="tg-8rui"><span style="background-color:#FFF">6 Care</span></td>
