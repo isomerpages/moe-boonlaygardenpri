@@ -96,8 +96,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Resilience</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mr Thong Fong Yang, Jeff</span><br><span style="background-color:#FFF">Mdm Wong Shu Lee</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">thong_fong_yang@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_shu_lee@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Mr Thong Fong Yang, Jeff</span><br><span style="background-color:#FFF">Mdm Wong Shu Lee</span><br><span style="background-color:#FFF">Ms Lee Wan Er </span></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">thong_fong_yang@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_shu_lee@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">
+lee_wan_er@schools.gov.sg
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">2 Respect</span></td>
