@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner GIF.gif
+      background: /images/Banner GIF.png
       key_highlights:
         - title: Our stories
           description: Click here for Newsway.
