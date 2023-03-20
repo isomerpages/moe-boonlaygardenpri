@@ -188,7 +188,7 @@ third_nav_title: Our Staff
     <td class="tg-ktyi"><span style="background-color:#FFF">Mr Cai Jinghao Nicholas</span><br><span style="background-color:#FFF">Ms Celine Wong</span><br>
 <span style="background-color:#FFF">Mr Mohammad Aashiq</span></td>
 		<td class="tg-ktyi"><span style="background-color:#FFF">cai_jinghao@schools.gov.sg</span><br><span style="font-weight:inherit;font-style:inherit;background-color:initial">wong_sze_ling@schools.gov.sg</span><br>
-		<span style="font-weight:inherit;font-style:inherit;background-color:initial">    </span></td>
+		<span style="font-weight:inherit;font-style:inherit;background-color:initial"> mohammad_aashiq_anshad@schools.gov.sg   </span></td>
   </tr>
 </tbody>
 </table>
