@@ -155,8 +155,9 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Responsibility</span></td>
-    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mrs Kee - Evelyn Poon</span><br><span style="background-color:#FFF">Mdm Norlaily Ahmad</span><br></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br><span style="background-color:#FFF">norlaily_ahmad@schools.gov.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Mrs Kee - Evelyn Poon</span><br><span style="background-color:#FFF">Mdm Norlaily Ahmad</span><br><span style="background-color:#FFF">Ms Liow Jia Zhen</span><br></td>
+    <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br><span style="background-color:#FFF">norlaily_ahmad@schools.gov.sg</span><br><span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg
+</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
