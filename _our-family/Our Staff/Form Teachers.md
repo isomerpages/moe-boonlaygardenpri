@@ -277,9 +277,9 @@ lee_wan_er@schools.gov.sg
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">5 Resilience</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br><span style="background-color:#FFF">Ms Lim Pei Yiing</span><br>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br><span style="background-color:#FFF">Ms Lim Pei Yiing</span><br><span style="background-color:#FFF">Mr Adli Faiz Anwar</span><br>
 <span style="background-color:#FFF"></span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br>
+    <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br><span style="background-color:#FFF">adli_faiz_anwar@schools.gov.sg</span><br>
 <span style="background-color:#FFF">     </span></td>
   </tr>
   <tr>
