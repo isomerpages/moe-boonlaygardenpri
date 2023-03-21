@@ -3,6 +3,20 @@ title: Announcements
 permalink: /announcements/announcements/
 description: ""
 ---
+#### GREEN SCHOOLS @ SOUTH WEST 2022 (3 STARS)
+![](/images/Website%20announcement%20images.png)
 
-#### March Holidays
-March holidays are from 11 March 2023 to 19 March 2023. All students are to report back to school on 20 March 2023.
+BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will continue our efforts towards environmental sustainability and empower BLGians to be stewards of change.
+
+#### RED CROSS GOLD EXCELLENCE UNIT AWARD 2022
+![](/images/Website%20announcement%20images%20(1).png)
+
+The BLGPS Red Cross CCA has been awarded the Gold Excellence Unit Award for year 2022. This accomplishment is a true reflection of the hard work and dedication of our students and teachers!
+
+#### PRINCIPAL'S LETTER (TERM 2)
+Let's take some time to read about the important information and exciting programmes that are happening in Term 2 in the principal's letter posted on PG.
+
+#### INSPIRING TEACHER OF ENGLISH AWARD
+![](/images/inspiring%20teacher%20of%20english%20award.png)
+
+This is a good chance for us to show appreciation to our English teachers who have been inspiring in their teaching of the language. Nomination forms can be downloaded [here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information). Do pass the completed forms to your child's form teacher by **26 March 2023**.
