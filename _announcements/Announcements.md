@@ -13,3 +13,10 @@ BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will co
 
 The BLGPS Red Cross CCA has been awarded the Gold Excellence Unit Award for year 2022. This accomplishment is a true reflection of the hard work and dedication of our students and teachers!
 
+#### PRINCIPAL'S LETTER (TERM 2)
+Let's take some time to read about the important information and exciting programmes that are happening in Term 2 in the principal's letter posted on PG.
+
+#### INSPIRING TEACHER OF ENGLISH AWARD
+![](/images/inspiring%20teacher%20of%20english%20award.png)
+
+This is a good chance for us to show appreciation to our English teachers who have been inspiring in their teaching of the language. Nomination forms can be downloaded [here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information). Do pass the completed forms to your child's form teacher by **26 March 2023**.
