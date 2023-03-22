@@ -33,7 +33,7 @@ For our P1 parents who are looking to get some ideas and tips on how to support 
 ### Parents Gateway FAQ
 
 
-[Parents Gateway FAQs for Parents\_Term 2 Letter 1.pdf](/files/Parents%20Gateway%20FAQs%20for%20Parents_Term%202%20Letter%201.pdf)
+[ Parents Gateway FAQs](/files/Parents%20Gateway%20FAQs%20for%20Parents_Term%202%20Letter%201.pdf)
 
 
 ### Singapore Examinations and Assessment Board (SEAB)
