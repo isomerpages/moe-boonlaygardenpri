@@ -287,9 +287,11 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">5 Resilience</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br>
       <span style="background-color:#FFF">Ms Lim Pei Yiing</span><br>
+      <span style="background-color:#FFF">Ms Odelia Cheong</span><br>
       <span style="background-color:#FFF"></span><br></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br>
       <span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg</span><br>
       <span style="background-color:#FFF"></span><br></td>
     </tr>
     <tr>
@@ -371,10 +373,10 @@ third_nav_title: Our Staff
       <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Siti Nur Baeyah Karim</span><br>
       <span style="background-color:#FFF">Mrs Liu Ying Hui</span><br>
-      <span style="background-color:#FFF">Ms Odelia Cheong</span></td>
+      <span style="background-color:#FFF"></span></td>
       <td class="tg-06je"><span style="background-color:#FFF">siti_nur_baeyah_karim@schools.gov.sg</span><br>
       <span style="background-color:#FFF">tan_ying_hui@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg</span></td>
+      <span style="background-color:#FFF"></span></td>
     </tr>
     <tr>
       <td class="tg-8rui"><span style="background-color:#FFF">6 Care</span></td>
