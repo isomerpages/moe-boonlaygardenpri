@@ -287,17 +287,19 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">5 Resilience</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br>
       <span style="background-color:#FFF">Ms Lim Pei Yiing</span><br>
-      <span style="background-color:#FFF">Mr Adli Faiz Anwar</span><br></td>
+      <span style="background-color:#FFF"></span><br></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br>
       <span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">adli_faiz_anwar@schools.gov.sg</span><br></td>
+      <span style="background-color:#FFF"></span><br></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">5 Respect A</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Ms Michelle Chow</span><br>
-      <span style="background-color:#FFF">Ms Karen Tan</span></td>
+      <span style="background-color:#FFF">Ms Karen Tan</span><br>
+      <span style="background-color:#FFF">Mr Adli Faiz Anwar</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">michelle_chow_wai_yee@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">karen_Ln_tan@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">karen_Ln_tan@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">adli_faiz_anwar@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">5 Respect B</span></td>
