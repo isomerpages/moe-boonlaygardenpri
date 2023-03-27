@@ -68,11 +68,11 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad Sah</td>
+    <td class="tg-cly1">Mdm Norlita Muhamad </td>
     <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">HOD- Curriculum</td>
+		 <td class="tg-0lax">HOD Curriculum</td>
     <td class="tg-cly1">Mrs Ng Jingyu</td>
     <td class="tg-cly1">yang_jingyu@schools.gov.sg</td>
   </tr>
