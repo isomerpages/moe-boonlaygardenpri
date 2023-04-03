@@ -82,9 +82,10 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">2 Responsibility</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">Ms Chan Yien Qing</span><br>
-      <span style="background-color:#FFF">Mdm Puteri Nor'Atika</span></td>
+      <span style="background-color:#FFF">Mdm Norlaily Ahmad
+</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">chan_yien_qing@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">puteri_noratika_raja_ismail@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span></td>
+      <span style="background-color:#FFF">norlaily_ahmad@</span><span style="font-weight:inherit;font-style:inherit;background-color:initial">schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">2 Resilience</span></td>
