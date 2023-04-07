@@ -1,6 +1,6 @@
 ---
-title: Character and Citizenry Education
-permalink: /our-curriculum/character-and-citizenry-education/
+title: Character and Citizenship Education
+permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 ---
 ### Our Goals
@@ -11,8 +11,7 @@ As the garden where diversity blossoms, the school values each child’s potenti
 
 The CCE curriculum in school is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
   
-<img src="/images/CCE.png" 
-     style="width:100%">
+<img src="/images/CCE.png" style="width:100%">
 
 *   The six CCE core values of Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection to and internalisation of these values, classes are named after the CCE and CARES values. In addition, we added the value Joy and coined the phrase “R3IC2H in joy” to express our wish for students to derive great joy in learning.!		 
 		 
