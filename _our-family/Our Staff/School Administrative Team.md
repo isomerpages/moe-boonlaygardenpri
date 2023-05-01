@@ -14,7 +14,8 @@ third_nav_title: Our Staff
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+  style="background-color:#FFF"&gt;-<table class="tg">
 <thead>
   <tr>
     <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Designation</span></th>
@@ -79,9 +80,6 @@ third_nav_title: Our Staff
     <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Mdm Vallivel Letchimi</span><br></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span></td>
