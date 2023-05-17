@@ -79,7 +79,6 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
-      <td></td>
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span></td>
@@ -97,10 +96,11 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
   </tbody>
-</table>### Other Support Staff
+</table>
+
+### Other Support Staff
+
 <style type="text/css">
-
-
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
