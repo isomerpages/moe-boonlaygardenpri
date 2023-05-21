@@ -95,6 +95,10 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">Mdm Catherine-Sundarie</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
+		    <tr><td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer </span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">Mdm Ruddiah Bte Sabtu</span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
+    </tr>
   </tbody>
 </table>
 
