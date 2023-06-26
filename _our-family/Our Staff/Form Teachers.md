@@ -292,7 +292,7 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br>
       <span style="background-color:#FFF">Ms Odelia Cheong</span><br>
       <span style="background-color:#FFF"></span><br></td>
-      <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><br>
+      <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br>
       <span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg</span><br>
       <span style="background-color:#FFF"></span><br></td>
     </tr>
