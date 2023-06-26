@@ -260,9 +260,11 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Harmony</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">Ms Ainah Saaban</span><br>
-      <span style="background-color:#FFF">Mr Ng Ee Noch</span></td>
+      <span style="background-color:#FFF">Mr Ng Ee Noch</span><br>
+      <span style="background-color:#FFF">Ms Grace Chan Shihui</span></td>
       <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">ainah_saaban@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">ng_ee_noch@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">ng_ee_noch@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">grace_chan_shihui@schools.gov.sg</span></td>
     </tr>
   </tbody>
 </table>
