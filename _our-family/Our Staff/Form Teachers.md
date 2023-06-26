@@ -363,9 +363,9 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-8rui"><span style="background-color:#FFF">6 Respect</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Ms Vethanayake</span><br>
-      <span style="background-color:#FFF">Ms Jaliza Bte Jamaludin</span></td>
+      <span style="background-color:#FFF">Mr Peter Yeo Yong Heng</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">vethanayake_ramachandran@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">jaliza_jamaludin@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">yeo_yong_heng_peter@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
