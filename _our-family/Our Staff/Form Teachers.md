@@ -158,8 +158,7 @@ third_nav_title: Our Staff
       <span style="background-color:#FFF">Ms Liow Jia Zhen</span><br>
       <span style="background-color:#FFF"></span><br></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg</span><br>
-      <span style="background-color:#FFF"></span></td>
+      <span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
