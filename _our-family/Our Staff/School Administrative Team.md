@@ -30,8 +30,8 @@ third_nav_title: Our Staff
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Manager</span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Mr Alfred Tan</span><br></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">tan_hui_liong_a@schools.gov.sg</span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">Mr Roslan Bin Abdul Ghani </span><br></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">_</span></td>
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">ICT Manager</span></td>
