@@ -237,9 +237,11 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Respect</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Serena Ong</span><br>
-      <span style="background-color:#FFF">Mdm Mei Tiantian</span></td>
+      <span style="background-color:#FFF">Mdm Mei Tiantian</span><br>
+      <span style="background-color:#FFF">Ms Jacinda Ng</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">tan_jia_yi_serena@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">mei_tiantian@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">mei_tiantian@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">ng_poh_sian_jacinda@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Integrity</span></td>
