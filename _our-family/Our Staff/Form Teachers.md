@@ -62,8 +62,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Joy</span><br></td>
-    <td class="tg-zr06"><span style="background-color:#FFF">Ms Nerissa Tiong</span><br><span style="background-color:#FFF">Mdm P Veshallini</span></td>
-    <td class="tg-ktyi"><span style="background-color:#FFF">tiong_wei_wen_nerissa@schools.gov.sg</span><br><span style="background-color:#FFF">p_veshallini@schools.gov.sg</span></td>
+    <td class="tg-zr06"><span style="background-color:#FFF">Ms Nerissa Tiong</span><br><span style="background-color:#FFF">Mdm P Veshallini</span><br><span style="background-color:#FFF">Mdm Sumathi Mani 
+    </span></td><td class="tg-ktyi"><span style="background-color:#FFF">tiong_wei_wen_nerissa@schools.gov.sg</span><br><span style="background-color:#FFF">p_veshallini@schools.gov.sg</span><br><span style="background-color:#FFF"></span></td>
   </tr>
 </tbody>
 </table>
@@ -158,8 +158,7 @@ third_nav_title: Our Staff
       <span style="background-color:#FFF">Ms Liow Jia Zhen</span><br>
       <span style="background-color:#FFF"></span><br></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">poon_ngee_keng_evelyn@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg</span><br>
-      <span style="background-color:#FFF"></span></td>
+      <span style="background-color:#FFF">liow_jia_zhen@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">3 Resilience</span></td>
@@ -238,9 +237,11 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Respect</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">Mrs Serena Ong</span><br>
-      <span style="background-color:#FFF">Mdm Mei Tiantian</span></td>
+      <span style="background-color:#FFF">Mdm Mei Tiantian</span><br>
+      <span style="background-color:#FFF">Ms Jacinda Ng</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">tan_jia_yi_serena@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">mei_tiantian@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">mei_tiantian@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">ng_poh_sian_jacinda@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Integrity</span></td>
@@ -259,9 +260,11 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">4 Harmony</span></td>
       <td class="tg-ktyi"><span style="background-color:#FFF">Ms Ainah Saaban</span><br>
-      <span style="background-color:#FFF">Mr Ng Ee Noch</span></td>
+      <span style="background-color:#FFF">Mr Ng Ee Noch</span><br>
+      <span style="background-color:#FFF">Ms Grace Chan Shihui</span></td>
       <td class="tg-ktyi"><span style="font-weight:inherit;font-style:inherit;background-color:initial">ainah_saaban@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">ng_ee_noch@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">ng_ee_noch@schools.gov.sg</span><br>
+      <span style="background-color:#FFF">grace_chan_shihui@schools.gov.sg</span></td>
     </tr>
   </tbody>
 </table>
@@ -287,11 +290,9 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-zr06"><span style="background-color:#FFF">5 Resilience</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Ms Lydia Lam</span><br>
-      <span style="background-color:#FFF">Ms Lim Pei Yiing</span><br>
       <span style="background-color:#FFF">Ms Odelia Cheong</span><br>
       <span style="background-color:#FFF"></span><br></td>
-      <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">lim_pei_yiing@schools.gov.sg</span><br>
+      <td class="tg-ktyi"><span style="background-color:#FFF">lam_lydia@schools.gov.sg</span><br><br>
       <span style="background-color:#FFF">cheong_qian_hui_odelia@schools.gov.sg</span><br>
       <span style="background-color:#FFF"></span><br></td>
     </tr>
@@ -366,9 +367,9 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-8rui"><span style="background-color:#FFF">6 Respect</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Ms Vethanayake</span><br>
-      <span style="background-color:#FFF">Ms Jaliza Bte Jamaludin</span></td>
+      <span style="background-color:#FFF">Mr Peter Yeo Yong Heng</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">vethanayake_ramachandran@schools.gov.sg</span><br>
-      <span style="background-color:#FFF">jaliza_jamaludin@schools.gov.sg</span></td>
+      <span style="background-color:#FFF">yeo_yong_heng_peter@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-8rui"><span style="background-color:#FFF">6 Integrity</span></td>
