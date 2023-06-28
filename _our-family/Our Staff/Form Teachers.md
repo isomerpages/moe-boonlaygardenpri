@@ -63,7 +63,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-zr06"><span style="background-color:#FFF">1 Joy</span><br></td>
     <td class="tg-zr06"><span style="background-color:#FFF">Ms Nerissa Tiong</span><br><span style="background-color:#FFF">Mdm P Veshallini</span><br><span style="background-color:#FFF">Mdm Sumathi Mani 
-    </span></td><td class="tg-ktyi"><span style="background-color:#FFF">tiong_wei_wen_nerissa@schools.gov.sg</span><br><span style="background-color:#FFF">p_veshallini@schools.gov.sg</span><br><span style="background-color:#FFF"></span></td>
+    </span></td><td class="tg-ktyi"><span style="background-color:#FFF">tiong_wei_wen_nerissa@schools.gov.sg</span><br><span style="background-color:#FFF">p_veshallini@schools.gov.sg</span><br><span style="background-color:#FFF">Sumathi_Mani@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
