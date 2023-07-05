@@ -31,7 +31,7 @@ third_nav_title: Our Staff
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Manager</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Mr Roslan Bin Abdul Ghani </span><br></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">_</span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">Roslan_Abdul_Ghani@schools.gov.sg</span></td>
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">ICT Manager</span></td>
