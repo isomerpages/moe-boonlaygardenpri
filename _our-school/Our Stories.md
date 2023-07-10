@@ -12,7 +12,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 Discover our diverse partnerships in the 35th issue of Newsway. Explore parent, community, and industry collaborations and join us in nurturing a better future. Click now to learn more.
 
 <p><a href="https://online.fliphtml5.com/sanwz/btsp/">
-<img src="/images/issue34.png" style="width:55%">
+<img src="/images/newsway35cover.jpg" style="width:55%">
 </a></p>
 
 
