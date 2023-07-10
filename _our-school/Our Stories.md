@@ -6,6 +6,16 @@ description: ""
 # Newsway
 Read about our schools exciting and vibrant learning experiences in these issues of our school newsletter.
 
+## <center><b>2023</b></center>
+
+### BLGPS Newsway 2023 Issue #35
+Discover our diverse partnerships in the 35th issue of Newsway. Explore parent, community, and industry collaborations and join us in nurturing a better future. Click now to learn more.
+
+<p><a href="https://online.fliphtml5.com/sanwz/btsp/">
+<img src="/images/issue34.png" style="width:55%">
+</a></p>
+
+
 ## <center><b>2022</b></center>
 
 ### BLGPS Newsway 2022 Issue #34
