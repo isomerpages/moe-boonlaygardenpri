@@ -8,12 +8,12 @@ Dear students and parents, here are some guides and links that will be useful fo
 
 ### SUPPORT FOR STUDENT LEARNING SPACE (SLS)
 
-Student Learning Space (SLS) can be accessed using : [learning.moe.edu.sg](http://learning.moe.edu.sg/)
+Student Learning Space (SLS) can be accessed using :&nbsp;[learning.moe.edu.sg](http://learning.moe.edu.sg/)
 
 If you require support with SLS, you may email the following school staff/ teachers:  
 
-1.  [nursharminee_jumari@moe.edu.sg](mailto:nursharminee_jumari@moe.edu.sg) or
-2.  [ng_ee_noch@moe.edu.sg](mailto:ng_ee_noch@moe.edu.sg)
+1.  [nursharminee_jumari@moe.edu.sg](mailto:nursharminee_jumari@moe.edu.sg)&nbsp;or
+2.  [tan\_ying\_hui@moe.edu.sg](mailto:tan\_ying\_hui@moe.edu.sg)
 
 You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, from 8 a.m. - 3 p.m.
 
@@ -46,7 +46,7 @@ You may also contact the school at 6316 0998 during HBL hours, Monday - Friday, 
 
 **SLS Helpdesk**
 
-Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
+Email:&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 **Operating hours:**
 
@@ -56,12 +56,12 @@ Saturdays: 9.00am - 3.00pm<br>
 
 **For SLS / iCON / MIMS Password Reset**
 
-Password reset: [https://go.gov.sg/blgps-resetpw](https://go.gov.sg/blgps-resetpw)
+Password reset:&nbsp;[https://go.gov.sg/blgps-resetpw](https://go.gov.sg/blgps-resetpw)
 
 **For iMTL (log in via SLS)**
 
 Phone: 68488900 <br>
-Email: [helpdesk@mail-imtl.moe.edu.sg](mailto:helpdesk@mail-imtl.moe.edu.sg)
+Email:&nbsp;[helpdesk@mail-imtl.moe.edu.sg](mailto:helpdesk@mail-imtl.moe.edu.sg)
 
 **Operating hours:**
 
