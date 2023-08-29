@@ -11,7 +11,7 @@ We know that you wish to come back to see your former teachers. We also wish tha
 
 As our school has been designated as a polling centre for Presidential Election, we are unable to host alumni on 31 August.
 
-Not to worry! You can still leave your special thanks and wishes for your teachers on this MOE page specially created for teachers at https://thankyoucher.edu.sg 
+Not to worry! You can still leave your special thanks and wishes for your teachers on this MOE page specially created for teachers at [https://thankyoucher.edu.sg](https://thankyoucher.edu.sg)
 #### GREEN SCHOOLS @ SOUTH WEST 2022 (3 STARS)
 ![](/images/Website%20announcement%20images.png)
 
