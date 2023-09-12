@@ -8,6 +8,10 @@ HBL will commence from&nbsp;**28 September to 3 October 2023**.
 
 Dear BLGians, please click on the level you are in to go to the Home-Based Learning instructions for your class.
 
+The schedule of the levels on HBL is as follows. 
+![](/images/hbl%20web%20heading%204.jpg)
+
+
 <img src="/images/BLGPS%20HBL%20Infographics%201.png" style="width:80%">
 
 <img src="/images/BLGPS%20HBL%20Infographics%202.png" style="width:80%">
