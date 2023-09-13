@@ -3,7 +3,6 @@ title: Announcements
 permalink: /announcements/announcements/
 description: ""
 ---
-
 #### GREEN SCHOOLS @ SOUTH WEST 2022 (3 STARS)
 ![](/images/Website%20announcement%20images.png)
 
