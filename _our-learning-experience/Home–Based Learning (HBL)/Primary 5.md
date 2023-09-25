@@ -1,6 +1,6 @@
 ---
 title: Primary 5
-permalink: /our-learning-experience/home-based-learning-hbl/permalink/
+permalink: /our-learning-experience/home-based-learning-hbl/permalink5/
 description: ""
 third_nav_title: Home–Based Learning (HBL)
 ---
