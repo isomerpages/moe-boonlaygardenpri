@@ -24,8 +24,8 @@ third_nav_title: Home–Based Learning (HBL)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1YS0088jj9lYcJR0HmelQziNEpqupGRaYxpIKhurM5rs/edit"><span style="color:#15C;background-color:transparent">P3 Care</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/18e64jTF-LwLFxCIM7aTo_LGsmEHDNZ12wLnvyps81q0/edit"><span style="color:#15C;background-color:transparent">P3 Harmony</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/18n6XYl5K2mQ1xTeYGGB-7LaLpymdevm6/edit"><span style="color:#15C;background-color:transparent">P3 Care</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1xEDCinEEtl0iNjlm0z1t53oFFkXb-EF3/edit"><span style="color:#15C;background-color:transparent">P3 Harmony</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1gc_igSi7RJfcI9J9nBCWx2C01kb0FqDRkP8KsFaw7U8/edit"><span style="color:#15C;background-color:transparent">P3 Integrity</span></a></th>
   </tr>
 </thead>
