@@ -31,7 +31,7 @@ third_nav_title: Home–Based Learning (HBL)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wWses2_iUYKfsZ-Fpt6tptwnN94kgqfvmTbXi94Ow5I/edit"><span style="color:#15C;background-color:transparent">P1 Integrity</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17rWzEzgbumA4VmpksDkS24siRlolkQQT/edit"><span style="color:#15C;background-color:transparent">P1 Integrity</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1yJw7okCaWeqIH9vuXPsbvEdfUy6lwgeYp5UmYekinS8/edit"><span style="color:#15C;background-color:transparent">P1 Joy</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/133aP3J42vk2ZJuGrxqrJs4EhtdAY_ANlXC2claDOc3Q/edit"><span style="color:#15C;background-color:transparent">P1 Resilience</span></a></td>
   </tr>
