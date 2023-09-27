@@ -31,8 +31,8 @@ third_nav_title: Home–Based Learning (HBL)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1c2mzlV--4Z5W3Xq-otSzpUxKtN04QpExoj-9NJ1zI44/edit"><span style="color:#15C;background-color:transparent">P3 Resilience</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1aRWx8wihrRnPN2L303Um-r2nm_WEFY2howyvZ9Q3Mz8/edit"><span style="color:#15C;background-color:transparent">P3 Respect A</span></a><span style="background-color:transparent"> </span></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1D3xvRjNyf50gszW9qkJN5fOYmjTifdf1/edit"><span style="color:#15C;background-color:transparent">P3 Resilience</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1q2991NbSd5XlzBWm78tOAm2s6OiZZupY/edit"><span style="color:#15C;background-color:transparent">P3 Respect A</span></a><span style="background-color:transparent"> </span></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1IBzM2Zs7LYJmRT6rGc2R1NjdVas2Pxu9zu3iR2vVTas/edit"><span style="color:#15C;background-color:transparent">P3 Respect B</span></a></td>
   </tr>
   <tr>
