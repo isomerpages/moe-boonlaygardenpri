@@ -32,8 +32,8 @@ third_nav_title: Home–Based Learning (HBL)
 <tbody>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/17rWzEzgbumA4VmpksDkS24siRlolkQQT/edit"><span style="color:#15C;background-color:transparent">P1 Integrity</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1yJw7okCaWeqIH9vuXPsbvEdfUy6lwgeYp5UmYekinS8/edit"><span style="color:#15C;background-color:transparent">P1 Joy</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/133aP3J42vk2ZJuGrxqrJs4EhtdAY_ANlXC2claDOc3Q/edit"><span style="color:#15C;background-color:transparent">P1 Resilience</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/145I_0oY1cZ5Lirr1LivPC-Q9OlbTzPi9/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 Joy</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1r_L9B14LlMOg3fjl69vMuQgNzQQk38t1/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 Resilience</span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/13xeNvH6Hyzpz9yy2Lw0jzOwQP0Ta4TU5U0_xUYj5uug/edit"><span style="color:#15C;background-color:transparent">P1 Respect</span></a></td>
