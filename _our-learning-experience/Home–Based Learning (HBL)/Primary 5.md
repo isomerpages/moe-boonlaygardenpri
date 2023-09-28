@@ -10,7 +10,7 @@ third_nav_title: Home–Based Learning (HBL)
 
 **LOG INTO SLS TO COMPLETE YOUR DAILY CHECK-IN BY 8 A.M.**
 
-#### SELECT YOUR FORM CLASS FOR&nbsp;ENGLISH, MATH AND SCIENCE SUBJECTS.
+#### Form Class
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,7 +43,43 @@ third_nav_title: Home–Based Learning (HBL)
 </tbody>
 </table>
 
-#### SELECT YOUR MOTHER TONGUE CLASS FOR THE MOTHER TONGUE  AND CCE SUBJECTS.
+#### Mathematics Class
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-db9x{background-color:#FFF;color:#15C;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1fSuvi-rPpTfqxMt6jdAdTHDbrLtN_FZ1XS-EX2SKAwg/edit"><span style="color:#15C;background-color:transparent">P5 CL1</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1Zf4BnbNCLPPO_OkJBODuxp-diQkSBHoFfc9O2FBqyaY/edit"><span style="color:#15C;background-color:transparent">P5 CL2</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/19nTJYjQeEKCWXo0QKihXF9OZha4geqLhfVGegBk-g6M/edit"><span style="color:#15C;background-color:transparent">P5 CL3</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1O868pvwy1NtEvQfxrQ5qslStwHXhD72zkNkWw8X7L9w/edit"><span style="color:#15C;background-color:transparent">P5 CL4</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1nUhJ0nvljiHLoC0YwzsKMQeShIdig_xCg46D5vMWv3Q/edit"><span style="color:#15C;background-color:transparent">P5 FCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wSMkwQozkpWB-iZPHA2bni3q5pbgbjgJUIQHMJRqHHg/edit"><span style="color:#15C;background-color:transparent">P5 HCL</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"></td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
+#### Mother Tongue Class
 
 
 <style type="text/css">
