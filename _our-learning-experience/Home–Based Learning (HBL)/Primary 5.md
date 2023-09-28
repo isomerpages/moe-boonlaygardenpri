@@ -101,9 +101,9 @@ third_nav_title: Home–Based Learning (HBL)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1O868pvwy1NtEvQfxrQ5qslStwHXhD72zkNkWw8X7L9w/edit"><span style="color:#15C;background-color:transparent">P5 CL4</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1nUhJ0nvljiHLoC0YwzsKMQeShIdig_xCg46D5vMWv3Q/edit"><span style="color:#15C;background-color:transparent">P5 FCL</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wSMkwQozkpWB-iZPHA2bni3q5pbgbjgJUIQHMJRqHHg/edit"><span style="color:#15C;background-color:transparent">P5 HCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1tFAb4_lIArka-EwYtOEC6bucYlvoQDUx/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 CL4</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1oGKhObJ49nuIqur36T4ORvm5ee_JqBVn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 FCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ukO5w9FmsqiCNk2LisVMbG1qZKd6NnwN/edit"><span style="color:#15C;background-color:transparent">P5 HCL</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
