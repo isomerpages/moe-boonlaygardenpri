@@ -111,9 +111,9 @@ third_nav_title: Home–Based Learning (HBL)
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1E02TlkI8Xmq2itCBNT2wC0HgmfW8ehoDAfqOph1tyoc/edit"><span style="color:#15C;background-color:transparent">P5 ML1</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1-SF6YHHQY3paOCBJ3XJl1bexT5_MEVKuuBGeUbdTYoA/edit"><span style="color:#15C;background-color:transparent">P5 ML2</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/19PF7TAdA_7y7Ci_cTNVSddYXLgGTdHZ6nZpDXj59IZw/edit"><span style="color:#15C;background-color:transparent">P5FML</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17Q19OkLjidPZAxYaOplStaB6uuisdlKE/edit"><span style="color:#15C;background-color:transparent">P5 ML1</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1YgjfM6Jn0f_pixKMa9Dm9C2nLf1E7CK-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 ML2</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pWsVM3xbV4H8fkGOLIq-UseQGL1bqnL8/edit"><span style="color:#15C;background-color:transparent">P5FML</span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1nTW0TtgdFoB4pkwALPJ9vy9QnCyUJMSnZ7CgJUH5tCU/edit"><span style="color:#15C;background-color:transparent">P5 HML</span></a></td>
