@@ -94,8 +94,8 @@ third_nav_title: Home–Based Learning (HBL)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1fSuvi-rPpTfqxMt6jdAdTHDbrLtN_FZ1XS-EX2SKAwg/edit"><span style="color:#15C;background-color:transparent">P5 CL1</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1Zf4BnbNCLPPO_OkJBODuxp-diQkSBHoFfc9O2FBqyaY/edit"><span style="color:#15C;background-color:transparent">P5 CL2</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1bxf33kbMBQSChTdD0KDExFj9ldtLtlza/edit"><span style="color:#15C;background-color:transparent">P5 CL1</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1CY4eka9-9z-AJ5fhzd4OC1LBC9QhoB8U/edit"><span style="color:#15C;background-color:transparent">P5 CL2</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/19nTJYjQeEKCWXo0QKihXF9OZha4geqLhfVGegBk-g6M/edit"><span style="color:#15C;background-color:transparent">P5 CL3</span></a></th>
   </tr>
 </thead>
