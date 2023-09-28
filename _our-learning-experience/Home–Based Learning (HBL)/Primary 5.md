@@ -127,7 +127,7 @@ third_nav_title: Home–Based Learning (HBL)
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1-JXaJ9AF6-JyMueCztMhi3IS5UKJsCST/edit"><span style="color:#15C;background-color:transparent">P5 TL</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1hvxs2vZPF9qWUs531pmsWk4UHxBmlBXO5R99qpcmWRk/edit"><span style="color:#15C;background-color:transparent">P5 FTL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1hxpJhQBmu0yWFLOSCJrJJlS09CyWwoLo/edit"><span style="color:#15C;background-color:transparent">P5 FTL</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1mpFlBwcoSs04c8WSYPdfez94xy_dML30VPE-5FHjkNA/edit"><span style="color:#15C;background-color:transparent">P5HTL</span></a></td>
   </tr>
 </tbody>
