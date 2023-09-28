@@ -58,14 +58,14 @@ third_nav_title: Home–Based Learning (HBL)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1s77z\_5OOjhqyr-KelD-ppNbWO1baBpAI/edit"><span style="color:#15C;background-color:transparent">P5 MAA</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1Zf4BnbNCLPPO_OkJBODuxp-diQkSBHoFfc9O2FBqyaY/edit"><span style="color:#15C;background-color:transparent">P5 MAB</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/19nTJYjQeEKCWXo0QKihXF9OZha4geqLhfVGegBk-g6M/edit"><span style="color:#15C;background-color:transparent">P5 MAC</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1s77z_5OOjhqyr-KelD-ppNbWO1baBpAI/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 MAA</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1EDeTOnN4ZWogh7QHquVJ6-s-RdGE10xQ/edit"><span style="color:#15C;background-color:transparent">P5 MAB</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_8WeNoFxKoh86RI2KhR3GhiIU6h-qXjG/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 MAC</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1O868pvwy1NtEvQfxrQ5qslStwHXhD72zkNkWw8X7L9w/edit"><span style="color:#15C;background-color:transparent">P5 MAD</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1IZGZ7ZIHmV2xvl7Lf8Uzgypb3Pl0PcVr/edit"><span style="color:#15C;background-color:transparent">P5 MAD</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1nUhJ0nvljiHLoC0YwzsKMQeShIdig_xCg46D5vMWv3Q/edit"><span style="color:#15C;background-color:transparent">P5 MAE</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wSMkwQozkpWB-iZPHA2bni3q5pbgbjgJUIQHMJRqHHg/edit"><span style="color:#15C;background-color:transparent">P5 FMA</span></a></td>
   </tr>
