@@ -69,9 +69,6 @@ third_nav_title: Home–Based Learning (HBL)
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1HAYg2VkSnCqYFDS7Au5kN25pxdfHp9PX/edit"><span style="color:#15C;background-color:transparent">P4 TL</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1FpmRzDtDhXAwCRvWzH1Y1-kh_PBuDqczpjU5eZAWPA8/edit"><span style="color:#15C;background-color:transparent">P4 CARE A</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wJ0xOxkFmD1szWl80E1YDvj9ehBBFkh09UFfEAscjBc/edit"><span style="color:#15C;background-color:transparent">P4 CARE B</span></a></td>
-    <td class="tg-ktyi"></td>
   </tr>
 </tbody>
 </table>
