@@ -27,13 +27,13 @@ third_nav_title: Home–Based Learning (HBL)
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1eKYYXKTMzn9UCftt2tI0vSa73STWje2L/edit"><span style="color:#15C;background-color:transparent">P2 Care</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1WtL5cdENwiJNIO-Wy9sHHbzhLaOZPBg4/edit"><span style="color:#15C;background-color:transparent">P2 Cooperation</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1AbBhJmbgenjE0RAKkMO6oR19UnnlIKpp5nluVKFnQ3g/edit"><span style="color:#15C;background-color:transparent">P2 Harmony</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1hzhALhocrO2mNX9BvO6ByCdJH3mWWCaa/edit"><span style="color:#15C;background-color:transparent">P2 Harmony</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18d8yqeQERiyqBzrto7p1BAiLvIXfEtNg5ZNIiOgai9k/edit"><span style="color:#15C;background-color:transparent">P2 Integrity</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1Il1NJ9ykCLEJTUMymP6suOUIr5EhQyTwjS2-83nm9bY/edit"><span style="color:#15C;background-color:transparent">P2 Joy</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1LVVV_qmuARE_EuToK_r2urVGIKS50YZI/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 Integrity</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1llI5j4P3_IpH86WvjZuXNSkAx7mr1qWo/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 Joy</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1HyJ1nzvZLYm9Qp7QltZrvrBqxKK2avJsmQTEPrF9trc/edit"><span style="color:#15C;background-color:transparent">P2 Resilience</span></a></td>
   </tr>
   <tr>
