@@ -59,12 +59,12 @@ third_nav_title: Home–Based Learning (HBL)
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NuMPWV3yXdbhS_oWSKUi-ed6dQDGwaCH5np-X8gPD4M/edit"><span style="color:#15C;background-color:transparent">P2 CL1</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1rM1UMctReLaLYXoCrFBsHUTzvSI2ObF1/edit"><span style="color:#15C;background-color:transparent">P2 CL2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/16ZnWE9X5zgx49zhpQUDnM-1WqEv1tf17O70SQtxCUWc/edit"><span style="color:#15C;background-color:transparent">P2 CL3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17UQXiea8YumcaVUwzfeYz8U1E_tLzR5k/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 CL3</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1wL_HDZmz6s8N4BW0uQpQ1DrBg2TLx-SCkpXQA-l5hOk/edit"><span style="color:#15C;background-color:transparent">P2 CL4</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18iWVuYLLdlYLjZWBv1stWFMp5n8YRga7/edit"><span style="color:#15C;background-color:transparent">P2 CL4</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/12uF0-1LhSahaxI78VPC1OwDbvATVCnM2ms8pT-wZ414/edit"><span style="color:#15C;background-color:transparent">P2 CL5</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1deM7Ywb0yNxoZCzNe1iNKGnGi-d_h3Xr3kDmfuGvMmc/edit"><span style="color:#15C;background-color:transparent">P2 ML1</span></a></td>
   </tr>
