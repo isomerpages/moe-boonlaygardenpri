@@ -26,7 +26,7 @@ third_nav_title: Home–Based Learning (HBL)
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/145IDOjWk2u_MwbP9JHvDFAvwiNa4I60z/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P4 Care</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1tPRS8oye1d4n6_dRQg4u2VlBUv9QhqD7/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P4 Harmony</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_cqqRE-fR3wHCzClrXjLZlGAUT5O7ImcupFHl-h5MpY/edit"><span style="color:#15C;background-color:transparent">P4 Integrity</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1z24SFbvJqhZX7fW9bOKSmZyAvoipy-3s/edit"><span style="color:#15C;background-color:transparent">P4 Integrity</span></a></th>
   </tr>
 </thead>
 <tbody>
