@@ -37,7 +37,7 @@ third_nav_title: Home–Based Learning (HBL)
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1kJMX6fC-0MjesFo1XyAj4Mq95YGpm55l/edit#heading=h.gjdgxs"><span style="color:#15C;background-color:transparent">P2 Resilience</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pABoi5QnnrWbl6ErNp7NVUGffFjCmQbj6sGic-Xz_RY/edit"><span style="color:#15C;background-color:transparent">P2 Respect</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1UoLBOptAGUFhgZGUZzUTQOYH9T2Pe8Ok/edit"><span style="color:#15C;background-color:transparent">P2 Respect</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1JfNMarQXKWxGF43Z-xLUHThHdV3RuGg359qKcJw8vjw/edit"><span style="color:#15C;background-color:transparent">P2 Responsibility</span></a></td>
     <td class="tg-ktyi"></td>
   </tr>
