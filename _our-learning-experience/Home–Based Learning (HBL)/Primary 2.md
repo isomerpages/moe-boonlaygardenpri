@@ -38,7 +38,7 @@ third_nav_title: Home–Based Learning (HBL)
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1UoLBOptAGUFhgZGUZzUTQOYH9T2Pe8Ok/edit"><span style="color:#15C;background-color:transparent">P2 Respect</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1JfNMarQXKWxGF43Z-xLUHThHdV3RuGg359qKcJw8vjw/edit"><span style="color:#15C;background-color:transparent">P2 Responsibility</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1EZj6DuxHlYXx0jU81YTd-LP5_LKD4aiW/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 Responsibility</span></a></td>
     <td class="tg-ktyi"></td>
   </tr>
 </tbody>
