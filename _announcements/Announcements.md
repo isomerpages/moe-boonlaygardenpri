@@ -3,8 +3,7 @@ title: Announcements
 permalink: /announcements/announcements/
 description: ""
 ---
-
-#### NOMINATION FOR CARING TEACHER AWARD
+#### NOMINATION OF TEACHERS FOR THE PRESIDENT'S AWARD FOR TEACHERS (PAT), OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) AND CARING TEACHER AWARDA (CTA)
 ![](/images/caringteacheraward.jpg)
 
 Have a teacher who inspires, supports, goes the extra mile and has made a difference in your life? ✨📚💖
