@@ -14,8 +14,8 @@ Nominate them for the *The President's Award for Teachers (PAT)*, *Outstanding Y
 
 Links to nomination:
 - PAT [http://go.gov.sg/pat2024 ](http://go.gov.sg/pat2024 )(Deadline for nomination: 10 Jan 2024)
-- OYEA (open to teachers aged 35 years and below) [http://go.gov.sg/oyea2024](http://go.gov.sg/oyea2024)http://go.gov.sg/oyea2024 (Deadline for nomination: 10 Jan 2024)
-- CTA https://www.cta.nie.edu.sg/nominate[https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) (Deadline for nomination: 12 Jan 2024)
+- OYEA (open to teachers aged 35 years and below) [http://go.gov.sg/oyea2024](http://go.gov.sg/oyea2024) (Deadline for nomination: 10 Jan 2024)
+- CTA [https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) (Deadline for nomination: 12 Jan 2024)
 
 #### GREEN SCHOOLS @ SOUTH WEST 2022 (3 STARS)
 ![](/images/Website%20announcement%20images.png)
