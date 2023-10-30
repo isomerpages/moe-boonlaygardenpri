@@ -16,6 +16,15 @@ Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” Faceboo
 ![](/images/moneysense%20poster2.png)
 Note: This workshop is for parents **only**.
 
+#### COMMENDATION AWARD FOR PRIMARY MATHEMATICS PROJECT COMPETITION 2023
+![](/images/math%20competition1.jpg)
+
+Congratulations to Stefano and Kabilan of 5Care for being awarded the Commendation Award in the Primary 5 GAME DESIGN Category, in the Primary Mathematics Project Competition 2023 organised by MOE and NUS High School.
+Their game, titled “Math Jenga”, infuses the Jenga game with both mathematical and critical thinking skills. Players will have to apply their knowledge on the four operations in order to play the
+game. They need to think critically using the numbers on the Jenga to get the answer.
+
+Click on this link to check out their game presented in a cool virtual space: [https://www.thinglink.com/mediacard/1773656001208123878 ](https://www.thinglink.com/mediacard/1773656001208123878 )
+ 
 
 
 #### NOMINATION OF TEACHERS FOR THE PRESIDENT'S AWARD FOR TEACHERS (PAT), OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) AND CARING TEACHER AWARD (CTA)
