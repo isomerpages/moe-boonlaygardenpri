@@ -3,6 +3,21 @@ title: Announcements
 permalink: /announcements/announcements/
 description: ""
 ---
+#### INFORMATION FOR P1 ORIENTATION
+![](/images/p1%20orientation%20pic1.png)
+
+Information for P1 2024 Orientation is up on Parents Gateway (PG). P1 2024 Parents can go onto PG to find out more. For parents who are facing technical issues with PG, please feel free to contact the school via our email [blgps@moe.edu.sg](blgps@moe.edu.sg)
+
+#### MONEYSENSE PROGRAMMES
+![](/images/moneysense%20pic1.png)
+
+Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” Facebook Live session to learn the importance of inculcating good financial habits from young. There are also complimentary workshops and talks that cover ways in which you can help your child cultivate healthy financial habits, budget and save to be a young smart consumer. Details of the workshops and talk are as follows.
+
+![](/images/moneysense%20poster2.png)
+Note: This workshop is for parents **only**.
+
+
+
 #### NOMINATION OF TEACHERS FOR THE PRESIDENT'S AWARD FOR TEACHERS (PAT), OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) AND CARING TEACHER AWARD (CTA)
 ![](/images/caringteacheraward.jpg)
 
