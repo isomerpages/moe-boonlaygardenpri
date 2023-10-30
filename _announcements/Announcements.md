@@ -19,7 +19,7 @@ Note: This workshop is for parents **only**.
 #### COMMENDATION AWARD FOR PRIMARY MATHEMATICS PROJECT COMPETITION 2023
 ![](/images/math%20competition1.jpg)
 
-Congratulations to Stefano and Kabilan of 5Care for being awarded the Commendation Award in the Primary 5 GAME DESIGN Category, in the Primary Mathematics Project Competition 2023 organised by MOE and NUS High School.
+Congratulations to Stefano and Kabilan of 5Care for being awarded the Commendation Award in the Primary 5 GAME DESIGN Category, in the Primary Mathematics Project Competition 2023 organised by Gifted Education (GE) Branch and NUS High School.
 Their game, titled “Math Jenga”, infuses the Jenga game with both mathematical and critical thinking skills. Players will have to apply their knowledge on the four operations in order to play the
 game. They need to think critically using the numbers on the Jenga to get the answer.
 
