@@ -12,7 +12,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 ### BLGPS Newsway 2023 Issue #36
 The latest edition of Newsway serves as a window into the school’s journey of transforming our future learning spaces to nurture 21CC in our students. Check it out!
 
-<p><a href="https://online.fliphtml5.com/sanwz/btsp/">
+<p><a href="https://online.fliphtml5.com/sanwz/btsp/[https://online.fliphtml5.com/sanwz/cpgd/#p=12](https://online.fliphtml5.com/sanwz/cpgd/#p=12)">
 <img src="/images/newsway_36_nov2023.png" style="width:55%">
 </a></p>
 
