@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /announcements/announcements/
 description: ""
+variant: markdown
 ---
 #### INFORMATION FOR P1 ORIENTATION
 ![](/images/p1%20orientation%20pic1.png)
@@ -49,3 +50,8 @@ BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will co
 
 #### PRINCIPAL'S LETTER (TERM 4)
 Let's take some time to read about the important information and exciting programmes that are happening in Term 4 in the principal's letter posted on PG.
+
+
+#### Vacancy for School Canteen Stall 
+
+**[Form](/files/FormBF7.pdf)**
