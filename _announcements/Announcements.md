@@ -54,7 +54,7 @@ Let's take some time to read about the important information and exciting progra
 
 #### Vacancy for School Canteen Stall 
  
-##### Application Procedure 
+<h5> Application Procedure </h5>
 
 Complete the application form **[(FormBF7.pdf)](/files/FormBF7.pdf)**. You may also request for a hardcopy from the school's general office.
 
