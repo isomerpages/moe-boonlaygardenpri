@@ -3,6 +3,7 @@ title: Netball
 permalink: /our-ccas/sports-and-games/permalink/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/netball.jpeg)
 ### Our Goals  
@@ -12,7 +13,7 @@ BLGPS Netball is a platform for students to hone basic skills such as passing, s
 
 ### Our Approach
 
-In weekly sessions, students are provided with various drills and game-based activities to apply the skills and concepts acquired. The team look forward to sending both Junior and Senior teams for the annual National School Games in the coming years.
+In weekly sessions, students are provided with various drills and game-based activities to apply the skills and concepts acquired. The team looks forward to sending both Junior and Senior teams for the annual National School Games in the coming years.
 
   
 
@@ -22,4 +23,3 @@ Mrs Ong Chiew Min (I/C) <br>
 Ms Lynnnette Loh (co I/C) <br>
 Ms Suhaila<br>
 Mdm Shu Xiao Mei <br>
-
