@@ -88,9 +88,9 @@ variant: markdown
     <td class="tg-cly1">tan_yan_ting@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">1 Resilience </td>
-    <td class="tg-cly1">Ms Odelia<br><br>Ms Shirley Teng</td>
-    <td class="tg-cly1">@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
+		 <td class="tg-0lax">2 Resilience </td>
+    <td class="tg-cly1">Ms Victoria Wong Zi Qing<br><br>Ms Shirley Teng</td>
+    <td class="tg-cly1">victoria_wong_zi_qing@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
