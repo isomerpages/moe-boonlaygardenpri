@@ -28,7 +28,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">1 Responsibility</td>
-    <td class="tg-cly1">Miss Iris Ng peng Peng<br><br>Ms Maisarah Bte Kamal </td>
+    <td class="tg-cly1">Ms Iris Ng peng Peng<br><br>Ms Maisarah Bte Kamal </td>
     <td class="tg-cly1">ng_peng_peng@schools.gov.sg<br>maisarah_bte_kamal@schools.gov.sg</td>
   </tr>
   <tr>
@@ -38,8 +38,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
-    <td class="tg-cly1">Mr Nicholas Cai</td>
-    <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br>Mrs Leong- Tan_Hwee_Peng</td>
+    <td class="tg-cly1">Suhaila_Suleiman_Syed@schools.gov.sg<br>Tan_Hwee_Peng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Integrity</td>
