@@ -83,9 +83,9 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">1 Responsibility</td>
-    <td class="tg-cly1">Ms Iris Ng peng Peng<br><br>Ms Maisarah Bte Kamal </td>
-    <td class="tg-cly1">ng_peng_peng@schools.gov.sg<br>maisarah_bte_kamal@schools.gov.sg</td>
+    <td class="tg-0lax">2 Responsibility</td>
+    <td class="tg-cly1">Ms Tan Yan Ting<br><br>Mr Muhammad Ariff Mohd Noor </td>
+    <td class="tg-cly1">tan_yan_ting@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">1 Resilience </td>
