@@ -114,7 +114,7 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">2 Joy</td>
-    <td class="tg-cly1">Ms Nerrisa<br><br>Mrs Maha</td>
+    <td class="tg-cly1">Ms Nerrisa<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
     <td class="tg-cly1">@schools.gov.sg<br>ganesan_mahalatchimi@schools.gov.sg</td></tr>
   <tr>
   </tr>
