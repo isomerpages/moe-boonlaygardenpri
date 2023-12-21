@@ -48,12 +48,12 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">1 Care</td>
-    <td class="tg-cly1">Ms Lau Yi Yuan<br>Ms Chan Yien Qing</td>
+    <td class="tg-cly1">Ms Lau Yi Yuan<br><br>Ms Chan Yien Qing</td>
     <td class="tg-cly1">lau_yi_yuan@schools.gov.sg<br>chan_yien_qing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Harmony</td>
-    <td class="tg-cly1">Mdm Shuhada baharum<br>Mdm Shu Xiaomei</td>
+    <td class="tg-cly1">Mdm Shuhada baharum<br><br>Mdm Shu Xiaomei</td>
     <td class="tg-cly1">shuhada_baharum@schools.gov.sg<br>shu_xiaomei@schools.gov.sg</td>
   </tr>
   <tr>
@@ -104,13 +104,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2 Care</td>
-    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Alfie- Nurul Shalwa Rohim</td>
+    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br><br>Mrs Alfie- Nurul Shalwa Rohim</td>
     <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
-    <td class="tg-cly1">Mdm Liyana Mohammad Zulkiflee<br>Mdm Shu Xiaomei</td>
-    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>shu_xiaomei@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Liyana Mohammad Zulkiflee<br><br>Mr Thong Fong Yang</td>
+    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>thong_fong_yang@schools.gov.sg</td>
   </tr>
   <tr>
   </tr>
