@@ -144,8 +144,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">3 Responsibility</td>
-    <td class="tg-cly1">Ms Siti Atikah Mohd Ziham <br><br>Mr Muhammad Ariff Mohd Noor </td>
-    <td class="tg-cly1">siti_atikah_mohd_ziham@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Siti Atikah Mohd Ziham <br><br>Ms Lin Meizhi </td>
+    <td class="tg-cly1">siti_atikah_mohd_ziham@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">2 Resilience </td>
