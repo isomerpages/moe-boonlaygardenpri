@@ -120,3 +120,63 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+
+### Primary 3
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Teachers</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2 Responsibility</td>
+    <td class="tg-cly1">Ms Tan Yan Ting<br><br>Mr Muhammad Ariff Mohd Noor </td>
+    <td class="tg-cly1">tan_yan_ting@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
+  </tr>
+  <tr>
+		 <td class="tg-0lax">2 Resilience </td>
+    <td class="tg-cly1">Ms Victoria Wong Zi Qing<br><br>Mdm Rita</td>
+    <td class="tg-cly1">victoria_wong_zi_qing@schools.gov.sg<br>rita_salamoon@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 Respect</td>
+    <td class="tg-cly1">Ms Nur Zakiah Ahmad<br><br>Mdm Chua Huay Wen</td>
+    <td class="tg-cly1">nur_zakiah_ahmad@schools.gov.sg<br>chua_huay_wen@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 Integrity</td>
+    <td class="tg-cly1">Ms Brenda Zhou Huifang<br><br>Mr Kuay Chau Ann</td>
+    <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg<br>kuay_chau_ann_a@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 Care</td>
+    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br><br>Mrs Alfie- Nurul</td>
+    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 Harmony</td>
+    <td class="tg-cly1">Mdm Liyana Mohammad Zulkiflee<br><br>Mr Thong Fong Yang</td>
+    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>thong_fong_yang@schools.gov.sg</td>
+    </tr>
+  <tr>
+    <td class="tg-0lax">2 Joy</td>
+    <td class="tg-cly1">Ms Nerrisa<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
+    <td class="tg-cly1">@schools.gov.sg<br>ganesan_mahalatchimi@schools.gov.sg</td></tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
