@@ -173,7 +173,7 @@ variant: markdown
     <td class="tg-cly1">lim_jek_ming_shuan@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
     </tr>
   <tr>
-    <td class="tg-0lax">2 Joy</td>
+    <td class="tg-0lax">3 Integrity B</td>
     <td class="tg-cly1">Ms Nerrisa<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
     <td class="tg-cly1">@schools.gov.sg<br>ganesan_mahalatchimi@schools.gov.sg</td></tr>
   <tr>
