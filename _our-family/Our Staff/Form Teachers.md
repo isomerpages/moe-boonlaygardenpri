@@ -294,8 +294,8 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">5 Integrity B</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad<br><br>Mdm Norlaily Ahmad<br><br>Ms Stacy Chow Yuh Lan</td>
-    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg<br>norlaily_ahmad@schools.gov.sg<br>chow_yuh_lan@schools.gov.sg</td></tr>
+    <td class="tg-cly1">Mdm Norlita Muhamad<br><br>Ms Lynette Loh Si Hui<br><br>Ms Stacy Chow Yuh Lan</td>
+    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
   <tr>
   </tr>
 </tbody>
