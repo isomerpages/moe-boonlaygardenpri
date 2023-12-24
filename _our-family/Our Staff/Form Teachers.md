@@ -284,8 +284,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">5 Respect</td>
-    <td class="tg-cly1">Ms Ainah Saaban<br><br>Mdm Jaliza</td>
-    <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>jaliza_jamaludin@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Ainah Saaban<br><br>Mr Kho Murphy</td>
+    <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Respect A</td>
