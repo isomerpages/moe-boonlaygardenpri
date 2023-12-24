@@ -205,7 +205,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">4 Harmony</td>
     <td class="tg-cly1">Mr Aashiq <br><br>Ms Wong Sze Ling Celine </td>
-    <td class="tg-cly1">mohammad_aashiq_anshad@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td>
+    <td class="tg-cly1">mohammad_aashiq_anshad@schools.gov.sg<br>wong_sze_ling@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Resilience </td>
