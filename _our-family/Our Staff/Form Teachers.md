@@ -233,7 +233,7 @@ variant: markdown
     <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
     </tr>
   <tr>
-    <td class="tg-0lax">3 Integrity B</td>
+    <td class="tg-0lax">4 Respect B</td>
     <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br><br>Ms Sumathi</td>
     <td class="tg-cly1">ng_shui_farn@schools.gov.sg<br>sumathi_mani@schools.gov.sg</td></tr>
   <tr>
