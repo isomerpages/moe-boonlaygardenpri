@@ -273,9 +273,9 @@ variant: markdown
     <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4 Integrity</td>
-    <td class="tg-cly1">Mdm Pok Yam Lee<br><br>Mdm Grace Chan</td>
-    <td class="tg-cly1">pok_yam_lee@schools.gov.sg<br>grace_chan@schools.gov.sg</td>
+    <td class="tg-0lax">5 Harmony</td>
+    <td class="tg-cly1">Mr Hairil<br><br>Mdm Grace Chan</td>
+    <td class="tg-cly1">muhammad_hairil_iskandar_rajis@schools.gov.sg<br>grace_chan@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Resilience</td>
