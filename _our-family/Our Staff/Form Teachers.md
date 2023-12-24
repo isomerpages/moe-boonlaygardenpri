@@ -356,7 +356,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">6 Respect B</td>
     <td class="tg-cly1">Mrs Annabelle Woo<br><br>Ms Lynette Loh Si Hui</td>
-    <td class="tg-cly1">Mrs Annabelle Woo<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
+    <td class="tg-cly1">annabelle_tay@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
   <tr>
   </tr>
 </tbody>
