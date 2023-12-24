@@ -350,8 +350,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">6 Respect A</td>
-    <td class="tg-cly1">Ms Michelle Chow<br><br>Mr Roslan</td>
-    <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>roslan_b_abu@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Fahmy<br><br>Mr Roslan</td>
+    <td class="tg-cly1">norsela_sawal@schools.gov.sg<br>roslan_b_abu@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">5 Integrity B</td>
