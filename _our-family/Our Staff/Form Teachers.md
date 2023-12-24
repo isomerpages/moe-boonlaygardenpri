@@ -174,7 +174,7 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">3 Integrity B</td>
-    <td class="tg-cly1">Ms Nerrisa<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
+    <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
     <td class="tg-cly1">ng_shui_farn@schools.gov.sg<br>ganesan_mahalatchimi@schools.gov.sg</td></tr>
   <tr>
   </tr>
