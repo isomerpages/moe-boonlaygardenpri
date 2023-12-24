@@ -300,3 +300,64 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+
+
+### Primary 6
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Teachers</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">5 Responsibility</td>
+    <td class="tg-cly1">Mrs Serena Ong <br><br>Mdm Atika </td>
+    <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
+  </tr>
+  <tr>
+		 <td class="tg-0lax">5 Resilience</td>
+    <td class="tg-cly1">Ms Grace Phang <br><br>Mr Shazwan </td>
+    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5 Harmony</td>
+    <td class="tg-cly1">Mr Hairil<br><br>Ms Yang Yu Qing</td>
+    <td class="tg-cly1">muhammad_hairil_iskandar_rajis@schools.gov.sg<br>yang_yuqing@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5 Care</td>
+    <td class="tg-cly1">Mrs Mathilda Wong<br><br>Mdm Norbi</td>
+    <td class="tg-cly1">ross_mathilda@schools.gov.sg<br>norbi_mohd_salleh@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5 Respect</td>
+    <td class="tg-cly1">Ms Ainah Saaban<br><br>Mr Kho Murphy</td>
+    <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5 Integrity A</td>
+    <td class="tg-cly1">Ms Michelle Chow<br><br>Mr Roslan</td>
+    <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>roslan_b_abu@schools.gov.sg</td>
+    </tr>
+  <tr>
+    <td class="tg-0lax">5 Integrity B</td>
+    <td class="tg-cly1">Mdm Norlita Muhamad<br><br>Ms Lynette Loh Si Hui</td>
+    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
