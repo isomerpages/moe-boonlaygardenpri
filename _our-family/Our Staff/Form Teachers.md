@@ -324,9 +324,9 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">5 Responsibility</td>
-    <td class="tg-cly1">Mrs Serena Ong <br><br>Mdm Atika </td>
-    <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
+    <td class="tg-0lax">6 Harmony</td>
+    <td class="tg-cly1">Ms Joy Amisha <br><br>Mdm Atika </td>
+    <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">5 Resilience</td>
