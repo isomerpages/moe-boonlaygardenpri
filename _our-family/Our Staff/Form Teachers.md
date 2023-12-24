@@ -341,7 +341,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">6 Resilience</td>
     <td class="tg-cly1">Ms Lydia Lam<br><br>Mdm Siti Nur Baeyah</td>
-    <td class="tg-cly1">lam_lydia@schools.gov.sg<br>norbi_mohd_salleh@schools.gov.sg</td>
+    <td class="tg-cly1">lam_lydia@schools.gov.sg<br>siti_nur_baeyah_karim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Respect</td>
