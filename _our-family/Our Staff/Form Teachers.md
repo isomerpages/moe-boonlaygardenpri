@@ -180,3 +180,63 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+
+### Primary 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Class</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Teachers</span></th>
+    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">3 Responsibility</td>
+    <td class="tg-cly1">Ms Siti Atikah Mohd Ziham <br><br>Ms Lin Meizhi </td>
+    <td class="tg-cly1">siti_atikah_mohd_ziham@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td>
+  </tr>
+  <tr>
+		 <td class="tg-0lax">3 Resilience </td>
+    <td class="tg-cly1">Ms <br><br>Mrs Loh-Valerine Chen Aizhen<br><br>Mdm Nurashlyn</td>
+    <td class="tg-cly1">@schools.gov.sg<br>chen_aizhen@schools.gov.sg<br>nurashlyn_abdul_rashid@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3 Harmony</td>
+    <td class="tg-cly1">Ms Marina<br><br>Mrs Liu Ying Hui</td>
+    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3 Care</td>
+    <td class="tg-cly1">Mdm Nurin<br><br>Mr Steven Pua<br><br>Mrs Hor- Yeap Lee Ching</td>
+    <td class="tg-cly1">@schools.gov.sg<br>pua_chia_siong@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3 Respect</td>
+    <td class="tg-cly1">Mr Leong Zhi Wei<br><br>Ms Cindy Chua Tsin Li</td>
+    <td class="tg-cly1">leong_zhi_wei@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3 Integrity A</td>
+    <td class="tg-cly1">Mr Shuan Lim<br><br>Ms Yeo Lay Peng</td>
+    <td class="tg-cly1">lim_jek_ming_shuan@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
+    </tr>
+  <tr>
+    <td class="tg-0lax">3 Integrity B</td>
+    <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br><br>Ms Sumathi</td>
+    <td class="tg-cly1">ng_shui_farn@schools.gov.sg<br>sumathi_mani@schools.gov.sg</td></tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
