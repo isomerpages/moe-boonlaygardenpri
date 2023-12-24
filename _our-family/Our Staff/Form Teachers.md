@@ -279,8 +279,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">5 Care</td>
-    <td class="tg-cly1">Mdm Fazila<br><br>Ms Audrey Yap Wenyun</td>
-    <td class="tg-cly1">fazila_banu_mohamed_rabiullah@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Mathilda Wong<br><br>Ms Audrey Yap Wenyun</td>
+    <td class="tg-cly1">ross_mathilda@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Responsibility</td>
