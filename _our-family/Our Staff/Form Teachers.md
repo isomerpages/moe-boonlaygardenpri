@@ -288,7 +288,7 @@ variant: markdown
     <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4 Respect A</td>
+    <td class="tg-0lax">5 Integrity A</td>
     <td class="tg-cly1">Mrs Anne Marie<br><br>Mrs Koh- Chua Jie Min</td>
     <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
     </tr>
