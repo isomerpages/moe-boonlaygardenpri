@@ -223,7 +223,7 @@ variant: markdown
     <td class="tg-cly1">fazila_banu_mohamed_rabiullah@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3 Respect</td>
+    <td class="tg-0lax">4 Responsibility</td>
     <td class="tg-cly1">Mr Leong Zhi Wei<br><br>Ms Cindy Chua Tsin Li</td>
     <td class="tg-cly1">leong_zhi_wei@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
   </tr>
