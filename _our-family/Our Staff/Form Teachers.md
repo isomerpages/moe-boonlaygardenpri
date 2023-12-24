@@ -163,9 +163,9 @@ variant: markdown
     <td class="tg-cly1">@schools.gov.sg<br>pua_chia_siong@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2 Care</td>
-    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br><br>Mrs Alfie- Nurul</td>
-    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg</td>
+    <td class="tg-0lax">3 Respect</td>
+    <td class="tg-cly1">Mr Leong Zhi Wei<br><br>Ms Cindy Chua Tsin Li</td>
+    <td class="tg-cly1">leong_zhi_wei@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
