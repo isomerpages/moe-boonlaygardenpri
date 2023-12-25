@@ -120,11 +120,7 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td class="tg-06je"><span style="background-color:#FFF">Pastoral Care Officer</span><br></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">Ms Alice Ho</span></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td class="tg-06je"><span style="background-color:#FFF">Admin cum Teaching Support</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Rahmah Tonisah Mahali</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
