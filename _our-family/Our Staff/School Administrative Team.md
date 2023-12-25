@@ -3,6 +3,7 @@ title: School Administrative Team
 permalink: /our-family/our-staff/school-administrative-team/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,11 +68,6 @@ third_nav_title: Our Staff
       <td class="tg-ktyi"><span style="background-color:#FFF">Corporate Support Officer</span><br></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Mdm T Tamilselvi</span><br></td>
       <td class="tg-zr06"><span style="background-color:#FFF">-</span><br></td>
-    </tr>
-    <tr>
-      <td class="tg-ktyi"><span style="background-color:#FFF">Corporate Support Officer</span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Mdm Irene Ng</span><br></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span></td>
