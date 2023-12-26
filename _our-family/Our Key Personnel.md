@@ -177,7 +177,7 @@ variant: markdown
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">LH Science</td>
+    <td class="tg-0lax">SH Information Communications Technology</td>
     <td class="tg-cly1">Mrs Liu Ying Hui</td>
     <td class="tg-cly1">tan_ying_hui@schools.gov.sg</td>
   </tr>
