@@ -224,7 +224,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">4 Responsibility</td>
-    <td class="tg-cly1">Mrs Evelyn Kee<br><br>Mdm Jaliza</td>
+    <td class="tg-cly1">Mrs Kee- Evelyn Poon<br><br>Mdm Jaliza</td>
     <td class="tg-cly1">poon_ngee_keng_evelyn@schools.gov.sg<br>jaliza_jamaludin@schools.gov.sg</td>
   </tr>
   <tr>
