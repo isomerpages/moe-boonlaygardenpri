@@ -345,7 +345,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">6 Resposibility</td>
-    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br><br>Mrs Rachel Por</td>
+    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br><br>Mrs Rachel Por- Tham Chin Xin</td>
     <td class="tg-cly1">irdawati_ahmad@schools.gov.sg<br>tham_chin_xin@schools.gov.sg</td>
   </tr>
   <tr>
