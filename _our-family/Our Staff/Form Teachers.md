@@ -264,7 +264,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">5 Responsibility</td>
-    <td class="tg-cly1">Mrs Serena Ong <br><br>Mdm Atika </td>
+    <td class="tg-cly1">Mrs Serena Ong <br><br>Mdm Puteri Nor' Atika </td>
     <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
