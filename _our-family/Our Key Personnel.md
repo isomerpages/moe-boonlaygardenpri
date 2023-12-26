@@ -2,6 +2,7 @@
 title: Our Key Personnel
 permalink: /our-family/our-key-personnel/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -103,8 +104,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Claudia Wong</td>
-    <td class="tg-cly1">wong_shi-lei@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Adela Tandar</td>
+    <td class="tg-cly1">adela_tandar@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">HOD Information Communications Technology</td>
