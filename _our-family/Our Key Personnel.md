@@ -207,7 +207,7 @@ variant: markdown
     <td class="tg-cly1">kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Innovation</td>
+    <td class="tg-0lax">SH Curriculum Innovation</td>
     <td class="tg-cly1">Mrs Sherrie Chang</td>
     <td class="tg-cly1">sherrie_tan@schools.gov.sg</td>
   </tr>
