@@ -217,7 +217,7 @@ variant: markdown
     <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Assistant Year Head Middle Block</td>
+    <td class="tg-0lax">Assistant Year Head Upper Block</td>
     <td class="tg-cly1">Ms Ainah Saaban</td>
     <td class="tg-cly1">ainah_saaban@schools.gov.sg</td>
   </tr>
