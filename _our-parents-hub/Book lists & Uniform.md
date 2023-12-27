@@ -2,13 +2,15 @@
 title: Book lists & Uniform
 permalink: /our-parents-hub/book-lists-n-uniform/
 description: ""
+variant: markdown
 ---
-Please click on the links to access the respective book lists 2023 and information for uniform sales.  
+Please click on the links to access the respective book lists 2024 and information for uniform sales.  
 
-* [Primary 1.pdf](/files/P1%20Booklist.pdf)  
-* [Primary 2.pdf](/files/P2%20Booklist.pdf)  
-* [Primary 3.pdf](/files/P3%20Booklist.pdf)  
-* [Primary 4.pdf](/files/P4%20Booklist.pdf)  
-* [Primary 5.pdf](/files/P5%20Booklist.pdf)  
-* [Primary 6.pdf](/files/P6%20Booklist.pdf)  
-* [School Uniform Price List.pdf](/files/School%20Uniform%20Price%20List.pdf)
+
+* [Primary 1](/files/2024_Primary_1.pdf)
+* [Primary 2](/files/2024_Primary_2.pdf)
+* [Primary 3](/files/2024_Primary_3.pdf)
+* [Primary 4](/files/2024_Primary_4.pdf)
+* [Primary 5](/files/2024_Primary_5.pdf)
+* [Primary 6](/files/2024_Primary_6.pdf)
+* [School Uniform and Price List](/files/2024_School_Uniform_Price_List.pdf)
