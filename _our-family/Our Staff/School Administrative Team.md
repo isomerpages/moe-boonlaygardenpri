@@ -3,6 +3,7 @@ title: School Administrative Team
 permalink: /our-family/our-staff/school-administrative-team/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -69,11 +70,6 @@ third_nav_title: Our Staff
       <td class="tg-zr06"><span style="background-color:#FFF">-</span><br></td>
     </tr>
     <tr>
-      <td class="tg-ktyi"><span style="background-color:#FFF">Corporate Support Officer</span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Mdm Irene Ng</span><br></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
-    </tr>
-    <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Mdm Hasnah Bte Mansoor</span><br></td>
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
@@ -124,11 +120,7 @@ third_nav_title: Our Staff
   </thead>
   <tbody>
     <tr>
-      <td class="tg-06je"><span style="background-color:#FFF">Pastoral Care Officer</span><br></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">Ms Alice Ho</span></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td class="tg-06je"><span style="background-color:#FFF">Admin cum Teaching Support</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Rahmah Tonisah Mahali</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>

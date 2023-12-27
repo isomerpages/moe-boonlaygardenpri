@@ -2,6 +2,7 @@
 title: Our Key Personnel
 permalink: /our-family/our-key-personnel/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,11 +73,6 @@ description: ""
     <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">HOD Curriculum</td>
-    <td class="tg-cly1">Mrs Ng Jingyu</td>
-    <td class="tg-cly1">yang_jingyu@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">HOD English Language</td>
     <td class="tg-cly1">Mr Nicholas Cai</td>
     <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
@@ -100,11 +96,6 @@ description: ""
     <td class="tg-0lax">HOD PE &amp; Aesthetics</td>
     <td class="tg-cly1">Mdm Chua Huay Wen</td>
     <td class="tg-cly1">chua_huay_wen@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Claudia Wong</td>
-    <td class="tg-cly1">wong_shi-lei@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">HOD Information Communications Technology</td>
@@ -176,7 +167,7 @@ description: ""
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">LH Science</td>
+    <td class="tg-0lax">SH Information Communications Technology</td>
     <td class="tg-cly1">Mrs Liu Ying Hui</td>
     <td class="tg-cly1">tan_ying_hui@schools.gov.sg</td>
   </tr>
@@ -216,7 +207,7 @@ description: ""
     <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Assistant Year Head Middle Block</td>
+    <td class="tg-0lax">Assistant Year Head Upper Block</td>
     <td class="tg-cly1">Ms Ainah Saaban</td>
     <td class="tg-cly1">ainah_saaban@schools.gov.sg</td>
   </tr>
