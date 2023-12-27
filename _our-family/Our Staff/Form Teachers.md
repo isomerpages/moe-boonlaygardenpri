@@ -160,7 +160,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3 Care</td>
     <td class="tg-cly1">Mdm Nurin<br><br>Mr Pua Chia Siong, Steven<br><br>Mrs Hor- Nicole Yeap</td>
-    <td class="tg-cly1">@schools.gov.sg<br>pua_chia_siong@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
+    <td class="tg-cly1">nurin_sharina_shariff@schools.gov.sg<br>pua_chia_siong@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Respect</td>
