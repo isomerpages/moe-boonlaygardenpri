@@ -4,12 +4,6 @@ permalink: /announcements/announcements/
 description: ""
 variant: markdown
 ---
-#### INFORMATION FOR P1 ORIENTATION
-![](/images/p1%20orientation%20pic1.png)
-
-Information for P1 2024 Orientation is up on Parents Gateway (PG). P1 2024 Parents can go onto PG to find out more. For parents who are facing technical issues with PG, please feel free to contact the school via our email [blgps@moe.edu.sg](blgps@moe.edu.sg)
-
-
 
 #### COMMENDATION AWARD FOR PRIMARY MATHEMATICS PROJECT COMPETITION 2023
 ![](/images/math%20competition1.jpg)
@@ -44,5 +38,3 @@ BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will co
 
 #### PRINCIPAL'S LETTER (TERM 4)
 Let's take some time to read about the important information and exciting programmes that are happening in Term 4 in the principal's letter posted on PG.
-
-
