@@ -9,13 +9,7 @@ variant: markdown
 
 Information for P1 2024 Orientation is up on Parents Gateway (PG). P1 2024 Parents can go onto PG to find out more. For parents who are facing technical issues with PG, please feel free to contact the school via our email [blgps@moe.edu.sg](blgps@moe.edu.sg)
 
-#### MONEYSENSE PROGRAMMES
-![](/images/moneysense%20pic1.png)
 
-Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” Facebook Live session to learn the importance of inculcating good financial habits from young. There are also complimentary workshops and talks that cover ways in which you can help your child cultivate healthy financial habits, budget and save to be a young smart consumer. Details of the workshops and talk are as follows.
-
-![](/images/moneysense%20poster2.png)
-Note: This workshop is for parents **only**.
 
 #### COMMENDATION AWARD FOR PRIMARY MATHEMATICS PROJECT COMPETITION 2023
 ![](/images/math%20competition1.jpg)
@@ -52,10 +46,3 @@ BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will co
 Let's take some time to read about the important information and exciting programmes that are happening in Term 4 in the principal's letter posted on PG.
 
 
-#### Vacancy for School Canteen Stall 
- 
-<h5> Application Procedure </h5>
-
-Complete the application form **[(FormBF7.pdf)](/files/FormBF7.pdf)**. You may also request for a hardcopy from the school's general office.
-
-**[Application for School Canteen Stall (Admin Instructions)](/files/Application_for_School_Canteen_Stall__Admin_Instruction_.pdf)**
