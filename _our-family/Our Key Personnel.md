@@ -98,11 +98,6 @@ variant: markdown
     <td class="tg-cly1">chua_huay_wen@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Adela Tandar</td>
-    <td class="tg-cly1">adela_tandar@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">HOD Information Communications Technology</td>
     <td class="tg-cly1">Mr Ng Ee Noch</td>
     <td class="tg-cly1">ng_ee_noch@schools.gov.sg</td>
