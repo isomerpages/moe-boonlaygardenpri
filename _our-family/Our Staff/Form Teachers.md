@@ -33,7 +33,7 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">1 Resilience </td>
-    <td class="tg-cly1">Ms Odelia, Cheong Qian Hui<br>Mdm Shirley Teng</td>
+    <td class="tg-cly1">Ms Odelia,Cheong Qian Hui<br>Mdm Shirley Teng</td>
     <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
