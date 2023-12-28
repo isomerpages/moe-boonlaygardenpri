@@ -109,7 +109,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Liyana Bte Mohd. Zulkiflee<br>Mr Thong Fong Yang</td>
+    <td class="tg-cly1">Mdm Nur Liyana Bte Mohd.Zulkiflee<br>Mr Thong Fong Yang</td>
     <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>thong_fong_yang@schools.gov.sg</td>
     </tr>
   <tr>
@@ -345,7 +345,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">6 Resposibility</td>
-    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br>Mrs Rachel Por- Tham Chin Xin</td>
+    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br>Mrs Rachel Por-Tham Chin Xin</td>
     <td class="tg-cly1">irdawati_ahmad@schools.gov.sg<br>tham_chin_xin@schools.gov.sg</td>
   </tr>
   <tr>
