@@ -144,37 +144,37 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">3 Responsibility</td>
-    <td class="tg-cly1">Ms Siti Atikah Mohd Ziham <br><br>Ms Lin Meizhi </td>
+    <td class="tg-cly1">Ms Siti Atikah Mohd Ziham <br>Ms Lin Meizhi </td>
     <td class="tg-cly1">siti_atikah_mohd_ziham@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Resilience </td>
-    <td class="tg-cly1">Ms <br><br>Mrs Valerine Loh-Chen Aizhen<br><br>Mdm Nurashlyn</td>
+    <td class="tg-cly1">Ms <br>Mrs Valerine Loh-Chen Aizhen<br>Mdm Nurashlyn</td>
     <td class="tg-cly1">@schools.gov.sg<br>chen_aizhen@schools.gov.sg<br>nurashlyn_abdul_rashid@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Marina Somdi<br><br>Mrs Liu Ying Hui</td>
+    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui</td>
     <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
-    <td class="tg-cly1">Mdm Nurin<br><br>Mr Pua Chia Siong, Steven<br><br>Mrs Hor- Nicole Yeap</td>
+    <td class="tg-cly1">Mdm Nurin<br>Mr Pua Chia Siong, Steven<br>Mrs Hor- Nicole Yeap</td>
     <td class="tg-cly1">nurin_sharina_shariff@schools.gov.sg<br>pua_chia_siong@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Respect</td>
-    <td class="tg-cly1">Mr Leong Zhi Wei<br><br>Ms Cindy Chua Tsin Li</td>
+    <td class="tg-cly1">Mr Leong Zhi Wei<br>Ms Cindy Chua Tsin Li</td>
     <td class="tg-cly1">leong_zhi_wei@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Integrity A</td>
-    <td class="tg-cly1">Mr Lim Jek Ming, Shuan<br><br>Ms Yeo Lay Peng</td>
+    <td class="tg-cly1">Mr Lim Jek Ming, Shuan<br>Ms Yeo Lay Peng</td>
     <td class="tg-cly1">lim_jek_ming_shuan@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">3 Integrity B</td>
-    <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br><br>Mdm Sumathi Mani</td>
+    <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br>Mdm Sumathi Mani</td>
     <td class="tg-cly1">ng_shui_farn@schools.gov.sg<br>sumathi_mani@schools.gov.sg</td></tr>
   <tr>
   </tr>
