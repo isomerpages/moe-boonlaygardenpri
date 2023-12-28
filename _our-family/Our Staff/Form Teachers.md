@@ -325,37 +325,37 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">6 Harmony</td>
-    <td class="tg-cly1">Ms Joy Amisha <br><br>Ms Loo Hui Wen </td>
+    <td class="tg-cly1">Ms Joy Amisha <br>Ms Loo Hui Wen </td>
     <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg<br>loo_hui_wen@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">6 Care</td>
-    <td class="tg-cly1">Mdm Toh Hui Lin <br><br>Mr Nasser </td>
+    <td class="tg-cly1">Mdm Toh Hui Lin<br>Mr Nasser </td>
     <td class="tg-cly1">toh_hui_lin@schools.gov.sg<br>mohamed_nasser_ahmad_sha@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Integrity</td>
-    <td class="tg-cly1">Mrs Sherrie Chang<br><br>Mr Loh Wai Yong</td>
+    <td class="tg-cly1">Mrs Sherrie Chang<br>Mr Loh Wai Yong</td>
     <td class="tg-cly1">sherrie_tan@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Resilience</td>
-    <td class="tg-cly1">Ms Lydia Lam<br><br>Mdm Siti Nur Baeyah</td>
+    <td class="tg-cly1">Ms Lydia Lam<br>Mdm Siti Nur Baeyah</td>
     <td class="tg-cly1">lam_lydia@schools.gov.sg<br>siti_nur_baeyah_karim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Resposibility</td>
-    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br><br>Mrs Rachel Por- Tham Chin Xin</td>
+    <td class="tg-cly1">Mdm Irdawati Bte Ahmad<br>Mrs Rachel Por- Tham Chin Xin</td>
     <td class="tg-cly1">irdawati_ahmad@schools.gov.sg<br>tham_chin_xin@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Respect A</td>
-    <td class="tg-cly1">Mrs Fahmy- Norsela Sawal<br><br>Ms Karen Tan</td>
+    <td class="tg-cly1">Mrs Fahmy- Norsela Sawal<br>Ms Karen Tan</td>
     <td class="tg-cly1">norsela_sawal@schools.gov.sg<br>karen_Ln_tan@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">6 Respect B</td>
-    <td class="tg-cly1">Mrs Annabelle Woo<br><br>Mr Edmund Choi Kin Mun</td>
+    <td class="tg-cly1">Mrs Annabelle Woo<br>Mr Edmund Choi Kin Mun</td>
     <td class="tg-cly1">annabelle_tay@schools.gov.sg<br>choi_kin_mun@schools.gov.sg</td></tr>
   <tr>
   </tr>
