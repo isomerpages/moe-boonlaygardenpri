@@ -28,32 +28,32 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">1 Responsibility</td>
-    <td class="tg-cly1">Ms Iris Ng peng Peng<br><br>Mdm Maisarah Bte Kamal </td>
+    <td class="tg-cly1">Ms Iris Ng peng Peng<br>Mdm Maisarah Bte Kamal </td>
     <td class="tg-cly1">ng_peng_peng@schools.gov.sg<br>maisarah_bte_kamal@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">1 Resilience </td>
-    <td class="tg-cly1">Ms Odelia, Cheong Qian Hui<br><br>Mdm Shirley Teng</td>
+    <td class="tg-cly1">Ms Odelia, Cheong Qian Hui<br>Mdm Shirley Teng</td>
     <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
-    <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br><br>Mrs Leong Hwee Peng</td>
+    <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br>Mrs Leong Hwee Peng</td>
     <td class="tg-cly1">Suhaila_Suleiman_Syed@schools.gov.sg<br>Tan_Hwee_Peng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Integrity</td>
-    <td class="tg-cly1">Ms Lye Cheng Wai, Lilian<br><br>Mdm Wong Shu Lee</td>
+    <td class="tg-cly1">Ms Lye Cheng Wai, Lilian<br>Mdm Wong Shu Lee</td>
     <td class="tg-cly1">lye_cheng_wai_lilian@schools.gov.sg<br>wong_shu_lee@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Care</td>
-    <td class="tg-cly1">Ms Lau Yi Yuan<br><br>Ms Chan Yien Qing</td>
+    <td class="tg-cly1">Ms Lau Yi Yuan<br>Ms Chan Yien Qing</td>
     <td class="tg-cly1">lau_yi_yuan@schools.gov.sg<br>chan_yien_qing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Harmony</td>
-    <td class="tg-cly1">Mdm Shuhada baharum<br><br>Mdm Shu Xiaomei</td>
+    <td class="tg-cly1">Mdm Shuhada baharum<br>Mdm Shu Xiaomei</td>
     <td class="tg-cly1">shuhada_baharum@schools.gov.sg<br>shu_xiaomei@schools.gov.sg</td>
   </tr>
   <tr>
@@ -84,37 +84,37 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">2 Responsibility</td>
-    <td class="tg-cly1">Ms Tan Yan Ting<br><br>Mr Muhammad Ariff Mohd Noor </td>
+    <td class="tg-cly1">Ms Tan Yan Ting<br>Mr Muhammad Ariff Mohd Noor </td>
     <td class="tg-cly1">tan_yan_ting@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">2 Resilience </td>
-    <td class="tg-cly1">Ms Victoria Wong Zi Qing<br><br>Mdm Rita Salamoon</td>
+    <td class="tg-cly1">Ms Victoria Wong Zi Qing<br>Mdm Rita Salamoon</td>
     <td class="tg-cly1">victoria_wong_zi_qing@schools.gov.sg<br>rita_salamoon@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Respect</td>
-    <td class="tg-cly1">Mrs Khan-  Nur Zakiah Ahmad<br><br>Mdm Chua Huay Wen</td>
+    <td class="tg-cly1">Mrs Khan-  Nur Zakiah Ahmad<br>Mdm Chua Huay Wen</td>
     <td class="tg-cly1">nur_zakiah_ahmad@schools.gov.sg<br>chua_huay_wen@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Integrity</td>
-    <td class="tg-cly1">Mrs Brenda Choon<br><br>Mr Kuay Chau Ann</td>
+    <td class="tg-cly1">Mrs Brenda Choon<br>Mr Kuay Chau Ann</td>
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg<br>kuay_chau_ann_a@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Care</td>
-    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br><br>Mrs Alfie- Nurul</td>
+    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Alfie- Nurul</td>
     <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Liyana Bte Mohd. Zulkiflee<br><br>Mr Thong Fong Yang</td>
+    <td class="tg-cly1">Mdm Nur Liyana Bte Mohd. Zulkiflee<br>Mr Thong Fong Yang</td>
     <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>thong_fong_yang@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">2 Joy</td>
-    <td class="tg-cly1">Ms Nerrisa Tiong<br><br>Mrs Maha-Ganesan Mahalatchimi</td>
+    <td class="tg-cly1">Ms Nerrisa Tiong<br>Mrs Maha-Ganesan Mahalatchimi</td>
     <td class="tg-cly1">tiong_wei_wen_nerissa@schools.gov.sg<br>ganesan_mahalatchimi@schools.gov.sg</td></tr>
   <tr>
   </tr>
