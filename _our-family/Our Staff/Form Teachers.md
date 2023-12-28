@@ -264,37 +264,37 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">5 Responsibility</td>
-    <td class="tg-cly1">Mrs Serena Ong <br><br>Mdm Puteri Nor' Atika </td>
+    <td class="tg-cly1">Mrs Serena Ong <br>Mdm Puteri Nor' Atika </td>
     <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">5 Resilience</td>
-    <td class="tg-cly1">Ms Grace Phang <br><br>Mr Shazwan </td>
+    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan </td>
     <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Harmony</td>
-    <td class="tg-cly1">Mr Muhammad Hairil<br><br>Ms Yang Yu Qing</td>
+    <td class="tg-cly1">Mr Muhammad Hairil<br>Ms Yang Yu Qing</td>
     <td class="tg-cly1">muhammad_hairil_iskandar_rajis@schools.gov.sg<br>yang_yuqing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Care</td>
-    <td class="tg-cly1">Mrs Mathilda Wong<br><br>Mdm Norbi</td>
+    <td class="tg-cly1">Mrs Mathilda Wong<br>Mdm Norbi</td>
     <td class="tg-cly1">ross_mathilda@schools.gov.sg<br>norbi_mohd_salleh@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Respect</td>
-    <td class="tg-cly1">Ms Ainah Saaban<br><br>Mr Kho Murphy</td>
+    <td class="tg-cly1">Ms Ainah Saaban<br>Mr Kho Murphy</td>
     <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Integrity A</td>
-    <td class="tg-cly1">Ms Michelle Chow Wai Yee<br><br>Mr Roslan</td>
+    <td class="tg-cly1">Ms Michelle Chow Wai Yee<br>Mr Roslan</td>
     <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>roslan_b_abu@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">5 Integrity B</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad<br><br>Ms Lynette Loh Si Hui</td>
+    <td class="tg-cly1">Mdm Norlita Muhamad<br>Ms Lynette Loh Si Hui</td>
     <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
   <tr>
   </tr>
