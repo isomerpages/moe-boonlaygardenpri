@@ -28,7 +28,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">1 Responsibility</td>
-    <td class="tg-cly1">Ms Iris Ng peng Peng<br>Mdm Maisarah Bte Kamal </td>
+    <td class="tg-cly1">Ms Iris Ng Peng Peng<br>Mdm Maisarah Bte Kamal </td>
     <td class="tg-cly1">ng_peng_peng@schools.gov.sg<br>maisarah_bte_kamal@schools.gov.sg</td>
   </tr>
   <tr>
