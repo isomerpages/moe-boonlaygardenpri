@@ -204,37 +204,37 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">4 Harmony</td>
-    <td class="tg-cly1">Mr Mohammad Aashiq Anshad <br><br>Ms Celine Wong Sze Ling </td>
+    <td class="tg-cly1">Mr Mohammad Aashiq Anshad<br>Ms Celine Wong Sze Ling </td>
     <td class="tg-cly1">mohammad_aashiq_anshad@schools.gov.sg<br>wong_sze_ling@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">4 Care </td>
-    <td class="tg-cly1">Ms Steffi Marianna Rodrigues<br><br>Mr Ng Ee Noch</td>
+    <td class="tg-cly1">Ms Steffi Marianna Rodrigues<br>Mr Ng Ee Noch</td>
     <td class="tg-cly1">steffi_marianna_rodrigues@schools.gov.sg<br>ng_ee_noch@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Integrity</td>
-    <td class="tg-cly1">Mdm Pok Yam Lee<br><br>Mdm Grace Chan</td>
+    <td class="tg-cly1">Mdm Pok Yam Lee<br>Mdm Grace Chan</td>
     <td class="tg-cly1">pok_yam_lee@schools.gov.sg<br>grace_chan@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Resilience</td>
-    <td class="tg-cly1">Mdm Fazila Banu<br><br>Mdm Audrey Yap Wenyun</td>
+    <td class="tg-cly1">Mdm Fazila Banu<br>Mdm Audrey Yap Wenyun</td>
     <td class="tg-cly1">fazila_banu_mohamed_rabiullah@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Responsibility</td>
-    <td class="tg-cly1">Mrs Kee- Evelyn Poon<br><br>Mdm Jaliza</td>
+    <td class="tg-cly1">Mrs Kee- Evelyn Poon<br>Mdm Jaliza</td>
     <td class="tg-cly1">poon_ngee_keng_evelyn@schools.gov.sg<br>jaliza_jamaludin@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Respect A</td>
-    <td class="tg-cly1">Mrs Anne Marie De Souza<br><br>Mdm Chua Jie Min</td>
+    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mdm Chua Jie Min</td>
     <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">4 Respect B</td>
-    <td class="tg-cly1">Mr Tang Chee Weng<br><br>Mdm Norlaily Ahmad<br><br>Mdm Chow Yuh Lan, Stacy</td>
+    <td class="tg-cly1">Mr Tang Chee Weng<br>Mdm Norlaily Ahmad<br>Mdm Chow Yuh Lan, Stacy</td>
     <td class="tg-cly1">tang_chee_weng@schools.gov.sg<br>norlaily_ahmad@schools.gov.sg<br>chow_yuh_lan@schools.gov.sg</td></tr>
   <tr>
   </tr>
