@@ -3,13 +3,13 @@ title: STEM Club
 permalink: /our-ccas/Clubs-and-Societies/stem-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
-<img src="/images/STEM-Club.jpg" 
-     style="width:100%">
+<img src="/images/STEM-Club.jpg" style="width:100%">
 		 
 ### Our Goals
 
-BLGPS STEM Club aims to develop students' critical and innovative thinking through meaningful application of STEM concepts and activities that encourage 21st century skills such as problem solving and decision making.
+BLGPS STEM Club aims to develop students' critical and innovative thinking through meaningful application of STEM concepts and activities that encourage 21st&nbsp;century skills such as problem solving and decision making.
 
   
 
@@ -21,11 +21,8 @@ To enhance students' learning, students participate in various competitions such
 
 ### Teachers-In-Charge
 
-Mrs Kee - Evelyn Poon (I/C)  <br>
-Mrs Hor-Nicole Yeap (Co I/C)  <br>
+Mdm Grace Chan (I/C)  <br>
+Mr Jeff Thong (Co I/C)  <br>
 Mrs Liu Ying Hui<br>
 Mrs Sherrie Chang<br>
-Mrs Brenda Choon<br>
-Ms Grace Phang Xiu Zhen  <br>
-Ms Klara Chua Mei Chin<br>
-Ms Liow Jia Zhen
+Mdm Jaliza
