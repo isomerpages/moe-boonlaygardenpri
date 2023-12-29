@@ -3,6 +3,7 @@ title: Choir
 permalink: /our-ccas/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img src="/images/Choir1.jpg" style="width:100%">
 
@@ -20,4 +21,3 @@ Mrs Rachel Por (I/C) <br>
 Ms Cindy Chua (Co I/C) <br>
 Ms Siti Atikah Binte Mohd Ziham <br>
 Mrs Serena Ong <br>
-Ms Lee Wan Er <br>
