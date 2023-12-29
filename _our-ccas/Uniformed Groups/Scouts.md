@@ -3,9 +3,9 @@ title: Scouts
 permalink: /our-ccas/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/scouts.jpg" 
-     style="width:100%">
+<img src="/images/scouts.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -23,6 +23,7 @@ In weekly sessions, students are taught basic scouting skills and they mark achi
 
 Ms Celine Wong (I/C)<br>
 Mr Steven Pua (Co I/C)<br>
-Mrs Anne Marie De Souza  <br>
-Mrs Fahmy
-
+Mdm Shu Xiao Mei <br>
+Ms Ainah Saaban <br>
+Mr Isa <br>
+Ms Krithika
