@@ -3,9 +3,9 @@ title: Indian Dance
 permalink: /our-ccas/Performing-Arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<img src="/images/indian%20dance.jpg" 
-     style="width:100%">
+<img src="/images/indian%20dance.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -18,6 +18,5 @@ To enhance students' learning, they take part in school and external performance
 ### Teachers-In-Charge
 
 Ms Yeo Lay Peng (I/C)<br>
-Mdm P Veshallini (Co I/C)  <br>
-Mrs Leong Hwee Peng  <br>
+Mdm P Veshallini&nbsp;(Co I/C)  <br>
 Mrs Maha
