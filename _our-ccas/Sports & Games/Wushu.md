@@ -3,9 +3,9 @@ title: Wushu
 permalink: /our-ccas/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-<img src="/images/Wushu%20(2).jpg" 
-     style="width:100%">
+<img src="/images/Wushu%20(2).jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -24,6 +24,4 @@ Through weekly training sessions, students develop aerobic and anaerobic enduran
 Mr Kuay Chau Ann (I/C)<br>
 Mdm Pok Yam Lee (Co I/C)<br>
 Mr Murphy Kho<br>
-Ms Victoria Wong<br>
 Ms Lau Yi Yuan<br>
-Mr Jeff Thong
