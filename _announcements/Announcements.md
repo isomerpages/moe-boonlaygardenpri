@@ -4,6 +4,10 @@ permalink: /announcements/announcements/
 description: ""
 variant: markdown
 ---
+#### PRINCIPAL'S LETTER (TERM 1)
+Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's letter posted on PG.
+
+
 #### YELLOW FLAME AWARDS 2023
 We're thrilled to announce two significant achievements for our school. Firstly, we proudly received the Yellow Flame Award in the Singapore Environment Council's School Green Awards (SGA). Additionally, we are honored to be recognized as one of the Top 50 CIB Gardens in the Educational Institutions category by NParks
 
