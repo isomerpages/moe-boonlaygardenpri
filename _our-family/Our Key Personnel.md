@@ -133,6 +133,10 @@ variant: markdown
     <td class="tg-cly1">Mr Peter Yeo</td>
     <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
   </tr>
+	 <tr><td class="tg-0lax">School Staff Developer</td>
+    <td class="tg-cly1">Mdm Norlita Muhamad </td>
+    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
+  </tr>
 </tbody>
 </table>
 
