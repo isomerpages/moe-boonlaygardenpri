@@ -68,11 +68,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad </td>
-    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-0lax">HOD English Language</td>
     <td class="tg-cly1">Mr Nicholas Cai</td>
     <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
@@ -96,6 +92,11 @@ variant: markdown
     <td class="tg-0lax">HOD PE &amp; Aesthetics</td>
     <td class="tg-cly1">Mdm Chua Huay Wen</td>
     <td class="tg-cly1">chua_huay_wen@schools.gov.sg</td>
+  </tr>
+  <tr>
+		<td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
+    <td class="tg-cly1">Ms Adela Tandar</td>
+    <td class="tg-cly1">adela_tandar@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">HOD Information Communications Technology</td>
@@ -131,6 +132,10 @@ variant: markdown
     <td class="tg-0lax">Year Head Upper Block</td>
     <td class="tg-cly1">Mr Peter Yeo</td>
     <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
+  </tr>
+	 <tr><td class="tg-0lax">School Staff Developer</td>
+    <td class="tg-cly1">Mdm Norlita Muhamad </td>
+    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -182,7 +187,7 @@ variant: markdown
     <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Values in Action</td>
+    <td class="tg-0lax">SH Character &amp; Citizenship Education</td>
     <td class="tg-cly1">Ms Loo Hui Wen</td>
     <td class="tg-cly1">loo_hui_wen@schools.gov.sg</td>
   </tr>
