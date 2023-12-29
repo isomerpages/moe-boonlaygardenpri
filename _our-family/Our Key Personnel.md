@@ -68,11 +68,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad </td>
-    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-0lax">HOD English Language</td>
     <td class="tg-cly1">Mr Nicholas Cai</td>
     <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
