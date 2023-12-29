@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### PRINCIPAL'S LETTER (TERM 1)
-Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's letter posted on PG.
+Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's Letter posted on PG.
 
 
 #### YELLOW FLAME AWARDS 2023
