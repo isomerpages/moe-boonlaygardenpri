@@ -3,9 +3,9 @@ title: Floorball
 permalink: /our-ccas/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-<img src="/images/floorball.jpg" 
-     style="width:100%">
+<img src="/images/floorball.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -21,8 +21,8 @@ Through weekly trainings, students gain a deeper appreciation for the cardiovasc
 
 ### Teachers-In-Charge
 
-Mr Shazwan (I/C)  <br>
+Mr Loh Wai Yong (I/C)  <br>
 Ms Rita (Co I/C)<br>
 Mr Roslan<br>
-Mr Loh Wai Yong<br>
-Mr Adli
+Mr Shazwan <br>
+Mdm Nurin
