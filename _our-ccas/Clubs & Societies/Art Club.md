@@ -3,9 +3,9 @@ title: Art Club
 permalink: /our-ccas/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
-<img src="/images/Art-Club1.jpg" 
-     style="width:100%">
+<img src="/images/Art-Club1.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -23,6 +23,5 @@ Students’ art pieces are regularly displayed in exhibitions held within school
 
 Ms Maisarah(I/C)<br>
 Ms Audrey Yap Wenyun (Co I/C)<br>
-Ms Tan Yan Ting<br>
-Mdm Chow Yuh Lan, Stacy  <br>
-Ms Lydia Lam
+Mrs Brenda Choon<br>
+Ms Michelle Chow  <br>
