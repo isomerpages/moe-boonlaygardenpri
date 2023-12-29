@@ -3,9 +3,9 @@ title: Red Cross
 permalink: /our-ccas/Uniformed-Groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/stjohn.jpg" 
-     style="width:100%">
+<img src="/images/stjohn.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -21,8 +21,8 @@ In weekly sessions, students also participate in community service and have oppo
 
 ### Teachers-In Charge
 
-Ms Vethanayake (I/C)<br>
-Ms Yang Yu Qing (Co I/C)<br>
-Mdm Fazila<br>
-Mdm Norbi<br>
-Ms Loo Hui Wen
+Mdm Fazila (I/C)<br>
+Mdm Norbi (Co I/C)<br>
+Ms Loo Hui Wen<br>
+Ms Karen Tan<br>
+Mrs Leong Hwee Peng
