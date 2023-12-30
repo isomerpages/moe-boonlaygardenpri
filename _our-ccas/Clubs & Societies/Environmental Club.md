@@ -3,9 +3,9 @@ title: Environmental Club
 permalink: /our-ccas/Clubs-and-Societies/environmental-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
-<img src="/images/Environment-Club.jpg" 
-     style="width:100%">
+<img src="/images/Environment-Club.jpg" style="width:100%">
 		 
 ### Our Goals  
 
@@ -19,9 +19,7 @@ In weekly sessions, students learn to care for the environment through the 3R ap
 
 ### Teachers-In-Charge
 
-Ms Iris Ng (I/C)  <br>
-Ms Grace Chan (Co I/C)  <br>
-Ms Lim Pei Yiing  <br>
+Mr Ariff (I/C)  <br>
+Mr Shaun Lim (Co I/C)  <br>
 Mrs Mathilda Wong  <br>
-Mr Shaun Lim  <br>
-Mr Ariff
+Ms Odelia,Cheong Qian Hui  <br>

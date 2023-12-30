@@ -3,9 +3,9 @@ title: Taekwondo
 permalink: /our-ccas/Sports-and-Games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-<img src="/images/Taekwondo1.jpg" 
-     style="width:100%">
+<img src="/images/Taekwondo1.jpg" style="width:100%">
 		 
 ### Our Goals
 
@@ -23,6 +23,6 @@ To enhance students' learning, grading sessions are conducted every 3 months. Th
 
 Mr Edmund Choi (I/C)<br>
 Ms Puteri (Co I/C)<br>
-Ms Ainah<br>
+Ms Grace Phang<br>
 Mdm Wong Shu Lee<br>
 Mdm Toh Hui Lin

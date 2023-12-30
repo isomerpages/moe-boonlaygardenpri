@@ -3,10 +3,11 @@ title: AV & Media Club
 permalink: /our-ccas/Clubs-and-Societies/av-n-media-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### Our Goals
 
-BLGPS AV & Media Club aims to cultivate students’ interest in the use of Audio-Visual and Information Technology such as photography, videography and animation. These varied learning experiences inculcate the importance of coordination and teamwork, trouble-shooting and adaptability.  
+BLGPS AV &amp; Media Club aims to cultivate students’ interest in the use of Audio-Visual and Information Technology such as photography, videography and animation. These varied learning experiences inculcate the importance of coordination and teamwork, trouble-shooting and adaptability.  
   
 
 ### Our Approach
@@ -16,9 +17,7 @@ In weekly sessions, students attend workshops and are also taught the use and ma
 
 ### Teachers-In-Charge
 
-Ms Nerissa Tiong (I/C)  <br>
-Ms Steffi (Co I/C)  <br>
+Ms Nerissa Tiong&nbsp;(I/C)  <br>
+Mr Aashiq (Co I/C)  <br>
 Mr Leong Zhi Wei  <br>
-Mdm Shuhada  <br>
-Mdm Murni  <br>
-Ms Joy Amisha Keshyap
+Ms Lydia Lam

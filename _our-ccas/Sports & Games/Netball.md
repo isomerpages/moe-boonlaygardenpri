@@ -22,4 +22,4 @@ In weekly sessions, students are provided with various drills and game-based act
 Mrs Ong Chiew Min (I/C) <br>
 Ms Lynnnette Loh (co I/C) <br>
 Ms Suhaila<br>
-Mdm Shu Xiao Mei <br>
+Ms Chan Yien Qing <br>

@@ -3,9 +3,9 @@ title: Bowling
 permalink: /our-ccas/Sports-and-Games/bowling/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-<img src="/images/Bowling.jpg" 
-     style="width:100%">
+<img src="/images/Bowling.jpg" style="width:100%">
 		 
 ### Our Goals  
 
@@ -24,4 +24,5 @@ In weekly training, students are guided in techniques such as holding the ball, 
 Mrs Khan-Nur Zakiah (I/C) <br>
 Mr Hairil (Co- I/C) <br>
 Mdm Lim Su Ru<br>
-Ms Michelle Chow<br>
+Mrs Liu Ying Hui<br>
+Mrs Hor- Nicole Yeap

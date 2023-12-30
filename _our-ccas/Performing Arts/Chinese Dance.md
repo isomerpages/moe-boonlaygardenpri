@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /our-ccas/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/chinesedancefinal.jpg)
 		 
@@ -23,5 +24,4 @@ In weekly practices, students are taught specific stretching exercises and dance
 Ms Tong Jin Sui (I/C)<br>
 Mrs Koh- Chua Jie Min (Co I/C)<br>
 Ms Lye Cheng Wai, Lilian<br>
-Ms Jacinda Ng<br>
-Ms Lim Mei Zhi
+Ms Lin Mei Zhi
