@@ -38,8 +38,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
-    <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br>Mrs Leong Hwee Peng</td>
-    <td class="tg-cly1">Suhaila_Suleiman_Syed@schools.gov.sg<br>Tan_Hwee_Peng@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br>Mrs Leong Hwee Peng<br>Ms Vesha</td>
+    <td class="tg-cly1">Suhaila_Suleiman_Syed@schools.gov.sg<br>Tan_Hwee_Peng@schools.gov.sg<br>p_veshallini@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Integrity</td>
@@ -234,8 +234,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">4 Respect A</td>
-    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mdm Chua Jie Min<br>Ms Vesha</td>
-    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg<br>p_veshallini@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mdm Chua Jie Min</td>
+    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">4 Respect B</td>
