@@ -20,6 +20,6 @@ In weekly sessions, students are provided with various drills and game-based act
 ### Teachers-In-Charge
 
 Mrs Ong Chiew Min (I/C) <br>
-Ms Lynnnette Loh (co I/C) <br>
+Ms Lynnette Loh (co I/C) <br>
 Ms Suhaila<br>
 Ms Chan Yien Qing <br>
