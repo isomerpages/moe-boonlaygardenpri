@@ -95,7 +95,7 @@ variant: markdown
   </tr>
   <tr>
 		<td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Adela Tandar</td>
+    <td class="tg-cly1">Mrs Adela Tandar</td>
     <td class="tg-cly1">adela_tandar@schools.gov.sg</td>
   </tr>
   <tr>
