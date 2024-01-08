@@ -8,9 +8,6 @@ variant: markdown
 Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's Letter posted on PG.
 
 
-#### YELLOW FLAME AWARDS 2023
-We're thrilled to announce two significant achievements for our school. Firstly, we proudly received the Yellow Flame Award in the Singapore Environment Council's School Green Awards (SGA). Additionally, we are honored to be recognized as one of the Top 50 CIB Gardens in the Educational Institutions category by NParks
-
 
 #### COMMENDATION AWARD FOR PRIMARY MATHEMATICS PROJECT COMPETITION 2023
 ![](/images/math%20competition1.jpg)
@@ -37,7 +34,3 @@ Links to nomination:
 - OYEA (open to teachers aged 35 years and below) [http://go.gov.sg/oyea2024](http://go.gov.sg/oyea2024) (Deadline for nomination: 10 Jan 2024)
 - CTA [https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) (Deadline for nomination: 12 Jan 2024)
 
-#### GREEN SCHOOLS @ SOUTH WEST 2022 (3 STARS)
-![](/images/Website%20announcement%20images.png)
-
-BLGPS has attained the Green Schools @ South West 2023 3 Stars Award! We will continue our efforts towards environmental sustainability and empower BLGians to be stewards of change.
