@@ -7,6 +7,9 @@ variant: markdown
 #### School Green Awards (SGA) 2023
 We're thrilled to announce that we have received the Yellow Flame Award in the Singapore Environment Council's School Green Awards(SGA). The School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.
 
+#### Community In Bloom Awards (CIB) 2023
+We are honoured to be recognised as one of the Top 50 CIB Gardens in the Education Institutions by Nparks. The school has been recognised by NParks for its efforts to create a gardening community in the school. This award aims to motivate and encourage community gardeners to improve the standards of their gardens and to continue enjoying gardening as a fun and healthy activity.
+
 
 #### PRINCIPAL'S LETTER (TERM 1)
 Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's Letter posted on PG.
