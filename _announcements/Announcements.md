@@ -4,6 +4,14 @@ permalink: /announcements/announcements/
 description: ""
 variant: markdown
 ---
+#### School Green Awards (SGA) 2023
+We're thrilled to announce that we have received the Yellow Flame Award in the Singapore Environment Council's School Green Awards.(SGA)
+The School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.
+
+
+
+
+
 #### PRINCIPAL'S LETTER (TERM 1)
 Let's take some time to read about the important and exciting programmes that are happening in Term 1 in the Principal's Letter posted on PG.
 
