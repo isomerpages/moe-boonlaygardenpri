@@ -13,7 +13,7 @@ locations:
     title: General Office
 contacts:
   - content:
-      - phone: +65 6361 0998
+      - phone: +65 6316 0998
       - email: blgps@moe.edu.sg
       - other: "Fax : +65 6316 0209"
     title: General Enquiries & Feedback
