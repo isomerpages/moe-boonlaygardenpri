@@ -1,0 +1,14 @@
+logo: /images/schoolLogo.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our Family
+    collection: our-family
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Learning Experiences
+    collection: our-learning-experience
+  - title: Our CCAs
+    collection: our-ccas
+  - title: Our Parents Hub
+    collection: our-parents-hub
