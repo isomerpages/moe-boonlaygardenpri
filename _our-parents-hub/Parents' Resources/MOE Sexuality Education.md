@@ -3,6 +3,7 @@ title: MOE Sexuality Education
 permalink: /our-parents-hub/parents-resources/moe-sexuality-education/
 description: ""
 third_nav_title: Parents' Resources
+variant: markdown
 ---
 ### MOE SEXUALITY EDUCATION IN SCHOOLS
 
@@ -52,6 +53,6 @@ Please refer to this pdf for the Sexuality Education Lessons taught in 2023.
 
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway at a later date. The completed opt-out form is to be submitted by 28/02/2023.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway at a later date. The completed opt-out form is to be submitted by 16/02/2024.
 
 Parents can contact the school at 6316 0998 or email to blgps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
