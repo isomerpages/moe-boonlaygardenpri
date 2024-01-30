@@ -27,7 +27,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;&nbsp;[here][here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.&nbsp;
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.&nbsp;
 
 #### Overview of Boon Lay Garden Primary School's Sexuality Education Programme for 2024
 
