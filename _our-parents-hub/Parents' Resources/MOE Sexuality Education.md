@@ -47,7 +47,7 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 Please refer to this pdf for the Sexuality Education Lessons taught in 2024.
 
-[](/files/2024_Info_on_SEd_for_schs_website__Primary_Schools_.pdf)
+[](/files/30_jan_2024_Info_on_SEd_for_schs_website__Primary_Schools_.pdf)
 
 ### Information for Parents
 
