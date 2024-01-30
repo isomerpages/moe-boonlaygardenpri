@@ -27,7 +27,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click  [here][here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
+You may click&nbsp;&nbsp;[here][here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.&nbsp;
 
 #### Overview of Boon Lay Garden Primary School's Sexuality Education Programme for 2024
 
@@ -35,8 +35,7 @@ Sexuality Education is delivered in a holistic manner through the school curricu
 
 #### The subjects that incorporate topics on sexuality include:
 
-a. Science 
-
+a. Science&nbsp;<br>
 b. Character and Citizenship Education (CCE)
 
 #### Sexuality Education Lessons
@@ -52,7 +51,7 @@ Please refer to this pdf for the Sexuality Education Lessons taught in 2024.
 
 ### Information for Parents
 
-Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;
 
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents’ Gateway at a later date. The completed opt-out form is to be submitted by 16 February 2024.
 
