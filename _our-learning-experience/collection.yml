@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instruction and Troubleshooting Guides.md
-      - How to reset password.md
       - Environment Education.md
       - Thinking Dispositions.md
       - Talent Development/.keep
