@@ -2,7 +2,6 @@ collections:
   our-learning-experience:
     output: true
     order:
-      - Student Learning Space (SLS)/.keep
       - Environment Education.md
       - Thinking Dispositions.md
       - Talent Development/.keep
@@ -18,3 +17,4 @@ collections:
       - Home Based Learning/Primary 4.md
       - Home Based Learning/Primary 5.md
       - Home Based Learning/Primary 6.md
+      - Student Learning Space (SLS)/.keep
