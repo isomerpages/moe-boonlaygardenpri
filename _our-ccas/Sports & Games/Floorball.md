@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img src="/images/floorball.jpg" style="width:100%">
+<img src="/images/floorball_2.jpg" style="width:100%">
 		 
+		
 ### Our Goals
 
 BLGPS Floorball is a platform for students to experience the fast-paced indoor sport which has been making waves in the local sports scene. Rapidly growing in popularity among students in school, floorball blends elements of ice hockey with components of team sports such as football and basketball.
