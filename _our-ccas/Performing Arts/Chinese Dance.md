@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/chinesedancefinal.jpg)
-		 
+<img src="/images/chinese_dance_final.jpg" style="width:100%">
+
 ### Our Goals
 
 The BLGPS Chinese Dance aims to develop students' passion for cultural dance through training in Chinese Dance styles and basic movements that embody stories and traditions. The learning experiences guide them in developing responsibility, teamwork and confidence.
