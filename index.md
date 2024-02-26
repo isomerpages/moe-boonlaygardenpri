@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner GIF.gif
+      background: /images/Updated_School_website_banner__final__confident_learner.gif
       key_highlights:
         - title: Our stories
           description: Click here for Newsway
