@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
+<img src="/images/Av___media_club.jpg" style="width:100%">
+
+
 ### Our Goals
 
 BLGPS AV &amp; Media Club aims to cultivate students’ interest in the use of Audio-Visual and Information Technology such as photography, videography and animation. These varied learning experiences inculcate the importance of coordination and teamwork, trouble-shooting and adaptability.  
