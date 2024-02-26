@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img src="/images/Bowling.jpg" style="width:100%">
+<img src="/images/bowling__2_.jpg" style="width:100%">
 		 
 ### Our Goals  
 
