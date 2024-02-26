@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img src="/images/Taekwondo1.jpg" style="width:100%">
+<img src="/images/taekwondo.jpg" style="width:100%">
+
 		 
 ### Our Goals
 
