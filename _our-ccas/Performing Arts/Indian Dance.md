@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img src="/images/indian%20dance.jpg" style="width:100%">
+<img src="/images/Indian_Dance__2_.jpg" style="width:100%">
+
 		 
 ### Our Goals
 
