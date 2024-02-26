@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img src="/images/Art-Club1.jpg" style="width:100%">
+<img src="/images/art_club.jpg" style="width:100%">
+
 		 
 ### Our Goals
 

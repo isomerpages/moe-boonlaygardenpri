@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<img src="/images/stjohn.jpg" style="width:100%">
+<img src="/images/red_cross.jpg" style="width:100%">
+
 		 
 ### Our Goals
 

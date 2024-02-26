@@ -1,13 +1,13 @@
 ---
 title: Home Based Learning Guides
-permalink: /our-learning-experience/home-based-learning/permalink/
+permalink: /our-learning-experience/home-based-learning/home-based-learning-guides/
 variant: tiptap
 description: ""
 third_nav_title: Home Based Learning
 ---
 <p>Dear students and parents, here are some guides and links that will be
 useful for you as you learn from home.</p>
-<p>SUPPORT FOR STUDENT LEARNING SPACE (SLS)</p>
+<h5>SUPPORT FOR STUDENT LEARNING SPACE (SLS)</h5>
 <p>Student Learning Space (SLS) can be accessed using :&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">learning.moe.edu.sg</a>
 </p>
 <p>If you require support with SLS, you may email the following school staff/
@@ -23,7 +23,7 @@ teachers:</p>
 </ol>
 <p>You may also contact the school at 6316 0998 during HBL hours, Monday
 - Friday, from 8 a.m. - 3 p.m.</p>
-<p>RESOURCES FOR PARENTS</p>
+<h4>RESOURCES FOR PARENTS</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/11vm0rWED2kYtVsnZ8slXliHeylugFjLK/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (SLS)</a>
@@ -38,7 +38,7 @@ teachers:</p>
 </p>
 </li>
 </ol>
-<p>RESOURCES FOR STUDENTS</p>
+<h4>RESOURCES FOR STUDENTS</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://docs.google.com/presentation/d/1JflvWBxe0xunMRRgFCdqiO2byCHwQj5lK_W5cDhgUu4/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Important information for Students on Full HBL</a>

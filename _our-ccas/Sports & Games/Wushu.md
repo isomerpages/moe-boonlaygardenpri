@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img src="/images/Wushu%20(2).jpg" style="width:100%">
-		 
+<img src="/images/wushu__2_.jpg" style="width:100%">
+
 ### Our Goals
 
 The BLGPS Wushu is a platform for students to learn the Chinese martial arts form which incorporates a wide array of routines such as the 3-duan Nanquan. Learning Wushu also instils values such as discipline, respect, patience and perseverance.
