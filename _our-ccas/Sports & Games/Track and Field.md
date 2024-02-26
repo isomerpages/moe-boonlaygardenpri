@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img src="/images/Track%20and%20Field1.jpg" style="width:100%">
+<img src="/images/Track_and_field.jpg" style="width:100%">
+
 		 
 ### Our Goals
 
