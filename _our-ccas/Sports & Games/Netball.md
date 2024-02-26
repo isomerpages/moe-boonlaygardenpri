@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-![](/images/netball.jpeg)
+<img src="/images/Netball__2_.jpg" style="width:100%">
+
 ### Our Goals  
 
 BLGPS Netball is a platform for students to hone basic skills such as passing, shooting, footwork and movement. They will also be exposed to strategies of the game such as setting up an attack, winning the point and denying scoring opportunities. Through the sessions, we hope that the students will acquire important values such as teamwork, communication skills, sportsmanship and discipline.
