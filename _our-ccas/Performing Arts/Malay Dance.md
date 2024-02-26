@@ -3,9 +3,10 @@ title: Malay Dance
 permalink: /our-ccas/Performing-Arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<img src="/images/malay%20dance.jpg" 
-     style="width:100%">
+<img src="/images/Malay_Dance__2_.jpg" style="width:100%">
+
 		 
 ### Our Goals
 
