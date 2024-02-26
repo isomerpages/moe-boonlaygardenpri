@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img src="/images/STEM-Club.jpg" style="width:100%">
+<img src="/images/stem_club.jpg" style="width:100%">
+
 		 
 ### Our Goals
 
