@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img src="/images/Choir1.jpg" style="width:100%">
+<img src="/images/choir__2_.jpg" style="width:100%">
+
 
 ### Our Goals
 
