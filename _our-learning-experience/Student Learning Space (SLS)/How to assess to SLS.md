@@ -7,7 +7,7 @@ third_nav_title: Student Learning Space (SLS)
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_1_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS_pic_1.png">
 </div>
 <p>Click <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 log in</p>
