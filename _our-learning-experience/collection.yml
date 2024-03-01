@@ -2,7 +2,6 @@ collections:
   our-learning-experience:
     output: true
     order:
-      - KooBits/.keep
       - Environment Education.md
       - Thinking Dispositions.md
       - Talent Development/.keep
@@ -23,3 +22,4 @@ collections:
       - Student Learning Space (SLS)/How to assess to SLS.md
       - Student Learning Space (SLS)/How to reset password.md
       - Student Learning Space (SLS)/Instruction and Troubleshooting Guides.md
+      - KooBits/.keep
