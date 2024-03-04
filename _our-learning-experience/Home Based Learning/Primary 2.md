@@ -35,7 +35,7 @@ third_nav_title: Home Based Learning
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1HvSyDcQZh9WuNhNONwgDGzAJwgNMYb3V/edit"><span style="color:#15C;background-color:transparent">P2 Integrity</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1vla4SVb4lxmy6O2mxUeOwd0m3cVa_V8d/edit"><span style="color:#15C;background-color:transparent">P2 Joy</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1kJMX6fC-0MjesFo1XyAj4Mq95YGpm55l/edit#heading=h.gjdgxs"><span style="color:#15C;background-color:transparent">P2 Resilience</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1aD8Hsd6i4nhV1v1IrTaI9pw-f8r-huLt/edit"><span style="color:#15C;background-color:transparent">P2 Resilience</span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1UoLBOptAGUFhgZGUZzUTQOYH9T2Pe8Ok/edit"><span style="color:#15C;background-color:transparent">P2 Respect</span></a></td>
