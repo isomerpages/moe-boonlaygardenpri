@@ -85,7 +85,7 @@ third_nav_title: Home Based Learning
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_B8rr0tBZvLJ01PxuBo-VwlyXglUGgfE/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 LSM1 Mr Thong</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17l4vStdZv8npbUXuVbiW4Ci2TaJyjIuG/edit?usp=drive\_link&amp;ouid=118111759031346281937&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 LSM1 Mr Thong</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NzA17V8rs5BXbvaoySNrzorJFxuOjeRB/edit"><span style="color:#15C;background-color:transparent">P1 LSM2 Mr Thong</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1SccPReXfsuk1u1eID0QQVahBNNTXgmxA/edit"><span style="color:#15C;background-color:transparent">P1 LSM3 Ms Stacey</span></a></th>
   </tr>
