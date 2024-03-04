@@ -90,19 +90,14 @@ third_nav_title: Home Based Learning
 <thead>
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NuMPWV3yXdbhS_oWSKUi-ed6dQDGwaCH5np-X8gPD4M/edit"><span style="color:#15C;background-color:transparent">P2 LSM1 Mr Thong</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1rM1UMctReLaLYXoCrFBsHUTzvSI2ObF1/edit"><span style="color:#15C;background-color:transparent">P2 CL2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17UQXiea8YumcaVUwzfeYz8U1E_tLzR5k/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 CL3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1rM1UMctReLaLYXoCrFBsHUTzvSI2ObF1/edit"><span style="color:#15C;background-color:transparent">P2 LSM2 Ms Jasmine</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17UQXiea8YumcaVUwzfeYz8U1E_tLzR5k/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 LSM3 Ms Amy</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18iWVuYLLdlYLjZWBv1stWFMp5n8YRga7/edit"><span style="color:#15C;background-color:transparent">P2 CL4</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1P5Q94bTzoamYaAW5Y_XoBhaYXyajSgb9/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 ML1</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1-j7pkGOMfIlGWJ3hIyXuXULugjGWhkyN/edit"><span style="color:#15C;background-color:transparent">P2 ML2</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1_Jyn8bYjHANEs_sC4PyPx0xlFWSJ5yL9/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 ML3</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1M0mGLKvCcylHtxSeCCX7eW7AharwUFrK/edit"><span style="color:#15C;background-color:transparent">P2 TL1</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18iWVuYLLdlYLjZWBv1stWFMp5n8YRga7/edit"><span style="color:#15C;background-color:transparent">P2 LSM4 Ms Jasmine</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1P5Q94bTzoamYaAW5Y_XoBhaYXyajSgb9/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 LSM5 Ms Amy</span></a></td>
   </tr>
 </tbody>
 </table>
