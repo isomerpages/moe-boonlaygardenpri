@@ -27,7 +27,7 @@ third_nav_title: Home Based Learning
 <thead>
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/14d0LHVqXm0Up-e0VXkeW_wSqQH_3taKX/edit"><span style="color:#15C;background-color:transparent">P2 Care</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1WtL5cdENwiJNIO-Wy9sHHbzhLaOZPBg4/edit"><span style="color:#15C;background-color:transparent">P2 Cooperation</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/14zBSImknjkSZosoGzicWDFfscJZbovqZ/edit"><span style="color:#15C;background-color:transparent">P2 Cooperation</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1hzhALhocrO2mNX9BvO6ByCdJH3mWWCaa/edit"><span style="color:#15C;background-color:transparent">P2 Harmony</span></a></th>
   </tr>
 </thead>
