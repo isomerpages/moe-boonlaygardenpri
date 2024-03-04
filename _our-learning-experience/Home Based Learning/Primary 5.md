@@ -27,14 +27,14 @@ third_nav_title: Home Based Learning
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1brIV20GSPHzRhb4einMbtu6fWra1xMoH/edit"><span style="color:#15C;background-color:transparent">P5 Care</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1ABzxFykJzocnKQtxhH-6m2LW-nRLBfsB/edit"><span style="color:#15C;background-color:transparent">P5 Harmony</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1axG_TP8ialFVai9LoLQSKi-ZIcm6R5PT/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Integrity</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1axG_TP8ialFVai9LoLQSKi-ZIcm6R5PT/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Integrity A</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18znywJreDfAoFVAQ9V90JSDtrnr-o1iw/edit"><span style="color:#15C;background-color:transparent">P5 Resilience</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1MNYJXHdO6kE6I78JG_B-WUaQam6Vaiqe/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Respect A</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1DSSXso6fyqPbwwJSmHZvEfDlPDb_YBwk/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Respect B</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/18znywJreDfAoFVAQ9V90JSDtrnr-o1iw/edit"><span style="color:#15C;background-color:transparent">P5 Integrity B</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1MNYJXHdO6kE6I78JG_B-WUaQam6Vaiqe/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Resilience</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1DSSXso6fyqPbwwJSmHZvEfDlPDb_YBwk/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Respect</span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/17g2dnG8OigUFSFrhEHQ9_vA3LNdvD9Rn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Responsibility</span></a></td>
