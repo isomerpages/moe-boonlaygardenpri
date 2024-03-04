@@ -98,23 +98,13 @@ third_nav_title: Home Based Learning
 <thead>
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1bOTnuYaBk3MwhU3p1hYef9tAUros4ysu/edit"><span style="color:#15C;background-color:transparent">P3 MA1 Mdm Chan</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1JpWJNHAD7B810EB-JtjnxHKtYs29t_xf/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 CL2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1YSauSPBGGRccCiajubLNwaOjmI48gGyL/edit"><span style="color:#15C;background-color:transparent">P3 CL3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1JpWJNHAD7B810EB-JtjnxHKtYs29t_xf/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 MA2 Mr Pua</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1YSauSPBGGRccCiajubLNwaOjmI48gGyL/edit"><span style="color:#15C;background-color:transparent">P3 MA3 Mrs Wong</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1OWD_y_JMXSvfV6SCLMnN-FcClHJBO0bP/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 CL4</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1HIc2bxKLv9m-CPXGBQwrbMFg5a0YWyuz/edit"><span style="color:#15C;background-color:transparent">P3 CL5</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1axjq_o9wh_piihrOKZQ8z1WZr1Z0XRlVXrC9NGPAu08/edit"><span style="color:#15C;background-color:transparent">P3 ML1</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1iwqeuGtTlThIm408jPY47sqhc0T1ZHns/edit"><span style="color:#15C;background-color:transparent">P3 ML2</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1rU_FXqLvCbYauF3l4uKFrQtBoGKWITLO/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 ML3</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1PcjiE0IjfjXFWWpp78Cy8Y-I_5f_1Zl-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 TL</span></a></td>
-  </tr>
-  <tr>
-  
-  </tr>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1OWD_y_JMXSvfV6SCLMnN-FcClHJBO0bP/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 MA4 Ms Steffi</span></a></td>
+   </tr>
 </tbody>
 </table>
