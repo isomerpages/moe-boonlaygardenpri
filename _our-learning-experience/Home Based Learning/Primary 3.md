@@ -27,14 +27,14 @@ third_nav_title: Home Based Learning
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/18n6XYl5K2mQ1xTeYGGB-7LaLpymdevm6/edit"><span style="color:#15C;background-color:transparent">P3 Care</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1xEDCinEEtl0iNjlm0z1t53oFFkXb-EF3/edit"><span style="color:#15C;background-color:transparent">P3 Harmony</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1u3P0TtgJhDihwpVKc4AaI5gYvZkL4wuZ/edit"><span style="color:#15C;background-color:transparent">P3 Integrity</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1u3P0TtgJhDihwpVKc4AaI5gYvZkL4wuZ/edit"><span style="color:#15C;background-color:transparent">P3 Integrity A</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1D3xvRjNyf50gszW9qkJN5fOYmjTifdf1/edit"><span style="color:#15C;background-color:transparent">P3 Resilience</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1q2991NbSd5XlzBWm78tOAm2s6OiZZupY/edit"><span style="color:#15C;background-color:transparent">P3 Respect A</span></a><span style="background-color:transparent"> </span></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pRqq11cG4Vx_mOxUueYmu2rn_J-V9hxt/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 Respect B</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1D3xvRjNyf50gszW9qkJN5fOYmjTifdf1/edit"><span style="color:#15C;background-color:transparent">P3 Integrity B</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1q2991NbSd5XlzBWm78tOAm2s6OiZZupY/edit"><span style="color:#15C;background-color:transparent">P3 Resilience</span></a><span style="background-color:transparent"> </span></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pRqq11cG4Vx_mOxUueYmu2rn_J-V9hxt/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 Respect </span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1QwIrKSFBFiFD1tV4iHb-INpEW3RRq8CC/edit"><span style="color:#15C;background-color:transparent">P3 Responsibility</span></a></td>
