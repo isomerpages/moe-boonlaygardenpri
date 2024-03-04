@@ -85,16 +85,16 @@ third_nav_title: Home Based Learning
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1bxf33kbMBQSChTdD0KDExFj9ldtLtlza/edit"><span style="color:#15C;background-color:transparent">P5 CL1</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1CY4eka9-9z-AJ5fhzd4OC1LBC9QhoB8U/edit"><span style="color:#15C;background-color:transparent">P5 CL2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1THnaLlZv2lglB1Uq9kP7hHHFjqjizF1a/edit"><span style="color:#15C;background-color:transparent">P5 CL3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1bxf33kbMBQSChTdD0KDExFj9ldtLtlza/edit"><span style="color:#15C;background-color:transparent">P6 CL1</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1CY4eka9-9z-AJ5fhzd4OC1LBC9QhoB8U/edit"><span style="color:#15C;background-color:transparent">P6 CL2</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1THnaLlZv2lglB1Uq9kP7hHHFjqjizF1a/edit"><span style="color:#15C;background-color:transparent">P6 CL3</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1tFAb4_lIArka-EwYtOEC6bucYlvoQDUx/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 CL4</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1oGKhObJ49nuIqur36T4ORvm5ee_JqBVn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 FCL</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ukO5w9FmsqiCNk2LisVMbG1qZKd6NnwN/edit"><span style="color:#15C;background-color:transparent">P5 HCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1tFAb4_lIArka-EwYtOEC6bucYlvoQDUx/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 CL4</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1oGKhObJ49nuIqur36T4ORvm5ee_JqBVn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 FCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ukO5w9FmsqiCNk2LisVMbG1qZKd6NnwN/edit"><span style="color:#15C;background-color:transparent">P6 HCL</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
@@ -102,12 +102,12 @@ third_nav_title: Home Based Learning
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17Q19OkLjidPZAxYaOplStaB6uuisdlKE/edit"><span style="color:#15C;background-color:transparent">P5 ML1</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1YgjfM6Jn0f_pixKMa9Dm9C2nLf1E7CK-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 ML2</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pWsVM3xbV4H8fkGOLIq-UseQGL1bqnL8/edit"><span style="color:#15C;background-color:transparent">P5FML</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17Q19OkLjidPZAxYaOplStaB6uuisdlKE/edit"><span style="color:#15C;background-color:transparent">P6 ML1</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1YgjfM6Jn0f_pixKMa9Dm9C2nLf1E7CK-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 ML2</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pWsVM3xbV4H8fkGOLIq-UseQGL1bqnL8/edit"><span style="color:#15C;background-color:transparent">P6FML</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/14Chn1gvHtz4zISod3SbYdLoM9uulMePD/edit"><span style="color:#15C;background-color:transparent">P5 HML</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/14Chn1gvHtz4zISod3SbYdLoM9uulMePD/edit"><span style="color:#15C;background-color:transparent">P6 HML</span></a></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
   </tr>
