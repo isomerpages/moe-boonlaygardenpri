@@ -85,14 +85,14 @@ third_nav_title: Home Based Learning
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_B8rr0tBZvLJ01PxuBo-VwlyXglUGgfE/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 CL1</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NzA17V8rs5BXbvaoySNrzorJFxuOjeRB/edit"><span style="color:#15C;background-color:transparent">P1 CL2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1SccPReXfsuk1u1eID0QQVahBNNTXgmxA/edit"><span style="color:#15C;background-color:transparent">P1 CL3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_B8rr0tBZvLJ01PxuBo-VwlyXglUGgfE/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P1 LSM1 Mr Thong</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NzA17V8rs5BXbvaoySNrzorJFxuOjeRB/edit"><span style="color:#15C;background-color:transparent">P1 LSM2 Mr Thong</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1SccPReXfsuk1u1eID0QQVahBNNTXgmxA/edit"><span style="color:#15C;background-color:transparent">P1 LSM3 Ms Stacey</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ikack6NklSOCkS5Y9qxqBQ4ZOaZNzMtT/edit"><span style="color:#15C;background-color:transparent">P1 CL4</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ikack6NklSOCkS5Y9qxqBQ4ZOaZNzMtT/edit"><span style="color:#15C;background-color:transparent">P1 LSM4 Mrs Ravie</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1FaC3gTizOKXg2fvE5rZTnEd8RPBvggrW/edit"><span style="color:#15C;background-color:transparent">P1 ML1</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1uebxx664RR7lasWWaXQ8W4k2dVF2dqjV/edit#heading=h.gjdgxs"><span style="color:#15C;background-color:transparent">P1 ML2</span></a><span style="background-color:transparent"> </span></td>
   </tr>
