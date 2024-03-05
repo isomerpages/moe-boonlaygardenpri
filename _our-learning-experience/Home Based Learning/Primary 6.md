@@ -61,7 +61,7 @@ third_nav_title: Home Based Learning
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1URMpwUaHcy3fwsiZgRvQYCeyrmgRIzQF/edit"><span style="color:#15C;background-color:transparent">P6 FM1</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1OqzpTVAVdiUDIgNPzw51Xd76S1dWWGDJ/edit"><span style="color:#15C;background-color:transparent">P6 FM2</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1_8WeNoFxKoh86RI2KhR3GhiIU6h-qXjG/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 FM3</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1RGJ3oUWqbiFpEuk-1zfADyNV6rnTlgdu/edit"><span style="color:#15C;background-color:transparent">P6 FM3</span></a></th>
   </tr>
 </thead>
 <tbody>
