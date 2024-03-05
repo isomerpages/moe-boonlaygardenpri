@@ -104,7 +104,7 @@ third_nav_title: Home Based Learning
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1VC3QXLKjluv8M3yKDdpQtTSuPSPubEeG/edit"><span style="color:#15C;background-color:transparent">P5FML</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/14Chn1gvHtz4zISod3SbYdLoM9uulMePD/edit"><span style="color:#15C;background-color:transparent">P5 HML</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1vcvpWrCOC5qrpCjyaFu90VaJN8H7Ydrr/edit"><span style="color:#15C;background-color:transparent">P5 HML</span></a></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
   </tr>
