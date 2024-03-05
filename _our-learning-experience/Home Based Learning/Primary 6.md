@@ -117,7 +117,7 @@ third_nav_title: Home Based Learning
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1-JXaJ9AF6-JyMueCztMhi3IS5UKJsCST/edit"><span style="color:#15C;background-color:transparent">P6 TL1</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1B6l5GsGVlwFUPz0Geivb9s3afX64H0OY/edit"><span style="color:#15C;background-color:transparent">P6 TL1</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1hxpJhQBmu0yWFLOSCJrJJlS09CyWwoLo/edit"><span style="color:#15C;background-color:transparent">P6 FTL</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/18nZcIPYcevf2VzpMxkgMOGF_qIKLOZoh/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6HTL</span></a></td>
   </tr>
