@@ -24,6 +24,5 @@ To enhance students' learning, students participate in various competitions such
 
 Mdm Grace Chan (I/C)  <br>
 Mr Jeff Thong (Co I/C)  <br>
-Mrs Liu Ying Hui<br>
 Mrs Sherrie Chang<br>
 Mdm Jaliza
