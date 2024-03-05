@@ -37,7 +37,7 @@ third_nav_title: Home Based Learning
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/16qhXWfQq_XJicKRaBXCjUpwcgWN_hFNU/edit"><span style="color:#15C;background-color:transparent">P5 Respect</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17g2dnG8OigUFSFrhEHQ9_vA3LNdvD9Rn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Responsibility</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/11hv4f6ogflhC8N_F8DY48HVEi3z-qKrJ/edit"><span style="color:#15C;background-color:transparent">P5 Responsibility</span></a></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi"></td>
   </tr>
