@@ -68,11 +68,11 @@ third_nav_title: Home Based Learning
 <tbody>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1KksOv4WngeJQKjCS1gKcb347kxUq296F/edit"><span style="color:#15C;background-color:transparent">P4 CL4</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1RlENCGu2iR6fvdojSsk4X90ZPLAF7oU4/edit"><span style="color:#15C;background-color:transparent">P4 ML1</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1QqeX1xZJM2Fdav4g3VSEZyFKXvgnrHii/edit"><span style="color:#15C;background-color:transparent">P4 ML2</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1lKO9kPIA1Uep2xSbc--UdACgvOnVHcba/edit"><span style="color:#15C;background-color:transparent">P4 ML1</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1WenWCLq0cQdWZJmwDSIUl7a45eIcLmnc/edit"><span style="color:#15C;background-color:transparent">P4 ML2</span></a></td>
   </tr>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1vN_IJMYSzpeAYZQ36Nxi94MdAQ7l7jw-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=truet"><span style="color:#15C;background-color:transparent">P4 ML3</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1NaLO_1UPxZsCLnz-MDa_Z55UdIK9PEPX/edit"><span style="color:#15C;background-color:transparent">P4 ML3</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ktmZ_Y3Hz4pxonPnDoU9AYOqe7Zp87xg/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P4 ML4</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1HAYg2VkSnCqYFDS7Au5kN25pxdfHp9PX/edit"><span style="color:#15C;background-color:transparent">P4 TL</span></a></td>
   </tr>
