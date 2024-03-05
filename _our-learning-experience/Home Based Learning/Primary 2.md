@@ -91,7 +91,7 @@ third_nav_title: Home Based Learning
   <tr>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1oBDJSC0Gyvlcp_PWntJ_ICA_DysY58q-/edit"><span style="color:#15C;background-color:transparent">P2 LSM1 Mr Thong</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/19skK3Qg-KLwyNxm4ZG03clB6lDpCWYpF/edit"><span style="color:#15C;background-color:transparent">P2 LSM2 Ms Jasmine</span></a></th>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17UQXiea8YumcaVUwzfeYz8U1E_tLzR5k/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P2 LSM3 Ms Amy</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1QXwPTjTLsJJQArfShrJGqCR_zBfU0bjG/edit"><span style="color:#15C;background-color:transparent">P2 LSM3 Ms Amy</span></a></th>
   </tr>
 </thead>
 <tbody>
