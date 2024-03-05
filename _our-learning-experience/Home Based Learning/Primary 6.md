@@ -94,7 +94,7 @@ third_nav_title: Home Based Learning
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1kz-bhRO7f6RDCpi5Y_46MQaGlg0xkcEl/edit"><span style="color:#15C;background-color:transparent">P6 CL4</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1YvRR3zEd32tvIJig1kmUoUY9ALY4swyy/edit"><span style="color:#15C;background-color:transparent">P6 FCL</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ukO5w9FmsqiCNk2LisVMbG1qZKd6NnwN/edit"><span style="color:#15C;background-color:transparent">P6 HCL</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pk_E_stRJyKAI2qq5SGsS8e6TcLQ0vJF/edit"><span style="color:#15C;background-color:transparent">P6 HCL</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
