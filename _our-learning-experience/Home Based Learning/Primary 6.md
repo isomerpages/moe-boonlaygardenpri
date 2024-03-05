@@ -34,7 +34,7 @@ third_nav_title: Home Based Learning
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1rvuF2I_ivdc4ykeViIrAd0wSAcsX14n3/edit"><span style="color:#15C;background-color:transparent">P6 Resilience</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1F5cOxAQLMz-Drs67srLBu9g4w4XZAJX5/edit"><span style="color:#15C;background-color:transparent">P6 Respect A</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1DSSXso6fyqPbwwJSmHZvEfDlPDb_YBwk/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 Respect B</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1xA7P7kMrcxO3NFC5weXB_mFwHG3mHCpJ/edit"><span style="color:#15C;background-color:transparent">P6 Respect B</span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/17g2dnG8OigUFSFrhEHQ9_vA3LNdvD9Rn/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P6 Responsibility</span></a></td>
