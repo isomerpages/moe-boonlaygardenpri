@@ -23,6 +23,5 @@ In weekly training, students are guided in techniques such as holding the ball, 
 
 Mrs Khan-Nur Zakiah (I/C) <br>
 Mr Hairil (Co- I/C) <br>
-Mdm Lim Su Ru<br>
 Mrs Liu Ying Hui<br>
 Mrs Hor- Nicole Yeap
