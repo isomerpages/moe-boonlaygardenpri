@@ -34,7 +34,7 @@ third_nav_title: Home Based Learning
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1ljx2DgegxS73RHcqJqMGFqPRrAI0ogWn/edit"><span style="color:#15C;background-color:transparent">P3 Integrity B</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1Kozs0qxLi7lHWWt2Bnjn66pPdApDS73B/edit"><span style="color:#15C;background-color:transparent">P3 Resilience</span></a><span style="background-color:transparent"> </span></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1pRqq11cG4Vx_mOxUueYmu2rn_J-V9hxt/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 Respect </span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1WYvYAjM5GwaHU5X4LQ10QFzlUAQq377N/edit"><span style="color:#15C;background-color:transparent">P3 Respect </span></a></td>
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1QwIrKSFBFiFD1tV4iHb-INpEW3RRq8CC/edit"><span style="color:#15C;background-color:transparent">P3 Responsibility</span></a></td>
