@@ -34,7 +34,7 @@ third_nav_title: Home Based Learning
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1AjnB58CJWNfA4l3n0_5CHlZGI9LIBy1H/edit"><span style="color:#15C;background-color:transparent">P4 Resilience</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1PntXUJzWBAzjTcFdeVWMJL2duVWhCrh1/edit"><span style="color:#15C;background-color:transparent">P4 Respect A</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/15DJ-D1HFwdPz7Hf4J97_zcf9YyA6U9uK/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P4 Respect B</span></a>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1dMUTFcolOk2Mixd-dPQL-ZztUJ_rf6c1/edit"><span style="color:#15C;background-color:transparent">P4 Respect B</span></a>
   </td></tr>
 
 </tbody><tbody>
