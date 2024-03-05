@@ -39,7 +39,7 @@ third_nav_title: Home Based Learning
 
 </tbody><tbody>
   <tr>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1itXMBE9Zb3oQiVxfXPWrmd9dJVdmFWY9/edit"><span style="color:#15C;background-color:transparent">P4 Responsibility</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/14xv2M929YZz5mpGn22KCNilCSC1daciX/edit"><span style="color:#15C;background-color:transparent">P4 Responsibility</span></a></td>
   </tr>
   <tr>
   </tr>
