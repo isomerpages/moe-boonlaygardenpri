@@ -72,7 +72,7 @@ third_nav_title: Home Based Learning
   </tr>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1-lVdai3HVOR-wD_hRY8F7K-kmhVTZJZg/edit"><span style="color:#15C;background-color:transparent">P3 ML2</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1rU_FXqLvCbYauF3l4uKFrQtBoGKWITLO/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 ML3</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/15OYbw2RnZysn5H53o9y0oqPhtjWULq96/edit"><span style="color:#15C;background-color:transparent">P3 ML3</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1PcjiE0IjfjXFWWpp78Cy8Y-I_5f_1Zl-/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P3 TL</span></a></td>
   </tr>
   <tr>
