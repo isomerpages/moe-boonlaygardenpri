@@ -59,7 +59,7 @@ third_nav_title: Home Based Learning
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1s77z_5OOjhqyr-KelD-ppNbWO1baBpAI/edit?usp=sharing&amp;ouid=105417872371350287373&amp;rtpof=true&amp;sd=true"><span style="color:#15C;background-color:transparent">P5 Foundation math</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1xw6ZuRkZj0wWkfLSCbpV8OVKQyDPMhbK/edit"><span style="color:#15C;background-color:transparent">P5 Foundation math</span></a></th>
 
   </tr>
   <tr>
