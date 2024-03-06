@@ -33,7 +33,7 @@ third_nav_title: Home Based Learning
 <tbody>
   <tr>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/1DSE52l-tYb95vkzavwMagJfbW_9tP17G/edit"><span style="color:#15C;background-color:transparent">P1 Resilience</span></a></td>
-    <td class="tg-db9x"><a href="https://docs.google.com/document/d/17mgBsg2cmtebguD6QnGrgjtUKtgklK-S/edit"><span style="color:#15C;background-color:transparent">P1 Respect</span></a></td>
+    <td class="tg-db9x"><a href="https://docs.google.com/document/d/1Y5Z_nIc84vEAKAno-fLhzEH9TRUL0C_B/edit"><span style="color:#15C;background-color:transparent">P1 Respect</span></a></td>
     <td class="tg-db9x"><a href="https://docs.google.com/document/d/17mgBsg2cmtebguD6QnGrgjtUKtgklK-S/edit"><span style="color:#15C;background-color:transparent">P1 Responsibility</span></a></td>
   
   </tr>
