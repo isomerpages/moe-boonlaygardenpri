@@ -25,7 +25,7 @@ third_nav_title: Home Based Learning
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-db9x"><a href="https://docs.google.com/document/d/1brIV20GSPHzRhb4einMbtu6fWra1xMoH/edit"><span style="color:#15C;background-color:transparent">P6 Care</span></a></th>
+    <th class="tg-db9x"><a href="https://docs.google.com/document/d/17YkasOvRqEX7MYN9JlG0Ki903StMNh3U/edit"><span style="color:#15C;background-color:transparent">P6 Care</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1ISRhF6B0XNf-4fdOJ3MS1Uad_syL-0yn/edit"><span style="color:#15C;background-color:transparent">P6 Harmony</span></a></th>
     <th class="tg-db9x"><a href="https://docs.google.com/document/d/1NuZ8NoGel4eTCGeSByqAlmX0wFOOOsna/edit"><span style="color:#15C;background-color:transparent">P6 Integrity</span></a></th>
   </tr>
