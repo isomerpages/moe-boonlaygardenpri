@@ -159,8 +159,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui</td>
-    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui<br>Mr Isa Nuruddin Rahim</td>
+    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
