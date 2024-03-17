@@ -109,8 +109,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2 Care</td>
-    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Alfie- Nurul</td>
-    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Alfie- Nurul<br>Mrs Jamaliah Jamal A</td>
+    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
@@ -154,13 +154,13 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Resilience </td>
-    <td class="tg-cly1">Mrs Valerine Loh-Chen Aizhen<br>Mdm Nurashlyn</td>
-    <td class="tg-cly1">chen_aizhen@schools.gov.sg<br>nurashlyn_abdul_rashid@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Valerine Loh-Chen Aizhen<br>Mdm Nurashlyn<br>Miss Khairiahtulnisa Abdul Razak</td>
+    <td class="tg-cly1">chen_aizhen@schools.gov.sg<br>nurashlyn_abdul_rashid@schools.gov.sg<br>khairiahtulnisa_Abdul_Razak@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui</td>
-    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui<br>Mr Isa Nuruddin Rahim</td>
+    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
@@ -234,8 +234,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">4 Respect A</td>
-    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mdm Chua Jie Min<br>Ms Krithika</td>
-    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mdm Chua Jie Min<br>Ms Ranganathan Senguttuvan Krithika</td>
+    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg<br> ranganathan_Senguttuvan_Krithika@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">4 Respect B</td>
@@ -274,8 +274,8 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">5 Resilience</td>
-    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan </td>
-    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan<br>Mr Abel Goh Wen Hung  </td>
+    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Harmony</td>
