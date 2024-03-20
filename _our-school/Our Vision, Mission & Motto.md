@@ -20,7 +20,7 @@ We encourage all to be engaged in a healthy pursuit of excellence, to make every
 
 ### School Values:&nbsp; BLGPS CARE Value
 
-The six MOE Character and Citizenship Education (CCE) core values (i.e., Respect, Responsibility, Resilience, Care, Integrity and Harmony) form the foundation of our BLGPS CARE values.
+The six MOE Character and Citizenship Education (CCE) core values (i.e., Respect, Responsibility, Resilience, Care, Integrity and Harmony) form the foundation of our BLGPS CARE value.
 
 **C**ooperation with Harmony<br>
 **A*** Attitude of Care and Integrity <br>
