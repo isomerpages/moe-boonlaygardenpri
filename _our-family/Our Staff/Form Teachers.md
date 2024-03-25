@@ -159,8 +159,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mrs Liu Ying Hui<br>Mr Isa Nuruddin Rahim</td>
-    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
+    <td class="tg-cly1">Mr Abel Goh Wen Hung<br>Mrs Liu Ying Hui<br>Mr Isa Nuruddin Rahim</td>
+    <td class="tg-cly1">abel_goh_wen_hung@schools.gov.sg<br>tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
@@ -274,8 +274,8 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">5 Resilience</td>
-    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan<br>Mr Abel Goh Wen Hung  </td>
-    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan<br>  </td>
+    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Harmony</td>
