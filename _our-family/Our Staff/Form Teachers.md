@@ -154,13 +154,13 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Resilience </td>
-    <td class="tg-cly1">Mrs Valerine Loh-Chen Aizhen<br>Mdm Nurashlyn<br>Miss Khairiahtulnisa Abdul Razak</td>
+    <td class="tg-cly1">Mrs Valerine Loh-Chen Aizhen<br>Mdm Nurashlyn<br>Miss Khairiahtulnisa </td>
     <td class="tg-cly1">chen_aizhen@schools.gov.sg<br>nurashlyn_abdul_rashid@schools.gov.sg<br>khairiahtulnisa_Abdul_Razak@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mr Abel Goh Wen Hung<br>Mrs Liu Ying Hui<br>Mr Isa Nuruddin Rahim</td>
-    <td class="tg-cly1">abel_goh_wen_hung@schools.gov.sg<br>tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Liu Ying Hui<br>Mr Abel Goh <br>Mr Isa</td>
+    <td class="tg-cly1">tan_ying_hui@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
