@@ -174,7 +174,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Integrity A</td>
-    <td class="tg-cly1">Mr Lim Jek Ming, Shuan<br>Ms Yeo Lay Peng<br>Mr Isa Nuruddin</td>
+    <td class="tg-cly1">Mr Lim Jek Ming, Shuan<br>Ms Yeo Lay Peng<br></td>
     <td class="tg-cly1">lim_jek_ming_shuan@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
     </tr>
   <tr>
