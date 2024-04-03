@@ -159,7 +159,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mrs Liu Ying Hui<br>Mr Abel Goh <br>Mr Isa</td>
+    <td class="tg-cly1">Mrs Liu Ying Hui<br>Mr Abel Goh <br>Mr Isa Nuruddin</td>
     <td class="tg-cly1">tan_ying_hui@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
   </tr>
   <tr>
@@ -174,8 +174,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Integrity A</td>
-    <td class="tg-cly1">Mr Lim Jek Ming, Shuan<br>Ms Yeo Lay Peng<br>Mr Isa Nuruddin</td>
-    <td class="tg-cly1">lim_jek_ming_shuan@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
+    <td class="tg-cly1">Mr Lim Jek Ming, Shaun<br>Ms Yeo Lay Peng<br></td>
+    <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">3 Integrity B</td>
