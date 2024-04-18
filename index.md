@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/18apr.jpg
+      background: /images/final_sch_banner.gif
       key_highlights:
         - title: Our stories
           description: Click here for Newsway
@@ -18,4 +18,5 @@ sections:
         - title: Check us out on facebook!
           description: Click for our Facebook page
           url: https://www.facebook.com/BoonlaygardenPS
+      variant: center
 ---
