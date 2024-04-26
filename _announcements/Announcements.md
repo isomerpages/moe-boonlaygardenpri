@@ -10,3 +10,19 @@ We're thrilled to announce that our Performing Arts CCAs have attained the follo
 * Chinese Dance - Certificate of Distinction
 * Malay Dance - Certificate of Distinction
 
+You can visit our[Instagram page](https://www.instagram.com/boonlaygardenprisch/) Instagram page for more details!
+
+
+
+#### Raffles Mathematical Olympiad 2024
+* 1 High Distinction
+* 10 Distinction
+* 10 Merit
+
+
+#### Singapore National Wushu Championships 2023
+* 2 Silver
+* 1 Bronze
+
+
+
