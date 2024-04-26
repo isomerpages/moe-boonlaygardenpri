@@ -23,6 +23,3 @@ You can visit our[Instagram page](https://www.instagram.com/boonlaygardenprisch/
 #### Singapore National Wushu Championships 2023
 * 2 Silver
 * 1 Bronze
-
-
-
