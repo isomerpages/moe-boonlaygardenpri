@@ -2,21 +2,22 @@
 title: Physical Education
 permalink: /our-curriculum/physical-education/
 description: ""
+variant: markdown
 ---
 ### Our Goals
 
 Developing confident, healthy and physically active individuals to be future ready and self-directed learners in the community.  
 
-*   We foster the belief of PE as movement which is fundamental and essential to life, work and play 
-*   We nurture students who demonstrate individually and collaboratively physical skills, practices, and values to enjoy a lifetime of purposeful, active and healthy living 
-*    We empower students to make responsible decisions to pursue lifelong total well-being
+*   We foster the belief of PE as movement which is fundamental and essential to life, work and play&nbsp;
+*   We nurture students who demonstrate individually and collaboratively physical skills, practices, and values to enjoy a lifetime of purposeful, active and healthy living&nbsp;
+*   &nbsp;We empower students to make responsible decisions to pursue lifelong total well-being
 
-<img src="/images/1-1.jpg" style="width:80%">
+<img src="/images/1-1.jpg" style="width:100%">
 <center><i>Catch the BLGian striving for perfection in a game of catching the ball!</i></center>
 
 ### Our Approach
 
-We provide students with opportunities to develop and practise good health habits and attitudes through a variety of learning experiences. Students learn fundamental movement skills and games skills to develop movement competency through well-designed PE lessons and programmes which incorporate Differentiated Instruction, Active Blended Learning and thinking routines. They then transfer these skills across the PE learning areas namely Athletics, Dance, Games & Sports, Gymnastics, Outdoor Education, Physical Health & Fitness and Swimming.
+We provide students with opportunities to develop and practise good health habits and attitudes through a variety of learning experiences. Students learn fundamental movement skills and games skills to develop movement competency through well-designed PE lessons and programmes which incorporate Differentiated Instruction, Active Blended Learning and thinking routines. They then transfer these skills across the PE learning areas namely Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming.
 
 ### Key Programmes
 
@@ -46,6 +47,6 @@ Through the SwimSafer 2.0 Programme, our P5 students learnt basic swimming compe
 
 The outdoors was used as a natural classroom, for our P5 students to develop ruggedness, resilience and build strong ties with each other. Students had opportunity to exhibit Habits of Mind and CARES values through meaningful camp activities and challenges such as low elements, nature hike, sheltered teambuilding and sensory navigation.
 
-<img src="/images/pe6.jpg" style="width:80%">
-<img src="/images/pe7.jpg" style="width:80%">
+<img src="/images/pe6.jpg" style="width:100%">
+<img src="/images/pe7.jpg" style="width:100%">
 <center><i>Working well with teammates during stream exploration and camp teambuilding activities.</i></center>

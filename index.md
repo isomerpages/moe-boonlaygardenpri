@@ -18,4 +18,5 @@ sections:
         - title: Check us out on facebook!
           description: Click for our Facebook page
           url: https://www.facebook.com/BoonlaygardenPS
+      variant: center
 ---
