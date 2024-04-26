@@ -10,7 +10,7 @@ We're thrilled to announce that our Performing Arts CCAs have attained the follo
 * Chinese Dance - Certificate of Distinction
 * Malay Dance - Certificate of Distinction
 
-You can visit our[Instagram page](https://www.instagram.com/boonlaygardenprisch/) Instagram page for more details!
+You can visit our[Instagram page](https://www.instagram.com/boonlaygardenprisch/) for more details!
 
 
 
