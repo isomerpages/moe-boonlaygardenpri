@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/final_sch_banner.gif
+      background: /images/Resized__Updated_School_website_banner__final_.gif
       key_highlights:
         - title: Our stories
           description: Click here for Newsway
