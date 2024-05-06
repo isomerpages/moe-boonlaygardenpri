@@ -50,4 +50,16 @@ support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
 </div>
+<h4>Singapore School Games Wushu 2024</h4>
+<p>Another Wushu achievement unlocked! Two of our Wushu students achieved
+good results at the National Wushu &amp; Sanda Competition. They clinched
+2 silvers and 1 bronze for 4-Duan sword, 3-Duan Chang Quan and 4-Duan Cudgel
+respectively. Congratulations, students!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu_sanda.jpg">
+</div>
+<p>
+<br>
+</p>
 <p></p>
