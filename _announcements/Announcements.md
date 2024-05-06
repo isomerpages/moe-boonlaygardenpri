@@ -41,7 +41,7 @@ more details!</p>
 <p>1 Bronze</p>
 </li>
 </ul>
-<h4>Singapore School Games Wushu 2024</h4>
+<h4>National School Games Wushu 2024</h4>
 <p>One of our P6 Wushu members has achieved 6th position in Wushu NSG Senior
 Division Boys 4-Duan Spear! His diligence and perseverance have led to
 success! A big thank you to the coaches, teachers and parents for the unwavering
