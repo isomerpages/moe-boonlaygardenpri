@@ -32,7 +32,7 @@ more details!</p>
 <p>10 Merit</p>
 </li>
 </ul>
-<h4>Singapore National Wushu Championships 2023</h4>
+<h4>Singapore National Wushu Championship 2023</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2 Silver</p>
