@@ -48,7 +48,7 @@ success! A big thank you to the coaches, teachers and parents for the unwavering
 support.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
 </div>
 <h4>Singapore School Games Wushu 2024</h4>
 <p>Another Wushu achievement unlocked! Two of our Wushu students achieved
