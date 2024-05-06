@@ -50,7 +50,7 @@ support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
 </div>
-<h4>National Wushu &amp; Sanda Competition</h4>
+<h4>National Wushu &amp; Sanda Competition 2024</h4>
 <p>Another Wushu achievement unlocked! Two of our Wushu students achieved
 good results at the National Wushu &amp; Sanda Competition. They clinched
 2 silvers and 1 bronze for 4-Duan sword, 3-Duan Chang Quan and 4-Duan Cudgel
