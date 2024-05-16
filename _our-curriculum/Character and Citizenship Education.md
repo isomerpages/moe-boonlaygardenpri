@@ -19,7 +19,7 @@ The CCE curriculum in BLGPS is anchored on MOE’s CCE 2021 Curriculum Frame. Th
 *   The focus on mental health and well-being in CCE guides students to be resilient and develops their social-emotional knowledge and skills such as emotional regulation, self-control and positivity. Besides mental health education, the school raises mental health awareness and encourages a caring and supportive environment through two key platforms: BLGPS Celebrates Wellness in Term 2 and the commemoration of World Mental Health Day in Term 4.  
     
 
-The school emphasises a holistic approach in teaching CCE, and taps on multiple learning platforms for explicit teaching, reinforcement, and application of learning. These platforms include CCE lessons within the classroom, and learning beyond the classroom through key student development experiences such as: 3E and VANDA, student leadership, Co-curricular Activities (CCA) and Values-in-Action (VIA).  
+The school emphasises a holistic approach in teaching CCE, and taps on multiple learning platforms for explicit teaching, reinforcement, and application of learning. These platforms include CCE lessons within the classroom and learning beyond the classroom through key student development experiences such as: 3E and VANDA, student leadership, Co-curricular Activities (CCA) and Values-in-Action (VIA).  
   
 To further strengthen CCE learning across multiple platforms, the school places an importance on building positive teacher-student and peer relationships, and strengthening home-school partnerships.  
 
