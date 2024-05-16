@@ -2,6 +2,7 @@ collections:
   our-learning-experience:
     output: true
     order:
+      - Learning Dispositions/Learning Dispositions.md
       - Learning Dispositions/Thinking Dispositions.md
       - Learning Dispositions/.keep
       - Environment Education.md
