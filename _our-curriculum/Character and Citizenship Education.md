@@ -10,7 +10,7 @@ Character and Citizenship Education (CCE) is integral to the holistic developmen
 
 ### Our Approach
 
-The CCE curriculum in school is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
+The CCE curriculum in BLGPS is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
   
 <img src="/images/CCE.png" style="width:100%">
 
