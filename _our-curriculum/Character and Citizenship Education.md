@@ -2,10 +2,11 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Our Goals
 
-As the garden where diversity blossoms, the school values each child’s potential for growth and learning in the physical, intellectual, moral and social domains. Character and Citizenship Education (CCE) is conducted to develop every student as a future-ready citizen who is resilient, guided by a sound moral compass and imbued with meaningful purpose in life to do good.
+Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading to positive life outcomes. The school provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
 ### Our Approach
 
