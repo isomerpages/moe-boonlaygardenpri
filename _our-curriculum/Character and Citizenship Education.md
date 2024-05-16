@@ -14,7 +14,7 @@ The CCE curriculum in BLGPS is anchored on MOE’s CCE 2021 Curriculum Frame. Th
   
 <img src="/images/CCE.png" style="width:100%">
 
-*   The six CCE core values, namely Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection and internalisation of these values, values are unpacked on a ternly basis and classes are named after the CCE values. In addition, we added the value Joy and coined the phrase “R3IC2H in joy” to express our wish for students to derive great joy in learning.!		 
+*   The six CCE core values, namely Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection and internalisation of these values, values are unpacked on a ternly basis and classes are named after the CCE values. 
 		 
 *   The focus on mental health and well-being in CCE guides students to be more resilient and develops their social-emotional knowledge and skills such as emotional regulation, self-control and positivity. Besides conducting mental health education, the school raises mental health awareness and encourages a caring and supportive environment through two annual events: BLGPS Celebrates Wellness in Term 2 and the commemoration of World Mental Health Day in Term 4.  
     
