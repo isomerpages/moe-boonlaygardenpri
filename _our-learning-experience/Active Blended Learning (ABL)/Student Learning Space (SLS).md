@@ -25,4 +25,11 @@ log in</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_1_3.png">
 </div>
+<h2>How to reset password</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS_pic_2.png">
+</div>
+<p>Click <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
+SLS User guide to reset password.</p>
 <p></p>
