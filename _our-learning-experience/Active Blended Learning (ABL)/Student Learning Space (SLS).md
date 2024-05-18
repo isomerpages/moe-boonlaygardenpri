@@ -34,6 +34,12 @@ log in</p>
 SLS User guide to reset password.</p>
 <p></p>
 <h2>Instruction and Troubleshooting Guides</h2>
-<h2></h2>
-<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_pic_3.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_troubleshoot_2.png">
+</div>
 <p></p>
