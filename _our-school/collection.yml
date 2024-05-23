@@ -2,6 +2,9 @@ collections:
   our-school:
     output: true
     order:
+      - Our Student Outcomes/.keep
+      - Our Student Outcomes/Strategic Map.md
+      - Our Student Outcomes/Student Outcomes.md
       - Our Vision, Mission & Motto.md
       - Our History.md
       - Our Identity.md

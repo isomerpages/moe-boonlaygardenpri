@@ -2,6 +2,7 @@
 title: Active Blended Learning
 permalink: /our-learning-experiences/active-blended-learning/
 description: ""
+third_nav_title: Active Blended Learning (ABL)
 ---
 ### Our Goals
 
@@ -9,11 +10,9 @@ To facilitate active learning in a blended learning environment to strengthen st
 
 ### Our Approach
 
-<img src="/images/ALP1.png" 
-     style="width:100%">
+<img src="/images/ALP1.png" style="width:100%">
 		 
-<img src="/images/ALP2.png" 
-     style="width:100%">
+<img src="/images/ALP2.png" style="width:100%">
 		 
 ### Key Programmes
 
@@ -21,8 +20,7 @@ To facilitate active learning in a blended learning environment to strengthen st
 
 To equip students with the knowledge and skills to become a future-ready learners with strong fundamentals, all students go through Baseline ICT training and assessment as well as an integrated Media Literacy programme. Students grow from a Digital Newbie to a Digital Superstar!
 
-<img src="/images/ALP3.png" 
-     style="width:100%">
+<img src="/images/ALP3.png" style="width:100%">
 
 #### HOME-BASED LEARNING (HBL) EXERCISE
 

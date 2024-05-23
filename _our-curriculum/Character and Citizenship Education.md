@@ -2,23 +2,24 @@
 title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Our Goals
 
-As the garden where diversity blossoms, the school values each child’s potential for growth and learning in the physical, intellectual, moral and social domains. Character and Citizenship Education (CCE) is conducted to develop every student as a future-ready citizen who is resilient, guided by a sound moral compass and imbued with meaningful purpose in life to do good.
+Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading to positive life outcomes. The school provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
 ### Our Approach
 
-The CCE curriculum in school is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
+The CCE curriculum in BLGPS is anchored on MOE’s CCE 2021 Curriculum Frame. The fundamentals of core values, a sense of purpose and social-emotional competencies are taught in the six content areas which includes National Education (NE), Cyber Wellness and Mental Health.  
   
 <img src="/images/CCE.png" style="width:100%">
 
-*   The six CCE core values of Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection to and internalisation of these values, classes are named after the CCE and CARES values. In addition, we added the value Joy and coined the phrase “R3IC2H in joy” to express our wish for students to derive great joy in learning.!		 
+*   The six CCE core values, namely Responsibility, Resilience, Respect, Integrity, Care and Harmony complement our school’s CARES values. To deepen students’ connection and internalisation of these values, values are unpacked on a ternly basis and classes are named after the CCE values. 
 		 
-*   The focus on mental health and well-being in CCE guides students to be more resilient and develops their social-emotional knowledge and skills such as emotional regulation, self-control and positivity. Besides conducting mental health education, the school raises mental health awareness and encourages a caring and supportive environment through two annual events: BLGPS Celebrates Wellness in Term 2 and the commemoration of World Mental Health Day in Term 4.  
+*   The focus on mental health and well-being in CCE guides students to be resilient and develops their social-emotional knowledge and skills such as emotional regulation, self-control and positivity. Besides mental health education, the school raises mental health awareness and encourages a caring and supportive environment through two key platforms: BLGPS Celebrates Wellness in Term 2 and the commemoration of World Mental Health Day in Term 4.  
     
 
-The school emphasises a holistic approach in teaching CCE, and taps on multiple learning platforms for explicit teaching, reinforcement, and application of learning. These platforms include CCE lessons within the classroom, and learning beyond the classroom through key student development experiences such as: 3E and VANDA, student leadership, Co-curricular Activities (CCA) and Values-in-Action (VIA).  
+The school emphasises a holistic approach in teaching CCE, and taps on multiple learning platforms for explicit teaching, reinforcement, and application of learning. These platforms include CCE lessons within the classroom and learning beyond the classroom through key student development experiences such as: Co-curricular Activities (CCA), Values-in-Action (VIA), Educational Career Guidance (ECG), National Education (NE) and Student Leadership. 
   
 To further strengthen CCE learning across multiple platforms, the school places an importance on building positive teacher-student and peer relationships, and strengthening home-school partnerships.  
 
