@@ -95,11 +95,13 @@ variant: markdown
       <td class="tg-zr06"><span style="background-color:#FFF">Mdm Ruddiah Bte Sabtu</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
-	<tr><td class="tg-ktyi"><span style="background-color:#FFF">Corporate Support Officer </span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Ms Luanne Lim </span></td>
+	<tr><td class="tg-ktyi"><span style="background-color:#FFF">Dental Therapist </span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">Ms Lee Ying Jia</span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
-  </tbody>
+		<tr><td class="tg-ktyi"><span style="background-color:#FFF">Dental Therapist </span></td>
+      <td class="tg-zr06"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+  </tr></tbody>
 </table>
 
 ### Other Support Staff
