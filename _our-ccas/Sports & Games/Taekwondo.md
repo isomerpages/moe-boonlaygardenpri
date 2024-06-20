@@ -24,6 +24,5 @@ To enhance students' learning, grading sessions are conducted every 3 months. Th
 
 Ms Puteri  (I/C)<br>
 Mdm Nurin (Co I/C)<br>
-Ms Grace Phang<br>
 Mdm Wong Shu Lee<br>
-Mdm Toh Hui Lin
+Ms Priya
