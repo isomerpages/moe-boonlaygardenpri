@@ -143,7 +143,11 @@ variant: markdown
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
-      <td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
+      <td class="tg-06je"><span style="background-color:#FFF">Dental Therapist</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+		      <tr><td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Saria Binte Abdul Majid</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
