@@ -24,6 +24,5 @@ The weekly trainings guide students to approach Track &amp; Field events as a ho
 
 Mr Tang Chee Weng (I/C)  <br>
 Mr Nasser (Co I/C)<br>
-Ms Joy Amisha<br>
 Ms Yang Yu Qing<br>
 Mdm Sumathi Mani
