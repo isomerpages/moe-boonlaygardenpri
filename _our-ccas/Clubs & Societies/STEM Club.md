@@ -22,7 +22,6 @@ To enhance students' learning, students participate in various competitions such
 
 ### Teachers-In-Charge
 
-Mdm Grace Chan (I/C)  <br>
-Mr Jeff Thong (Co I/C)  <br>
-Mrs Sherrie Chang<br>
-Mdm Jaliza
+Mr Jeff Thong (I/C)  <br>
+Mr Abel (Co I/C)  <br>
+Ms Lin Mei Zhi<br>
