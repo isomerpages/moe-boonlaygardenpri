@@ -23,4 +23,3 @@ In weekly sessions, students attend workshops and are also taught the use and ma
 Ms Nerissa Tiong&nbsp;(I/C)  <br>
 Mr Aashiq (Co I/C)  <br>
 Mr Leong Zhi Wei  <br>
-Ms Lydia Lam
