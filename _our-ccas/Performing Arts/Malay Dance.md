@@ -19,6 +19,6 @@ In weekly sessions, students are guided to appreciate the beauty of dance and to
 ### Teachers-In-Charge
 
 Mdm Norlaily (I/C)<br>
-Mdm Irdawati (Co I/C)<br>
-Mdm Nur Marina <br>
+Mdm Nur Marina (Co I/C)<br>
+Ms Jamaliah <br>
 Mdm Siti Nur Baeyah<br>
