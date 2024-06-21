@@ -25,5 +25,4 @@ Ms Celine Wong (I/C)<br>
 Mr Steven Pua (Co I/C)<br>
 Mdm Shu Xiao Mei <br>
 Ms Ainah Saaban <br>
-Mr Isa <br>
 Ms Krithika

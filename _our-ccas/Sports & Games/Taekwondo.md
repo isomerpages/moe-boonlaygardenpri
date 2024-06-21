@@ -22,8 +22,7 @@ To enhance students' learning, grading sessions are conducted every 3 months. Th
 
 ### Teachers-In-Charge
 
-Mr Edmund Choi (I/C)<br>
-Ms Puteri (Co I/C)<br>
-Ms Grace Phang<br>
+Ms Puteri  (I/C)<br>
+Mdm Nurin (Co I/C)<br>
 Mdm Wong Shu Lee<br>
-Mdm Toh Hui Lin
+Ms Priya

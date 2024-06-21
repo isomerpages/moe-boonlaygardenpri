@@ -93,14 +93,7 @@ variant: markdown
     </tr>
 		    <tr><td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer </span></td>
       <td class="tg-zr06"><span style="background-color:#FFF">Mdm Ruddiah Bte Sabtu</span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
-    </tr>
-	<tr><td class="tg-ktyi"><span style="background-color:#FFF">Dental Therapist </span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Ms Lee Ying Jia</span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
-    </tr>
-		<tr><td class="tg-ktyi"><span style="background-color:#FFF">Dental Therapist </span></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+     
   </tr></tbody>
 </table>
 
@@ -143,7 +136,11 @@ variant: markdown
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
-      <td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
+      <td class="tg-06je"><span style="background-color:#FFF">Dental Therapist</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+		      <tr><td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Saria Binte Abdul Majid</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>

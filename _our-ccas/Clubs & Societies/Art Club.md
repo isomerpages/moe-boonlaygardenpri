@@ -25,4 +25,4 @@ Students’ art pieces are regularly displayed in exhibitions held within school
 Ms Maisarah (I/C)<br>
 Ms Audrey Yap Wenyun (Co I/C)<br>
 Mrs Brenda Choon<br>
-Ms Michelle Chow  <br>
+Ms Jaliza  <br>

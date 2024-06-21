@@ -26,4 +26,3 @@ Mr Loh Wai Yong (I/C)  <br>
 Mr Roslan (Co I/C)<br>
 Mdm Rita<br>
 Mr Shazwan <br>
-Mdm Nurin
