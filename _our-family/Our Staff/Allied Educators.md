@@ -48,7 +48,7 @@ third_nav_title: Our Staff
     </tr>
 		      <tr><td class="tg-06je"><span style="background-color:#FFF">School Counsellor 3</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Wong Xu Yun Eunice</span></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">wong_xu_yun_eunice@schools.gov.sg</span></td>
     </tr>
 		<tr><td class="tg-06je"><span style="background-color:#FFF">School Counsellor 2</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Ms G Maya Devi</span></td>
