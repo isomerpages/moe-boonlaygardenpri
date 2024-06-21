@@ -5,3 +5,50 @@ variant: markdown
 description: ""
 third_nav_title: Our Staff
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Designation</span></th>
+      <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Personnel</span></th>
+      <th class="tg-e14l"><span style="font-weight:inherit;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr><tr>
+      <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Mdm Nurhayati Binte Salim</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+    <tr>
+      <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Mdm Noor Laily Binte Sukanda</span><br>
+      <span style="background-color:#FFF"></span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+    <tr>
+      <td class="tg-06je"><span style="background-color:#FFF">SEN Officer</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Ms Noraini Binte Abbas</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+    <tr>
+      <td class="tg-06je"><span style="background-color:#FFF">Dental Therapist</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+		      <tr><td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Mdm Saria Binte Abdul Majid</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+  </tbody>
+</table>
