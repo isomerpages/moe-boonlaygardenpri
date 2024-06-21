@@ -51,6 +51,8 @@ third_nav_title: Our Staff
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
 		<tr><td class="tg-06je"><span style="background-color:#FFF">School Counsellor 2</span><br></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">Mdm Wong Xu Yun Eunice</span></td>
-  </tr></tbody>
+      <td class="tg-8rui"><span style="background-color:#FFF">Ms G Maya Devi</span></td>
+			  <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+    </tr>
+  </tbody>
 </table>
