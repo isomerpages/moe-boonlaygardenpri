@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Our Key Personnel.md
-      - Our Staff/Allied Educators.md
       - Our Staff/.keep
       - Our Staff/Form Teachers.md
       - Our Staff/School Administrative Team.md
+      - Our Staff/Allied Educators.md
       - Our PSG.md
       - Our Alumni.md
