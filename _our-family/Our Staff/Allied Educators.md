@@ -42,8 +42,8 @@ third_nav_title: Our Staff
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
-      <td class="tg-06je"><span style="background-color:#FFF">Dental Therapist</span><br></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">Ms Adel Toh</span></td>
+      <td class="tg-06je"><span style="background-color:#FFF">Senior Student Welfare Officer</span><br></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">Mdm Yan Yee Mun</span></td>
       <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
     </tr>
 		      <tr><td class="tg-06je"><span style="background-color:#FFF">School Librarian</span><br></td>
