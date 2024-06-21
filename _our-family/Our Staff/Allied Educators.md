@@ -56,7 +56,7 @@ third_nav_title: Our Staff
     </tr>
 		  <tr><td class="tg-06je"><span style="background-color:#FFF">AED (T &amp; L)</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Norshila Abdul Rahman</span></td>
-      <td class="tg-8rui"><span style="background-color:#FFF">-</span></td>
+      <td class="tg-8rui"><span style="background-color:#FFF">norshila_abdul_rahman@schools.gov.sg</span></td>
     </tr>
   </tbody>
 </table>
