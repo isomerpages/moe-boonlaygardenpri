@@ -39,9 +39,6 @@ variant: markdown
     <td class="tg-cly1">tan_hui_yah@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Master Teacher (Malay Language)</td>
-    <td class="tg-cly1">Mr Arshid Bin Abdullah</td>
-    <td class="tg-cly1">arshid_abdullah@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
