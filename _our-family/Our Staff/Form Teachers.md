@@ -53,8 +53,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">1 Harmony</td>
-    <td class="tg-cly1">Mdm Shuhada Baharum<br>Mdm Shu Xiaomei</td>
-    <td class="tg-cly1">shuhada_baharum@schools.gov.sg<br>shu_xiaomei@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Shuhada Baharum<br>Mdm Shu Xiaomei<br>Miss Khoo Chun Mei</td>
+    <td class="tg-cly1">shuhada_baharum@schools.gov.sg<br>shu_xiaomei@schools.gov.sg<br>khoo_chun_mei@schools.gov.sg</td>
   </tr>
   <tr>
   </tr>
@@ -109,8 +109,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2 Care</td>
-    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Alfie- Nurul<br>Mrs Jamaliah Jamal A</td>
-    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>nurul_shalwa_rohim@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Jamaliah Jamal A</td>
+    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
@@ -159,8 +159,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mrs Liu Ying Hui<br>Mr Isa Nuruddin</td>
-    <td class="tg-cly1">tan_ying_hui@schools.gov.sg<br>Isa_Nuruddin_Rahim@schools.gov.sg</td>
+    <td class="tg-cly1">Mrs Liu Ying Hui<br>Mr Abel Goh Wen Hung</td>
+    <td class="tg-cly1">tan_ying_hui@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3 Care</td>
@@ -274,8 +274,8 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">5 Resilience</td>
-    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan<br>Mr Abel Goh Wen Hung  </td>
-    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg<br>abel_goh_wen_hung@schools.gov.sg</td>
+    <td class="tg-cly1">Ms Grace Phang<br>Mr Shazwan </td>
+    <td class="tg-cly1">phang_xiu_zhen_grace@schools.gov.sg<br>muhd_shazwan_rafsanjani_b@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Harmony</td>
