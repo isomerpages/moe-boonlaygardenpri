@@ -13,7 +13,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 The latest edition of Newsway serves as a window into the school’s journey of transforming our future learning spaces to nurture 21CC in our students. Check it out!
 
 <p><a href="https://online.fliphtml5.com/dgjor/jupa/#p=1">
-<img src="/images/newsway_36_nov2023.png" style="width:55%">
+<img src="/images/newsway_2024.png" style="width:55%">
 </a></p>
 
 
