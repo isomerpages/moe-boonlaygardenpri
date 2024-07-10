@@ -12,7 +12,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 ### BLGPS Newsway 2024 Issue #37
 We are excited to share the latest issue of Newsway, focused on Student Leadership! In this edition, we explore inspiring stories of our student leaders who harness their strengths to lead with conviction and excellence. Join us in getting inspired by their journeys to lead self and others.
 
-<p><a href="https://online.fliphtml5.com/dgjor/jupa/#p=1">
+<p><a href="https://online.fliphtml5.com/dgjor/vbtf">
 <img src="/images/newsway_2024.png" style="width:55%">
 </a></p>
 
