@@ -4,6 +4,21 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h4>15th Goodtalk (Global Village) International Children and Youth Bilingual Speech Conference</h4>
+<p>Congratulations, Jia Quan, for clinching the bronze award in the 15th
+Goodtalk (Global Village) International Children and Youth Bilingual Speech
+Conference! It was an intense competition where after 2 rounds of preliminary
+and semi-finals which consists of 240 contestants, and Jia Quan emerged
+strong. Let’s continue to encourage our students and children to develop
+their strengths to reach their maximum potential!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/goodtalk.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4>Singapore Youth Festival (SYF) 2024</h4>
 <p>We're thrilled to announce that our Performing Arts CCAs have attained
 the following achievements:</p>
