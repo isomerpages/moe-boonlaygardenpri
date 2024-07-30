@@ -4,6 +4,33 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<h4>Ordinary Humans, Extraordinary Humanity!</h4>
+<p>3 of our BLGians were recognised at the Silent Heroes Award ceremony organised
+by CAS – Civilians Association (Singapore). The aim of the award is to
+recognise ordinary, everyday Singaporeans and Permanent Residents for their
+extraordinary humanity and compassion towards people, causes, and missions.</p>
+<p>The award is open nation-wide and is presented to individuals who are
+working silently without recognition or compensation. They are the faceless
+champions of our society — ordinary humans who have demonstrated extraordinary
+dedication to improving the lives of their fellow human beings.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/silent_hero.jpg">
+</div>
+<h4>15th Goodtalk (Global Village) International Children and Youth Bilingual Speech Conference</h4>
+<p>Congratulations, Jia Quan, for clinching the bronze award in the 15th
+Goodtalk (Global Village) International Children and Youth Bilingual Speech
+Conference! It was an intense competition where after 2 rounds of preliminary
+and semi-finals which consists of 240 contestants, and Jia Quan emerged
+strong. Let’s continue to encourage our students and children to develop
+their strengths to reach their maximum potential!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/goodtalk.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4>Singapore Youth Festival (SYF) 2024</h4>
 <p>We're thrilled to announce that our Performing Arts CCAs have attained
 the following achievements:</p>
