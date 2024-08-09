@@ -82,9 +82,6 @@ variant: markdown
       <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
-      <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer</span><br></td>
-      <td class="tg-ktyi"><span style="background-color:#FFF">Mr David Khoo Chien Chiang</span><br></td>
-      <td class="tg-zr06"><span style="background-color:#FFF">-</span></td>
     </tr>
     <tr>
       <td class="tg-ktyi"><span style="background-color:#FFF">Operations Support Officer (Printing)</span></td>
