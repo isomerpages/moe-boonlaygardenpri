@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Spaces.md
       - Our Student Outcomes/.keep
       - Our Student Outcomes/Strategic Map.md
       - Our Student Outcomes/Student Outcomes.md
