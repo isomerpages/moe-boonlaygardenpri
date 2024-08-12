@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Introduction/School as a Living Lab.md
       - Introduction/Our Spaces.md
       - Introduction/.keep
       - Our Student Outcomes/.keep
