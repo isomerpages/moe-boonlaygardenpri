@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School as a Living Lab.md
       - Our Student Outcomes/.keep
       - Our Student Outcomes/Strategic Map.md
       - Our Student Outcomes/Student Outcomes.md
