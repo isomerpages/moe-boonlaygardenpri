@@ -2,9 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - Our Spaces/.keep
-      - Introduction/Our Spaces.md
       - Introduction/.keep
+      - Introduction/Our Spaces.md
       - Our Student Outcomes/.keep
       - Our Student Outcomes/Strategic Map.md
       - Our Student Outcomes/Student Outcomes.md
@@ -16,4 +15,5 @@ collections:
       - Our Achievements/2023.md
       - Our Achievements/2022.md
       - Our Achievements/2021.md
+      - Our Spaces/.keep
       - Our Stories.md
