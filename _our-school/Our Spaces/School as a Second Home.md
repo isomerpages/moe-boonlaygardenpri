@@ -30,3 +30,11 @@ life skills such as preparing simple meals.</p>
 <p>These SEL Corners are nifty nooks where teachers can engage students on
 their feelings, experiences and reflective conversations in a safe and
 conducive way.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13sch_as_second_home_garden_oasis.png">
+</div>
+<p>The Garden Oasis is a safe space for students to strengthen emotional
+regulation skills and motivate them to learn well with multi-modal learning
+resources.</p>
