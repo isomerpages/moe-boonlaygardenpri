@@ -43,3 +43,10 @@ on reading knowledge and skills.</p>
 <p>The Numeracy Cove has flexible furniture and enlarged tables to facilitate
 collaboration and use of math manipulatives, and a retail concept of math
 games to promote joy in learning Mathematics!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6sch_as_living_lab_scienece_lab.png">
+</div>
+<p>The Science labs are well-equipped with experiment kits and furniture
+supporting group discussion, allowing students to engage in hands-on exploration
+of science concepts with their friends!</p>
