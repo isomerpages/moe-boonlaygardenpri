@@ -34,3 +34,10 @@ as part of SG Green Plan 2030.</p>
 students experience as part of Project Work, allowing them to appreciate
 the importance of Food Security and resilience in a water-scarce Singapore
 as part of SG Green Plan 2030.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18sch_as_garden_green_campus.png">
+</div>
+<p>The school is designed with lush greenery and foliage to promote a sense
+of calm and well-being, and an appreciation for the environment.</p>
