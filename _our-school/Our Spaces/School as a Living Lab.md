@@ -50,3 +50,11 @@ games to promote joy in learning Mathematics!</p>
 <p>The Science labs are well-equipped with experiment kits and furniture
 supporting group discussion, allowing students to engage in hands-on exploration
 of science concepts with their friends!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7sch_as_living_lab_art_spaces.png">
+</div>
+<p>The Art Spaces in our school feature colorful mural art designs on the
+floors and walls, providing guidance and inspiration for students in their
+creative processes.</p>
