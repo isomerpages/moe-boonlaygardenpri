@@ -58,3 +58,10 @@ of science concepts with their friends!</p>
 <p>The Art Spaces in our school feature colorful mural art designs on the
 floors and walls, providing guidance and inspiration for students in their
 creative processes.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8sch_as_living_lab_sunshine_corner.png">
+</div>
+<p>The Sunshine Corridor is a vibrant space for small group teaching &amp;
+learning and discussions.</p>
