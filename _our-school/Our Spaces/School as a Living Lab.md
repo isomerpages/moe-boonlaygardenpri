@@ -35,3 +35,11 @@ projects.</p>
 <p>The Literacy Cove has flexible furniture to promote collaboration, as
 well as a rich collection of books and learning materials that guide students
 on reading knowledge and skills.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5sch_as_living_lab_numercy_cove.png">
+</div>
+<p>The Numeracy Cove has flexible furniture and enlarged tables to facilitate
+collaboration and use of math manipulatives, and a retail concept of math
+games to promote joy in learning Mathematics!</p>
