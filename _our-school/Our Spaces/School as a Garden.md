@@ -25,3 +25,12 @@ for the environment through their daily actions.</p>
 which students experience as part of Project Work, allowing them to appreciate
 the importance of Food Security and resilience in a land-scarce Singapore
 as part of SG Green Plan 2030.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17sch_as_garden_hydroponics.png">
+</div>
+<p>The Hydroponics Shed support a water-saving modern farming technique which
+students experience as part of Project Work, allowing them to appreciate
+the importance of Food Security and resilience in a water-scarce Singapore
+as part of SG Green Plan 2030.</p>
