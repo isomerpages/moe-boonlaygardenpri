@@ -13,7 +13,7 @@ their peers and teachers and feel safe and supported.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch_as_second_home_BELedit.png">
 </div>
-<p>The BLGian Edutainment Lounge is a cozy place for students to relax and
+<p>The BLGian Edutainment Lounge is a cozy lounge for students to relax and
 bond with teachers and peers over different games and fun activities.</p>
 <p></p>
 <p></p>
