@@ -26,7 +26,7 @@ reading in our students.</p>
 </div>
 <p>The Tinkerspace has a variety of resources such as Micro:bit, Lego and
 recycled materials to support our students in designing and creating innovative
-projects.</p>
+STEM projects as part of their Maker Education experience.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
