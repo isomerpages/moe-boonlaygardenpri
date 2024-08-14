@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Our Spaces
 ---
-<p>Our school has embarked on a journey of refreshing learning spaces to
-enhance our efforts in developing 21CC in our students over the past few
-years. This is also in line with MOE's direction as shared at the MOE Workplan
-Seminar 2023. As we prepare our students to be future-ready in an ever-evolving
-world, it is important that our physical environment is designed to support
-learning experiences and quality education that develop students' 21CC
-such as critical and inventive thinking, as well as collaboration and communication.</p>
-<p>The learning spaces are designed across three broad themes: School as
-a Living Lab, School as a Second Home and School as a Garden, with whole-school
-alignment and our students' needs at the heart of it all.</p>
+<h4>‘Overview: BLGPS, a School Of The Future’</h4>
+<p>The school’s learning environment is key to supporting students’ holistic
+learning and learning experiences. As we prepare our students to be future-ready
+in an ever-evolving world, our school’s learning spaces have been redesigned
+to provide that rich context for learning and promote the development of
+21st Century Competencies in our students.</p>
+<p>To support our strategic priorities in transforming the learning experiences
+for our students, our learning spaces have designed across three broad
+themes: School as a Living Lab, School as a Second Home and School as a
+Garden, with our students at the heart of it all.</p>
+<p></p>
