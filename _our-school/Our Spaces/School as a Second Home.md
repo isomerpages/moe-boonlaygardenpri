@@ -17,7 +17,11 @@ their peers and teachers and feel safe and supported.</p>
 bond with teachers and peers over different games and fun activities.</p>
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lifeskills_room__final_.png">
+</div>
+<p>The Lifeskills Room supports our students in the learning of important
+life skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12sch_as_second_home_SEL_corners.png">
 </div>
