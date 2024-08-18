@@ -11,13 +11,16 @@ these exciting spaces in school, students build quality relationships with
 their peers and teachers and feel safe and supported.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch_as_second_home_BELedit.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BEL_room__final_.png">
 </div>
 <p>The BLGian Edutainment Lounge is a cozy lounge for students to relax and
 bond with teachers and peers over different games and fun activities.</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lifeskills_room__final_.png">
+</div>
+<p>The Lifeskills Room supports our students in the learning of important
+life skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12sch_as_second_home_SEL_corners.png">
 </div>
