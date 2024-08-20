@@ -1,11 +1,11 @@
 ---
-title: Introduction
+title: Overview
 permalink: /introduction/
 variant: tiptap
 description: ""
 third_nav_title: Our Spaces
 ---
-<h4>‘Overview: BLGPS, a School Of The Future’</h4>
+<h4>Overview: BLGPS, a School Of The Future</h4>
 <p>The school’s learning environment is key to supporting students’ holistic
 learning and learning experiences. As we prepare our students to be future-ready
 in an ever-evolving world, our school’s learning spaces have been redesigned
