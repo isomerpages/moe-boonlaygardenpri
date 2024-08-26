@@ -4,7 +4,7 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>BLGPS is featured in the news for our High Ability Learners programmes. Follow our Facebook page for exciting details!</h4>
+<h4>BLGPS is featured in the news for our High Ability Learners programmes. Follow our <a href="https://www.facebook.com/BoonlaygardenPS/" rel="noopener nofollow" target="_blank">Facebook</a> page for exciting details!</h4>
 <h4>Invitation to alumni to come back for Teachers' Day</h4>
 <p>We are inviting the alumni back to BLGPS to visit their teachers on 29th
 August 2024. All alumni are advised to only enter the school from 12.30p.m.
