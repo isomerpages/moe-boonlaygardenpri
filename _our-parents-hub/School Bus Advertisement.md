@@ -9,10 +9,13 @@ Procedure below.</p>
 <p>&nbsp;</p>
 <p>Service Requirements</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Call for Proposal</p>
+Call for Proposal <a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">click here</a>
+</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
+Terms and Conditions for School Bus Operator to Provide School Bus Services
+<a href="/files/annex_b.pdf" rel="noopener nofollow" target="_blank">click here</a>
+</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Request for School Bus Services</p>
