@@ -22,7 +22,9 @@ Request for School Bus Services (<a href="https://for.edu.sg/annexa1" rel="noope
 <p></p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Complete the Call for Proposal – Annex A (Information Required from Vendor)</p>
+Complete the Call for Proposal – Annex A (Information Required from Vendor)
+(<a href="https://for.edu.sg/infoforvendor" rel="noopener nofollow" target="_blank">click here)</a>
+</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Submit the completed Call for Proposal – Annex A by closing date, <strong>11 Sep 2024 (11.00am)</strong>,
