@@ -51,7 +51,7 @@ third_nav_title: Our Staff
     </tr>
 		<tr><td class="tg-06je"><span style="background-color:#FFF">School Counsellor </span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Ms Ng Poh Hong</span></td>
-			  <td class="tg-8rui"><span style="background-color:#FFF">_</span></td>
+			  <td class="tg-8rui"><span style="background-color:#FFF">ng_poh_hong_a@schools.gov.sg</span></td>
     </tr>
 		  <tr><td class="tg-06je"><span style="background-color:#FFF">AED (T &amp; L)</span><br></td>
       <td class="tg-8rui"><span style="background-color:#FFF">Mdm Norshila Abdul Rahman</span></td>
