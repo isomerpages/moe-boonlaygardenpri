@@ -231,7 +231,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Charn</p>
+<p>Mr Seah Chee Charn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
