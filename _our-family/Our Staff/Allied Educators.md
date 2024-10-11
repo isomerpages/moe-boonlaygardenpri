@@ -80,19 +80,6 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Xu Yun Eunice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_xu_yun_eunice@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms G Maya Devi</p>
 </td>
 <td rowspan="1" colspan="1">
