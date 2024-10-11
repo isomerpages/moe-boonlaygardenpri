@@ -5,19 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>BLGPS is featured in the news for our High Ability Learners programmes. Follow our <a href="https://www.facebook.com/BoonlaygardenPS/" rel="noopener nofollow" target="_blank">Facebook</a> page for exciting details!</h4>
-<h4>Invitation to alumni to come back for Teachers' Day</h4>
-<p>We are inviting the alumni back to BLGPS to visit their teachers on 29th
-August 2024. All alumni are advised to only enter the school from 12.30p.m.
-onwards and are encouraged to stay till 1.30p.m. to be in the group shot
-that we will take as a whole alumni! There will also be a quick sharing
-on what alumni can look forward to giving back!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers__day_Alumni_invite__1_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers__day_Alumni_invite_Pg_2__2_.jpg">
-</div>
+<h4></h4>
 <h4>Ordinary Humans, Extraordinary Humanity!</h4>
 <p>3 of our BLGians were recognised at the Silent Heroes Award ceremony organised
 by CAS – Civilians Association (Singapore). The aim of the award is to
