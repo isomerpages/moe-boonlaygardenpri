@@ -12,7 +12,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 ### BLGPS Newsway 2024 Issue #38
 In this issue of Newsway, we're excited to showcase our school's LLP programme—Maker Education! Discover the creative activities and culture we've built to inspire students to think critically and innovate. Get ready to put your own problem-solving skills to the test with the maze on the cover page—happy exploring!
 
-<p><a href="[https://go.gov.sg/blgpsnewsway2024issue38](https://go.gov.sg/blgpsnewsway2024issue38)">
+<p><a href="https://go.gov.sg/blgpsnewsway2024issue38">
 <img src="/images/newsway2024_last.png" style="width:55%">
 </a></p>
 
