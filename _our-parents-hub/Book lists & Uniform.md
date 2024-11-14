@@ -4,7 +4,7 @@ permalink: /our-parents-hub/book-lists-n-uniform/
 description: ""
 variant: markdown
 ---
-Please click on the links to access the respective book lists 2024 and information for uniform sales.  
+Please click on the links to access the respective book lists 2025 and information for uniform sales.  
 
 
 * [Primary 1](/files/P1_Booklist.pdf)
