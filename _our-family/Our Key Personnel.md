@@ -34,7 +34,11 @@ variant: markdown
     <td class="tg-cly1">ng_boon_in@schools.gov.sg</td>
   </tr>
   <tr>
-
+  <td class="tg-0lax">Vice Principal</td>
+    <td class="tg-cly1">Mrs Avinash Murugesuvari</td>
+    <td class="tg-cly1">murugesuvari_vasu_g@schools.gov.sg</td>
+  </tr>
+  <tr>
 </tr></tbody>
 </table>
 
