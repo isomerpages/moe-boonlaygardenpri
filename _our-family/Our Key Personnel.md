@@ -34,13 +34,8 @@ variant: markdown
     <td class="tg-cly1">ng_boon_in@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Vice Principal (Administration)</td>
-    <td class="tg-cly1">Ms Tan Hui Yah</td>
-    <td class="tg-cly1">tan_hui_yah@schools.gov.sg</td>
-  </tr>
-  <tr>
-  </tr>
-</tbody>
+
+</tr></tbody>
 </table>
 
 ### Heads of Department and Year Heads
