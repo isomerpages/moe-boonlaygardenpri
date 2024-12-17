@@ -13,3 +13,4 @@ Please click on the links to access the respective book lists 2025 and informati
 * [Primary 4](/files/P4_Booklist.pdf)
 * [Primary 5](/files/P5_Booklist.pdf)
 * [Primary 6](/files/P6_Booklist.pdf)
+* [Uniform Price List](/files/Uniform_Price_List.pdf)
