@@ -99,7 +99,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">2 Resilience</td>
-    <td class="tg-cly1">Ms Odelia,Cheong Qian Hui<br>Mr Kuay Chau Ann</td>
+    <td class="tg-cly1">Ms Odelia,Cheong Qian Hui<br>Mr Loh Wai Yong</td>
     <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
   </tr>
   <tr>
