@@ -95,7 +95,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2 Integrity</td>
     <td class="tg-cly1">Mrs Khan-Nur Zakiah Ahmad<br>Mdm Chua Huay Wen</td>
-    <td class="tg-cly1">nur_zakiah_ahmad@schools.gov.sg<br>chua_huay_wen@schools.gov.sg</td>
+    <td class="tg-cly1">lye_cheng_wai_lilian@schools.gov.sg<br>chua_huay_wen@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Integrity</td>
