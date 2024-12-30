@@ -105,7 +105,7 @@ variant: markdown
   <tr>
 		 <td class="tg-0lax">2 Respect</td>
     <td class="tg-cly1">Mdm Murni<br>Ms Tong Jin Sui</td>
-    <td class="tg-cly1">murni_mohamed_sani@schools.gov.sg<br>tong_jin_sui@schools.gov.sg</td>
+    <td class="tg-cly1">chow_yuh_lan@schools.gov.sg<br>tong_jin_sui@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Care</td>
