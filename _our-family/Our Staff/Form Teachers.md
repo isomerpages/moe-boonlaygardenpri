@@ -52,7 +52,7 @@ variant: markdown
     <td class="tg-cly1">shu_xiaomei@schools.gov.sg<br><br>nur_zakiah_ahmad@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">1 Harmony</td>
+    <td class="tg-0lax">1 Responsibility</td>
     <td class="tg-cly1">Mdm Shuhada Baharum<br>Mdm Shu Xiaomei<br>Miss Khoo Chun Mei</td>
     <td class="tg-cly1">shuhada_baharum@schools.gov.sg<br>shu_xiaomei@schools.gov.sg<br>khoo_chun_mei@schools.gov.sg</td>
   </tr>
