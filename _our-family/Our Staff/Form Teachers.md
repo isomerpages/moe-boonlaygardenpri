@@ -216,9 +216,9 @@ variant: markdown
     <td class="tg-cly1">yeo_lay_peng@schools.gov.sg<br>lim_jek_ming_shaun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4 Resilience</td>
+    <td class="tg-0lax">4 Integrity B</td>
     <td class="tg-cly1">Mdm Fazila Banu<br>Mdm Audrey Yap Wenyun</td>
-    <td class="tg-cly1">fazila_banu_mohamed_rabiullah@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
+    <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">4 Responsibility</td>
