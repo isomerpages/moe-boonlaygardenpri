@@ -34,7 +34,7 @@ variant: markdown
   <tr>
 		 <td class="tg-0lax">1 Harmony </td>
     <td class="tg-cly1">Mdm Nur Liyana Bte Mohd.Zulkiflee<br>Mdm Pok Yam Lee</td>
-    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
+    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>pok_yam_lee@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
