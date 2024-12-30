@@ -283,7 +283,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">5 Resilience B</td>
     <td class="tg-cly1">Mrs Kee- Evelyn Poon<br>Mr Kho Murphy</td>
-    <td class="tg-cly1">poon_ngee_keng_evelyn@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
+    <td class="tg-cly1">poon_ngee_keng_evelyn@schools.gov.sg<br>karen_Ln_tan@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Integrity A</td>
