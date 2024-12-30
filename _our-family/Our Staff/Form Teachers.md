@@ -276,7 +276,7 @@ variant: markdown
     <td class="tg-cly1">mohamed_nasser_ahmad_sha@schools.gov.sg<br>@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">5 Care</td>
+    <td class="tg-0lax">5 Resilience A</td>
     <td class="tg-cly1">Mrs Mathilda Wong<br>Mdm Norbi</td>
     <td class="tg-cly1">ross_mathilda@schools.gov.sg<br>norbi_mohd_salleh@schools.gov.sg</td>
   </tr>
