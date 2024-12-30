@@ -278,7 +278,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">5 Resilience A</td>
     <td class="tg-cly1">Ms Michelle Chow Wai Yee<br>Mrs Hor- Nicole Yeap</td>
-    <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>norbi_mohd_salleh@schools.gov.sg</td>
+    <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Respect</td>
