@@ -353,7 +353,7 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">6 Responsibility</td>
-    <td class="tg-cly1">Mdm Puteri Nor' Atika <br>Mr Edmund Choi Kin Mun</td>
+    <td class="tg-cly1">Mdm Puteri Nor' Atika <br>Mrs Serena Ong </td>
     <td class="tg-cly1">puteri_noratika_raja_ismail@schools.gov.sg<br>tan_jia_yi_serena@schools.gov.sg</td></tr>
   <tr>
   </tr>
