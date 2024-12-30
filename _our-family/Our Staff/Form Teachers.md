@@ -327,7 +327,7 @@ variant: markdown
     <td class="tg-cly1">ross_mathilda@schools.gov.sg<br>loo_hui_wen@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">6 Care</td>
+		 <td class="tg-0lax">6 Harmony</td>
     <td class="tg-cly1">Mdm Toh Hui Lin<br>Mr Nasser </td>
     <td class="tg-cly1">toh_hui_lin@schools.gov.sg<br>mohamed_nasser_ahmad_sha@schools.gov.sg</td>
   </tr>
