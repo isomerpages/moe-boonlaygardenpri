@@ -171,7 +171,7 @@ variant: markdown
     <td class="tg-cly1">kuay_chau_ann_a@schools.gov.sg<br>@schools.gov.sg</td>
     </tr>
   <tr>
-    <td class="tg-0lax">3 Integrity B</td>
+    <td class="tg-0lax">3 Responsibility</td>
     <td class="tg-cly1">Mrs Lum- Ng Shui Farn<br>Mdm Sumathi Mani</td>
     <td class="tg-cly1">ng_shui_farn@schools.gov.sg<br>sumathi_mani@schools.gov.sg</td></tr>
   <tr>
