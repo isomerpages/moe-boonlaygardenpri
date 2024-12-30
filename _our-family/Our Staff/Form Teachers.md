@@ -100,7 +100,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2 Resilience</td>
     <td class="tg-cly1">Mrs Brenda Choon<br>Mr Kuay Chau Ann</td>
-    <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg<br>kuay_chau_ann_a@schools.gov.sg</td>
+    <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>kuay_chau_ann_a@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">2 Cooperation</td>
