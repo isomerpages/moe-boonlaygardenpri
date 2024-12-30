@@ -333,7 +333,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">6 Integrity A</td>
-    <td class="tg-cly1">Mr Edmund Choi Kin Mun<br>Mr Loh Wai Yong</td>
+    <td class="tg-cly1">Mr Edmund Choi Kin Mun<br>Mdm Irdawati Bte Ahmad</td>
     <td class="tg-cly1">choi_kin_mun@schools.gov.sg<br>irdawati_ahmad@schools.gov.sg</td>
   </tr>
   <tr>
