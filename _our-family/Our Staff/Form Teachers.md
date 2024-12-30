@@ -37,7 +37,7 @@ variant: markdown
     <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>pok_yam_lee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">1 Respect</td>
+    <td class="tg-0lax">1 Integrity</td>
     <td class="tg-cly1">Ms Suhaila_Suleiman_Syed<br>Mrs Leong Hwee Peng<br>Ms Vesha</td>
     <td class="tg-cly1">Suhaila_Suleiman_Syed@schools.gov.sg<br>Tan_Hwee_Peng@schools.gov.sg<br>p_veshallini@schools.gov.sg</td>
   </tr>
