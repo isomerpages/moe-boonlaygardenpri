@@ -142,8 +142,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">3 Care</td>
-    <td class="tg-cly1">Mr Tang Chee Weng <br>Ms Lin Meizhi </td>
-    <td class="tg-cly1">tang_chee_weng@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td>
+    <td class="tg-cly1">Mr Tang Chee Weng <br>Mdm Rita Salamoon </td>
+    <td class="tg-cly1">tang_chee_weng@schools.gov.sg<br>rita_salamoon@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Resilience </td>
