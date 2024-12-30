@@ -217,7 +217,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">4 Integrity B</td>
-    <td class="tg-cly1">Mdm Fazila Banu<br>Mdm Audrey Yap Wenyun</td>
+    <td class="tg-cly1">Mdm Nur Marina Somdi<br>Mdm Audrey Yap Wenyun</td>
     <td class="tg-cly1">nur_marina_somdi@schools.gov.sg<br>yap_wenyun@schools.gov.sg</td>
   </tr>
   <tr>
