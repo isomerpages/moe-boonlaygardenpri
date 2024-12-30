@@ -222,7 +222,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">4 Resilience</td>
-    <td class="tg-cly1">Mrs Kee- Evelyn Poon<br>Mdm Jaliza</td>
+    <td class="tg-cly1">Miss Khairiahtulnisa<br>Mdm Jaliza</td>
     <td class="tg-cly1">khairiahtulnisa_Abdul_Razak@schools.gov.sg<br>jaliza_jamaludin@schools.gov.sg</td>
   </tr>
   <tr>
