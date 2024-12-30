@@ -108,7 +108,7 @@ variant: markdown
     <td class="tg-cly1">chow_yuh_lan@schools.gov.sg<br>Suhaila_Suleiman_Syed@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2 Care</td>
+    <td class="tg-0lax">2 Responsibility</td>
     <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Jamaliah Jamal A</td>
     <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
   </tr>
