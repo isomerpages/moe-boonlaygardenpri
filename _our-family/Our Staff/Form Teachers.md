@@ -83,7 +83,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">2 Responsibility</td>
+    <td class="tg-0lax">2 Care</td>
     <td class="tg-cly1">Ms Tan Yan Ting<br>Mr Muhammad Ariff Mohd Noor </td>
     <td class="tg-cly1">tan_yan_ting@schools.gov.sg<br>muhammad_ariff_mohd_noor@schools.gov.sg</td>
   </tr>
