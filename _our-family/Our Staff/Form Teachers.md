@@ -334,7 +334,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">6 Integrity A</td>
     <td class="tg-cly1">Mr Edmund Choi Kin Mun<br>Mr Loh Wai Yong</td>
-    <td class="tg-cly1">choi_kin_mun@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
+    <td class="tg-cly1">choi_kin_mun@schools.gov.sg<br>irdawati_ahmad@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Resilience</td>
