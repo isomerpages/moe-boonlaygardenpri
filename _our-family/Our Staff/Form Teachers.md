@@ -206,7 +206,7 @@ variant: markdown
     <td class="tg-cly1">nurin_sharina_shariff@schools.gov.sg<br>pua_chia_siong@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">4 Care </td>
+		 <td class="tg-0lax">4 Harmony </td>
     <td class="tg-cly1">Ms Steffi Marianna Rodrigues<br>Mr Pua Chia Siong, Steven</td>
     <td class="tg-cly1">steffi_marianna_rodrigues@schools.gov.sg<br>pua_chia_siong@schools.gov.sg</td>
   </tr>
