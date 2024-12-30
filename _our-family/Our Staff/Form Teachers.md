@@ -103,7 +103,7 @@ variant: markdown
     <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">2 Cooperation</td>
+		 <td class="tg-0lax">2 Respect</td>
     <td class="tg-cly1">Mdm Murni<br>Ms Tong Jin Sui</td>
     <td class="tg-cly1">murni_mohamed_sani@schools.gov.sg<br>tong_jin_sui@schools.gov.sg</td>
   </tr>
