@@ -110,7 +110,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">2 Responsibility</td>
     <td class="tg-cly1">Mrs Ong-Lye Chiew Min<br>Mrs Jamaliah Jamal A</td>
-    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
+    <td class="tg-cly1">ng_peng_peng@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Harmony</td>
