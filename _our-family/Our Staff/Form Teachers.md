@@ -262,7 +262,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">5 Care</td>
-    <td class="tg-cly1">Mdm Toh Hui Lin <br>Mdm Puteri Nor' Atika </td>
+    <td class="tg-cly1">Mdm Toh Hui Lin <br>Mrs Maha-Ganesan Mahalatchimi </td>
     <td class="tg-cly1">toh_hui_lin@schools.gov.sg<br>puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
