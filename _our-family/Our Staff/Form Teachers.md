@@ -89,7 +89,7 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">2 Harmony </td>
-    <td class="tg-cly1">Mr Thong Fong Yang<br>Mdm Shuhada</td>
+    <td class="tg-cly1">Mr Thong Fong Yang<br>Mdm Shuhada Baharum</td>
     <td class="tg-cly1">thong_fong_yang@schools.gov.sg<br>shuhada_baharum@schools.gov.sg</td>
   </tr>
   <tr>
