@@ -291,7 +291,7 @@ variant: markdown
     <td class="tg-cly1">mohammad_aashiq_anshad@schools.gov.sg<br>yang_yuqing@schools.gov.sg</td>
     </tr>
   <tr>
-    <td class="tg-0lax">5 Integrity B</td>
+    <td class="tg-0lax">5 Responsibility</td>
     <td class="tg-cly1">Mdm Norlita Muhamad<br>Ms Lynnette Loh Si Hui</td>
     <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg<br>lynnette_loh_si_hui@schools.gov.sg</td></tr>
   <tr>
