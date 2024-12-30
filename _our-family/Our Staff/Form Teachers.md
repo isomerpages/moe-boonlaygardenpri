@@ -168,7 +168,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">3 Respect</td>
     <td class="tg-cly1">Mr Kuay Chau Ann<br>Mrs Alfie - Nurul Shalwa Rohim<br></td>
-    <td class="tg-cly1">kuay_chau_ann_a@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
+    <td class="tg-cly1">kuay_chau_ann_a@schools.gov.sg<br>@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">3 Integrity B</td>
