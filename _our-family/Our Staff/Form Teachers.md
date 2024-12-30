@@ -328,7 +328,7 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">6 Harmony</td>
-    <td class="tg-cly1">Mr Muhammad Hairil<br>Mr Nasser </td>
+    <td class="tg-cly1">Mr Muhammad Hairil<br>Mdm Shirley Teng</td>
     <td class="tg-cly1">muhammad_hairil_iskandar_rajis@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
