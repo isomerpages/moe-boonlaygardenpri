@@ -322,7 +322,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">6 Harmony</td>
+    <td class="tg-0lax">6 Care</td>
     <td class="tg-cly1">Ms Joy Amisha <br>Ms Loo Hui Wen </td>
     <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg<br>loo_hui_wen@schools.gov.sg</td>
   </tr>
