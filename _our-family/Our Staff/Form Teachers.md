@@ -166,7 +166,7 @@ variant: markdown
     <td class="tg-cly1">wong_sze_ling@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3 Integrity A</td>
+    <td class="tg-0lax">3 Respect</td>
     <td class="tg-cly1">Mr Lim Jek Ming, Shaun<br>Ms Yeo Lay Peng<br></td>
     <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg<br>yeo_lay_peng@schools.gov.sg</td>
     </tr>
