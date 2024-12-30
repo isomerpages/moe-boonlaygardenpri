@@ -232,8 +232,8 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">4 Responsibility</td>
-    <td class="tg-cly1">Ms Grace Chan Shihui<br>Mdm Norlaily Ahmad<br>Mdm Chow Yuh Lan, Stacy</td>
-    <td class="tg-cly1">grace_chan_shihui@schools.gov.sg<br>norlaily_ahmad@schools.gov.sg<br>lin_meizhi@schools.gov.sg</td></tr>
+    <td class="tg-cly1">Ms Grace Chan Shihui<br>Ms Lin Meizhi <br></td>
+    <td class="tg-cly1">grace_chan_shihui@schools.gov.sg<br>lin_meizhi@schools.gov.sg<br></td></tr>
   <tr>
   </tr>
 </tbody>
