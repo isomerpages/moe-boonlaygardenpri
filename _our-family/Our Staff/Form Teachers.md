@@ -90,7 +90,7 @@ variant: markdown
   <tr>
 		 <td class="tg-0lax">2 Harmony </td>
     <td class="tg-cly1">Ms Victoria Wong Zi Qing<br>Mdm Rita Salamoon</td>
-    <td class="tg-cly1">victoria_wong_zi_qing@schools.gov.sg<br>rita_salamoon@schools.gov.sg</td>
+    <td class="tg-cly1">thong_fong_yang@schools.gov.sg<br>rita_salamoon@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2 Respect</td>
