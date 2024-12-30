@@ -29,22 +29,22 @@ variant: markdown
   <tr>
     <td class="tg-0lax">1 Care</td>
     <td class="tg-cly1">Mrs Ong - Lye Chiew Min<br>Miss Khoo Chun Mei </td>
-    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>khoo_chun_mei@schools.gov.sg</td>
+    <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br><br>khoo_chun_mei@schools.gov.sg</td>
   </tr>
   <tr>
 		 <td class="tg-0lax">1 Harmony </td>
     <td class="tg-cly1">Mdm Nur Liyana Bte Mohd.Zulkiflee<br>Mdm Pok Yam Lee</td>
-    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>pok_yam_lee@schools.gov.sg</td>
+    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br><br>pok_yam_lee@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Integrity</td>
     <td class="tg-cly1">Mdm Audrey Yap Wenyun<br>Mrs Jamaliah Jamal A<br></td>
-    <td class="tg-cly1">yap_wenyun@schools.gov.sg<br>jamaliah_Jamal_A@schools.gov.sg<br></td>
+    <td class="tg-cly1">yap_wenyun@schools.gov.sg<br><br>jamaliah_Jamal_A@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Resilience</td>
     <td class="tg-cly1">Mr Muhammad Ariff Mohd Noor <br>Ms Nerrisa Tiong</td>
-    <td class="tg-cly1">muhammad_ariff_mohd_noor@schools.gov.sg<br>tiong_wei_wen_nerissa@schools.gov.sg</td>
+    <td class="tg-cly1">muhammad_ariff_mohd_noor@schools.gov.sg<br><br>tiong_wei_wen_nerissa@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Care</td>
