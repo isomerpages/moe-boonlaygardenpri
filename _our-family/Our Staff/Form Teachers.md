@@ -332,9 +332,9 @@ variant: markdown
     <td class="tg-cly1">muhammad_hairil_iskandar_rajis@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">6 Integrity</td>
+    <td class="tg-0lax">6 Integrity A</td>
     <td class="tg-cly1">Mrs Sherrie Chang<br>Mr Loh Wai Yong</td>
-    <td class="tg-cly1">sherrie_tan@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
+    <td class="tg-cly1">choi_kin_mun@schools.gov.sg<br>loh_wai_yong@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Resilience</td>
