@@ -207,7 +207,7 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">4 Harmony </td>
-    <td class="tg-cly1">Mr Abel Goh Wen Hung<br>Mr Pua Chia Siong, Steven</td>
+    <td class="tg-cly1">Mr Abel Goh Wen Hung<br>Mrs Liu Ying Hui</td>
     <td class="tg-cly1">abel_goh_wen_hung@schools.gov.sg<br>tan_ying_hui@schools.gov.sg</td>
   </tr>
   <tr>
