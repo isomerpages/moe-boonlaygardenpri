@@ -54,7 +54,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">1 Responsibility</td>
     <td class="tg-cly1">Mdm Jaliza<br>Ms Tan Yan Ting<br></td>
-    <td class="tg-cly1">jaliza_jamaludin@schools.gov.sg<br><br>tan_yan_ting@schools.gov.sg<br></td>
+    <td class="tg-cly1">jaliza_jamaludin@schools.gov.sg<br>tan_yan_ting@schools.gov.sg<br></td>
   </tr>
   <tr>
   </tr>
