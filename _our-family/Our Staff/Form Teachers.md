@@ -48,8 +48,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
-    <td class="tg-cly1">Ms Lau Yi Yuan<br>Ms Chan Yien Qing</td>
-    <td class="tg-cly1">lau_yi_yuan@schools.gov.sg<br>chan_yien_qing@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Shu Xiao Mei<br>Ms Chan Yien Qing</td>
+    <td class="tg-cly1">shu_xiaomei@schools.gov.sg<br>chan_yien_qing@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Harmony</td>
