@@ -161,7 +161,7 @@ variant: markdown
     <td class="tg-cly1">kho_chaw_seng@schools.gov.sg<br>murni_mohamed_sani@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">3 Respect</td>
+    <td class="tg-0lax">3 Resilience B</td>
     <td class="tg-cly1">Ms Celine Wong Sze Ling<br>Ms Cindy Chua Tsin Li</td>
     <td class="tg-cly1">wong_sze_ling@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg</td>
   </tr>
