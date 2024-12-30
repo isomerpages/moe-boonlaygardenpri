@@ -49,7 +49,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">1 Respect</td>
     <td class="tg-cly1">Mdm Shu Xiao Mei<br>Ms Chan Yien Qing</td>
-    <td class="tg-cly1">shu_xiaomei@schools.gov.sg<br>chan_yien_qing@schools.gov.sg</td>
+    <td class="tg-cly1">shu_xiaomei@schools.gov.sg<br>nur_zakiah_ahmad@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Harmony</td>
