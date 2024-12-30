@@ -228,7 +228,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax">4 Respect</td>
     <td class="tg-cly1">Ms Vesha<br>Mr Leong Zhi Wei<br>p_veshallini@schools.gov.sg</td>
-    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>chua_jie_min@schools.gov.sg<br> ranganathan_Senguttuvan_Krithika@schools.gov.sg</td>
+    <td class="tg-cly1">leong_zhi_wei@schools.gov.sg<br> ranganathan_Senguttuvan_Krithika@schools.gov.sg</td>
     </tr>
   <tr>
     <td class="tg-0lax">4 Respect B</td>
