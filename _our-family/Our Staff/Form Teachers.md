@@ -281,9 +281,9 @@ variant: markdown
     <td class="tg-cly1">michelle_chow_wai_yee@schools.gov.sg<br>yeap_lee_ching@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">5 Respect</td>
+    <td class="tg-0lax">5 Resilience B</td>
     <td class="tg-cly1">Ms Ainah Saaban<br>Mr Kho Murphy</td>
-    <td class="tg-cly1">ainah_saaban@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
+    <td class="tg-cly1">poon_ngee_keng_evelyn@schools.gov.sg<br>kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">5 Integrity A</td>
