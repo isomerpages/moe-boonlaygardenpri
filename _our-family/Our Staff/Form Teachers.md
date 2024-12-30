@@ -352,7 +352,7 @@ variant: markdown
     <td class="tg-cly1">Tan_Hwee_Peng@schools.gov.sg<br>chua_jie_min@schools.gov.sg</td>
     </tr>
   <tr>
-    <td class="tg-0lax">6 Respect B</td>
+    <td class="tg-0lax">6 Responsibility</td>
     <td class="tg-cly1">Mrs Annabelle Woo<br>Mr Edmund Choi Kin Mun</td>
     <td class="tg-cly1">annabelle_tay@schools.gov.sg<br>choi_kin_mun@schools.gov.sg</td></tr>
   <tr>
