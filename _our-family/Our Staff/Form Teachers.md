@@ -32,9 +32,9 @@ variant: markdown
     <td class="tg-cly1">lye_chiew_min@schools.gov.sg<br>khoo_chun_mei@schools.gov.sg</td>
   </tr>
   <tr>
-		 <td class="tg-0lax">1 Resilience </td>
-    <td class="tg-cly1">Ms Odelia,Cheong Qian Hui<br>Mdm Shirley Teng</td>
-    <td class="tg-cly1">cheong_qian_hui_odelia@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
+		 <td class="tg-0lax">1 Harmony </td>
+    <td class="tg-cly1">Mdm Nur Liyana Bte Mohd.Zulkiflee<br>Mdm Shirley Teng</td>
+    <td class="tg-cly1">nur_liyana_mohammad_zulkiflee@schools.gov.sg<br>teng_shirley@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1 Respect</td>
