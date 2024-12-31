@@ -4,7 +4,7 @@ permalink: /our-strategy/
 variant: tiptap
 description: ""
 ---
-<h2><u>Our Strategy Map</u></h2>
+<h2>Our Strategy Map</h2>
 <p>At Boon Lay Garden Primary School (BLGPS), we nurture our BLGians to embody
 the BLGPS student outcomes – Each child, a Curious Thinker, Confident Learner,
 and Compassionate Contributor.</p>
