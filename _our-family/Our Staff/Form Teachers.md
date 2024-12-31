@@ -292,8 +292,8 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">5 Responsibility</td>
-    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mr Roslan</td>
-    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>roslan_b_abu@schools.gov.sg</td></tr>
+    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mr Edmund Choi Kin Mun</td>
+    <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>choi_kin_mun@schools.gov.sg</td></tr>
   <tr>
   </tr>
 </tbody>
@@ -333,8 +333,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax">6 Integrity A</td>
-    <td class="tg-cly1">Mr Edmund Choi Kin Mun<br>Mdm Irdawati Bte Ahmad</td>
-    <td class="tg-cly1">choi_kin_mun@schools.gov.sg<br>irdawati_ahmad@schools.gov.sg</td>
+    <td class="tg-cly1">Mr Roslan<br>Mdm Irdawati Bte Ahmad</td>
+    <td class="tg-cly1">roslan_b_abu@schools.gov.sg<br>irdawati_ahmad@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">6 Integrity B</td>
