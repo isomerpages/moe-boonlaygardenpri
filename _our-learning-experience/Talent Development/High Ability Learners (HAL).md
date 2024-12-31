@@ -75,4 +75,8 @@ also receive mentorship support from our ST/ Learning Needs (HAL).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL6.png">
 </div>
-<p></p>
+<p><strong>Good stories:</strong>
+</p>
+<p>Click on the links below to read the news report on how BLGPS supports
+our HALs, featuring Ms Grace Phang, ST/ Learning Needs (HAL) and her students
+from Boon Lay Garden Primary School:</p>
