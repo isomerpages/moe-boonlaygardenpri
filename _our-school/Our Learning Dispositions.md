@@ -20,4 +20,15 @@ for lifelong learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_dispositions_pic__4_.png">
 </div>
-<p></p>
+<h3><strong>Key programmes</strong></h3>
+<h3><strong>Learning Dispositions lessons and activities</strong></h3>
+<p>Aligned to our school’s vision of a garden where diversity blossoms, our
+teachers design activities and create inclusive learning spaces that cater
+to the readiness levels of our students. The Learning Dispositions lessons
+and activities are enacted through our Back-to-School programme, FTGP lessons,
+recess activities and learning environment. This ensures that every BLGian
+has ample opportunities to practise and strengthen their learning dispositions.</p>
+<p>Besides various hands-on activities and class discussions, BLGians also
+demonstrate their learning through daily routines in school and at home,
+to show how they have benefitted from the lessons taught and to pursue
+lifelong learning beyond the classroom.</p>
