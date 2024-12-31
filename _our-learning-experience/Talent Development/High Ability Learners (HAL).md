@@ -87,3 +87,7 @@ from Boon Lay Garden Primary School:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=raNUVyUtG94</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL7.png">
+</div>
+<p></p>
