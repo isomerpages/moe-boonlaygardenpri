@@ -292,7 +292,7 @@ variant: markdown
     </tr>
   <tr>
     <td class="tg-0lax">5 Responsibility</td>
-    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mr Roslan</td>
+    <td class="tg-cly1">Mrs Anne Marie De Souza<br>Mr Edmund Choi Kin Mun</td>
     <td class="tg-cly1">anne_marie_rajendra@schools.gov.sg<br>choi_kin_mun@schools.gov.sg</td></tr>
   <tr>
   </tr>
