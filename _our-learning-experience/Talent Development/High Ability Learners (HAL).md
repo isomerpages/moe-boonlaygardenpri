@@ -68,3 +68,12 @@ and to maximise their potential.</p>
 for our teachers to convene regularly to share innovative lesson ideas
 and enriched activities to meet the learning needs of HALs. Our teacher
 also receive mentorship support from our ST/ Learning Needs (HAL).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL6.png">
+</div>
+<p></p>
