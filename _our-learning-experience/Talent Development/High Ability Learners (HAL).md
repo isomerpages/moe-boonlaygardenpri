@@ -43,4 +43,15 @@ difference to their fields of study and community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL3.png">
 </div>
-<p></p>
+<p><u>&nbsp;</u>
+</p>
+<p><u>Provision of IBL Lessons during Curriculum Time</u>
+</p>
+<p>During lessons, our teachers adopt Inquiry-Based Learning (IBL) as our
+key pedagogical approach to design and facilitate open-ended, interactive
+and generative lessons for our HALs. These lessons motivate our HALs to
+learn. They also have autonomy over their learning pace and the freedom
+to make choices in their learning. Furthermore, their social interaction
+and collaborative problem-solving is enriched through IBL. These lessons
+also provide platforms for our HALs to engage in discussions on topics
+of interest, fostering social interaction and collaborative problem-solving.</p>
