@@ -37,3 +37,10 @@ lifelong learning beyond the classroom.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_1a.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_1b.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_1c.png">
+</div>
+<p></p>
