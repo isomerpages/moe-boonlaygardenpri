@@ -105,6 +105,11 @@ variant: markdown
     <td class="tg-cly1">annabelle_tay@schools.gov.sg</td>
   </tr>
   <tr>
+    <td class="tg-0lax">HOD Curriculum &amp; Innovation </td>
+    <td class="tg-cly1">Mrs Sherrie Chang</td>
+    <td class="tg-cly1">sherrie_tan@schools.gov.sg</td>
+		</tr>
+  <tr>
     <td class="tg-0lax">HOD Special Educational Needs</td>
     <td class="tg-cly1">Mdm Nurashlyn</td>
     <td class="tg-cly1">nurashlyn_abdul_rashid@schools.gov.sg</td>
