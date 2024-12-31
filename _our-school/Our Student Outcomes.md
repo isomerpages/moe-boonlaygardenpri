@@ -16,4 +16,5 @@ should know and be able to do.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLGPS_student_outcomes.png">
 </div>
-<p></p>
+<p>The Learning Goals are further unpacked for each block level (Lower Primary,
+Middle Primary, Upper Primary), and can be found in the Student Handbook.</p>
