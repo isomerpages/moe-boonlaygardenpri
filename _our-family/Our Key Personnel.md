@@ -158,11 +158,6 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">LH English Language</td>
-    <td class="tg-cly1">Ms Joy Amisha </td>
-    <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">LH Mathematics</td>
     <td class="tg-cly1">Mdm Brenda Zhou</td>
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg</td>
