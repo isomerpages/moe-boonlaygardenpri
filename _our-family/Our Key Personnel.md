@@ -214,8 +214,8 @@ variant: markdown
 		</tr>
   <tr>
     <td class="tg-0lax">SH Mother Tongue Languages</td>
-    <td class="tg-cly1">Ms Lydia Lam</td>
-    <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Puteri </td>
+    <td class="tg-cly1">puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Assistant Year Head Upper Block</td>
