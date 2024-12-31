@@ -60,4 +60,11 @@ of interest, fostering social interaction and collaborative problem-solving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL4.png">
 </div>
-<p></p>
+<h3><strong>Professional Development for Teachers</strong></h3>
+<p>We have a comprehensive professional development (PD) structure to equip
+our teachers with the skills and knowledge to meet our HALs’ learning needs,
+and to maximise their potential.</p>
+<p>We also have a series of school-based professional development platforms
+for our teachers to convene regularly to share innovative lesson ideas
+and enriched activities to meet the learning needs of HALs. Our teacher
+also receive mentorship support from our ST/ Learning Needs (HAL).</p>
