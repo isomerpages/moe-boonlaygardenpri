@@ -4,7 +4,7 @@ permalink: /our-student-outcomes/
 variant: tiptap
 description: ""
 ---
-<h2><strong><u>BLGPS Student Outcomes</u></strong></h2>
+<h2><strong>BLGPS Student Outcomes</strong></h2>
 <p>A BLGian who embodies the BLGPS student outcomes should possess a good
 sense of self-awareness of his/her strengths and interests, is grounded
 in our school’s CARE values, and has the dispositions, skills and knowledge
