@@ -31,3 +31,12 @@ we also have the Innovation Programme (IvP) and Community Problem Solving
 skills. These programmes deepen their interest in areas of passion, as
 well as develop their domain strengths and capacity to make a positive
 difference to their fields of study and community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL_2.png">
+</div>
+<p></p>
