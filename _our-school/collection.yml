@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - Our Strategy.md
+      - Our Strategy Map.md
       - Our Vision, Mission & Motto.md
       - Our History.md
       - Our Identity.md
