@@ -55,3 +55,9 @@ to make choices in their learning. Furthermore, their social interaction
 and collaborative problem-solving is enriched through IBL. These lessons
 also provide platforms for our HALs to engage in discussions on topics
 of interest, fostering social interaction and collaborative problem-solving.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HAL4.png">
+</div>
+<p></p>
