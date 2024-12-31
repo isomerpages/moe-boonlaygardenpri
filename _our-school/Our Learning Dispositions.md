@@ -17,3 +17,7 @@ Competencies, and the positive behaviours and attitudes that are important
 for lifelong learning.</p>
 <p>The four learning dispositions our students will acquire are <strong>Motivation</strong>, <strong>Self-directedness</strong>, <strong>Resilience</strong> and <strong>Connectedness</strong>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_dispositions_pic__4_.png">
+</div>
+<p></p>
