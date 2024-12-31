@@ -70,24 +70,14 @@ variant: markdown
     <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD Mother Tongue Languages</td>
-    <td class="tg-cly1">Ms Sewa Duu Jong</td>
-    <td class="tg-cly1">sewa_duu_jong@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">HOD Mathematics</td>
     <td class="tg-cly1">Mr Jonathan Lim</td>
     <td class="tg-cly1">jonathan_lim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">HOD Science</td>
-    <td class="tg-cly1">Mrs Malvina Lie</td>
-    <td class="tg-cly1">ng_see_wei_malvina@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD PE &amp; Aesthetics</td>
-    <td class="tg-cly1">Mdm Chua Huay Wen</td>
-    <td class="tg-cly1">chua_huay_wen@schools.gov.sg</td>
+    <td class="tg-cly1">Mdm Raihanah</td>
+    <td class="tg-cly1">raihanah_mohamed_yusop@schools.gov.sg</td>
   </tr>
   <tr>
 		<td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
@@ -104,6 +94,11 @@ variant: markdown
     <td class="tg-cly1">Mrs Annabelle Woo</td>
     <td class="tg-cly1">annabelle_tay@schools.gov.sg</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">HOD Curriculum &amp; Innovation </td>
+    <td class="tg-cly1">Mrs Sherrie Chang</td>
+    <td class="tg-cly1">sherrie_tan@schools.gov.sg</td>
+		</tr>
   <tr>
     <td class="tg-0lax">HOD Special Educational Needs</td>
     <td class="tg-cly1">Mdm Nurashlyn</td>
@@ -130,8 +125,8 @@ variant: markdown
     <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
   </tr>
 	 <tr><td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-cly1">Mdm Norlita Muhamad </td>
-    <td class="tg-cly1">norlita_muhamad_sah@schools.gov.sg</td>
+    <td class="tg-cly1">Mr Jack Liew </td>
+    <td class="tg-cly1">liew_wei_sheng@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -158,11 +153,6 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">LH English Language</td>
-    <td class="tg-cly1">Ms Joy Amisha </td>
-    <td class="tg-cly1">joy_amisha_keshyap@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">LH Mathematics</td>
     <td class="tg-cly1">Mdm Brenda Zhou</td>
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg</td>
@@ -178,12 +168,17 @@ variant: markdown
     <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH National Education &amp; Social Studies</td>
+    <td class="tg-0lax">SH Environment Education</td>
     <td class="tg-cly1">Mr Shaun Lim</td>
     <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Character &amp; Citizenship Education</td>
+    <td class="tg-0lax">SH National Education &amp; Social Studies</td>
+    <td class="tg-cly1">Ms. Peggy Lee	</td>
+    <td class="tg-cly1">peggy_lee@schools.gov.sg</td>
+  </tr>
+  <tr>
+		<td class="tg-0lax">SH Character &amp; Citizenship Education</td>
     <td class="tg-cly1">Ms Loo Hui Wen</td>
     <td class="tg-cly1">loo_hui_wen@schools.gov.sg</td>
   </tr>
@@ -198,19 +193,24 @@ variant: markdown
     <td class="tg-cly1">kho_chaw_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Innovation</td>
-    <td class="tg-cly1">Mrs Sherrie Chang</td>
-    <td class="tg-cly1">sherrie_tan@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">SH Partnership &amp; Publicity</td>
     <td class="tg-cly1">Ms Lydia Lam</td>
     <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
+		</tr>
+  <tr>
+    <td class="tg-0lax">SH Mother Tongue Languages</td>
+    <td class="tg-cly1">Mdm Puteri </td>
+    <td class="tg-cly1">puteri_noratika_raja_ismail@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Assistant Year Head Upper Block</td>
     <td class="tg-cly1">Ms Ainah Saaban</td>
     <td class="tg-cly1">ainah_saaban@schools.gov.sg</td>
+		</tr>
+  <tr>
+    <td class="tg-0lax">Assistant Year Head Middle Block</td>
+    <td class="tg-cly1">Mdm Nicole Yeap</td>
+    <td class="tg-cly1">yeap_lee_ching@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
