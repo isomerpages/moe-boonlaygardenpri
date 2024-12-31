@@ -70,11 +70,6 @@ variant: markdown
     <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD Mother Tongue Languages</td>
-    <td class="tg-cly1">Ms Sewa Duu Jong</td>
-    <td class="tg-cly1">sewa_duu_jong@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">HOD Mathematics</td>
     <td class="tg-cly1">Mr Jonathan Lim</td>
     <td class="tg-cly1">jonathan_lim@schools.gov.sg</td>
