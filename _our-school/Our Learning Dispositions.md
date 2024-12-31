@@ -36,7 +36,8 @@ lifelong learning beyond the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_1a.png">
 </div>
-<p></p>
+<p>Click <a href="https://file.go.gov.sg/blgpshometimetable.pdf" rel="noopener nofollow" target="_blank">here</a> for
+Home Timetable</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_1b.png">
 </div>
