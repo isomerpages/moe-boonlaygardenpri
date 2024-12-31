@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>MIMS Account</h1>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>What is MIMS?</strong>
 </p>
 <p>MOE Identity Management System (MIMS) provides access to multiple applications,
