@@ -211,6 +211,11 @@ variant: markdown
     <td class="tg-0lax">SH Partnership &amp; Publicity</td>
     <td class="tg-cly1">Ms Lydia Lam</td>
     <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
+		</tr>
+  <tr>
+    <td class="tg-0lax">SH Mother Tongue Languages</td>
+    <td class="tg-cly1">Ms Lydia Lam</td>
+    <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Assistant Year Head Upper Block</td>
