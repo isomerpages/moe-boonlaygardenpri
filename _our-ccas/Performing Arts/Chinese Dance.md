@@ -21,7 +21,7 @@ In weekly practices, students are taught specific stretching exercises and dance
 
 ### Teachers-In-Charge
 
-Ms Tong Jin Sui (I/C)<br>
-Mrs Koh- Chua Jie Min (Co I/C)<br>
-Ms Lye Cheng Wai, Lilian<br>
-Mrs Lum- Ng Shui Farn
+Mrs Koh- Chua Jie Min ( I/C)<br>
+Ms Lye Cheng Wai, Lilian (Co-I/C) <br>
+Mrs Serena Ong <br>
+Ms Lin Mei Zhi 
