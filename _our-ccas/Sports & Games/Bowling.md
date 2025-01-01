@@ -21,7 +21,8 @@ In weekly training, students are guided in techniques such as holding the ball, 
 
 ### Teachers-In-Charge
 
-Mrs Khan-Nur Zakiah (I/C) <br>
-Mr Hairil (Co- I/C) <br>
-Mrs Liu Ying Hui<br>
-Mrs Hor- Nicole Yeap
+Mr Hairil (I/C) <br>
+Mr Abel  (Co- I/C) <br>
+Mrs Khan-Nur Zakiah <br>
+Mrs Mathilda Wong  <br>
+Ms Shirley Teng
