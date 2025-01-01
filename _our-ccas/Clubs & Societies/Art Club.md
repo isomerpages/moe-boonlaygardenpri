@@ -23,6 +23,6 @@ Students’ art pieces are regularly displayed in exhibitions held within school
 ### Teachers-In-Charge
 
 Ms Maisarah (I/C)<br>
-Ms Audrey Yap Wenyun (Co I/C)<br>
+Ms Jaliza  (Co I/C)<br>
 Mrs Brenda Choon<br>
-Ms Jaliza  <br>
+Ms Stacy<br>
