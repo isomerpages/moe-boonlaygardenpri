@@ -21,6 +21,6 @@ In weekly sessions, students learn to care for the environment through the 3R ap
 ### Teachers-In-Charge
 
 Mr Ariff (I/C)  <br>
-Mr Shaun Lim (Co I/C)  <br>
-Mrs Mathilda Wong  <br>
-Ms Odelia,Cheong Qian Hui  <br>
+Mdm Murni  (Co I/C)  <br>
+Mr Shaun Lim  <br>
+Ms Odelia,Cheong <br>
