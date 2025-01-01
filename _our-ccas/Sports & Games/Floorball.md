@@ -23,6 +23,7 @@ Through weekly trainings, students gain a deeper appreciation for the cardiovasc
 ### Teachers-In-Charge
 
 Mr Loh Wai Yong (I/C)  <br>
-Mr Roslan (Co I/C)<br>
-Mdm Rita<br>
+Mdm Rita (Co I/C)<br>
+Mr Roslan <br>
 Mr Shazwan <br>
+Mr Tang Chee Weng
