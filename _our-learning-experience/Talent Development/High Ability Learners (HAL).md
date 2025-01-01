@@ -80,11 +80,11 @@ also receive mentorship support from our ST/ Learning Needs (HAL).</p>
 <p>Click on the links below to read the news report on how BLGPS supports
 our HALs, featuring Ms Grace Phang, ST/ Learning Needs (HAL) and her students
 from Boon Lay Garden Primary School:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240820-4510918</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.zaobao.com.sg/news/singapore/story20240820-4510918" rel="noopener nofollow" target="_blank"> https://www.zaobao.com.sg/news/singapore/story20240820-4510918</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=rC4x9QoUP7E</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=rC4x9QoUP7E" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=rC4x9QoUP7E</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=raNUVyUtG94</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=raNUVyUtG94" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=raNUVyUtG94</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
