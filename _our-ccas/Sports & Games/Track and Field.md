@@ -22,7 +22,7 @@ The weekly trainings guide students to approach Track &amp; Field events as a ho
 
 ### Teachers-In-Charge
 
-Mr Tang Chee Weng (I/C)  <br>
+Ms Chan Yien Qing (I/C) <br>
 Mr Nasser (Co I/C)<br>
 Ms Yang Yu Qing<br>
-Mdm Sumathi Mani
+Ms Peggy 
