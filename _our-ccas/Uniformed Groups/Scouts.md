@@ -21,8 +21,8 @@ In weekly sessions, students are taught basic scouting skills and they mark achi
 
 ### Teachers-In-Charge
 
-Ms Celine Wong (I/C)<br>
-Mr Steven Pua (Co I/C)<br>
-Mdm Shu Xiao Mei <br>
+Mr Steven Pua (I/C)<br>
+ Mrs Anne Marie (Co I/C)<br>
 Ms Ainah Saaban <br>
-Ms Krithika
+Mdm Norlaily <br>
+Ms Yeo Lay Peng <br>
