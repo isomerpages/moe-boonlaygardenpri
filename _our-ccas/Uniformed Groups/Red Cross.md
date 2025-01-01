@@ -22,8 +22,10 @@ In weekly sessions, students also participate in community service and have oppo
 
 ### Teachers-In Charge
 
-Mdm Fazila (I/C)<br>
-Mdm Norbi (Co I/C)<br>
-Ms Loo Hui Wen<br>
-Ms Karen Tan<br>
-Mrs Leong Hwee Peng
+Ms Lau Yi Yuan (I/C)<br>
+Mdm Shu Xiao Mei (Co I/C)<br>
+Ms Karen Tan <br>
+Mrs Leong Hwee Peng <br>
+Ms Jamaliah<br>
+Ms Atikah
+
