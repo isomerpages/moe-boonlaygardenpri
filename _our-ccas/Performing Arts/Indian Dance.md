@@ -18,6 +18,6 @@ To enhance students' learning, they take part in school and external performance
 
 ### Teachers-In-Charge
 
-Ms Yeo Lay Peng (I/C)<br>
-Mdm P Veshallini&nbsp;(Co I/C)  <br>
+Mdm P Veshallini (I/C) <br>
+Ms Celine Wong<br>
 Mrs Maha
