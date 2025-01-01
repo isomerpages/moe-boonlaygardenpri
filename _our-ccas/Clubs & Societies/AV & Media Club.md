@@ -20,6 +20,7 @@ In weekly sessions, students attend workshops and are also taught the use and ma
 
 ### Teachers-In-Charge
 
-Ms Nerissa Tiong&nbsp;(I/C)  <br>
-Mr Aashiq (Co I/C)  <br>
-Mr Leong Zhi Wei  <br>
+Mr Aashiq ( I/C)  <br>
+Mr Leong Zhi Wei (Co- I/C) <br>
+Ms Nerissa Tiong <br>
+Ms Lydia Lam<br>
