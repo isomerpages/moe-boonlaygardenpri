@@ -22,7 +22,7 @@ To enhance students' learning, grading sessions are conducted every 3 months. Th
 
 ### Teachers-In-Charge
 
-Ms Puteri  (I/C)<br>
-Mdm Nurin (Co I/C)<br>
+Mdm Toh Hui Lin  (I/C)<br>
+Mr Edmund (Co I/C)<br>
 Mdm Wong Shu Lee<br>
-Ms Priya
+Ms Puteri
