@@ -39,11 +39,10 @@ of the year.&nbsp;</p>
 </li>
 </ol>
 <p>Do note that the MIMS username follows this format.</p>
-<p><strong><a href="mailto:full_name@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">full_name@students.edu.sg</a></strong>
-</p>
-<p><em>Example: Mary Tan<br>Username = <a href="mailto:mary_tan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mary_tan@students.edu.sg</a></em>
+<p><u>full_name@students.edu.sg</u>
 </p>
 <p></p>
+<p><em>Example: Mary Tan<br>Username = </em>mary_tan@students.edu.sg</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims1.png">
 </div>
