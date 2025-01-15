@@ -27,7 +27,7 @@ manage their MIMS account.</p>
 we encourage parents to manage their child/ward’s MIMS account. Refer to
 the guides below on setting up MIMS security questions and resetting your
 child/ward’s password. Please help your child/ward to write down their
-MIMS password in their Student Handbook (pg 136) so that they can refer
+MIMS password in their Student Handbook (pg 135) so that they can refer
 to it whenever they need to.</p>
 </li>
 </ol>
