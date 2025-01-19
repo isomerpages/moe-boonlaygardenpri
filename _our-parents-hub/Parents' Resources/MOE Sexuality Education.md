@@ -29,7 +29,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.&nbsp;
 
-#### Overview of Boon Lay Garden Primary School's Sexuality Education Programme for 2024
+#### Overview of Boon Lay Garden Primary School's Sexuality Education Programme for 2025
 
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here]( https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -45,7 +45,7 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
 
 
-Please refer to this pdf for the Sexuality Education Lessons taught in 2024.
+Please refer to this pdf for the Sexuality Education Lessons taught in 2025.
 
 [](/files/30_jan_2024_Info_on_SEd_for_schs_website__Primary_Schools_.pdf)
 
