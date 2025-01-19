@@ -46,8 +46,9 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 
 Please refer to this pdf for the Sexuality Education Lessons taught in 2025.
+[](/files/2025_Info_on_SEd_for_School_Website__Boon_Lay_Garden_Primary_School_.pdf)
 
-[](/files/30_jan_2024_Info_on_SEd_for_schs_website__Primary_Schools_.pdf)
+
 
 ### Information for Parents
 
