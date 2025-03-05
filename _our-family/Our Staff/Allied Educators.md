@@ -68,8 +68,7 @@ third_nav_title: Our Staff
 <p>Ms Amber Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_yin@schools.gov.sg</a>
-</p>
+<p>ng_lay_yin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -80,8 +79,7 @@ third_nav_title: Our Staff
 <p>Ms May Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_poh_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_hong_a@schools.gov.sg</a>
-</p>
+<p>ng_poh_hong_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
