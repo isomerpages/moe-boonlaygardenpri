@@ -312,20 +312,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Ying Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dental Therapist
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Adel Toh</p>
+<p>Ms Ahshikha Beggum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
