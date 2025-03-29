@@ -3,7 +3,7 @@ title: Home Based Learning (HBL)
 permalink: /home-based-learning-hbl/
 variant: tiptap
 description: ""
-third_nav_title: Active Blended Learning (ABL)
+third_nav_title: EdTech
 ---
 <h2>Home based Learning (HBL)</h2>
 <p></p>

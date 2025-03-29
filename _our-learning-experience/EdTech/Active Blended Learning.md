@@ -2,7 +2,7 @@
 title: Active Blended Learning
 permalink: /our-learning-experiences/active-blended-learning/
 description: ""
-third_nav_title: Active Blended Learning (ABL)
+third_nav_title: EdTech
 ---
 ### Our Goals
 

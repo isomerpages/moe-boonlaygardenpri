@@ -3,7 +3,7 @@ title: Home Based Learning Guides
 permalink: /home-based-learning-guides/
 variant: tiptap
 description: ""
-third_nav_title: Active Blended Learning (ABL)
+third_nav_title: EdTech
 ---
 <p>Dear students and parents, here are some guides and links that will be
 useful for you as you learn from home.</p>

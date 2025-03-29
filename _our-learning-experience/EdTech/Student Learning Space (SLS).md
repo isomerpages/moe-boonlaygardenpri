@@ -3,7 +3,7 @@ title: Student Learning Space (SLS)
 permalink: /student-learning-space-sls/
 variant: tiptap
 description: ""
-third_nav_title: Active Blended Learning (ABL)
+third_nav_title: EdTech
 ---
 <h2>SLS Introduction</h2>
 <p></p>
