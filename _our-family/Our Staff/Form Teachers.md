@@ -147,7 +147,7 @@ variant: markdown
   </tr>
   <tr>
 		 <td class="tg-0lax">3 Harmony</td>
-    <td class="tg-cly1">Mrs Brenda Choon<br>Ms Cindy Chua Tsin Li<br></td>
+    <td class="tg-cly1">Mrs Brenda Choon<br>Mr Zachary Wong<br></td>
     <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg<br>cindy_chua_tsin_li@schools.gov.sg<br></td>
   </tr>
   <tr>
