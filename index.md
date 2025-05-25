@@ -20,13 +20,14 @@ sections:
           url: https://www.facebook.com/BoonlaygardenPS
       variant: center
   - infopic:
-      title: Nurturing Future-Ready T(H)inkers through Maker Education!
-      subtitle: Newsway 2024 issue 38
+      title: Discover. Grow. Excel. The CCA way!
+      subtitle: Newsway 2024 issue 39
       id: infopic
-      description: Explore our ALP program, "Nurturing Future-ready T(h)inkers,"
-        fostering creativity, critical thinking, and innovation.
+      description: Discover the vibrant world of our CCAs—where passion meets purpose
+        and students grow into confident, values-driven individuals who make a
+        positive impact.
       button: click here
       url: https://file.go.gov.sg/blgpsnewsway2024issue38.pdf
-      image: /images/newsway2024_last.png
+      image: /images/newsway39.png
       alt: Image alt text
 ---
