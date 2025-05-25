@@ -27,7 +27,7 @@ sections:
         and students grow into confident, values-driven individuals who make a
         positive impact.
       button: click here
-      url: https://file.go.gov.sg/blgpsnewsway2024issue38.pdf
+      url: https://go.gov.sg/4x6ja3
       image: /images/newsway39.png
       alt: Image alt text
 ---
