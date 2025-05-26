@@ -21,7 +21,7 @@ sections:
       variant: center
   - infopic:
       title: Discover. Grow. Excel. The CCA way!
-      subtitle: Newsway 2024 issue 39
+      subtitle: Newsway 2025 issue 39
       id: infopic
       description: Discover the vibrant world of our CCAs—where passion meets purpose
         and students grow into confident, values-driven individuals who make a
