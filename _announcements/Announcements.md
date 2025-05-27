@@ -16,6 +16,11 @@ variant: tiptap
 <p>7 Distinction and 3 Merit in Junior category, 7 Distinction and 2 Merit
 in Open Category</p>
 <p></p>
+<h4>NSG (National Schools Game)</h4>
+<p>1 x 4th Placing, 1 x 5th Placing for Wushu, 1 Gold, 3 Silver, 9 Bronze
+for Taekwondo, 3rd place in Senior Girls category for Bowling</p>
+<h4></h4>
+<p></p>
 <h4>Outstanding Results at International Bilingual Speech Conference</h4>
 <p>Congratulations to the students who represented our school at the 16th
 GoodTalk International Children &amp; Youth Bilingual Speech Conference
