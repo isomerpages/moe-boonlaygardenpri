@@ -17,8 +17,8 @@ variant: tiptap
 in Open Category</p>
 <p></p>
 <h4>NSG (National Schools Game)</h4>
-<p>1 x 4th Placing, 1 x 5th Placing for Wushu, 1 Gold, 3 Silver, 9 Bronze
-for Taekwondo, 3rd place in Senior Girls category for Bowling. 2nd in Long
+<p>1 x 4th Placing, 1 x 5th Placing for Wushu. 1 Gold, 3 Silver, 9 Bronze
+for Taekwondo. 3rd place in Senior Girls category for Bowling. 2nd in Long
 implement Throw, 7th in 80m Run for Senior 2 Girls Track &amp; Field, 5th
 in Long Implement Throw, 5th in Standing Long Jump, 5th in 80m run for
 Senior 2 Boys Track &amp; Field.</p>
