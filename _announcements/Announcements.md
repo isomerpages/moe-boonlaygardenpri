@@ -4,6 +4,18 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<h2>Proud Achievements</h2>
+<h4>Singapore Mathematical Kangaroo Contest (SMKC)</h4>
+<p>2 Honourable Mention, 2 Bronze</p>
+<h4>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</h4>
+<p>1 Gold, 1 Bronze</p>
+<h4>Singapore and Asian Schools Math Olympiad (SASMO)</h4>
+<p>2 Gold, 5 Silver, 14 Bronze, 6 Honourable Mention</p>
+<p></p>
+<h4>Raffles Mathematical Olympiad (RMO)</h4>
+<p>7 Distinction and 3 Merit in Junior category, 7 Distinction and 2 Merit
+in Open Category</p>
+<p></p>
 <h4>Outstanding Results at International Bilingual Speech Conference</h4>
 <p>Congratulations to the students who represented our school at the 16th
 GoodTalk International Children &amp; Youth Bilingual Speech Conference
