@@ -22,7 +22,11 @@ for Taekwondo. 3rd place in Senior Girls category for Bowling. 2nd in Long
 implement Throw, 7th in 80m Run for Senior 2 Girls Track &amp; Field, 5th
 in Long Implement Throw, 5th in Standing Long Jump, 5th in 80m run for
 Senior 2 Boys Track &amp; Field.</p>
-<h4></h4>
+<p></p>
+<h4>Raffles Scholarship</h4>
+<p>We are also delighted to share that one of our students has been awarded
+the prestigious Raffles Scholarship, a recognition of both academic excellence
+and outstanding character.</p>
 <p></p>
 <h4>Outstanding Results at International Bilingual Speech Conference</h4>
 <p>Congratulations to the students who represented our school at the 16th
