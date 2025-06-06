@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Service Provider | Information |
 | -------- | -------- |
-| School Bookshop | Eng Seng Book Store <br> 25 Bukit Batok Crescent #02-04 Singapore 658066 <br> Tel: 8757 7234  <br> Email: ask@engsengbook.com|
+| School Bookshop |The Continental Book Centre <br> 1013 Geylang East Ave 3 #02-154 S(389728) <br> Tel: 8896 9416 (Bookshop) / 6247 8482 (Main Office)  <br> Email: info@the-continental.com.sg|
 | School Uniform | KH Uniform Pte Ltd <br> Blk 115A Commonwealth Drive #02-28 S(149596) <br>Tel: 6479 6811 <br>Online store: http://www.khuniform.com<br>Email: sales@khuniform.com |
 |School Bus Operator | Beng Tat Transport Service <br> Contact Person: Sharon Chua <br> Contact Number: 9879 5348<br> Email: sharon@bengtatbus.com <br>![](/images/sch_bus.png)|
 |Big Heart Student Care <br> @ Boon Lay | HP: 9855 2562 <br> (11am to 7pm, Monday to Friday) |
