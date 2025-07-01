@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Proud Achievements</h2>
+<h4>Frank Cooper Sand Award</h4>
+<p>5 Chief Cub Scout Award</p>
 <h4>Singapore Mathematical Kangaroo Contest (SMKC)</h4>
 <p>2 Honourable Mention, 2 Bronze</p>
 <h4>Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS)</h4>
