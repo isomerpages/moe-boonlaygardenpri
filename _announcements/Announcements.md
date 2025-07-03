@@ -18,6 +18,13 @@ professional growth and community service can go hand in hand. The event
 fostered meaningful peer learning opportunities while strengthening our
 One-BLGPS spirit.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hap1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hap2.jpg">
+</div>
 <h2>Proud Achievements</h2>
 <h4>Frank Cooper Sand Award</h4>
 <p>5 Chief Cub Scout Award</p>
