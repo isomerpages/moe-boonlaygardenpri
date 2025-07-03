@@ -4,6 +4,27 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
+<p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
+Plates' Staff Culinary Connection event! Teachers and staff members donned
+their chef hats, transforming our canteen into a vibrant marketplace of
+culinary delights. Through this innovative fundraiser for the President's
+Challenge Heart Train 2025, our school community came together in a meaningful
+celebration of food, culture, and compassion.</p>
+<p>Beyond the delectable dishes served, this event showcased how educators
+can be powerful role models of compassionate contribution. By leveraging
+their unique strengths and cultural knowledge, our staff demonstrated that
+professional growth and community service can go hand in hand. The event
+fostered meaningful peer learning opportunities while strengthening our
+One-BLGPS spirit.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hap1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hap2.jpg">
+</div>
 <h2>Proud Achievements</h2>
 <h4>Frank Cooper Sand Award</h4>
 <p>5 Chief Cub Scout Award</p>
