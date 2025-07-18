@@ -26,6 +26,9 @@ One-BLGPS spirit.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hap2.jpg">
 </div>
 <h2>Proud Achievements</h2>
+<h4>Singapore Primary Science Olympiad (SPSO)</h4>
+<p>1 Bronze and 8 Merit</p>
+<p></p>
 <h4>Frank Cooper Sand Award</h4>
 <p>5 Chief Cub Scout Award</p>
 <h4>Singapore Mathematical Kangaroo Contest (SMKC)</h4>
