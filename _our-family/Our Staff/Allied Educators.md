@@ -79,8 +79,7 @@ third_nav_title: Our Staff
 <p>Ms Serene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:serene_ng_swee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_ng_swee_leng_a@schools.gov.sg</a>
-</p>
+<p>serene_ng_swee_leng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
