@@ -25,17 +25,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,6 +62,17 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>serene_ng_swee_leng_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Student Welfare Officer
 <br>
 </p>
@@ -99,17 +99,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms May Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_poh_hong_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,19 +106,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>chow_yvonne@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AED (T &amp; L)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norshila Abdul Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norshila_abdul_rahman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
