@@ -73,6 +73,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_ng_swee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_ng_swee_leng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Student Welfare Officer
 <br>
 </p>
