@@ -4,6 +4,18 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni2.jpg">
+</div>
+<p>Hi, BLGPS Alumni! Come celebrate Teachers’ Day with us on 4th September,
+12-1pm at the school hall! No matter which year you graduated, do come
+to show your appreciation to the teachers who made a difference in your
+life. RSVP at this link by 1 September: <a href="https://go.gov.sg/tdalumni2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tdalumni2025</a>
+</p>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
 Plates' Staff Culinary Connection event! Teachers and staff members donned
