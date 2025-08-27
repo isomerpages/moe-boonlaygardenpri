@@ -6,10 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alumni2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD.jpg">
 </div>
 <p>Hi, BLGPS Alumni! Come celebrate Teachers’ Day with us on 4th September,
 12-1pm at the school hall! No matter which year you graduated, do come
