@@ -2,6 +2,7 @@
 title: Useful Information
 permalink: /our-parents-hub/useful-information/
 description: ""
+variant: markdown
 ---
 ### School Contact Details
 
@@ -14,13 +15,7 @@ description: ""
 | General Office | 6316 0998 |
 | School Fax | 6316 0209 |
 
-### School Operating Hours
 
-
-| Day | Main Entrance | General Office |
-| -------- | -------- | -------- |
-| Monday to Friday | 6am to 7pm | 7.30am to 5.30pm |
-| School Holiday | 6.30am to 7pm | 7.30am to 5pm |
 
 ### Visit to the School
 
