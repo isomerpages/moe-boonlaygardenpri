@@ -27,5 +27,3 @@ Mdm Shu Xiao Mei (Co I/C)<br>
 Ms Karen Tan <br>
 Mrs Leong Hwee Peng <br>
 Ms Jamaliah<br>
-Ms Atikah
-
