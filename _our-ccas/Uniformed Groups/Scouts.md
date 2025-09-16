@@ -23,6 +23,5 @@ In weekly sessions, students are taught basic scouting skills and they mark achi
 
 Mr Steven Pua (I/C)<br>
  Mrs Anne Marie (Co I/C)<br>
-Ms Ainah Saaban <br>
 Mdm Norlaily <br>
 Ms Yeo Lay Peng <br>
