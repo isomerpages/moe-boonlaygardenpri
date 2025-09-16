@@ -366,11 +366,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rachel Por-Tham Chin Xin
-<br>Ms Ainah Saaban</p>
+<br>Mdm Rajendran Rajeswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_chin_xin@schools.gov.sg
-<br>ainah_saaban@schools.gov.sg</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
