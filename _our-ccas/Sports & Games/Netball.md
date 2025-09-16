@@ -24,4 +24,3 @@ Mrs Ong Chiew Min (I/C) <br>
 Ms Lynnette Loh (co I/C) <br>
 Mrs Valerine Loh <br>
 Ms Nisa<br>
-Ms Cindy Chua
