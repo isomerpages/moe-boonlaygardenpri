@@ -4,8 +4,12 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
+<h2>2026 Primary 1</h2>
+<p>Information for 2026 P1 Parents</p>
+<p><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
+</p>
+<p><a href="/files/Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
+</p>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
 Plates' Staff Culinary Connection event! Teachers and staff members donned
