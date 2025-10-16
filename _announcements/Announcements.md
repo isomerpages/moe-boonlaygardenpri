@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>2026 Primary 1</h2>
-<p><a href="" rel="noopener nofollow" target="_blank">Uniform Price List</a>
+<p><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
 </p>
-<p><a href="" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
+<p><a href="/files/Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
 </p>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
