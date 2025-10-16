@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>2026 Primary 1</h2>
+<p>Information for 2026 P1 Parents</p>
 <p><a href="/files/Uniform_Price_List.pdf" rel="noopener nofollow" target="_blank">Uniform Price List</a>
 </p>
 <p><a href="/files/Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
