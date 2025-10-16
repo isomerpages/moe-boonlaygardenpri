@@ -2,6 +2,7 @@ collections:
   our-parents-hub:
     output: true
     order:
+      - 2026 Primary 1.md
       - Useful Information.md
       - Parents' Resources/.keep
       - Parents' Resources/Parents' Resources.md
