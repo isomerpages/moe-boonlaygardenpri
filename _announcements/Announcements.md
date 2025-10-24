@@ -5,9 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Information for 2026 P1 Parents</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xfw5lck7ytw"></iframe>
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Xfw5lck7ytw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_orientation.png"></a>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
 Plates' Staff Culinary Connection event! Teachers and staff members donned
