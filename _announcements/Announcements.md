@@ -4,6 +4,10 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<h2>P1 Orientation Video</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xfw5lck7ytw?si=hzWOx91uPpnLR1xo"></iframe>
+</div>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
 Plates' Staff Culinary Connection event! Teachers and staff members donned
