@@ -1,5 +1,5 @@
 ---
-title: Book lists & Uniform
+title: Book Lists & Uniform
 permalink: /our-parents-hub/book-lists-n-uniform/
 description: ""
 variant: markdown
