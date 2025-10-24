@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Information for 2026 P1 Parents</h2>
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Xfw5lck7ytw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_orientation.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Xfw5lck7ytw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_3.png"></a>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
 <p>Our BLGPS staff exemplified the spirit of giving through the 'Hearts &amp;
 Plates' Staff Culinary Connection event! Teachers and staff members donned
@@ -70,4 +70,8 @@ awards including first prize (Gold), first prize (Silver), and first prize
 <h4>BLGPS is featured in the news for our High Ability Learners programmes. Follow our <a href="https://www.facebook.com/BoonlaygardenPS/" rel="noopener nofollow" target="_blank">Facebook</a> page for exciting details!</h4>
 <h4></h4>
 <h4></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_3.png">
+</div>
 <p></p>
