@@ -71,7 +71,4 @@ awards including first prize (Gold), first prize (Silver), and first prize
 <h4></h4>
 <h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_3.png">
-</div>
 <p></p>
