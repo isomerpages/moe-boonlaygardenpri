@@ -2,274 +2,513 @@
 title: Our Key Personnel
 permalink: /our-family/our-key-personnel/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0lax">Principal</td>
-    <td class="tg-cly1">Mrs Christine Low</td>
-    <td class="tg-cly1">christine_lim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Vice Principal</td>
-    <td class="tg-cly1">Mdm Ng Boon In</td>
-    <td class="tg-cly1">ng_boon_in@schools.gov.sg</td>
-  </tr>
-  <tr>
-  <td class="tg-0lax">Vice Principal</td>
-    <td class="tg-cly1">Mrs Avinash Murugesuvari</td>
-    <td class="tg-cly1">murugesuvari_vasu_g@schools.gov.sg</td>
-  </tr>
-  <tr>
-</tr></tbody>
-</table>
-
-### Heads of Department and Year Heads
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;font-style:inherit;color:#666;background-color:#DDD">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-  </tr><tr>
-    <td class="tg-0lax">HOD English Language</td>
-    <td class="tg-cly1">Mr Nicholas Cai</td>
-    <td class="tg-cly1">cai_jinghao@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Mathematics</td>
-    <td class="tg-cly1">Mr Jonathan Lim</td>
-    <td class="tg-cly1">jonathan_lim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Science</td>
-    <td class="tg-cly1">Mdm Raihanah</td>
-    <td class="tg-cly1">raihanah_mohamed_yusop@schools.gov.sg</td>
-  </tr>
-  <tr>
-		<td class="tg-0lax">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Mrs Adela Tandar</td>
-    <td class="tg-cly1">adela_tandar@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Information Communications Technology</td>
-    <td class="tg-cly1">Mr Ng Ee Noch</td>
-    <td class="tg-cly1">ng_ee_noch@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Learning Needs</td>
-    <td class="tg-cly1">Mrs Annabelle Woo</td>
-    <td class="tg-cly1">annabelle_tay@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Curriculum &amp; Innovation </td>
-    <td class="tg-cly1">Mrs Sherrie Chang</td>
-    <td class="tg-cly1">sherrie_tan@schools.gov.sg</td>
-		</tr>
-  <tr>
-    <td class="tg-0lax">HOD Special Educational Needs</td>
-    <td class="tg-cly1">Mdm Nurashlyn</td>
-    <td class="tg-cly1">nurashlyn_abdul_rashid@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HOD Student Management</td>
-    <td class="tg-cly1">Mr Mohamed Sahren</td>
-    <td class="tg-cly1">mohamed_sahren_mohd_salleh@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Year Head Lower Block</td>
-    <td class="tg-cly1">Mrs Jasmine Ng</td>
-    <td class="tg-cly1">jasmine_susie_tan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Year Head Middle Block</td>
-    <td class="tg-cly1">Ms Chan Shi Ya Grace</td>
-    <td class="tg-cly1">grace_chan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Year Head Upper Block</td>
-    <td class="tg-cly1">Mr Peter Yeo</td>
-    <td class="tg-cly1">yeo_yong_heng_peter@schools.gov.sg</td>
-  </tr>
-	 <tr><td class="tg-0lax">School Staff Developer</td>
-    <td class="tg-cly1">Mr Jack Liew </td>
-    <td class="tg-cly1">liew_wei_sheng@schools.gov.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Personnel</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Christine Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>christine_lim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Boon In</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_boon_in@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Avinash Murugesuvari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>murugesuvari_vasu_g@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Level Heads, Subject Heads and Assistant Year Heads
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span><br></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span><br></th>
-  </tr>
-</thead>
+<h3>Heads of Department and Year Heads</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0lax">LH Mathematics</td>
-    <td class="tg-cly1">Mdm Brenda Zhou</td>
-    <td class="tg-cly1">zhou_huifang_brenda@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Information Communications Technology</td>
-    <td class="tg-cly1">Mrs Liu Ying Hui</td>
-    <td class="tg-cly1">tan_ying_hui@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Talent Development &amp;<span style="font-style:inherit;background-color:initial"> Education Career Guidance</span></td>
-    <td class="tg-cly1">Mrs Serena Ong</td>
-    <td class="tg-cly1">tan_jia_yi_serena@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Environment Education</td>
-    <td class="tg-cly1">Mr Shaun Lim</td>
-    <td class="tg-cly1">lim_jek_ming_shaun@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH National Education &amp; Social Studies</td>
-    <td class="tg-cly1">Ms. Peggy Lee	</td>
-    <td class="tg-cly1">peggy_lee@schools.gov.sg</td>
-  </tr>
-  <tr>
-		<td class="tg-0lax">SH Character &amp; Citizenship Education</td>
-    <td class="tg-cly1">Ms Loo Hui Wen</td>
-    <td class="tg-cly1">loo_hui_wen@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Student Well Being</td>
-    <td class="tg-cly1">Mrs Alfie - Nurul</td>
-    <td class="tg-cly1">nurul_shalwa_rohim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Data &amp; Knowledge Management</td>
-    <td class="tg-cly1">Mr Kho Murphy</td>
-    <td class="tg-cly1">kho_chaw_seng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">SH Partnership &amp; Publicity</td>
-    <td class="tg-cly1">Ms Lydia Lam</td>
-    <td class="tg-cly1">lam_lydia@schools.gov.sg</td>
-		</tr>
-  <tr>
-    <td class="tg-0lax">SH Mother Tongue Languages</td>
-    <td class="tg-cly1">Mdm Puteri </td>
-    <td class="tg-cly1">puteri_noratika_raja_ismail@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Assistant Year Head Upper Block</td>
-    <td class="tg-cly1">Mrs Hor- Nicole Yeap</td>
-    <td class="tg-cly1">yeap_lee_ching@schools.gov.sg</td>
-		</tr>
-  <tr>
-    <td class="tg-0lax">Assistant Year Head Middle Block</td>
-    <td class="tg-cly1">Ms Ainah Saaban</td>
-    <td class="tg-cly1">ainah_saaban@schools.gov.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Personnel</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Cai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cai_jinghao@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jonathan_lim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihanah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>raihanah_mohamed_yusop@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Adela Tandar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>adela_tandar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Information Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Ee Noch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_ee_noch@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Learning Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Annabelle Woo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>annabelle_tay@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Curriculum &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sherrie Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sherrie_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurashlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurashlyn_abdul_rashid@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Sahren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohamed_sahren_mohd_salleh@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head Lower Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jasmine_susie_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head Middle Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Shi Ya Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>grace_chan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head Upper Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_yong_heng_peter@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jack Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liew_wei_sheng@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Teacher Leaders
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0kax{color:#484848;text-align:left;vertical-align:middle}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-x4dz{color:#484848;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Personnel</span></th>
-    <th class="tg-e14l"><span style="font-weight:bold;color:#666;background-color:#DDD">Email</span></th>
-  </tr>
-</thead>
+<h3>Level Heads, Subject Heads and Assistant Year Heads</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span><br>(Educational Support)</td>
-    <td class="tg-0kax">Mrs Mathilda Wong</td>
-    <td class="tg-0kax">ross_mathilda@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz"><span style="font-style:inherit;background-color:initial">ST Learning Needs</span><br>(Educational Support)</td>
-    <td class="tg-0kax">Mrs Leong Hwee Peng</td>
-    <td class="tg-0kax">tan_hwee_peng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz">ST Learning Needs<br>(High Ability Learners)</td>
-    <td class="tg-0kax">Ms Grace Phang</td>
-    <td class="tg-0kax">phang_xiu_zhen_grace@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz">ST Mathematics</td>
-    <td class="tg-0kax">Ms Karen Tan</td>
-    <td class="tg-0kax">karen_Ln_tan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz">ST Tamil Language</td>
-    <td class="tg-0kax">Mrs Maha-Ganesan Mahalatchimi</td>
-    <td class="tg-x4dz">ganesan_mahalatchimi@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz">ST Malay Language</td>
-    <td class="tg-0kax">Mdm Siti Nur Baeyah</td>
-    <td class="tg-0kax">siti_nur_baeyah_karim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-x4dz">ST PE &amp; PAL</td>
-    <td class="tg-0kax">Mr Roslan Abu</td>
-    <td class="tg-0kax">roslan_b_abu@schools.gov.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Personnel</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Brenda Zhou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhou_huifang_brenda@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Information Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Liu Ying Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ying_hui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Talent Development &amp; Education Career Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Serena Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_jia_yi_serena@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Environment Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shaun Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jek_ming_shaun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH National Education &amp; Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Peggy Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peggy_lee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Hui Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loo_hui_wen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Well Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alfie - Nurul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_shalwa_rohim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Data &amp; Knowledge Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kho Murphy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kho_chaw_seng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Partnership &amp; Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lydia Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lam_lydia@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Puteri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>puteri_noratika_raja_ismail@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head Upper Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hor- Nicole Yeap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeap_lee_ching@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head Middle Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ainah Saaban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ainah_saaban@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h3>Teacher Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Personnel</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Learning Needs
+<br>(Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mathilda Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ross_mathilda@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Learning Needs
+<br>(Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Leong Hwee Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_hwee_peng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Learning Needs
+<br>(High Ability Learners)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Phang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phang_xiu_zhen_grace@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>karen_Ln_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Maha-Ganesan Mahalatchimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ganesan_mahalatchimi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nur Baeyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_baeyah_karim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST PE &amp; PAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roslan Abu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>roslan_b_abu@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
