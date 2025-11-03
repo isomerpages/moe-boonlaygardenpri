@@ -24,7 +24,7 @@ sections:
       subtitle: Newsway 2025 issue 40
       id: infopic
       description: Discover how our learning dispositions shape confident,
-        future-ready learners in this latest issue
+        future-ready learners in this latest issue.
       button: click here
       url: https://go.gov.sg/newswayissue40
       image: /images/newsway_2025.png
