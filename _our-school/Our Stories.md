@@ -13,8 +13,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 ### BLGPS Newsway 2025 Issue #40
 
 This issue explores how the learning dispositions of motivation, self-directedness, resilience and connectedness shape confident, future-ready learners. 
-
-Read how our teachers, students and parents work hand in hand to nurture these mindsets, helping every BLGian strive and thrive in the Future of Learning!
+ Read how our teachers, students and parents work hand in hand to nurture these mindsets, helping every BLGian strive and thrive in the Future of Learning!
 
 
 
