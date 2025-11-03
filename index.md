@@ -20,14 +20,14 @@ sections:
           url: https://www.facebook.com/BoonlaygardenPS
       variant: center
   - infopic:
-      title: Discover. Grow. Excel. The CCA way!
-      subtitle: Newsway 2025 issue 39
+      title: Growing Confident Learners Together!
+      subtitle: Newsway 2025 issue 40
       id: infopic
-      description: Discover the vibrant world of our CCAs—where passion meets purpose
-        and students grow into confident, values-driven individuals who make a
-        positive impact.
+      description: This issue explores how the learning dispositions of motivation,
+        self-directedness, resilience and connectedness shape confident,
+        future-ready learners.
       button: click here
-      url: https://go.gov.sg/4x6ja3
-      image: /images/newsway39.png
+      url: https://go.gov.sg/newswayissue40
+      image: /images/newsway_2025.png
       alt: Image alt text
 ---
