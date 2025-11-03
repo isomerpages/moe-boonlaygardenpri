@@ -15,7 +15,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 This issue explores how the learning dispositions of motivation, self-directedness, resilience and connectedness shape confident, future-ready learners. 
  Read how our teachers, students and parents work hand in hand to nurture these mindsets, helping every BLGian strive and thrive in the Future of Learning!
 
-<p><a href="https://go.gov.sg/4x6ja3">
+<p><a href="https://online.fliphtml5.com/dgjor/wyhu/#p=1">
 <img src="/images/newsway_2025.png" style="width:55%">
 </a></p>
 
