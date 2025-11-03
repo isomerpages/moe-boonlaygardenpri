@@ -23,9 +23,9 @@ sections:
       title: Growing Confident Learners Together!
       subtitle: Newsway 2025 issue 40
       id: infopic
-      description: This issue explores how the learning dispositions of motivation,
-        self-directedness, resilience and connectedness shape confident,
-        future-ready learners.
+      description: Discover how our learning dispositions shape confident,
+        future-ready learners. See how teachers and parents  nurture these
+        mindsets to help BLGian thrive!
       button: click here
       url: https://go.gov.sg/newswayissue40
       image: /images/newsway_2025.png
