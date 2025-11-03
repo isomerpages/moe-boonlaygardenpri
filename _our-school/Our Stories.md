@@ -8,7 +8,18 @@ variant: markdown
 Read about our schools exciting and vibrant learning experiences in these issues of our school newsletter.
 
 
+
 ## <center><b>2025</b></center>
+### BLGPS Newsway 2025 Issue #40
+
+This issue explores how the learning dispositions of motivation, self-directedness, resilience and connectedness shape confident, future-ready learners. 
+ Read how our teachers, students and parents work hand in hand to nurture these mindsets, helping every BLGian strive and thrive in the Future of Learning!
+
+<p><a href="https://online.fliphtml5.com/dgjor/wyhu/#p=1">
+<img src="/images/newsway_2025.png" style="width:55%">
+</a></p>
+
+
 
 ### BLGPS Newsway 2025 Issue #39
 This edition of Newsway showcases the vibrancy of our CCAs, highlighting our Primary 3 students' journey in selecting their first CCA and their subsequent growth into accomplished individuals. Beyond achievements and accolades, our students develop essential 21st Century Competencies and strong character grounded in values, while using their talents to give back to the community. We invite you to read and imagine the endless possibilities that we can create where our students continue to thrive in during CCA sessions!
