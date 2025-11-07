@@ -66,7 +66,7 @@ variant: tiptap
 <p>Mr Dennis Oh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>oh_chin_chye_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
