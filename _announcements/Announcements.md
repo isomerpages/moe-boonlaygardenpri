@@ -26,6 +26,14 @@ Deadline: 9 January 2026, 12.00 pm</p>
 growth and development every day.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <h2>Information for 2026 P1 Parents</h2>
