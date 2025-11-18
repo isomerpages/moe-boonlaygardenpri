@@ -4,6 +4,31 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h2>Gratitude in Action: Celebrating Our Teachers</h2>
+<p>At Boon Lay Garden Primary School, gratitude is at the heart of our community.
+As we continue our #BLGratitude journey, we invite our school family to
+nominate deserving teachers for two prestigious national awards.</p>
+<p><strong>Why Nominate? </strong>Gratitude strengthens our sense of community
+and belonging. When we recognise our teachers' dedication, we model appreciation
+and build a culture of care that benefits everyone.</p>
+<p><strong>President's Award for Teachers (PAT) 2026</strong> Honours experienced
+educators who inspire through innovative teaching, mentorship, and professional
+excellence.</p>
+<p><strong>Outstanding Youth in Education Award (OYEA) 2026</strong> Celebrates
+young teachers (35 &amp; below) who bring energy, enthusiasm, and fresh
+perspectives to education.</p>
+<p><strong>How to Nominate: </strong>
+</p>
+<p>Visit <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a> (PAT)
+or <a href="https://go.gov.sg/oyea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a> (OYEA)
+Deadline: 9 January 2026, 12.00 pm</p>
+<p>Join us in expressing gratitude for the teachers who nurture our students'
+growth and development every day.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h2>Information for 2026 P1 Parents</h2>
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Xfw5lck7ytw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_final.jpg"></a>
 <h2>"Hearts and Plates: A Delicious Success for a Good Cause!"</h2>
