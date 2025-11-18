@@ -4,7 +4,6 @@ permalink: /announcements/announcements/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h2>Gratitude in Action: Celebrating Our Teachers</h2>
 <p>At Boon Lay Garden Primary School, gratitude is at the heart of our community.
 As we continue our #BLGratitude journey, we invite our school family to
@@ -18,7 +17,7 @@ excellence.</p>
 <p><strong>Outstanding Youth in Education Award (OYEA) 2026</strong> Celebrates
 young teachers (35 &amp; below) who bring energy, enthusiasm, and fresh
 perspectives to education.</p>
-<p><strong>How to Nominate: </strong>
+<p><strong>How to Nominate:</strong>
 </p>
 <p>Visit <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a> (PAT)
 or <a href="https://go.gov.sg/oyea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a> (OYEA)
