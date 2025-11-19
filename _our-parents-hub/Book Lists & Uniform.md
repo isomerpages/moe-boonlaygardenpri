@@ -14,3 +14,8 @@ Please click on the links to access the respective book lists 2025 and informati
 * [Primary 5](/files/P5_Booklist.pdf)
 * [Primary 6](/files/P6_Booklist.pdf)
 * [Uniform Price List](/files/Uniform_Price_List.pdf)
+* [Primary 1](/files/Booklist_2026_Primary_1.pdf)
+* [Primary 2](/files/Boon_Lay_Garden_Booklist_2026_Primary_2.pdf)
+* [Primary 3](/files/Boon_Lay_Garden_Booklist_2026_Primary_3.pdf)
+* [Primary 4](/files/Boon_Lay_Garden_Booklist_2026_Primary_4.pdf)
+
