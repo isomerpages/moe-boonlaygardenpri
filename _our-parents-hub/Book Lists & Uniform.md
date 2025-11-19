@@ -38,6 +38,7 @@ information for uniform sales.</p>
 <li>
 <p><a href="/files/Uniform_Price_List__P2_to_P6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Price List for P2 to P6</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
