@@ -2,7 +2,6 @@ collections:
   our-parents-hub:
     output: true
     order:
-      - School Canteen Stall Advert.md
       - Useful Information.md
       - Parents' Resources/.keep
       - Parents' Resources/Parents' Resources.md
@@ -10,4 +9,5 @@ collections:
       - Book Lists & Uniform.md
       - Big Heart Student Care.md
       - Service Providers.md
+      - School Canteen Stall Advert.md
       - MIMS Account.md
