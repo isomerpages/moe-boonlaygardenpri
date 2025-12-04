@@ -69,6 +69,8 @@ stop in front of Blk 206 (school located opposite Jurong Church of Christ)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/canteen_3.png">
 </div>
+<p><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">Link </a>for
+“Healthy Meals in Schools Programme (HMSP)” guidelines</p>
 <p><strong>Note to successful applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
