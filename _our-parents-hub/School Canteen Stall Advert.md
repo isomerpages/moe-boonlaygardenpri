@@ -17,8 +17,7 @@ description: ""
 of the Application Form from the School’s General Office.</p>
 </li>
 </ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual
-stallholder</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
