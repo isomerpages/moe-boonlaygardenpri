@@ -13,9 +13,8 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click on the link below).
-You may also request for a hardcopy of the Application Form from the School’s
-General Office.</p>
+<p>Download and complete the Application Form (click <a href="/files/FormBF7.pdf" rel="noopener nofollow" target="_blank">here). </a>You may also request for a hardcopy
+of the Application Form from the School’s General Office.</p>
 </li>
 </ol>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual
