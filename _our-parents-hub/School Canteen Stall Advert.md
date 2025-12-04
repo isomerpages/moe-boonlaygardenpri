@@ -64,3 +64,25 @@ School’s General Office by the closing date.</p>
 located opposite Jurong Church of Christ)</p>
 <p>*240 &amp; 246 (from Lakeside MRT - do not cross) - alight at 2nd bus
 stop in front of Blk 206 (school located opposite Jurong Church of Christ)</p>
+<p></p>
+<p><strong>Interested applicants must meet the following criteria:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/canteen_3.png">
+</div>
+<p><strong>Note to successful applicants:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) operating the stall must attend
+and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore
+approved training providers.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA) to operate the stall.</p>
+</li>
+</ul>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+</p>
