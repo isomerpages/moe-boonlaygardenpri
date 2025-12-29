@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h3>Primary 1</h3>
+<h3>Primary 2</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,11 +46,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Liyana Bte Mohd.Zulkiflee
-<br>Mdm Pok Yam Lee</p>
+<br>Mdm Thania</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_liyana_mohammad_zulkiflee@schools.gov.sg
-<br>pok_yam_lee@schools.gov.sg</p>
+<p>nur_liyana_mohammad_zulkiflee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
