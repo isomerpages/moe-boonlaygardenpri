@@ -87,10 +87,14 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Iris Ng Peng Peng</p>
+<p>Mr Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_peng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_peng_peng@schools.gov.sg</a>
+</p>
+<p><a href="mailto:roslan_b_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslan_b_abu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
