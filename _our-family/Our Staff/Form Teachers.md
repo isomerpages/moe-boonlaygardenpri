@@ -583,10 +583,14 @@ variant: tiptap
 <p>5 Harmony B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lum- Ng Shui Farn</p>
+<p>Mr Tang Chee Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_shui_farn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shui_farn@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tang_chee_weng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_chee_weng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
