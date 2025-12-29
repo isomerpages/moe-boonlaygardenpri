@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility</p>
+<p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jaliza
