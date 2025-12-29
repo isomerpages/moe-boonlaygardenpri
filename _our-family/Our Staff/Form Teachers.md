@@ -54,10 +54,14 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lye Cheng Wai, Lilian</p>
+<p>Mdm Norlaily Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lye_cheng_wai_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_cheng_wai_lilian@schools.gov.sg</a>
+</p>
+<p><a href="mailto:norlaily_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norlaily_ahmad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
