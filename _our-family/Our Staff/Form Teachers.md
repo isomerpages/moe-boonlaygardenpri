@@ -331,7 +331,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Care</p>
+<p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edmund Choi Kin Mun
@@ -345,7 +345,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Harmony</p>
+<p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Brenda Choon
@@ -362,7 +362,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tong Jin Sui
@@ -375,7 +375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience A</p>
+<p>4 Resilience A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kho Murphy
@@ -392,7 +392,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience B</p>
+<p>4 Resilience B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celine Wong Sze Ling
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Respect</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kuay Chau Ann
@@ -420,7 +420,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility</p>
+<p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rachel Por-Tham Chin Xin
