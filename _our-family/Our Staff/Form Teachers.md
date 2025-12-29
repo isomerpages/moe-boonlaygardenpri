@@ -399,7 +399,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_sze_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sze_ling@schools.gov.sg</a> 
-<br>
 </p>
 <p><a href="mailto:irdawati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irdawati_ahmad@schools.gov.sg</a>
 </p>
