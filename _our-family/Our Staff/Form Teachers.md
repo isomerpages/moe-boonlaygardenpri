@@ -93,10 +93,19 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <h3>Primary 2</h3>
 <table style="minWidth: 75px">
