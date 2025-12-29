@@ -317,10 +317,14 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Valerine Loh-Chen Aizhen</p>
+<p>Mdm Varadhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_aizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_aizhen@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Varadhan_Maheshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Varadhan_Maheshwari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
