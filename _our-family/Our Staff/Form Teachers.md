@@ -90,15 +90,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shu Xiao Mei
+<p>Mdm Wong Shu Lee
 <br>Mrs Khan-Nur Zakiah Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shu_xiaomei@schools.gov.sg
-<br>nur_zakiah_ahmad@schools.gov.sg</p>
+<p><a href="mailto:wong_shu_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shu_lee@schools.gov.sg</a> 
+<br><a href="mailto:nur_zakiah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zakiah_ahmad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
