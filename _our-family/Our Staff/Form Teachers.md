@@ -183,7 +183,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Primary 2</h3>
+<h3>Primary 3</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -571,7 +571,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Primary 5</h3>
+<h3>Primary 6</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -595,7 +595,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Care</p>
+<p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Toh Hui Lin
