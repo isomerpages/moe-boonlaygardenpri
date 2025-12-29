@@ -642,7 +642,7 @@ variant: tiptap
 <br>Mdm Shirley Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>michelle_chow_wai_yee@schools.gov.sg
+<p><a href="mailto:michelle_chow_wai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_chow_wai_yee@schools.gov.sg</a> 
 <br><a href="mailto:teng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shirley@schools.gov.sg</a>
 </p>
 </td>
