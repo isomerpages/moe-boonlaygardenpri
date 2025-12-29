@@ -679,7 +679,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Responsibility</p>
+<p>6 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Anne Marie De Souza
