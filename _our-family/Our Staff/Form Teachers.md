@@ -550,7 +550,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Care</p>
+<p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurin
@@ -563,7 +563,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Harmony</p>
+<p>5 Harmony A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abel Goh Wen Hung
@@ -576,7 +576,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity A</p>
+<p>5 Harmony B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Lay Peng
@@ -589,7 +589,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity B</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lum- Ng Shui Farn</p>
@@ -601,7 +601,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Resilience</p>
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Khairiahtulnisa
@@ -614,7 +614,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Respect</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vesha
@@ -629,7 +629,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Responsibility</p>
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Chan Shihui
