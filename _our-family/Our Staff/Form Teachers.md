@@ -683,11 +683,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Anne Marie De Souza
-<br>Mr Edmund Choi Kin Mun</p>
+<br>Mrs Hor- Nicole Yeap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anne_marie_rajendra@schools.gov.sg
-<br>choi_kin_mun@schools.gov.sg</p>
+<p><a href="mailto:anne_marie_rajendra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_marie_rajendra@schools.gov.sg</a> 
+<br><a href="mailto:yeap_lee_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_lee_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
