@@ -73,19 +73,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yan Yee Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yan_yee_mun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Counsellor
 <br>
 </p>
