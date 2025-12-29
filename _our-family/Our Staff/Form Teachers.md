@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ong - Lye Chiew Min
@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony</p>
+<p>2 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Liyana Bte Mohd.Zulkiflee
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Audrey Yap Wenyun
@@ -67,8 +67,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_wenyun@schools.gov.sg
-<br>jamaliah_Jamal_A@schools.gov.sg
+<p><a href="mailto:yap_wenyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_wenyun@schools.gov.sg</a>
+</p>
+<p><a href="mailto:jamaliah_Jamal_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jamaliah_Jamal_A@schools.gov.sg</a> 
 <br>
 </p>
 </td>
