@@ -405,7 +405,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tang_chee_weng@schools.gov.sg</a>
-<a href="mailto:choi_kin_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">rita_salamoon@schools.gov.sg</a>
 </p>
 </td>
