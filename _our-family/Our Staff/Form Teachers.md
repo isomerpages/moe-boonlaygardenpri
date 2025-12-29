@@ -334,12 +334,13 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Weng
+<p>Mr Edmund Choi Kin Mun
 <br>Mdm Rita Salamoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_chee_weng@schools.gov.sg
-<br>rita_salamoon@schools.gov.sg</p>
+<p><a href="mailto:choi_kin_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_chee_weng@schools.gov.sg </a>
+<br><a href="mailto:rita_salamoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_salamoon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
