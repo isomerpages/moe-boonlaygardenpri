@@ -598,10 +598,14 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chua Jie Min</p>
+<p>Ms Lau Yi Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_jie_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jie_min@schools.gov.sg</a>
+</p>
+<p><a href="mailto:lau_yi_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yi_yuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
