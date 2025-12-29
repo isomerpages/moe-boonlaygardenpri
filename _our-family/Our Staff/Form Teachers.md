@@ -629,6 +629,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abel Goh Wen Hung</p>
+<p>Mdm Fan Xiayu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abel_goh_wen_hung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abel_goh_wen_hung@schools.gov.sg</a>
