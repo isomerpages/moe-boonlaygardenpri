@@ -422,13 +422,17 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Por-Tham Chin Xin
-<br>Mdm Rajendran Rajeswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tham_chin_xin@schools.gov.sg
+<p>Mrs Kee- Evelyn Poon</p>
+<p></p>
+<p>Mr Loh Wai Yong
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poon_ngee_keng_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poon_ngee_keng_evelyn@schools.gov.sg</a> 
+<br><a href="mailto:loh_wai_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wai_yong@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
