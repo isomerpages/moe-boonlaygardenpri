@@ -287,10 +287,14 @@ variant: tiptap
 <p>3 Care A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Pua Chia Siong, Steven</p>
+<p>Ms Yeo Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pua_chia_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pua_chia_siong@schools.gov.sg</a>
+</p>
+<p><a href="mailto:yeo_lay_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_lay_peng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
