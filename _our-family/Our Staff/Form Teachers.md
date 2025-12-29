@@ -76,15 +76,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Ariff Mohd Noor
+<p>Mdm Chow Yuh Lan, Stacy
 <br>Ms Nerrisa Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_ariff_mohd_noor@schools.gov.sg
-<br>tiong_wei_wen_nerissa@schools.gov.sg</p>
+<p><a href="mailto:chow_yuh_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yuh_lan@schools.gov.sg</a> 
+<br><a href="mailto:tiong_wei_wen_nerissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_wei_wen_nerissa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
