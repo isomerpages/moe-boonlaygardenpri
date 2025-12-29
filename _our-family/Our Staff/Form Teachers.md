@@ -113,8 +113,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jaliza_jamaludin@schools.gov.sg
-<br>tan_yan_ting@schools.gov.sg
+<p><a href="mailto:jaliza_jamaludin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaliza_jamaludin@schools.gov.sg</a> 
+<br><a href="mailto:tan_yan_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ting@schools.gov.sg</a>
+</p>
+<p>
 <br>
 </p>
 </td>
