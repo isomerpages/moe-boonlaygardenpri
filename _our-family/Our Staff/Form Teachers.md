@@ -284,85 +284,62 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Care</p>
+<p>3 Care A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Shu Lee
-<br>Ms Chan Yien Qing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_shu_lee@schools.gov.sg
-<br>chan_yien_qing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Thong Fong Yang
-<br>Mdm Shuhada Baharum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thong_fong_yang@schools.gov.sg
-<br>shuhada_baharum@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lye Cheng Wai, Lilian
-<br>Mdm Norlaily Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lye_cheng_wai_lilian@schools.gov.sg
-<br>norlaily_ahmad@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Odelia,Cheong Qian Hui
-<br>Mr Loh Wai Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheong_qian_hui_odelia@schools.gov.sg
-<br>loh_wai_yong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chow Yuh Lan, Stacy
-<br>Ms Suhaila_Suleiman_Syed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chow_yuh_lan@schools.gov.sg
-<br>Suhaila_Suleiman_Syed@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Iris Ng Peng Peng
-<br>Mdm Maisarah Bte Kamal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_peng_peng@schools.gov.sg
-<br>maisarah_bte_kamal@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Care B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
