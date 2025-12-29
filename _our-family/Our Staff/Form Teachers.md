@@ -652,12 +652,14 @@ variant: tiptap
 <p>6 Resilience B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kee- Evelyn Poon
+<p>Mdm Nurashlyn
 <br>Ms Karen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poon_ngee_keng_evelyn@schools.gov.sg
-<br>karen_Ln_tan@schools.gov.sg</p>
+<p><a href="mailto:nurashlyn_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurashlyn_abdul_rashid@schools.gov.sg</a>
+<br><a href="mailto:karen_Ln_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_Ln_tan@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
