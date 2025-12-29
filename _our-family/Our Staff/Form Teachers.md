@@ -5,6 +5,55 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
+<h3>Primary 1</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h3>Primary 2</h3>
 <table style="minWidth: 75px">
 <colgroup>
