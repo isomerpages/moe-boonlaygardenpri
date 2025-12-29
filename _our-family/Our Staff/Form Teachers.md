@@ -302,9 +302,11 @@ variant: tiptap
 <p>3 Care B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Jek Ming, Shaun</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jek_ming_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jek_ming_shaun@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
