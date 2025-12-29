@@ -608,15 +608,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony</p>
+<p>6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lydia Lam
+<p>Mrs Serena Ong
 <br>Mdm Siti Nur Baeyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lam_lydia@schools.gov.sg
-<br>siti_nur_baeyah_karim@schools.gov.sg</p>
+<p><a href="mailto:tan_jia_yi_serena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jia_yi_serena@schools.gov.sg</a>
+<br><a href="mailto:siti_nur_baeyah_karim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_baeyah_karim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
