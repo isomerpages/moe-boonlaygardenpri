@@ -303,11 +303,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jek Ming, Shaun</p>
+<p>Ms Mae Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_jek_ming_shaun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jek_ming_shaun@schools.gov.sg</a>
 </p>
-<p></p>
+<p><a href="mailto:mae_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mae_yang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
