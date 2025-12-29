@@ -613,10 +613,14 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Odelia,Cheong Qian Hui</p>
+<p>Mr Ng Ee Noch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_qian_hui_odelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hui_odelia@schools.gov.sg</a>
+</p>
+<p><a href="mailto:ng_ee_noch@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_noch@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
