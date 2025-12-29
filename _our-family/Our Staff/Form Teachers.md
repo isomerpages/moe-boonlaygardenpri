@@ -438,6 +438,17 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Primary 4</h3>
@@ -689,6 +700,17 @@ variant: tiptap
 <p><a href="mailto:anne_marie_rajendra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_marie_rajendra@schools.gov.sg</a> 
 <br><a href="mailto:yeap_lee_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_lee_ching@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
