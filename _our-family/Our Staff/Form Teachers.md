@@ -649,7 +649,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Resilience B</p>
+<p>6 Resilience B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kee- Evelyn Poon
