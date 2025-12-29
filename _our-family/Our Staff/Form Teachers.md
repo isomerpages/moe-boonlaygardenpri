@@ -36,8 +36,9 @@ variant: tiptap
 <br>Miss Khoo Chun Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lye_chiew_min@schools.gov.sg
-<br>khoo_chun_mei@schools.gov.sg</p>
+<p><a href="mailto:lye_chiew_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_chiew_min@schools.gov.sg</a> 
+<br><a href="mailto:khoo_chun_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_chun_mei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +50,10 @@ variant: tiptap
 <br>Mdm Thania</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_liyana_mohammad_zulkiflee@schools.gov.sg</p>
+<p><a href="mailto:nur_liyana_mohammad_zulkiflee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_liyana_mohammad_zulkiflee@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Thanialetchumy_Ap_Marriappen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thanialetchumy_Ap_Marriappen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
