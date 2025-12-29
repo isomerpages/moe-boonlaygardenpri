@@ -368,8 +368,9 @@ variant: tiptap
 <br>Ms Steffi Marianna Rodrigues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tong_jin_sui@schools.gov.sg
-<br>steffi_marianna_rodrigues@schools.gov.sg</p>
+<p><a href="mailto:tong_jin_sui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_jin_sui@schools.gov.sg</a> 
+<br><a href="mailto:steffi_marianna_rodrigues@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">steffi_marianna_rodrigues@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -383,9 +384,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kho_chaw_seng@schools.gov.sg
-<br>murni_mohamed_sani@schools.gov.sg
-<br>
+<p><a href="mailto:kho_chaw_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kho_chaw_seng@schools.gov.sg</a> 
+<br><a href="mailto:murni_mohamed_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">murni_mohamed_sani@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -398,7 +398,7 @@ variant: tiptap
 <br>Mdm Irdawati Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_sze_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sze_ling@schools.gov.sg</a> 
+<p><a href="mailto:wong_sze_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sze_ling@schools.gov.sg</a>
 </p>
 <p><a href="mailto:irdawati_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irdawati_ahmad@schools.gov.sg</a>
 </p>
@@ -415,8 +415,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kuay_chau_ann_a@schools.gov.sg
-<br>nurul_shalwa_rohim@schools.gov.sg</p>
+<p><a href="mailto:kuay_chau_ann_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuay_chau_ann_a@schools.gov.sg</a> 
+<br><a href="mailto:nurul_shalwa_rohim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_shalwa_rohim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
