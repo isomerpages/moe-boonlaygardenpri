@@ -553,12 +553,14 @@ variant: tiptap
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurin
-<br>Mr Pua Chia Siong, Steven</p>
+<p>Mrs Leong Hwee Peng</p>
+<p>Mr Muhammad Ariff Mohd Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurin_sharina_shariff@schools.gov.sg
-<br>pua_chia_siong@schools.gov.sg</p>
+<p><a href="mailto:Tan_Hwee_Peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Hwee_Peng@schools.gov.sg</a>
+</p>
+<p><a href="mailto:muhammad_ariff_mohd_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ariff_mohd_noor@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -566,12 +568,14 @@ variant: tiptap
 <p>5 Harmony A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abel Goh Wen Hung
-<br>Mrs Liu Ying Hui</p>
+<p>Mrs Mathilda Wong</p>
+<p>Mr Shazwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>abel_goh_wen_hung@schools.gov.sg
-<br>tan_ying_hui@schools.gov.sg</p>
+<p><a href="mailto:ross_mathilda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ross_mathilda@schools.gov.sg</a>
+</p>
+<p><a href="mailto:muhd_shazwan_rafsanjani_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_shazwan_rafsanjani_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -579,12 +583,10 @@ variant: tiptap
 <p>5 Harmony B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Lay Peng
-<br>Mr Lim Jek Ming, Shaun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_lay_peng@schools.gov.sg
-<br>lim_jek_ming_shaun@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -592,11 +594,10 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lum- Ng Shui Farn</p>
-<p>Mdm Eugin Huslida Leo</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_shui_farn@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -604,12 +605,10 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khairiahtulnisa
-<br>Mrs Valerine Loh-Chen Aizhen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khairiahtulnisa_Abdul_Razak@schools.gov.sg
-<br>chen_aizhen@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -617,14 +616,10 @@ variant: tiptap
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vesha
-<br>Mr Leong Zhi Wei
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>p_veshallini@schools.gov.sg
-<br>leong_zhi_wei@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -632,16 +627,10 @@ variant: tiptap
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Chan Shihui
-<br>Ms Lin Meizhi
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>grace_chan_shihui@schools.gov.sg
-<br>lin_meizhi@schools.gov.sg
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
