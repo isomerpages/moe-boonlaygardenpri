@@ -349,13 +349,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Brenda Choon
-<br>Mr Zachary Wong Wai On
 <br>
-</p>
+<br>Mdm Vasuki</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zhou_huifang_brenda@schools.gov.sg
-<br>wong_wai_on_zachary@schools.gov.sg
+<br>
 <br>
 </p>
 </td>
