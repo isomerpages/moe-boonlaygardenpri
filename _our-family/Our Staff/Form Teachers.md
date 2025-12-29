@@ -602,8 +602,9 @@ variant: tiptap
 <br>Mrs Maha-Ganesan Mahalatchimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_hui_lin@schools.gov.sg
-<br>ganesan_mahalatchimi@schools.gov.sg</p>
+<p><a href="mailto:toh_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_hui_lin@schools.gov.sg</a> 
+<br><a href="mailto:ganesan_mahalatchimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_mahalatchimi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -629,8 +630,9 @@ variant: tiptap
 <br>Ms Peggy Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_nasser_ahmad_sha@schools.gov.sg
-<br>peggy_lee@schools.gov.sg</p>
+<p><a href="mailto:mohamed_nasser_ahmad_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_nasser_ahmad_sha@schools.gov.sg</a> 
+<br><a href="mailto:peggy_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peggy_lee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
