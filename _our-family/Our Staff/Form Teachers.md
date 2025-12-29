@@ -661,7 +661,6 @@ variant: tiptap
 <p><a href="mailto:nurashlyn_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurashlyn_abdul_rashid@schools.gov.sg</a>
 <br><a href="mailto:karen_Ln_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_Ln_tan@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
