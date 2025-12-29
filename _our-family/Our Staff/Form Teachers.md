@@ -635,15 +635,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Resilience A</p>
+<p>6 Resilience A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Michelle Chow Wai Yee
-<br>Mrs Hor- Nicole Yeap</p>
+<br>Mdm Shirley Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>michelle_chow_wai_yee@schools.gov.sg
-<br>yeap_lee_ching@schools.gov.sg</p>
+<br><a href="mailto:teng_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shirley@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
