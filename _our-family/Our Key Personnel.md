@@ -161,17 +161,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Learning Needs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Annabelle Woo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>annabelle_tay@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Curriculum &amp; Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,17 +348,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kho_chaw_seng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Partnership &amp; Publicity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lydia Lam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lam_lydia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
