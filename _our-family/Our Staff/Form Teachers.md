@@ -644,9 +644,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Fahmy- Norsela Sawal</p>
+<p>Mdm Puteri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsela_sawal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norsela_sawal@schools.gov.sg</a>
+</p>
+<p><a href="mailto:puteri_noratika_raja_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puteri_noratika_raja_ismail@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
