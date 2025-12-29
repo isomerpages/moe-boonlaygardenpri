@@ -394,12 +394,13 @@ variant: tiptap
 <p>4 Resilience B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celine Wong Sze Ling
-<br>Mdm Lynnette Loh Si Hui</p>
+<p>Mrs Soh- Celine Wong Sze Ling
+<br>Mdm Irdawati Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_sze_ling@schools.gov.sg
-<br>lynnette_loh_si_hui@schools.gov.sg</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
