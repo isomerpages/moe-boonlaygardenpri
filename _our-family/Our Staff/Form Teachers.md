@@ -76,10 +76,14 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurin</p>
+<p>Mr Thong Fong Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurin_sharina_shariff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurin_sharina_shariff@schools.gov.sg</a>
+</p>
+<p><a href="mailto:thong_fong_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_fong_yang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
