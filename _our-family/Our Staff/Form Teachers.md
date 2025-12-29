@@ -32,10 +32,14 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Meizhi</p>
+<p>Mdm Maisarah Bte Kamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_meizhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_meizhi@schools.gov.sg</a>
+</p>
+<p><a href="mailto:maisarah_bte_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_bte_kamal@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
