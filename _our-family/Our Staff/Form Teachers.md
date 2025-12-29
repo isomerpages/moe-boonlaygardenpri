@@ -43,10 +43,14 @@ variant: tiptap
 <p>1 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shuhada Baharum</p>
+<p>Ms Vesha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shuhada_baharum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shuhada_baharum@schools.gov.sg</a>
+</p>
+<p><a href="mailto:p_veshallini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">p_veshallini@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
