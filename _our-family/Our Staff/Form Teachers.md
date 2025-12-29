@@ -347,9 +347,14 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Leong Zhi Wei</p>
+<p>Mrs Liu Ying Hui</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:leong_zhi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_zhi_wei@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tan_ying_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ying_hui@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
