@@ -628,10 +628,13 @@ variant: tiptap
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Abel Goh Wen Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:abel_goh_wen_hung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abel_goh_wen_hung@schools.gov.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">fan_Xiayu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
