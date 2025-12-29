@@ -666,15 +666,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect</p>
+<p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Aashiq Anshad
-<br>Ms Yang Yu Qing</p>
+<br>Mrs Sherrie Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_aashiq_anshad@schools.gov.sg
-<br>yang_yuqing@schools.gov.sg</p>
+<p><a href="mailto:mohammad_aashiq_anshad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_aashiq_anshad@schools.gov.sg</a> 
+<br><a href="mailto:sherrie_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherrie_tan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
