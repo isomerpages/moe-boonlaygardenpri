@@ -333,9 +333,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ainah Saaban</p>
+<p>Mrs Rachel Por-Tham Chin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ainah_saaban@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ainah_saaban@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tham_chin_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_chin_xin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
