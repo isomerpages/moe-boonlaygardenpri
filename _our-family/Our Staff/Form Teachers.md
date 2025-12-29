@@ -622,7 +622,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Integrity</p>
+<p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nasser
