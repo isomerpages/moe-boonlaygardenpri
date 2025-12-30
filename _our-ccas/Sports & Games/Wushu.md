@@ -21,7 +21,7 @@ Through weekly training sessions, students develop aerobic and anaerobic enduran
 
 ### Teachers-In-Charge
 
-Mdm Pok Yam Lee (I/C)<br>
+Mrs Lum- Ng Shui Farn (I/C)<br>
 Mr Kuay Chau Ann  (Co I/C)<br>
 Mr Murphy Kho<br>
 Mrs Lum- Ng Shui Farn <br>
