@@ -25,4 +25,5 @@ The weekly trainings guide students to approach Track &amp; Field events as a ho
 Mr Nasser  (I/C) <br>
 Ms Steffi (Co I/C)<br>
 Ms Yang Yu Qing<br>
-Ms Peggy
+Ms Peggy <br>
+Mr Chui
