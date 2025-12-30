@@ -23,7 +23,7 @@ In weekly sessions, students also participate in community service and have oppo
 ### Teachers-In Charge
 
 Ms Lau Yi Yuan (I/C)<br>
-Mdm Shu Xiao Mei (Co I/C)<br>
+Ms Jamaliah(Co I/C)<br>
 Ms Karen Tan <br>
 Mrs Leong Hwee Peng <br>
-Ms Jamaliah<br>
+Ms Varad<br>
