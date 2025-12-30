@@ -20,4 +20,4 @@ To enhance students' learning, they take part in school and external performance
 
 Mdm P Veshallini (I/C) <br>
 Ms Thania(Co-I/C)<br>
-Mrs Maha
+Mrs Hor- Nicole Yeap
