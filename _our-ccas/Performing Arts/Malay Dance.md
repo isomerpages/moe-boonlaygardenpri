@@ -19,5 +19,5 @@ In weekly sessions, students are guided to appreciate the beauty of dance and to
 ### Teachers-In-Charge
 
 Mdm Liyana (I/C)<br>
-Mdm Siti Nur Baeyah<br>
+Mdm Siti Nur Baeyah  (Co-I/C)<br>
 Mrs Maha-Ganesan Mahalatchimi
