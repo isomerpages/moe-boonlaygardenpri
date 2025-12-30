@@ -23,7 +23,7 @@ the opportunity to showcase their diverse artistic talents.</p>
 <h3>Teachers-In-Charge</h3>
 <p>Mrs Rachel Por (I/C)</p>
 <p>Ms Tong Jin Sui (Co-I/C)</p>
-<p>Mrs Hor- Nicole Yeap
+<p>Mrs Serena Ong
 <br>
 </p>
 <p></p>
