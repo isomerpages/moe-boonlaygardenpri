@@ -23,5 +23,4 @@ In weekly practices, students are taught specific stretching exercises and dance
 
 Mrs Koh- Chua Jie Min ( I/C)<br>
 Ms Lye Cheng Wai, Lilian (Co-I/C) <br>
-Mrs Serena Ong <br>
-Ms Lin Mei Zhi 
+Ms Lin Mei Zhi
