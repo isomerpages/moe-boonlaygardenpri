@@ -23,7 +23,7 @@ To enhance students' learning, students participate in various competitions such
 ### Teachers-In-Charge
 
 Mr Jeff Thong (I/C)  <br>
-Ms Audrey Yap Wenyun (Co I/C)  <br>
+Mrs Evelyn Kee (Co I/C)  <br>
 Mrs Liu Ying Hui<br>
 Mdm Grace Chan<br>
 Mdm Grace Phang
