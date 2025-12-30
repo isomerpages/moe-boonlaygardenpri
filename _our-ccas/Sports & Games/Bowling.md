@@ -22,7 +22,7 @@ In weekly training, students are guided in techniques such as holding the ball, 
 ### Teachers-In-Charge
 
 Mr Abel (I/C) <br>
-Mr Abel  (Co- I/C) <br>
+Ms Shirley Teng (Co- I/C) <br>
 Mrs Khan-Nur Zakiah <br>
 Mrs Mathilda Wong  <br>
 Ms Shirley Teng
