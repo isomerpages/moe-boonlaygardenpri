@@ -24,4 +24,3 @@ Through weekly training sessions, students develop aerobic and anaerobic enduran
 Mrs Lum- Ng Shui Farn (I/C)<br>
 Mr Kuay Chau Ann  (Co I/C)<br>
 Mr Murphy Kho<br>
-Mrs Lum- Ng Shui Farn <br>
