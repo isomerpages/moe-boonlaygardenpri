@@ -128,6 +128,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Hui Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loo_hui_wen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
