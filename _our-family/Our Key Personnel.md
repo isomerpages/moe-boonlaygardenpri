@@ -150,6 +150,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mae Yang Yumei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mae_yang@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
