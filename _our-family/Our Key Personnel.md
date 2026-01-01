@@ -308,6 +308,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Chan Shihui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Information Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
