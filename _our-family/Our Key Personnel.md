@@ -314,7 +314,7 @@ variant: tiptap
 <p>Ms Grace Chan Shihui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>grace_chan_shihui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
