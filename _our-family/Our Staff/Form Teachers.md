@@ -360,6 +360,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="mailto:grace_chan_shihui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">grace_chan_shihui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
