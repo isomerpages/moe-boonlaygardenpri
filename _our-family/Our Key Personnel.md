@@ -233,7 +233,7 @@ variant: tiptap
 <p>Mr Peter Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>grace_chan@schools.gov.sg</p>
+<p>peter_yeo_yong_heng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ variant: tiptap
 <p>Ms Chan Shi Ya Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_yong_heng_peter@schools.g</p>
+<p>grace_chan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
