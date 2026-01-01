@@ -230,7 +230,7 @@ variant: tiptap
 <p>Year Head Middle Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Shi Ya Grace</p>
+<p>Mr Peter Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>grace_chan@schools.gov.sg</p>
@@ -241,10 +241,10 @@ variant: tiptap
 <p>Year Head Upper Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Yeo</p>
+<p>Ms Chan Shi Ya Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_yong_heng_peter@schools.gov.sg</p>
+<p>yeo_yong_heng_peter@schools.g</p>
 </td>
 </tr>
 <tr>
