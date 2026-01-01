@@ -128,6 +128,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Hui Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loo_hui_wen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,6 +146,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>raihanah_mohamed_yusop@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mae Yang Yumei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mae_yang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -208,6 +230,17 @@ variant: tiptap
 <p>Year Head Middle Block</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Peter Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_yong_heng_peter@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head Upper Block</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Chan Shi Ya Grace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,13 +249,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head Upper Block</p>
+<p>Year Head (P3 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Yeo</p>
+<p>Ms Soh Wee Hong Su Huifeng, Nellie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_yong_heng_peter@schools.gov.sg</p>
+<p>nellie_soh_wee_hong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +304,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhou_huifang_brenda@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Chan Shihui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>grace_chan_shihui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -381,6 +425,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ainah_saaban@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head Lower Block</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Khan-Nur Zakiah Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_zakiah_ahmad@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

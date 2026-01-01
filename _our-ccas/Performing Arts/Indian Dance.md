@@ -19,5 +19,5 @@ To enhance students' learning, they take part in school and external performance
 ### Teachers-In-Charge
 
 Mdm P Veshallini (I/C) <br>
-Ms Celine Wong (Co-I/C)<br>
-Mrs Maha
+Ms Thania(Co-I/C)<br>
+Mrs Hor- Nicole Yeap
