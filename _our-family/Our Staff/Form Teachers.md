@@ -78,7 +78,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suhaila_Suleiman_Syed</p>
+<p>Ms Suhaila Suleiman Syed</p>
 <p>Ms Yang Yu Qing</p>
 </td>
 <td rowspan="1" colspan="1">
