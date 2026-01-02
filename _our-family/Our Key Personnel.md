@@ -363,17 +363,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Loo Hui Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loo_hui_wen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
