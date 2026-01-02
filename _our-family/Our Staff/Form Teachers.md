@@ -426,6 +426,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhou_huifang_brenda@schools.gov.sg</a>
 </p>
+<p><a href="mailto:sangappillai_vasuki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sangappillai_vasuki@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

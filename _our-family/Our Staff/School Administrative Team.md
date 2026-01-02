@@ -325,7 +325,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Amalina Binte Abdul Razak</p>
+<p>Miss Nursephia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

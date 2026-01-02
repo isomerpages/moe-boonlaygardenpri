@@ -89,10 +89,10 @@ third_nav_title: Our Staff
 <p>Flexi Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Chow</p>
+<p>Mr Yap Heong Teck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chow_yvonne@schools.gov.sg</p>
+<p>yap_heong_teck@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
