@@ -203,7 +203,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chow Yuh Lan, Stacy
-<br>Ms Nerrisa Tiong</p>
+<br>Ms Nerissa Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chow_yuh_lan@schools.gov.sg</a> 
