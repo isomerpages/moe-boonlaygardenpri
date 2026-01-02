@@ -78,7 +78,7 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suhaila_Suleiman_Syed</p>
+<p>Ms Suhaila Suleiman Syed</p>
 <p>Ms Yang Yu Qing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +203,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chow Yuh Lan, Stacy
-<br>Ms Nerrisa Tiong</p>
+<br>Ms Nerissa Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chow_yuh_lan@schools.gov.sg</a> 
@@ -409,7 +409,7 @@ variant: tiptap
 <br>Mdm Rita Salamoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tang_chee_weng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">choi_kin_mun@schools.gov.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">rita_salamoon@schools.gov.sg</a>
 </p>
 </td>
