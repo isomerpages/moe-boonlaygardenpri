@@ -249,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P6)</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Soh Wee Hong Su Huifeng, Nellie</p>
