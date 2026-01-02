@@ -409,7 +409,7 @@ variant: tiptap
 <br>Mdm Rita Salamoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tang_chee_weng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">choi_kin_mun@schools.gov.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">rita_salamoon@schools.gov.sg</a>
 </p>
 </td>
