@@ -24,7 +24,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<h4>The Key Mes</h4>
+<h4>The <strong>Key Messages</strong> of Sexuality Education are:</h4>
 <h4>sages of Sexuality Education</h4>
 <ul>
 <li>
