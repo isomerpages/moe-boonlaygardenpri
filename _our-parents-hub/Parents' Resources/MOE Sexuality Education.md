@@ -6,38 +6,26 @@ third_nav_title: Parents' Resources
 variant: tiptap
 ---
 <h3>MOE SEXUALITY EDUCATION IN SCHOOLS</h3>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
-aims to enable students to understand the physiological, social and emotional
-changes they experience as they mature, develop healthy and rewarding relationships
-with others, including those with members of the opposite sex, and make
-wise, informed and responsible decisions on sexuality matters. SEd is premised
-on the importance of the family as the basic unit of society. This means
-encouraging healthy, heterosexual marriages and stable nuclear family units
-with extended family support. The teaching and learning of SEd is based
-on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues.</p>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
 <h4>The Goals of Sexuality Education</h4>
-<ul>
-<li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate <strong>knowledge</strong> on
-human sexuality and the consequences of sexual activity;</p>
-</li>
-<li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of <strong>social and emotional skills</strong> of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
-</li>
-<li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of <strong>positive mainstream values and attitudes</strong> about
-sexuality.</p>
-</li>
-</ul>
-<h4>The Key Messages of Sexuality Education</h4>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<h4>The Key Mes</h4>
+<h4>sages of Sexuality Education</h4>
 <ul>
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
