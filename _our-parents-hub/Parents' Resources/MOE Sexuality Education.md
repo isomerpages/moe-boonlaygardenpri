@@ -62,8 +62,6 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<p>Please refer to this <a href="/files/2025_Info_on_SEd_for_School_Website__Boon_Lay_Garden_Primary_School_.pdf" rel="noopener nofollow" target="_blank">PDF</a> for
-the Sexuality Education Lessons taught in 2025.</p>
 <p></p>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
