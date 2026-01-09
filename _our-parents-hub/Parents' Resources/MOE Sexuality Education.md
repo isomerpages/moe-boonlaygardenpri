@@ -62,7 +62,8 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<p></p>
+<p>Please refer to this <a href="https://www.boonlaygardenpri.moe.edu.sg/files/2025_Info_on_SEd_for_School_Website__Boon_Lay_Garden_Primary_School_.pdf" rel="noopener nofollow" target="_blank"><u>PDF</u></a> for
+the Sexuality Education Lessons taught in 2026.</p>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;</p>
