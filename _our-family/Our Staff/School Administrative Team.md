@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mr Tan Chuan Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chutan_chuan_soon@schools.gov.sg</p>
+<p>tan_chuan_soon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
