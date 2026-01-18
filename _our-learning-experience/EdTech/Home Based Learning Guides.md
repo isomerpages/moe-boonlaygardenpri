@@ -54,10 +54,7 @@ teachers:</p>
 <li>
 <p><a href="https://drive.google.com/file/d/1KUgormPD31MseRQ5uK9jRRAMVXZlXPgu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Step-by-step Guide to Video Conferencing with Teachers using Zoom</a>
 </p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1aXjvS7RyduUJa5dXjw3HnwB5dFQCoF12/view" rel="noopener noreferrer nofollow" target="_blank">Video guide to Video Conferencing with Teachers using Zoom</a>
-</p>
+<p></p>
 </li>
 </ol>
 <p>ADDITIONAL SUPPORT</p>
