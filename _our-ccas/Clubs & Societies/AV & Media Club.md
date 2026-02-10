@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_announcement_images.jpg">
 </div>
 <h3>Our Goals</h3>
-<p>BLGPS AV &amp; Media Club aims to cultivate students’ interest in the
+<p>BLGPS Digital Creators Club aims to cultivate students’ interest in the
 use of Audio-Visual and Information Technology such as photography, videography
 and animation. These varied learning experiences inculcate the importance
 of coordination and teamwork, trouble-shooting and adaptability.</p>
