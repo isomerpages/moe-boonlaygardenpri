@@ -617,12 +617,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abel Goh Wen Hung</p>
-<p>Mdm Fan Xiayu</p>
+<p>Ms Grace Phang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">abel_goh_wen_hung@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">fan_Xiayu@schools.gov.sg</a>
+<p><a href="mailto:phang_xiu_zhen_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_xiu_zhen_grace@schools.gov.sg</a>
 </p>
 </td>
 </tr>
