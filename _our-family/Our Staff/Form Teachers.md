@@ -79,13 +79,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Suhaila Suleiman Syed</p>
-<p>Ms Yang Yu Qing</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Suhaila_Suleiman_Syed@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">yang_yuqing@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
