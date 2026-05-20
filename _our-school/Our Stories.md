@@ -12,7 +12,7 @@ Read about our schools exciting and vibrant learning experiences in these issues
 
 Step into the future of learning! This issue of Newsway showcases how technology, AI and digital literacy are transforming learning at BLGPS, empowering students to innovate, create and thrive as future-ready digital citizens.
 
-<p><a href="https://online.fliphtml5.com/dgjor/wyhu/#p=1">
+<p><a href="https://online.fliphtml5.com/BLGPSNewsway/giot/#p=1">
 <img src="/images/newsway_2025.png" style="width:55%">
 </a></p>
 
