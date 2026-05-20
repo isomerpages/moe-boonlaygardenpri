@@ -7,6 +7,8 @@ variant: markdown
 # Newsway
 Read about our schools exciting and vibrant learning experiences in these issues of our school newsletter.
 
+## <center><b>2026</b></center>
+### BLGPS Newsway 2026 Issue #41
 
 
 ## <center><b>2025</b></center>
