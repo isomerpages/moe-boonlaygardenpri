@@ -10,6 +10,11 @@ Read about our schools exciting and vibrant learning experiences in these issues
 ## <center><b>2026</b></center>
 ### BLGPS Newsway 2026 Issue #41
 
+Step into the future of learning! This issue of Newsway showcases how technology, AI and digital literacy are transforming learning at BLGPS, empowering students to innovate, create and thrive as future-ready digital citizens.
+
+
+
+
 
 ## <center><b>2025</b></center>
 ### BLGPS Newsway 2025 Issue #40
