@@ -7,6 +7,15 @@ variant: markdown
 # Newsway
 Read about our schools exciting and vibrant learning experiences in these issues of our school newsletter.
 
+## <center><b>2026</b></center>
+### BLGPS Newsway 2026 Issue #41
+
+Step into the future of learning! This issue of Newsway showcases how technology, AI and digital literacy are transforming learning at BLGPS, empowering students to innovate, create and thrive as future-ready digital citizens.
+
+<p><a href="https://online.fliphtml5.com/BLGPSNewsway/giot/#p=1">
+<img src="/images/Updated_Cover_Page_Newsway_Issue_41_002_50.png" style="width:55%">
+</a></p>
+
 
 
 ## <center><b>2025</b></center>
