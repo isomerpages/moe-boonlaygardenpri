@@ -21,7 +21,7 @@ sections:
       variant: center
   - infopic:
       title: Growing Confident Learners Together!
-      subtitle: Newsway 2025 issue 40
+      subtitle: Newsway 2026 issue 41
       id: infopic
       description: Discover how our learning dispositions shape confident,
         future-ready learners in this latest issue.
