@@ -20,7 +20,7 @@ sections:
           url: https://www.facebook.com/BoonlaygardenPS
       variant: center
   - infopic:
-      title: Growing Confident Learners Together!
+      title: Building Future-Ready Digital Citizens Today
       subtitle: Newsway 2026 issue 41
       id: infopic
       description: Uncover how technology, AI and digital literacy are empowering
