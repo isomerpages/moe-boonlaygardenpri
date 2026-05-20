@@ -20,13 +20,13 @@ sections:
           url: https://www.facebook.com/BoonlaygardenPS
       variant: center
   - infopic:
-      title: Growing Confident Learners Together!
-      subtitle: Newsway 2025 issue 40
+      title: Building Future-Ready Digital Citizens Today
+      subtitle: Newsway 2026 issue 41
       id: infopic
-      description: Discover how our learning dispositions shape confident,
-        future-ready learners in this latest issue.
+      description: Uncover how technology, AI and digital literacy are empowering
+        confident, future-ready digital citizens at BLGPS!
       button: click here
-      url: https://go.gov.sg/newswayissue40
-      image: /images/newsway_2025.png
+      url: https://go.gov.sg/newswayissue41
+      image: /images/Updated_Cover_Page_Newsway_Issue_41_002_50.png
       alt: Image alt text
 ---
