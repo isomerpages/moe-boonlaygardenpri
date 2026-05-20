@@ -26,7 +26,7 @@ sections:
       description: Uncover how technology, AI and digital literacy are empowering
         confident, future-ready digital citizens at BLGPS!
       button: click here
-      url: https://go.gov.sg/newswayissue40
+      url: https://go.gov.sg/newswayissue41
       image: /images/Updated_Cover_Page_Newsway_Issue_41_002_50.png
       alt: Image alt text
 ---
