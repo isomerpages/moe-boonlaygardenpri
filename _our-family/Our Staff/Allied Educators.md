@@ -86,7 +86,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunct School Counsellor</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yap Heong Teck</p>
