@@ -297,6 +297,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Nerrisa Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tiong_wei_wen_nerissa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,6 +315,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhou_huifang_brenda@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Puteri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>puteri_noratika_raja_ismail@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -381,17 +403,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kho_chaw_seng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Puteri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>puteri_noratika_raja_ismail@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -496,17 +507,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>karen_Ln_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Maha-Ganesan Mahalatchimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ganesan_mahalatchimi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

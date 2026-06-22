@@ -86,7 +86,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunct School Counsellor</p>
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norullayaley binte Mohd Ikbal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norullayaley_mohd_ikbal@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yap Heong Teck</p>
