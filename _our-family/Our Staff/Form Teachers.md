@@ -188,12 +188,9 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Audrey Yap Wenyun
-<br>Mrs Jamaliah Jamal A</p>
+<p>Mrs Jamaliah Jamal A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yap_wenyun@schools.gov.sg</a>
-</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">jamaliah_Jamal_A@schools.gov.sg</a>
 </p>
 </td>
