@@ -511,17 +511,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Maha-Ganesan Mahalatchimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ganesan_mahalatchimi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
