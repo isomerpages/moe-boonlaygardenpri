@@ -297,6 +297,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Nerrisa Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
