@@ -22,6 +22,7 @@ In weekly sessions, students are taught basic scouting skills and they mark achi
 ### Teachers-In-Charge
 
 Mr Steven Pua (I/C)<br>
- Mrs Anne Marie (Co I/C)<br>
+Ms Yeo Lay Peng (Co I/C)<br>
 Mdm Norlaily <br>
-Ms Yeo Lay Peng <br>
+Mrs Anne Marie <br>
+Ms Ainah
