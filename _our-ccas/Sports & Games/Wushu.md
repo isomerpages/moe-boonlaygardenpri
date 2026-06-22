@@ -23,5 +23,5 @@ Through weekly training sessions, students develop aerobic and anaerobic enduran
 
 Ms Shirley Teng (I/C)<br>
 Mr Kuay Chau Ann  (Co I/C)<br>
-Ms Xia Yu<br>
+Ms Fan Xia Yu<br>
 Mrs Lum- Ng Shui Farn
