@@ -92,7 +92,7 @@ third_nav_title: Our Staff
 <p>Ms Norullayaley binte Mohd Ikbal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norullayaley_mohd_ikbal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
