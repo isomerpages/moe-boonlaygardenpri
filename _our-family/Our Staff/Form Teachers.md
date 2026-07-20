@@ -233,11 +233,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Jaliza
 <br>Ms Tan Yan Ting</p>
+<p>Ms Yasmin Nur Dalili Binti Md Yazid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jaliza_jamaludin@schools.gov.sg</a> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ting@schools.gov.sg</a>
 </p>
+<p><a href="mailto:yasmin_nur_dalili_md@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yasmin_nur_dalili_md@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
